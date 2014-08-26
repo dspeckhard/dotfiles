@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CursorImage</key>
+	<data>
+	//4xADIAMwA4ADkANQA3ADgAMQAzADAAMQAwADIA
+	</data>
+	<key>GlobalZoomModifiersWheelConflict</key>
+	<false/>
+	<key>NSWindow Frame mainWindowWithDesktop</key>
+	<string>0 56 1680 972 0 0 1680 1028 </string>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>TotalItemBuildGoal</key>
+	<integer>1638</integer>
+</dict>
+</plist>

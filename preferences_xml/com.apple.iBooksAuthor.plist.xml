@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DataEditorVisibility</key>
+	<false/>
+	<key>EyePaintMode</key>
+	<integer>0</integer>
+	<key>ImageAdjustVisibility</key>
+	<false/>
+	<key>InspFrames</key>
+	<array/>
+	<key>InspPanes</key>
+	<array/>
+	<key>InspTabViewIdentifiers</key>
+	<array/>
+	<key>InspVisibility</key>
+	<array/>
+	<key>KFDidClearSFFUserDefaults</key>
+	<true/>
+	<key>MediaBrowserMediaType</key>
+	<integer>1</integer>
+	<key>MediaBrowserVisibility</key>
+	<false/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Music/iTunes/iTunes Media/Books/Julian Clayton</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{585, 400}</string>
+	<key>NSSplitView Subview Frames Organizer</key>
+	<array>
+		<string>0.000000, 0.000000, 260.000000, 0.000000, NO</string>
+		<string>0.000000, 0.000000, 260.000000, 763.000000, NO</string>
+	</array>
+	<key>SFDefaultsLastLaunchedBundleVersion</key>
+	<integer>190</integer>
+	<key>SFLDefaultsNextUpdateCheck</key>
+	<date>2012-08-14T23:03:31Z</date>
+	<key>SLDefaultsChangeTrackingDeletedTextStyleIndex</key>
+	<integer>1</integer>
+	<key>SLDefaultsChangeTrackingDeletedTextStyleProperties</key>
+	<dict>
+		<key>strikethru</key>
+		<integer>1</integer>
+	</dict>
+	<key>SLDefaultsChangeTrackingInsertedTextStyleIndex</key>
+	<integer>2</integer>
+	<key>SLDefaultsChangeTrackingInsertedTextStyleProperties</key>
+	<dict/>
+	<key>ShowStartingPointsForNewDocument</key>
+	<true/>
+	<key>StartingPointsInfoArraySelection</key>
+	<integer>2</integer>
+	<key>StartingPointsInfoCollectionSelection</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUIICFUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLR
+	BgdUcm9vdIABpQkKERUcVSRudWxs0wsMDQ4PEF8QD05TSW5kZXhQYXRoRGF0YVYkY2xh
+	c3NfEBFOU0luZGV4UGF0aExlbmd0aIACgAQQAtISDBMUV05TLmRhdGFCAACAA9IWFxgZ
+	WCRjbGFzc2VzWiRjbGFzc25hbWWjGRobXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2Jq
+	ZWN00hYXHR+iHhtbTlNJbmRleFBhdGhbTlNJbmRleFBhdGgSAAGGoF8QD05TS2V5ZWRB
+	cmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABCAEgATwBhAGgAfAB+AIAAggCHAI8AkgCU
+	AJkAogCtALEAvwDGAM8A1ADXAOMA7wD0AAAAAAAAAgEAAAAAAAAAIgAAAAAAAAAAAAAA
+	AAAAAQY=
+	</data>
+	<key>StartingPointsPreviewHeight</key>
+	<real>195</real>
+	<key>StartingPointsWindowSize</key>
+	<string>{1680, 970}</string>
+</dict>
+</plist>

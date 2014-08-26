@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeletedAccounts</key>
+	<array/>
+	<key>PresentedAccounts</key>
+	<array>
+		<string>f3b40232-9413-4ee9-bfaa-24dfe613502e</string>
+		<string>C07DCFA9-A110-492E-8E47-461142E2B6CF</string>
+		<string>x-coredata://AB94BDA9-33BB-4DFD-8198-71D4642E7174/IMAPAccount/p3</string>
+		<string>45D58D93-1A2E-4DFE-8464-5A8BF9E50BA8-com.apple.calendar.iaplugin</string>
+		<string>5A9E941B-DF6F-4698-AF06-3F1A7E914038</string>
+		<string>163DDF3F-2BCD-4351-B918-D7F8D06C1D24</string>
+		<string>248DC196-4C79-4B78-8DBA-9162713AF212</string>
+		<string>43341830-ba16-4d72-9427-5e434eac4085</string>
+		<string>60068F57-E927-4307-B03A-EBBB691E6042-com.apple.reminders.iaplugin</string>
+		<string>x-coredata://AB94BDA9-33BB-4DFD-8198-71D4642E7174/EWSAccount/p1</string>
+		<string>BC894D5F-E448-4164-AD0C-9B26CEE85011</string>
+		<string>FCD90C38-F120-44B4-9739-6ADA6EB3F7C2</string>
+		<string>0CA9937C-C830-4C47-A6CF-964CBC55B59A-com.apple.calendar.iaplugin</string>
+		<string>36B696D9-9309-4DB8-82A7-DC314E099163</string>
+		<string>F96F12F7-1F0A-4DC2-8643-B6914BD85446</string>
+		<string>0593E01E-DF04-4177-BB16-7241E8EE4E14-com.apple.reminders.iaplugin</string>
+		<string>28321af0-9aff-4526-b0ad-996a7a22392c</string>
+		<string>x-coredata://AB94BDA9-33BB-4DFD-8198-71D4642E7174/IMAPAccount/p2</string>
+		<string>B44475A8-C58D-47ED-B44C-5782CA13A23D-com.apple.calendar.iaplugin</string>
+		<string>60068F57-E927-4307-B03A-EBBB691E6042-com.apple.calendar.iaplugin</string>
+		<string>0593E01E-DF04-4177-BB16-7241E8EE4E14-com.apple.calendar.iaplugin</string>
+	</array>
+	<key>dnsCache</key>
+	<dict>
+		<key>bcj.com</key>
+		<dict>
+			<key>bcj.com.inbound15.mxlogic.net.</key>
+			<dict>
+				<key>host</key>
+				<string>bcj.com.inbound15.mxlogic.net.</string>
+				<key>priority</key>
+				<integer>10</integer>
+			</dict>
+			<key>bcj.com.inbound15.mxlogicmx.net.</key>
+			<dict>
+				<key>host</key>
+				<string>bcj.com.inbound15.mxlogicmx.net.</string>
+				<key>priority</key>
+				<integer>20</integer>
+			</dict>
+			<key>kc.bcj.com.</key>
+			<dict>
+				<key>host</key>
+				<string>kc.bcj.com.</string>
+				<key>priority</key>
+				<integer>30</integer>
+			</dict>
+		</dict>
+		<key>kc.bcj.com</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildSerialNumber</key>
+	<integer>1300</integer>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Applications</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{712, 560}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSWindow Frame ccc_filter_settings_window</key>
+	<string>477 479 726 297 0 0 1680 1028 </string>
+	<key>NSWindow Frame configuration_concerns</key>
+	<string>514 377 654 461 0 0 1680 1028 </string>
+	<key>NSWindow Frame customize_settings</key>
+	<string>479 211 723 627 0 0 1680 1028 </string>
+	<key>SUCheckAtStartup</key>
+	<true/>
+	<key>SUScheduledCheckInterval</key>
+	<integer>604800</integer>
+	<key>TrialExpiration</key>
+	<date>2013-11-25T18:15:54Z</date>
+	<key>blockLevelClone</key>
+	<false/>
+	<key>customSettings</key>
+	<dict/>
+	<key>debugLevel</key>
+	<integer>0</integer>
+	<key>enableAudit</key>
+	<false/>
+	<key>filters</key>
+	<dict>
+		<key>Backup everything</key>
+		<dict>
+			<key>excludedFiles</key>
+			<array/>
+			<key>excludedFiletypes</key>
+			<array/>
+			<key>excludedItems</key>
+			<dict/>
+		</dict>
+		<key>MAC221 HD (Default)</key>
+		<dict>
+			<key>excludedFiles</key>
+			<array/>
+			<key>excludedFiletypes</key>
+			<array/>
+			<key>excludedItems</key>
+			<dict/>
+		</dict>
+	</dict>
+	<key>lastChosenPreset</key>
+	<string>Temporarily archive modified and deleted items</string>
+	<key>tgtNotices</key>
+	<dict>
+		<key>MAC221 HD pre-mavericks.sparsebundle</key>
+		<array>
+			<string>You will not be able to boot from the destination volume, Mac OS X cannot be booted from a disk image.</string>
+		</array>
+		<key>MAC221 HD pre-mavericks.sparseimage</key>
+		<array>
+			<string>You will not be able to boot from the destination volume, Mac OS X cannot be booted from a disk image.</string>
+		</array>
+	</dict>
+	<key>trashPath</key>
+	<string>.Trashes/502</string>
+	<key>userAgreedToLicenseAgreement</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>:00</key>
+	<string>fmnet:/10.3.0.15/phserver.bcj.com/BCJ-PH Contacts.fmp12</string>
+	<key>:01</key>
+	<string>fmnet:/10.3.0.15/phserver.bcj.com/BCJ Bibliography.fmp12</string>
+	<key>:02</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Desktop/2012 11 7 - 8 Interior - FFE/GC3_Punchlist_iPad_002_2012 11 15.fmp items.fmp12</string>
+	<key>:03</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M16 Punchlist/2012 11 7 - 8 Interior - FFE/GC3_Punchlist_iPad_002_2012 11 07 - 08 items.fmp12</string>
+	<key>:04</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M16 Punchlist/2012 11 7 - 8 Interior - FFE/GC3_Punchlist_iPad_006_2012 11 07 - 08 items.fmp12</string>
+	<key>:05</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M16 Punchlist/2012 11 7 - 8 Interior - FFE/GC3_Punchlist_iPad_002_all.fmp12</string>
+	<key>:06</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M16 Punchlist/2012 11 7 - 8 Interior - FFE/GC3_Punchlist_iPad_002.fmp12</string>
+	<key>:07</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M16 Punchlist/2012 09 06 interiors only Punch List files/GC3_Interior_Punchlist_BCJ iPad 008.fmp12</string>
+	<key>:08</key>
+	<string>fmnet:/10.3.0.14/phserver.bcj.com/GC3_Punchlist_Central.fmp12</string>
+	<key>:09</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Desktop/GC3_Punchlist_Central.fmp12</string>
+	<key>:10</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Library/Mail Downloads/GC3_Punchlist_Central.fmp12</string>
+	<key>:11</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Library/Mail Downloads/GC3_Punchlist_Central-with Keynotes.fmp12</string>
+	<key>:12</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Desktop/BCJ CA Temlplate v12.fmp12</string>
+	<key>:13</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Library/Mail Downloads/GC3 Punchlist draft_V1-2.fmp12</string>
+	<key>:14</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Desktop/BCJ Punchlish Client.fmp12</string>
+	<key>:15</key>
+	<string>filemac:/MAC221 HD/private/var/folders/ss/z3gb5pb11dn7plbbccq52bs80000gp/T/com.apple.mail/compose/attach/BCJ Punchlish Client.fmp12</string>
+	<key>:16</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Desktop/Punchlish Client.fmp12</string>
+	<key>:17</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Downloads/BCJ CA Temlplate v12.fmp12</string>
+	<key>:18</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Library/Mail Downloads/BCJ CA Temlplate v12.fmp12</string>
+	<key>:19</key>
+	<string>filemac:/MAC221 HD/Users/dspeckhard/Desktop/Tasks.fmp12</string>
+	<key>:20</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M99 Punchlist Testing/GC3 Punch Comments DB Client.fmp12</string>
+	<key>:21</key>
+	<string>filemac:/Server/09205X1 GC3 Interiors/file/M Construction Admin/M99 Punchlist Testing/GC3 Punchlist draft.fmp12</string>
+	<key>:22</key>
+	<string></string>
+	<key>:23</key>
+	<string></string>
+	<key>:24</key>
+	<string></string>
+	<key>:25</key>
+	<string></string>
+	<key>:26</key>
+	<string></string>
+	<key>:27</key>
+	<string></string>
+	<key>:28</key>
+	<string></string>
+	<key>:29</key>
+	<string></string>
+	<key>FMInspectorManagerAccDefaultsDictionariesKey</key>
+	<array>
+		<dict>
+			<key>FMAccInspectorWindowFrameKey</key>
+			<string>1398 826 224 166 0 0 1680 1028 </string>
+			<key>FMAccInspectorWindowUserCustomizedHeightKey</key>
+			<false/>
+			<key>FMAccInspectorWindowUserHeightKey</key>
+			<real>0.0</real>
+			<key>FMInspectorWindowFrameKey</key>
+			<string>1350 389 235 617 0 0 1680 1028 </string>
+			<key>FMInspectorWindowLastModeKey</key>
+			<integer>2</integer>
+			<key>FMInspectorWindowUserCustomizedHeightKey</key>
+			<false/>
+			<key>FMInspectorWindowUserHeightKey</key>
+			<real>0.0</real>
+		</dict>
+	</array>
+	<key>FMInspectorManagerAccEnabledKey</key>
+	<false/>
+	<key>FMInspectorManagerDefaultsDictionariesKey</key>
+	<array>
+		<dict>
+			<key>FMAccInspectorWindowFrameKey</key>
+			<string>1398 826 224 166 0 0 1680 1028 </string>
+			<key>FMAccInspectorWindowUserCustomizedHeightKey</key>
+			<false/>
+			<key>FMAccInspectorWindowUserHeightKey</key>
+			<real>0.0</real>
+			<key>FMInspectorWindowFrameKey</key>
+			<string>1394 103 235 822 0 0 1680 1028 </string>
+			<key>FMInspectorWindowLastModeKey</key>
+			<integer>1</integer>
+			<key>FMInspectorWindowUserCustomizedHeightKey</key>
+			<false/>
+			<key>FMInspectorWindowUserHeightKey</key>
+			<real>0.0</real>
+			<key>PositionInspector.expanded</key>
+			<true/>
+		</dict>
+	</array>
+	<key>FMInspectorManagerEnabledKey</key>
+	<false/>
+	<key>FMInspectorManagerLastPreferenceDictionaryKey</key>
+	<dict/>
+	<key>FMNetSharing:Enabled</key>
+	<integer>1</integer>
+	<key>FavHostInfo:Entry0:Address</key>
+	<string>10.3.0.15</string>
+	<key>FavHostInfo:Entry0:DisplayName</key>
+	<string>Philly FM Server</string>
+	<key>FavHostInfo:Entry0:FileNames</key>
+	<string></string>
+	<key>FavHostInfo:Entry0:FileOption</key>
+	<integer>1</integer>
+	<key>FavHostInfo:Summary:Entries</key>
+	<integer>1</integer>
+	<key>FavHostInfo:Summary:LastViewType</key>
+	<integer>1</integer>
+	<key>NSColorPanelMode</key>
+	<string>5</string>
+	<key>NSColorPickerPageableNameListDefaults</key>
+	<string>1System</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/Public_Relations-Awards/Reprints</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{737, 467}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSToolbar Configuration layoutToolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSToolbar Configuration mainToolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame IDD_DEFINE_DATABASE</key>
+	<string>463 134 924 706 0 0 1680 1028 </string>
+	<key>NSWindow Frame IDD_DEFINE_VALUE_LISTS</key>
+	<string>866 522 577 367 0 0 1680 1028 </string>
+	<key>NSWindow Frame IDD_LOOKUP</key>
+	<string>740 425 500 456 0 0 1680 1028 </string>
+	<key>NSWindow Frame IDD_OPENREMOTE</key>
+	<string>621 355 598 409 0 0 1680 1028 </string>
+	<key>NSWindow Frame NSColorPanel</key>
+	<string>397 203 253 499 0 0 1680 1028 </string>
+	<key>NSWindow Frame Progress</key>
+	<string>664 691 352 124 0 0 1680 1028 </string>
+	<key>NSWindow Frame ProgressWithTwoStatus</key>
+	<string>664 693 352 122 0 0 1680 1028 </string>
+	<key>NSWindow Frame QuickStartScreen</key>
+	<string>401 458 875 435 0 0 1680 1028 </string>
+	<key>New Version Notification:CheckDate</key>
+	<integer>-830953620</integer>
+	<key>PlugInPref:DisablePlugIn</key>
+	<string>$FWEBRDAC</string>
+	<key>Preferences:AllowToUpdatePlugins</key>
+	<integer>1</integer>
+	<key>Preferences:CacheSize</key>
+	<integer>65536</integer>
+	<key>Preferences:DGCustomHeight</key>
+	<integer>-1</integer>
+	<key>Preferences:DGCustomWidth</key>
+	<integer>-1</integer>
+	<key>Preferences:DGGuideState</key>
+	<integer>-2139095040</integer>
+	<key>Preferences:GenOptions</key>
+	<integer>2436</integer>
+	<key>Preferences:MemOption</key>
+	<integer>0</integer>
+	<key>Preferences:NetworkName</key>
+	<string></string>
+	<key>Preferences:RecentFile</key>
+	<integer>10</integer>
+	<key>Preferences:UseHardwareAcceleration</key>
+	<integer>1</integer>
+	<key>Preferences:UserName</key>
+	<string></string>
+	<key>QuickFindConversion</key>
+	<true/>
+	<key>Update Notification:CheckDate</key>
+	<integer>-820387060</integer>
+	<key>WebKitPrivateBrowsingEnabled</key>
+	<true/>
+</dict>
+</plist>

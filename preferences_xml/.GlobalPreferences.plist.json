@@ -1,0 +1,208 @@
+{
+  "AppleShowAllExtensions" : true,
+  "NSDocumentAutosaveOldDocumentDayThreshold" : 14,
+  "NSFontPanelSizeSliderParams" : "2 9 72",
+  "AppleLanguages" : [
+    "en",
+    "ja",
+    "fr",
+    "de",
+    "es",
+    "it",
+    "pt",
+    "pt_PT",
+    "nl",
+    "sv",
+    "nb",
+    "da",
+    "fi",
+    "ru",
+    "pl",
+    "zh-Hans",
+    "zh-Hant",
+    "ko"
+  ],
+  "AppleAquaColorVariant" : 6,
+  "NSNavSortOrder" : [
+    "NSNavDisplayNameFileProperty",
+    true
+  ],
+  "DataDetectorsSettings" : {
+    "DefaultCalendarUid" : "66B33A81-2BE5-4EFD-8225-BCCC81CCA6FB",
+    "DefaultCalendarIndex" : 1,
+    "DefaultTimeZoneNames" : [
+      "America\/Los_Angeles",
+      "America\/New_York",
+      "America\/Chicago"
+    ]
+  },
+  "AppleAntiAliasingThreshold" : 4,
+  "NSUserDictionaryReplacementItems" : [
+
+  ],
+  "NavPanelFileListModeForOpenMode" : 1,
+  "NSNavPanelFileListModeForSaveMode2" : 1,
+  "NSCloseAlwaysConfirmsChanges" : true,
+  "AppleScrollAnimationEnabled" : true,
+  "SGTRecentFileSearches" : [
+    {
+      "values" : [
+        "wonder"
+      ],
+      "exactMatch" : false,
+      "scope" : 4,
+      "enforceStrictMatch" : false,
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder",
+      "name" : "wonder"
+    },
+    {
+      "values" : [
+        "Wedding"
+      ],
+      "exactMatch" : false,
+      "scope" : 4,
+      "enforceStrictMatch" : false,
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder",
+      "name" : "Wedding"
+    },
+    {
+      "values" : [
+        "PPP"
+      ],
+      "scope" : 4,
+      "name" : "PPP",
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder"
+    },
+    {
+      "values" : [
+        "org.openxmlformats.wordprocessingml.template",
+        "org.openxmlformats.wordprocessingml.template.macroenabled",
+        "org.openxmlformats.wordprocessingml.document",
+        "com.microsoft.word.doc",
+        "com.microsoft.word.stationery",
+        "com.microsoft.word.dot",
+        "org.openxmlformats.wordprocessingml.document.macroenabled"
+      ],
+      "scope" : 3,
+      "name" : "Word Document",
+      "attributes" : [
+        "kMDItemContentTypeTree"
+      ],
+      "type" : "com.apple.finder"
+    },
+    {
+      "values" : [
+        ".doc"
+      ],
+      "scope" : 4,
+      "name" : ".doc",
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder"
+    },
+    {
+      "values" : [
+        "Dark"
+      ],
+      "scope" : 4,
+      "name" : "Dark",
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder"
+    },
+    {
+      "values" : [
+        "BOMA"
+      ],
+      "scope" : 4,
+      "name" : "BOMA",
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder"
+    },
+    {
+      "values" : [
+        "Prequ"
+      ],
+      "scope" : 4,
+      "name" : "Prequ",
+      "type" : "com.apple.finder",
+      "attributes" : [
+        "kMDItemDisplayName"
+      ]
+    },
+    {
+      "values" : [
+        "File"
+      ],
+      "scope" : 4,
+      "name" : "File",
+      "attributes" : [
+        "kMDItemDisplayName"
+      ],
+      "type" : "com.apple.finder"
+    }
+  ],
+  "NSNavPanelSidebarKeyForOpen" : [
+
+  ],
+  "NSNavPanelFileLastListModeForOpenModeKey" : 1,
+  "NSNavPanelFileLastListModeForSaveModeKey" : 1,
+  "NSPreferredWebServices" : {
+    "NSWebServicesProviderWebSearch" : {
+      "NSProviderIdentifier" : "com.google.www",
+      "NSDefaultDisplayName" : "Google"
+    }
+  },
+  "AppleLocale" : "en_US",
+  "com.apple.springing.enabled" : true,
+  "AppleEnableMenuBarTransparency" : false,
+  "NSNavPreviewExpanded" : true,
+  "NSNavRecentPlaces" : [
+    "~\/Dropbox\/CapOneStmts",
+    "~\/Documents",
+    "~\/WebDev\/arbsf.com-hyde",
+    "~\/WebDev\/arbsf.com-dev",
+    "\/Volumes\/WDRaid\/Media\/Movies"
+  ],
+  "com.apple.DictionaryServices" : {
+    "DCSActiveDictionaries" : [
+      "\/Library\/Dictionaries\/New Oxford American Dictionary.dictionary",
+      "\/Library\/Dictionaries\/Oxford American Writer's Thesaurus.dictionary",
+      "\/Library\/Dictionaries\/Apple Dictionary.dictionary",
+      "\/System\/Library\/Frameworks\/CoreServices.framework\/Versions\/A\/Frameworks\/DictionaryServices.framework\/Versions\/A\/Resources\/Wikipedia.wikipediadictionary"
+    ],
+    "DCSPreferenceVersion" : 3
+  },
+  "AppleHighlightColor" : "0.984300 0.929400 0.451000",
+  "com.apple.springing.delay" : 0.5,
+  "NSNavSidebarWidth" : 260,
+  "com.apple.swipescrolldirection" : false,
+  "NSNavPanelSidebarKeyForSave" : [
+
+  ],
+  "NSNavSortOrder_10.6" : [
+    "displayName",
+    true
+  ],
+  "AppleKeyboardUIMode" : 0,
+  "NSQuitAlwaysKeepsWindows" : true,
+  "AppleUserLanguages" : 1,
+  "NSNavPanelFileListModeForOpenMode2" : 1,
+  "AppleScrollBarVariant" : "Single",
+  "NavPanelSpotlightSearchScopeMode" : 2,
+  "NavPanelFileListModeForSaveMode" : 1,
+  "AppleMiniaturizeOnDoubleClick" : false
+}

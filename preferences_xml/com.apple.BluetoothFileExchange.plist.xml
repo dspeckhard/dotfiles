@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IOBluetoothDeviceSelectorModalDeviceCategoryIndex</key>
+	<integer>4</integer>
+	<key>IOBluetoothDeviceSelectorModalDeviceTypeIndex</key>
+	<integer>0</integer>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{537, 400}</string>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Dropbox/Tasks</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{750, 480}</string>
+	<key>NSWindow Frame alfredpreferences</key>
+	<string>49 324 1100 662 0 0 1680 1028 </string>
+	<key>appearance.theme</key>
+	<string>alfred.theme.lion</string>
+	<key>features.defaultresults.scope</key>
+	<array>
+		<string>/Applications</string>
+		<string>/Applications/Xcode.app/Contents/Applications</string>
+		<string>/Developer/Applications</string>
+		<string>/Library/PreferencePanes</string>
+		<string>/System/Library/PreferencePanes</string>
+		<string>~/Dropbox/Tasks</string>
+		<string>~/Library/Caches/Metadata/</string>
+		<string>~/Library/Mobile Documents/</string>
+		<string>~/Library/PreferencePanes</string>
+		<string>/opt/homebrew-cask/Caskroom</string>
+	</array>
+	<key>lastTab</key>
+	<string>general</string>
+	<key>lastTabBuild</key>
+	<string>264</string>
+	<key>lastTabTS</key>
+	<real>423629846.52313697</real>
+	<key>version</key>
+	<string>2.3</string>
+</dict>
+</plist>

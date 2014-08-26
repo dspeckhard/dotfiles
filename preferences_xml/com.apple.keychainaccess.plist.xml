@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Keychain Item List Sorting</key>
+	<dict>
+		<key>SortOrder</key>
+		<string>kind</string>
+		<key>SortedDescending</key>
+		<string>NO</string>
+	</dict>
+	<key>Keychains List Closed</key>
+	<true/>
+	<key>Keychains List Split Size</key>
+	<string>0.613480</string>
+	<key>Last Selected Category</key>
+	<string>All Items</string>
+	<key>Left/Right Split Size</key>
+	<string>0.735088</string>
+	<key>NSTableView Columns Item List Settings</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATGG
+		</data>
+		<string>416</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATKG
+		</data>
+		<string>224</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATSG
+		</data>
+		<string>148</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATWG
+		</data>
+		<string>148</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATOG
+		</data>
+		<string>82</string>
+	</array>
+	<key>NSTableView Hidden Columns Item List Settings</key>
+	<array/>
+	<key>NSTableView Sort Ordering Item List Settings</key>
+	<array/>
+	<key>NSWindow Frame Keychain Access Window</key>
+	<string>403 148 1138 811 0 0 1680 1028 </string>
+	<key>NSWindow Frame New Password Window</key>
+	<string>768 439 426 411 0 0 1680 1028 </string>
+	<key>NSWindow Frame Password Editor Window</key>
+	<string>1094 601 534 347 0 0 1680 1028 </string>
+	<key>VPNSSItemsChecked</key>
+	<string>Version 10.9.4 (Build 13E28)</string>
+</dict>
+</plist>

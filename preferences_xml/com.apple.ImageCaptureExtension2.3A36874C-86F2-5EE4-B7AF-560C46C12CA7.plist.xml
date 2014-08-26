@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>UUID</key>
+			<string>64666163-3361-6439-3234-313631613063</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/com.apple.iphone-3g.icns</string>
+			<key>name</key>
+			<string>Apple iPhone</string>
+			<key>prefsVersion</key>
+			<integer>1</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>camera</string>
+		</dict>
+	</array>
+	<key>devices-v2</key>
+	<array>
+		<dict>
+			<key>UUID</key>
+			<string>34443433-3332-3530-3333-333333353339</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/Printer_C106.icns</string>
+			<key>name</key>
+			<string>EPSON Epson Stylus NX420</string>
+			<key>persistentID</key>
+			<string>34443433-3332-3530-3333-333333353339</string>
+			<key>prefsVersion</key>
+			<integer>2</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>scanner</string>
+		</dict>
+		<dict>
+			<key>UUID</key>
+			<string>00000000-0000-0000-FD13-000003F01705</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/Library/Image Capture/Devices/HP Scanner 2.app/Contents/Resources/Device Icons/HP Scanjet 5590.icns</string>
+			<key>name</key>
+			<string>HP Scanjet 5590 </string>
+			<key>persistentID</key>
+			<string>00000000-0000-0000-0000-000003F01705</string>
+			<key>prefsVersion</key>
+			<integer>2</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>scanner</string>
+		</dict>
+	</array>
+	<key>shared</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoFlipPhoto</key>
+	<integer>0</integer>
+	<key>LibraryPath</key>
+	<string>/Users/dspeckhard/Pictures/Photo Booth Library</string>
+	<key>NSWindow Frame PhotoBoothMainWindow</key>
+	<string>520 274 640 682 0 0 1680 1028 </string>
+	<key>PBLaunchedAtLeastOnceOnLion</key>
+	<true/>
+	<key>PBTALEffectsPage</key>
+	<integer>0</integer>
+	<key>PBTALInTrimMode</key>
+	<false/>
+	<key>PBTALSelectedAssetIndices</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>PBTALShootingMode</key>
+	<integer>1</integer>
+	<key>PBTALTrimDuration</key>
+	<real>0.0</real>
+	<key>PBTALTrimStart</key>
+	<real>0.0</real>
+	<key>PBTALViewMode</key>
+	<integer>0</integer>
+</dict>
+</plist>

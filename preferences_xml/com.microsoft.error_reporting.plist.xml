@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ErrorReportingUUID</key>
+	<string>9BEE45D3-CEA4-457E-9A1D-5189DC160067</string>
+	<key>SQMReportsEnabled</key>
+	<false/>
+	<key>ShipAssertEnabled</key>
+	<false/>
+	<key>TotalErrors</key>
+	<integer>12</integer>
+	<key>launchWhenDone:Microsoft Excel</key>
+	<true/>
+	<key>launchWhenDone:Microsoft PowerPoint</key>
+	<false/>
+	<key>launchWhenDone:Microsoft Word</key>
+	<true/>
+</dict>
+</plist>

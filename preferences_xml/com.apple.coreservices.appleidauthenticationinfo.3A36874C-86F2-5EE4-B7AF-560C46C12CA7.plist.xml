@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AccessorVersions</key>
+	<array>
+		<real>478.49000000000001</real>
+		<real>557.60000000000002</real>
+		<real>600.39999999999998</real>
+	</array>
+	<key>Accounts</key>
+	<dict/>
+	<key>AuthCertificates</key>
+	<dict/>
+	<key>CreationDate</key>
+	<date>2012-06-21T16:58:50Z</date>
+	<key>MetaInfo</key>
+	<dict>
+		<key>LastConnectAttempt</key>
+		<date>2014-06-12T16:44:26Z</date>
+		<key>LastSuccessfulConnect</key>
+		<date>2014-06-12T16:44:26Z</date>
+	</dict>
+	<key>Version</key>
+	<integer>100</integer>
+</dict>
+</plist>

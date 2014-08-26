@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>UUID</key>
+			<string>64666163-3361-6439-3234-313631613063</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/com.apple.iphone-3g.icns</string>
+			<key>name</key>
+			<string>iPhone</string>
+			<key>prefsVersion</key>
+			<integer>1</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>camera</string>
+		</dict>
+		<dict>
+			<key>UUID</key>
+			<string>66636639-6139-6339-6163-356663643330</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/com.apple.iphone-3g.icns</string>
+			<key>name</key>
+			<string>iPhone</string>
+			<key>prefsVersion</key>
+			<integer>1</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>camera</string>
+		</dict>
+		<dict>
+			<key>UUID</key>
+			<string>00000000-0000-0000-0033-313932373434</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/System/Library/Image Capture/Support/Icons/GenericCamera.icns</string>
+			<key>name</key>
+			<string>D60</string>
+			<key>prefsVersion</key>
+			<integer>1</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>camera</string>
+		</dict>
+		<dict>
+			<key>UUID</key>
+			<string>34443433-3332-3530-3333-333333353339</string>
+			<key>acl</key>
+			<dict>
+				<key>groups</key>
+				<array/>
+				<key>users</key>
+				<array/>
+			</dict>
+			<key>deviceIconPath</key>
+			<string>/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/Printer_C106.icns</string>
+			<key>name</key>
+			<string>EPSON Epson Stylus NX420</string>
+			<key>prefsVersion</key>
+			<integer>1</integer>
+			<key>shared</key>
+			<false/>
+			<key>type</key>
+			<string>scanner</string>
+		</dict>
+	</array>
+	<key>shared</key>
+	<false/>
+</dict>
+</plist>

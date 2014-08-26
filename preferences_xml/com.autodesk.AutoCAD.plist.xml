@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentEssentialMode</key>
+	<false/>
+	<key>LayerEssentialMode</key>
+	<false/>
+	<key>LayerManager_LAYERTABLE_MENU_DISPLAY_ALL_LAYER_COLORS</key>
+	<integer>0</integer>
+	<key>LayerManager_LAYER_MANAGER_CONTENTVIEW_DOCKED_HEIGHT</key>
+	<integer>300</integer>
+	<key>LayerManager_LAYER_MANAGER_CONTENTVIEW_DOCKED_WIDTH</key>
+	<integer>250</integer>
+	<key>LayerManager_LAYER_MANAGER_CONTENTVIEW_UNDOCKED_HEIGHT</key>
+	<integer>113</integer>
+	<key>LayerManager_LAYER_MANAGER_CONTENTVIEW_UNDOCKED_WIDTH</key>
+	<integer>250</integer>
+	<key>LayerManager_LAYER_MANAGER_ESSENTIAL_MODE</key>
+	<integer>1</integer>
+	<key>LayerManager_LAYER_MANAGER_SCROLLVIEW_DOCKED_HEIGHT</key>
+	<integer>156</integer>
+	<key>LayerManager_LAYER_MANAGER_SCROLLVIEW_UNDOCKED_HEIGHT</key>
+	<integer>156</integer>
+	<key>NSTreatUnknownArgumentsAsOpen</key>
+	<string>NO</string>
+	<key>NSWindow Frame AutoCAD_DocumentWindow</key>
+	<string>25 95 1360 933 0 0 1680 1028 </string>
+	<key>StartupZoomFirstRunKey</key>
+	<integer>2</integer>
+	<key>userLayerTableView_Color_Index</key>
+	<integer>3</integer>
+	<key>userLayerTableView_Color_Visible</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Color_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Description_Index</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Description_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Description_Width</key>
+	<integer>100</integer>
+	<key>userLayerTableView_Freeze_Index</key>
+	<integer>5</integer>
+	<key>userLayerTableView_Freeze_Visible</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Freeze_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Linetype_Index</key>
+	<integer>8</integer>
+	<key>userLayerTableView_Linetype_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Linetype_Width</key>
+	<integer>47</integer>
+	<key>userLayerTableView_Lineweight_Index</key>
+	<integer>7</integer>
+	<key>userLayerTableView_Lineweight_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Lineweight_Width</key>
+	<integer>47</integer>
+	<key>userLayerTableView_Lock_Index</key>
+	<integer>6</integer>
+	<key>userLayerTableView_Lock_Visible</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Lock_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Name_Index</key>
+	<integer>4</integer>
+	<key>userLayerTableView_Name_Visible</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Name_Width</key>
+	<integer>136</integer>
+	<key>userLayerTableView_New VP Freeze_Index</key>
+	<integer>12</integer>
+	<key>userLayerTableView_New VP Freeze_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_New VP Freeze_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Object Selection_Index</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Object Selection_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Object Selection_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Plot Style_Index</key>
+	<integer>11</integer>
+	<key>userLayerTableView_Plot Style_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Plot Style_Width</key>
+	<integer>67</integer>
+	<key>userLayerTableView_Plot_Index</key>
+	<integer>10</integer>
+	<key>userLayerTableView_Plot_Visible</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Plot_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Status_Index</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Status_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Status_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_Transparency_Index</key>
+	<integer>9</integer>
+	<key>userLayerTableView_Transparency_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_Transparency_Width</key>
+	<integer>72</integer>
+	<key>userLayerTableView_VP Color_Index</key>
+	<integer>14</integer>
+	<key>userLayerTableView_VP Color_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_VP Color_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_VP Freeze_Index</key>
+	<integer>13</integer>
+	<key>userLayerTableView_VP Freeze_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_VP Freeze_Width</key>
+	<integer>19</integer>
+	<key>userLayerTableView_VP Linetype_Index</key>
+	<integer>16</integer>
+	<key>userLayerTableView_VP Linetype_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_VP Linetype_Width</key>
+	<integer>47</integer>
+	<key>userLayerTableView_VP Lineweight_Index</key>
+	<integer>15</integer>
+	<key>userLayerTableView_VP Lineweight_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_VP Lineweight_Width</key>
+	<integer>47</integer>
+	<key>userLayerTableView_VP Plot Style_Index</key>
+	<integer>18</integer>
+	<key>userLayerTableView_VP Plot Style_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_VP Plot Style_Width</key>
+	<integer>67</integer>
+	<key>userLayerTableView_VP Transparency_Index</key>
+	<integer>17</integer>
+	<key>userLayerTableView_VP Transparency_Visible</key>
+	<integer>1</integer>
+	<key>userLayerTableView_VP Transparency_Width</key>
+	<integer>72</integer>
+	<key>userLayerTableView_Visibility_Index</key>
+	<integer>2</integer>
+	<key>userLayerTableView_Visibility_Visible</key>
+	<integer>0</integer>
+	<key>userLayerTableView_Visibility_Width</key>
+	<integer>19</integer>
+	<key>userStatusBarContextMenu_3D OSnap_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_3D Orbit_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_3D Status Toggles_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Annotation Scale_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Annotation Scaling_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Annotation Visibility_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Attribute Display_State</key>
+	<integer>0</integer>
+	<key>userStatusBarContextMenu_AutoScale_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Clean Screen_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Constraint Mode_State</key>
+	<integer>0</integer>
+	<key>userStatusBarContextMenu_Culling_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Default Gizmo_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Default Lighting_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Display_State</key>
+	<integer>0</integer>
+	<key>userStatusBarContextMenu_Dynamic Input_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Dynamic UCS_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Environment_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Grid_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Infer Constraints_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Light Glyph Display_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Lighting Units_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Lighting_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Lineweight_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Lock Viewport_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Model/Layout_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Navigation_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Nurbs Creation_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_OSnap_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_OTrack_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Ortho_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Pan_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Polar_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_QuickView..._State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_QuickView_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Sky Status_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Snap_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Solid History_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Solids and Surfaces_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Status Toggles_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Subobject Selection Mode_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Sun Status_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Surface Associativity_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Transparency_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_UCS Icon_State</key>
+	<integer>0</integer>
+	<key>userStatusBarContextMenu_ViewCube_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Viewport Maximize_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Viewport Scale_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Viewport_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu_Zoom_State</key>
+	<integer>1</integer>
+	<key>userStatusBarContextMenu__State</key>
+	<integer>1</integer>
+</dict>
+</plist>

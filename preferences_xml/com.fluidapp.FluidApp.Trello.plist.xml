@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FUApplicationLastVersionString</key>
+	<string>1.6.1</string>
+	<key>FUDefaultFixedFontSize</key>
+	<integer>13</integer>
+	<key>FUDefaultFontSize</key>
+	<integer>16</integer>
+	<key>FUFixedFontFamily</key>
+	<string>Courier</string>
+	<key>FUHasLaunchedOnLionOrLater</key>
+	<true/>
+	<key>FUHasLaunchedUnlicensed</key>
+	<true/>
+	<key>FURecentURLStrings</key>
+	<array>
+		<string>trello.com/board/work-this-week-2-4-2-8/5106c02e8530b56a71001650</string>
+		<string>trello.com</string>
+		<string>trello.com/board/work-last-week-1-28-2-1/50fd93e15a063760640001f4</string>
+	</array>
+	<key>FUSessionInfo</key>
+	<array>
+		<dict>
+			<key>selectedTabIndex</key>
+			<integer>2</integer>
+			<key>tabs</key>
+			<array>
+				<string>https://trello.com/board/work-last-week-1-28-2-1/50fd93e15a063760640001f4</string>
+				<string>https://trello.com/board/work-this-week-2-4-2-8/5106c02e8530b56a71001650</string>
+				<string>https://trello.com/board/work-next-week-2-11-2-15/5110b49fa019e32930005ed9</string>
+				<string>https://trello.com/board/personal/50dcbabd6a2fe22c1b000340</string>
+				<string>https://trello.com/board/work-backlog/50dcba756a2fe22c1b00032a</string>
+			</array>
+		</dict>
+	</array>
+	<key>FUSessionsEnabled</key>
+	<true/>
+	<key>FUStandardFontFamily</key>
+	<string>Times</string>
+	<key>FUToolbarShown</key>
+	<false/>
+	<key>FUUseSeparateCookieJar</key>
+	<false/>
+	<key>FUWebPreferencesWebKitLocalStorageDatabasePathPreferenceKey</key>
+	<string></string>
+	<key>FUWebPreferencesWebKitOfflineWebApplicationCacheEnabled</key>
+	<true/>
+	<key>FUWebPreferencesWebKitShrinksStandaloneImagesToFit</key>
+	<true/>
+	<key>FUWebPreferencesWebKitUserStyleSheetEnabledPreferenceKey</key>
+	<true/>
+	<key>FUWebPreferencesWebKitUserStyleSheetLocationPreferenceKey</key>
+	<string>/Applications/Trello.app/Contents/Resources/default.css</string>
+	<key>FUWhitelistURLPatternStrings</key>
+	<array>
+		<dict>
+			<key>value</key>
+			<string>*www.trello.com*</string>
+		</dict>
+		<dict>
+			<key>value</key>
+			<string>*trello.com*</string>
+		</dict>
+	</array>
+	<key>FUWindowFrameString</key>
+	<string>0 57 1680 971 0 0 1680 1028 </string>
+	<key>FUWindowScreenIndex</key>
+	<integer>0</integer>
+	<key>NSQuitAlwaysKeepsWindows</key>
+	<true/>
+	<key>NSToolbar Configuration FUWindowToolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame FUWindow</key>
+	<string>0 57 1680 971 0 0 1680 1028 </string>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2013-02-20T01:38:49Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>TDUberViewIsBottomViewOpen</key>
+	<false/>
+	<key>TDUberViewIsLeftViewOpen</key>
+	<false/>
+	<key>TDUberViewIsRightViewOpen</key>
+	<false/>
+	<key>TDUberViewIsTopViewOpen</key>
+	<false/>
+	<key>WebContinuousSpellCheckingEnabled</key>
+	<true/>
+	<key>WebDatabaseDirectory</key>
+	<string>/Users/dspeckhard/Library/Application Support/Fluid/FluidApps/Trello/LocalStorage</string>
+	<key>WebIconDatabaseDirectoryDefaultsKey</key>
+	<string>~/Library/Icons</string>
+	<key>com.fluidapp.BrowsaPlugIn0-currentViewPlacement</key>
+	<integer>128</integer>
+	<key>com.fluidapp.BrowsaPlugIn1-currentViewPlacement</key>
+	<integer>256</integer>
+</dict>
+</plist>

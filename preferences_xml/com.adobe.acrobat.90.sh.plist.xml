@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NoReaderSelfHealNeeded Jan  3 2012</key>
+	<true/>
+	<key>NoReaderSelfHealNeeded Mar 26 2012</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Apr  3 2010</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Aug 13 2010</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Dec 21 2009</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Jan  3 2012</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Jan 30 2011</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Jul 30 2012</key>
+	<false/>
+	<key>NoViewerSelfHealNeeded Jun  7 2011</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Jun 12 2008</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Jun 19 2010</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Mar 12 2011</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Mar 26 2012</key>
+	<false/>
+	<key>NoViewerSelfHealNeeded Sep  7 2011</key>
+	<true/>
+	<key>NoViewerSelfHealNeeded Sep 22 2010</key>
+	<true/>
+</dict>
+</plist>

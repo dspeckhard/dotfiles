@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalAgentNS_Preference_DefaultReminderCalendar</key>
+	<string>8436CA29-6678-43F1-B483-BCA6599AD649</string>
+	<key>CalDefaultCalendar</key>
+	<string>1907E22B-F440-46C5-B388-8571CE4675A7</string>
+	<key>CalDefaultCalendarSelectedByUser</key>
+	<true/>
+	<key>CalDefaultPrincipal</key>
+	<string>60068F57-E927-4307-B03A-EBBB691E6042</string>
+	<key>CalSuccessfulLaunchTimestampPreferenceKey</key>
+	<real>430365952</real>
+	<key>CalendarListMiniMonthVisibleMonths</key>
+	<integer>1</integer>
+	<key>CalendarSidebarShown</key>
+	<true/>
+	<key>CalendarSidebarWidth</key>
+	<real>238</real>
+	<key>Delegates Expanded</key>
+	<true/>
+	<key>DelegatesInSeparateWindows</key>
+	<dict>
+		<key>iCal</key>
+		<dict/>
+	</dict>
+	<key>DisableEmphasizedViews</key>
+	<true/>
+	<key>GEOUsageSessionID</key>
+	<data>
+	CITcq9zyh7CkQBCB+83Pmobl/QY=
+	</data>
+	<key>GEOUsageSessionIDGenerationTime</key>
+	<real>430116385.85231602</real>
+	<key>NSColorPanelMode</key>
+	<string>5</string>
+	<key>NSColorPickerPageableNameListDefaults</key>
+	<string>1System</string>
+	<key>NSDontMakeMainWindowKey</key>
+	<string>NO</string>
+	<key>NSEventConcurrentProcessingEnabled</key>
+	<string>YES</string>
+	<key>NSSplitView Subview Frames Calendar List Horizontal Split View</key>
+	<array>
+		<string>0.000000, 0.000000, 238.000000, 753.000000, NO</string>
+		<string>0.000000, 753.000000, 238.000000, 163.000000, NO</string>
+	</array>
+	<key>NSWindow Frame 0:148F2244-74CA-4CDA-9132-D293832B044B/E54CB135-3C59-4C94-9CB0-AA37635F1372/-/-</key>
+	<string>1241 94 274 239 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/013C4582-A866-4872-AFE2-694CA7623C80/-/-</key>
+	<string>1178 581 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/026C1E0A-B517-4EDF-BAB1-CE93D44C1938/-/-</key>
+	<string>1007 144 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/0C549FA6-040E-449C-9258-2FCE791F5B39/-/-</key>
+	<string>460 290 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/0D331D88-F072-45EF-821C-F8D8E62A3777/-/-</key>
+	<string>1029 715 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/0F34E0E6-D14E-43FB-9B51-4D0A2D725291/-/-</key>
+	<string>865 99 274 420 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/1759A0A4-5B93-441D-A12C-94564DB4B331/-/-</key>
+	<string>1209 707 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/2AE25533-D06B-4072-BB8E-D753970AA83A/-/-</key>
+	<string>1009 369 274 239 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/31F1C61A-B5AF-44B1-90D5-37A1B43C1156/-/-</key>
+	<string>1007 566 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/360BB076-915B-4DEE-9C3F-368775F821DF/-/20140410</key>
+	<string>1246 720 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/4DDF0A3C-3B35-4B8A-89D9-6EA5C93B778B/-/-</key>
+	<string>854 393 274 177 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/4E4C6D7C-8C6B-42A0-9731-BFD55AD79444/-/-</key>
+	<string>1225 532 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/571BF446-80D0-4CA0-8BB0-B6458D753108/-/-</key>
+	<string>1241 424 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/6616EEA7-1482-4587-9760-3E41A129A39F/-/-</key>
+	<string>836 707 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/67F65DC2-5193-4EB4-A403-CC535DAFA628/-/-</key>
+	<string>1209 567 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/80D05DDC-639B-46C4-AEB2-64A11F364A58/-/-</key>
+	<string>657 565 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/8AC6031F-54E2-45B9-80D9-AFDEBE10FFAC/-/-</key>
+	<string>1039 566 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/8ED110A0-ECE1-4A79-A41B-420BDA8AF6EA/-/-</key>
+	<string>430 144 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/A7771DFC-4F67-47BA-BF27-473A145D7AF1/-/-</key>
+	<string>1029 272 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/AAFEA188-2D58-47EA-B239-E3E92FBC0A79/-/-</key>
+	<string>836 284 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/AF49F0AD-AA3C-40AD-ACD6-940C55EC591D/-/-</key>
+	<string>1209 425 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/B15F8A31-FB93-4467-AF1F-C6D6FEBA681A/-/-</key>
+	<string>1241 168 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/B3661CE8-EDB3-4C11-9E12-FBFCA3EBE659/-/-</key>
+	<string>836 426 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/B3D9538B-17BC-4C03-B479-024B8C67B33C/-/-</key>
+	<string>656 343 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/B55FF16D-A9E5-4BD1-8F94-43DBE66A0774/-/-</key>
+	<string>1039 425 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/BE46951F-257E-4314-979C-B6FE88469B27/-/-</key>
+	<string>1209 566 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/C74BED87-3C67-4343-940B-8873D797834C/-/-</key>
+	<string>1241 425 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/CC5FC42C-F664-4744-A27A-A58BF4ED5040/-/-</key>
+	<string>1248 251 274 177 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/CC69B130-FD10-46A0-A6FC-4B4238A9C39A/-/-</key>
+	<string>633 285 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/CDC7E470-9808-4952-A382-9681CFE00244/-/-</key>
+	<string>1009 118 274 226 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/E37EAA76-4054-476B-949C-8914ED04F856/-/-</key>
+	<string>633 144 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/E6C59F94-824C-463F-B37B-5F63806C0F41/-/-</key>
+	<string>836 144 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/EF5AA6FB-077B-4C50-A758-A2B79D8079AE/-/20140730T150000Z</key>
+	<string>1050 440 274 411 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/F1433774-53FE-44D5-934B-3C0C2D309141/-/-</key>
+	<string>633 285 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/F890E65F-7868-4A44-B759-31A2E0188DCE/-/-</key>
+	<string>1007 285 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:1907E22B-F440-46C5-B388-8571CE4675A7/F98BBC50-9101-48DA-A5F6-51C47B7B0F1D/-/-</key>
+	<string>1007 144 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:349EC510-86FF-4CE2-B0D4-F85C424A3DCE/5480B8ED-A0AE-42F2-BAB1-A8FDC4445029/-/-</key>
+	<string>1173 446 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:349EC510-86FF-4CE2-B0D4-F85C424A3DCE/F81E0409-B239-4819-B9A1-2CD1710EEC8A/-/-</key>
+	<string>483 83 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:D12E567B-11AA-46AF-AF52-FAE358DD19B5/50AD56FE-038E-405B-BAFA-0BA9DB7A5A51/-/-</key>
+	<string>1225 150 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:D12E567B-11AA-46AF-AF52-FAE358DD19B5/C85F0F4D-A5E0-458D-80DF-B1F906673A26/-/-</key>
+	<string>721 409 274 177 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:D12E567B-11AA-46AF-AF52-FAE358DD19B5/F53BF8ED-AFD2-4F2E-88CD-DDB3C4BCCF64/-/-</key>
+	<string>987 308 274 177 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:DF55DE63-3506-4F44-9CFF-BB7F83281C8C/06788357-3A42-45C1-A816-8C0BCB18D36C/-/-</key>
+	<string>811 680 274 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:DF55DE63-3506-4F44-9CFF-BB7F83281C8C/25AE67AB-DB4D-452C-B77F-EF5E425D8406/-/-</key>
+	<string>607 215 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:DF55DE63-3506-4F44-9CFF-BB7F83281C8C/2E395BEB-98DD-4F55-97BF-85BC5770CB1F/-/-</key>
+	<string>817 135 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:DF55DE63-3506-4F44-9CFF-BB7F83281C8C/C47B6B2F-88FC-42E4-BA12-E817F2107BA4/-/-</key>
+	<string>1217 320 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 0:DF55DE63-3506-4F44-9CFF-BB7F83281C8C/CF1C9B96-F368-42C5-A653-4091C14E2F45/-/-</key>
+	<string>987 305 274 197 0 0 1680 1028 </string>
+	<key>NSWindow Frame 148F2244-74CA-4CDA-9132-D293832B044B/09B8F136-D258-4C4B-AAE3-2A39AB84C0FF/-/-</key>
+	<string>302 719 274 299 0 0 1680 1028 </string>
+	<key>NSWindow Frame 148F2244-74CA-4CDA-9132-D293832B044B/8CA62A09-67FC-44E9-B85C-BAAE3A937198/-/-</key>
+	<string>594 719 274 299 0 0 1680 1028 </string>
+	<key>NSWindow Frame 148F2244-74CA-4CDA-9132-D293832B044B/C576CC1D-B0CB-4CDA-8383-D54744FED063/-/-</key>
+	<string>886 719 274 299 0 0 1680 1028 </string>
+	<key>NSWindow Frame ServerCalendarInspector</key>
+	<string>591 732 499 263 0 0 1680 1028 </string>
+	<key>NSWindow Frame SimpleCalendarInspector</key>
+	<string>584 711 513 284 0 0 1680 1028 </string>
+	<key>NSWindow Frame SubscriptionCalendarInspector</key>
+	<string>585 667 510 328 0 0 1680 1028 </string>
+	<key>NSWindow Frame iCal</key>
+	<string>0 90 1680 938 0 0 1680 1028 </string>
+	<key>On My Mac Expanded</key>
+	<true/>
+	<key>Other Expanded</key>
+	<true/>
+	<key>PersistentMenu-lastUsedTimeZones</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>America/Los_Angeles</string>
+		</dict>
+	</array>
+	<key>TimeZone support enabled</key>
+	<true/>
+	<key>first minute of day time range</key>
+	<integer>0</integer>
+	<key>first shown minute of day</key>
+	<real>444.75728155339806</real>
+	<key>iCal version</key>
+	<integer>117440512</integer>
+	<key>last calendar view description</key>
+	<string>7-day</string>
+	<key>last minute of day time range</key>
+	<integer>1440</integer>
+	<key>last selected calendar list item</key>
+	<string>148F2244-74CA-4CDA-9132-D293832B044B</string>
+	<key>lastViewsTimeZone</key>
+	<string>America/Los_Angeles</string>
+	<key>view rects</key>
+	<dict>
+		<key>1-day</key>
+		<string>{{50, 50}, {600, 400}}</string>
+		<key>2-day</key>
+		<string>{{50, 50}, {600, 400}}</string>
+		<key>3-day</key>
+		<string>{{50, 50}, {600, 400}}</string>
+		<key>4-day</key>
+		<string>{{50, 50}, {600, 400}}</string>
+		<key>5-day</key>
+		<string>{{50, 50}, {700, 500}}</string>
+		<key>6-day</key>
+		<string>{{50, 50}, {700, 500}}</string>
+		<key>7-day</key>
+		<string>{{50, 50}, {770, 500}}</string>
+		<key>monthly</key>
+		<string>{{50, 50}, {750, 550}}</string>
+		<key>yearly</key>
+		<string>{{50, 50}, {750, 550}}</string>
+	</dict>
+</dict>
+</plist>

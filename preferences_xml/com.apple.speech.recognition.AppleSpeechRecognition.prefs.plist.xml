@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CorrectionVectorArray</key>
+	<array>
+		<real>0.30917394161224365</real>
+		<real>-1.0532031059265137</real>
+		<real>-0.2589760422706604</real>
+		<real>-0.23321041464805603</real>
+		<real>0.062811285257339478</real>
+		<real>0.0049008689820766449</real>
+		<real>-0.12078295648097992</real>
+		<real>0.059046976268291473</real>
+		<real>-0.17478156089782715</real>
+		<real>0.047521404922008514</real>
+		<real>0.12011340260505676</real>
+		<real>-0.18306967616081238</real>
+		<real>-0.059718232601881027</real>
+	</array>
+	<key>DictationIMMasterDictationEnabled</key>
+	<false/>
+</dict>
+</plist>

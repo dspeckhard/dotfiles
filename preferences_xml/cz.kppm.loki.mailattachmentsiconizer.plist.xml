@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CheckForUpdates</key>
+	<true/>
+	<key>CheckForUpdatesLastDate</key>
+	<string>2013-06-17 17:19:42 +0000</string>
+	<key>CheckForUpdatesPeriodDays</key>
+	<integer>7</integer>
+	<key>Configured</key>
+	<true/>
+	<key>DisplayFullNames</key>
+	<true/>
+	<key>DisplayHiddenInHTML</key>
+	<true/>
+	<key>DocumentSize</key>
+	<integer>1024</integer>
+	<key>ForwardAsAttachmentViaRules</key>
+	<false/>
+	<key>IconizeAudio</key>
+	<true/>
+	<key>IconizeDocuments</key>
+	<true/>
+	<key>IconizeImages</key>
+	<true/>
+	<key>IconizeImagesInHTML</key>
+	<false/>
+	<key>IconizeMessages</key>
+	<true/>
+	<key>IconizeTextFiles</key>
+	<true/>
+	<key>IconizeVideo</key>
+	<true/>
+	<key>IconizeWhenComposing</key>
+	<string>AccordingToOptions</string>
+	<key>ImageResizingSize</key>
+	<integer>0</integer>
+	<key>ImageSize</key>
+	<integer>1024</integer>
+	<key>RespectContentDisposition</key>
+	<true/>
+	<key>SendCompatibleMessages</key>
+	<true/>
+	<key>SendRegularAttachmentsOnly</key>
+	<true/>
+	<key>ShowTopAttachmentsView</key>
+	<false/>
+	<key>UpdateSkipVersion</key>
+	<string>3.1.11</string>
+	<key>Version</key>
+	<string>3.1.10</string>
+	<key>WarnAboutIncompatibilities</key>
+	<true/>
+</dict>
+</plist>

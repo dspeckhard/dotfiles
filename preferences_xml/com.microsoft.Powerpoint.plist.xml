@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2008\AutoRecover\AutoRecover\ShowPreview</key>
+	<integer>1</integer>
+	<key>2008\DLDialogCenters\DLDialogCenters\45x</key>
+	<integer>1503</integer>
+	<key>2008\DLDialogCenters\DLDialogCenters\45y</key>
+	<integer>902</integer>
+	<key>2008\DLDialogCenters\DLDialogCenters\47x</key>
+	<integer>1259</integer>
+	<key>2008\DLDialogCenters\DLDialogCenters\47y</key>
+	<integer>725</integer>
+	<key>2008\Default Save\Default Save\Default Format</key>
+	<string>Microsoft PowerPoint 2007 XML Presentation</string>
+	<key>2008\File Aliases\Alias ID: 420</key>
+	<data>
+	AAAAAALKAAIAAQpkc3BlY2toYXJkAAAAAAAAAAAAAAAAAAAAAADHTQkESCsABQAAAAIJ
+	RG9jdW1lbnRzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAVsZgMXQAAAAAAAAAAP////8AAA0CAAAAAAAAAAAAAAAAAAAA
+	CmRzcGVja2hhcmQAEAAIAADHTXmEAAAAEQAIAADGYJPkAAAAAQAAAAIAFGRzcGVja2hh
+	cmQ6RG9jdW1lbnRzAA4AFAAJAEQAbwBjAHUAbQBlAG4AdABzAA8AFgAKAGQAcwBwAGUA
+	YwBrAGgAYQByAGQAEgAKL0RvY3VtZW50cwATABEvVXNlcnMvZHNwZWNraGFyZAAAFAGO
+	AAAAAAGOAAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADEtKt+SCsAAAAbSsYX
+	ZHNwZWNraGFyZC5zcGFyc2VidW5kbGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAABtKx8dNCQQAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAA
+	Cy5kc3BlY2toYXJkAAAQAAgAAMS1De4AAAARAAgAAMdNeYQAAAABAAgAG0rGAAB5igAC
+	ADZNYWNpbnRvc2ggSEQ6VXNlcnM6LmRzcGVja2hhcmQ6ZHNwZWNraGFyZC5zcGFyc2Vi
+	dW5kbGUADgAwABcAZABzAHAAZQBjAGsAaABhAHIAZAAuAHMAcABhAHIAcwBlAGIAdQBu
+	AGQAbABlAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAKVVzZXJzLy5kc3Bl
+	Y2toYXJkL2RzcGVja2hhcmQuc3BhcnNlYnVuZGxlAAATAAEvAP//AAAAFQACABH//wAA
+	</data>
+	<key>2008\File Aliases\Alias ID: 421</key>
+	<data>
+	AAAAAAFOAAIAAQlNQUMyMjEgSEQAAAAAAAAAAAAAAAAAAAAAAADIBlOrSCsAAAATIjYJ
+	RG9jdW1lbnRzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAABMz48i6YDIAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAA
+	CmRzcGVja2hhcmQAEAAIAADIBrYbAAAAEQAIAADIusKiAAAAAQAIABMiNgAAkj8AAgAk
+	TUFDMjIxIEhEOlVzZXJzOmRzcGVja2hhcmQ6RG9jdW1lbnRzAA4AFAAJAEQAbwBjAHUA
+	bQBlAG4AdABzAA8AFAAJAE0AQQBDADIAMgAxACAASABEABIAGlVzZXJzL2RzcGVja2hh
+	cmQvRG9jdW1lbnRzABMAAS8AABUAAgAR//8AAA==
+	</data>
+	<key>2008\Options\Options\Alt Language Id</key>
+	<integer>1033</integer>
+	<key>2008\Options\Options\AutoCorrect Hyperlinks</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\AutoFit</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\AutoFormat Bullets</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\AutoFormat Fractions</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\AutoFormat Ordinals</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\AutoFormat Symbols</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\BW Printing</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Background spell checking</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\CompatReport</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\CompatReportIgnoredTriggers</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\CompatReportTarget</key>
+	<integer>4092</integer>
+	<key>2008\Options\Options\DefaultView</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Do not underline errors</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\DragAndDrop</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\DragTooltipVisible</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\DynamicGuidesVisible</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Fast loads</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Fast saves</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\FileCompression</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\French Modes</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\FrequencyToSaveAutoRecoveryInfo</key>
+	<integer>10</integer>
+	<key>2008\Options\Options\GuidesVisible</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Ignore UPPERCASE words</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Ignore words with numbers</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Language Id</key>
+	<integer>65535</integer>
+	<key>2008\Options\Options\Link sound size</key>
+	<integer>100</integer>
+	<key>2008\Options\Options\MRUListActive</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\MetricRuler</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\NewSlideDialog</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\NoEditTime</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\NoUserName</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Number of Undos</key>
+	<integer>20</integer>
+	<key>2008\Options\Options\ObjectSnapRadiusThreshold</key>
+	<integer>12</integer>
+	<key>2008\Options\Options\Options dialog current tab</key>
+	<integer>7</integer>
+	<key>2008\Options\Options\PasteRecovery</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Play animated GIFs</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Presenter Tools Mirror Displays</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\PresenterViewMiniVisible</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\PromptForFileProperties</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\RulersVisible</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\SS Control Option</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\SSEndOnBlankSlide</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\SSRightMouse</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Save graphics Pict compression</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Save graphics dpi</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Save graphics image quality</key>
+	<integer>3</integer>
+	<key>2008\Options\Options\Save graphics screen heigth</key>
+	<integer>540</integer>
+	<key>2008\Options\Options\Save graphics screen size</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Save graphics screen width</key>
+	<integer>720</integer>
+	<key>2008\Options\Options\Save only current slide graphics</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\SaveAutoRecoveryInfo</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\SaveFullTextSearchInfo</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\SavePreview</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Show AutoCorrect Options Buttons</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Show Outline Formatting</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Show Outline Icons</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Show Presenter Clock</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\ShowDynamicGuidesOnCenters</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\ShowStatusBar</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\SizeOfMRUList</key>
+	<integer>10</integer>
+	<key>2008\Options\Options\Slideshow Screen</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\SmartCutPaste</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\SmartQuotes</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\StartSlideShowWhenStarted</key>
+	<integer>0</integer>
+	<key>2008\Options\Options\Suggest Always</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\Use German reform spelling rules</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\VerticalRuler</key>
+	<integer>1</integer>
+	<key>2008\Options\Options\WordSelection</key>
+	<integer>1</integer>
+	<key>2008\RefToolBilingualDictionary\DataBrowserHeight</key>
+	<integer>120</integer>
+	<key>2008\RefToolBilingualDictionary\SourceLID</key>
+	<integer>1033</integer>
+	<key>2008\RefToolBilingualDictionary\TargetLID</key>
+	<integer>1036</integer>
+	<key>2008\RefToolMonolingualDictionary\DataBrowserHeight</key>
+	<integer>120</integer>
+	<key>2008\RefToolMonolingualDictionary\LanguageID</key>
+	<integer>1033</integer>
+	<key>2008\RefToolTranslation\DataBrowserHeight</key>
+	<integer>120</integer>
+	<key>2008\RefToolTranslation\SourceLID</key>
+	<integer>1033</integer>
+	<key>2008\RefToolTranslation\TargetLID</key>
+	<integer>1036</integer>
+	<key>2008\RefToolWindowsLiveSearch\DataBrowserHeight</key>
+	<integer>120</integer>
+	<key>2008\RefToolWindowsLiveSearch\LanguageID</key>
+	<integer>1033</integer>
+	<key>2008\ReferenceDesk\ReferenceDesk_PaletteLeft</key>
+	<integer>1402</integer>
+	<key>2008\ReferenceDesk\ReferenceDesk_PaletteTop</key>
+	<integer>78</integer>
+	<key>2008\ReferenceDesk\ReferenceDesk_PanelOpened</key>
+	<integer>8</integer>
+	<key>2008\Toolbars\Embed_TBID_142</key>
+	<true/>
+	<key>2008\Toolbars\Embed_TBID_23</key>
+	<true/>
+	<key>2008\Toolbars\Embed_TBID_2760</key>
+	<true/>
+	<key>2008\Toolbars\Embed_TBID_2793</key>
+	<true/>
+	<key>2008\Toolbars\Embed_TBID_578</key>
+	<true/>
+	<key>2008\Toolbars\Embed_TBID_579</key>
+	<true/>
+	<key>2008\Toolbars\HeightHint</key>
+	<integer>116</integer>
+	<key>2008\Toolbars\Show_HIToolbar</key>
+	<true/>
+	<key>2008\Toolbox:Effects\AutoTrigger</key>
+	<false/>
+	<key>2008\Toolbox:Effects\FadeTransparency</key>
+	<integer>67</integer>
+	<key>2008\Toolbox:Effects\TransitionEffect</key>
+	<integer>1</integer>
+	<key>2008\Toolbox:Effects\TriggerAction</key>
+	<integer>2</integer>
+	<key>2008\Toolbox:Effects\TriggerDelay</key>
+	<integer>5</integer>
+	<key>2008\Toolbox\CSAnimationEffect</key>
+	<integer>1</integer>
+	<key>2008\Toolbox\LastClientID</key>
+	<integer>1181700193</integer>
+	<key>2008\Toolbox\WindowLeft</key>
+	<integer>1461</integer>
+	<key>2008\Toolbox\WindowTop</key>
+	<integer>38</integer>
+	<key>2008\Toolbox\WindowVis</key>
+	<true/>
+	<key>FindWhatPopup</key>
+	<array>
+		<string>Bohlin Cywinski Jackson | PWP | ARUP  </string>
+		<string>Bohlin Cywinski Jackson | PWP | ARUP</string>
+	</array>
+	<key>NSColorPanelMode</key>
+	<string>6</string>
+	<key>NSColorPanelMode.modal</key>
+	<integer>1</integer>
+	<key>NSColorPanelToolbarIsShown.modal</key>
+	<integer>1</integer>
+	<key>NSColorPanelVisibleSwatchRows.modal</key>
+	<integer>1</integer>
+	<key>NSColorPickerSlidersDefaults</key>
+	<string>1</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>/Volumes/MP/GC3 Design Presentations</string>
+	<key>NSNavLastCurrentDirectory:GetFile:1</key>
+	<string>~/Documents/Project/09205x1 GC3 Int Local/Meetings/2012 02 17 DIMG Co-Pres Call/Renderings</string>
+	<key>NSNavLastCurrentDirectory:GetFile:1869636974</key>
+	<string>/Volumes/Server/09205X1 GC3 Interiors/dwg/presentation/Design Development/2011 05 02 Co-presidents presentation</string>
+	<key>NSNavLastCurrentDirectory:PutFile:1935767141</key>
+	<string>~/Documents/Projects/P13503 AIA Denver Experiential Architecture</string>
+	<key>NSNavLastCurrentDirectory:PutFile:5736</key>
+	<string>/Volumes/BB1/E 99 Photography/Renderings</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/MP</string>
+	<key>NSNavLastRootDirectory:PutFile:1935767141</key>
+	<string>~/Documents</string>
+	<key>NSNavLastRootDirectory:PutFile:5736</key>
+	<string>/Volumes/BB1/E 99 Photography/Renderings</string>
+	<key>NSNavLastUserSetHideExtensionButtonState</key>
+	<false/>
+	<key>NSNavPanelExpandedSizeForOpenMode:GetFile:1</key>
+	<string>{1614, 714}</string>
+	<key>NSNavPanelExpandedSizeForOpenMode:GetFile:1869636974</key>
+	<string>{1080, 400}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{899, 562}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode:PutFile:1935767141</key>
+	<string>{955, 528}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSTableView Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<string>468</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<string>88</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+		<string>60</string>
+	</array>
+	<key>NSTableView Hidden Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+	</array>
+	<key>NSTableView Sort Ordering NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<true/>
+	</array>
+	<key>NSWindow Frame ImageEffectsDialog</key>
+	<string>710 250 700 640 0 0 1680 1028 </string>
+	<key>NSWindow Frame NSColorPanel</key>
+	<string>366 339 201 309 0 0 1680 1028 </string>
+	<key>NSWindow Frame NSColorPanel.modal</key>
+	<string>739 572 201 309 0 0 1680 1028 </string>
+	<key>PMPrintingExpandedStateForPrint</key>
+	<true/>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<true/>
+	<key>ReplaceWithPopup</key>
+	<array>
+		<string>Bohlin Cywinski Jackson | Arup</string>
+	</array>
+</dict>
+</plist>

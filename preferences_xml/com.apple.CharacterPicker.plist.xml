@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CVFavoritesConverted</key>
+	<true/>
+	<key>CVRecentsConverted</key>
+	<true/>
+	<key>Favorites:com.apple.CharacterPicker.DefaultDataStorage</key>
+	<array>
+		<string>com.apple.cpk:{"char":"✓"}</string>
+	</array>
+	<key>Recents:com.apple.CharacterPicker.DefaultDataStorage</key>
+	<array>
+		<string>com.apple.cpk:{"char":"✓"}</string>
+	</array>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

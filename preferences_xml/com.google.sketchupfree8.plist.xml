@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALToolPalette_Maxwell_frame</key>
+	<string>1007 972 432 36 0 0 1680 1028 </string>
+	<key>DefaultImporter</key>
+	<string>com.atlast.importers.3ds</string>
+	<key>DefaultModelInfoInspector</key>
+	<string>ModelRenderingController</string>
+	<key>Layers_frame</key>
+	<string>1530 1012 150 16 0 0 1680 1028 </string>
+	<key>Layers_state</key>
+	<integer>1</integer>
+	<key>Layers_viewsize</key>
+	<string>254, 458</string>
+	<key>MainFrame_M2Upgrade</key>
+	<true/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Downloads/CH162_3D</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{585, 461}</string>
+	<key>NSTableView Columns RCFTableView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBE5hbWWG
+		</data>
+		<string>77</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC0xpYnJhcnlQYXRohg==
+		</data>
+		<string>222</string>
+	</array>
+	<key>NSTableView Hidden Columns RCFTableView</key>
+	<array/>
+	<key>NSTableView Sort Ordering RCFTableView</key>
+	<array/>
+	<key>NSToolbar Configuration SketchUpToolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame AboutPanel</key>
+	<string>697 536 286 331 0 0 1680 1028 </string>
+	<key>NSWindow Frame GoogleToolPaletteLarge</key>
+	<string>0 260 71 159 0 0 1680 1028 </string>
+	<key>NSWindow Frame SketchUpDoc</key>
+	<string>0 44 1680 984 0 0 1680 1028 </string>
+	<key>NSWindow Frame SolidModelToolPaletteLarge</key>
+	<string>0 236 71 126 0 0 1680 1028 </string>
+	<key>NSWindow Frame ToolPaletteLarge</key>
+	<string>0 360 71 598 0 0 1680 1028 </string>
+	<key>OpenGLGeneric</key>
+	<false/>
+	<key>OpenInspectors</key>
+	<array/>
+	<key>Scenes_frame</key>
+	<string>1290 391 259 418 0 0 1680 1028 </string>
+	<key>Scenes_state</key>
+	<integer>2</integer>
+	<key>Scenes_viewsize</key>
+	<string>259, 402</string>
+	<key>Shadow Settings_frame</key>
+	<string>1396 472 250 204 0 0 1680 1028 </string>
+	<key>Shadow Settings_state</key>
+	<integer>3</integer>
+	<key>SketchUp.AutoSave.AutoSaveFile</key>
+	<string>/Users/dspeckhard/Library/Application Support/Google SketchUp 7/SketchUp/Autosave/AutoSave_Untitled.skp</string>
+	<key>SketchUp.DefaultFolder.Export</key>
+	<string>/Users/dspeckhard/Desktop</string>
+	<key>SketchUp.DefaultFolder.Models</key>
+	<string>/Users/dspeckhard/Downloads/CH162_3D</string>
+	<key>SketchUp.Extensions.Dynamic Components</key>
+	<string>1</string>
+	<key>SketchUp.Extensions.Maxwell for SketchUp2.7.22</key>
+	<string>1</string>
+	<key>SketchUp.Extensions.Photo Textures1.0.0</key>
+	<string>1</string>
+	<key>SketchUp.Extensions.Shadow Strings Fix Toolbar1.0.0</key>
+	<string>1</string>
+	<key>SketchUp.Extensions.Solar North Toolbar1.0.0</key>
+	<string>1</string>
+	<key>SketchUp.PageOptions.ShowTransition</key>
+	<string>YES</string>
+	<key>SketchUp.PageOptions.TransitionTime</key>
+	<string>1.5</string>
+	<key>SketchUp.Preferences.AAMethod</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.AllowPreselectPushPull</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AlwaysFixValidityErrors</key>
+	<string>NO</string>
+	<key>SketchUp.Preferences.AngleSnapping</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AutoDrawingPlane</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AutoSave</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AutoSaveFreq</key>
+	<string>5</string>
+	<key>SketchUp.Preferences.BrowserHome</key>
+	<string></string>
+	<key>SketchUp.Preferences.CheckForUpdates</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.ClickStyle</key>
+	<string>2</string>
+	<key>SketchUp.Preferences.ContinueLineMode</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.DefaultTemplate</key>
+	<string>/Library/Application Support/Google SketchUp 8/SketchUp/Resources/en-US/Templates/Temp02a - Arch.skp</string>
+	<key>SketchUp.Preferences.DisplayCrosshairs</key>
+	<string>NO</string>
+	<key>SketchUp.Preferences.DisplayTabs</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.EnableCheckValidity</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.Export3DDefaultIndex</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.Import3DS.MergeCoplanar</key>
+	<string>1</string>
+	<key>SketchUp.Preferences.Import3DS.SoftEdges</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.Import3DS.Units</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.IntersectEdges</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.LastUpdateCheck</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.LengthSnapping</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.MaxUndo</key>
+	<string>100</string>
+	<key>SketchUp.Preferences.MinSnapPixels</key>
+	<string>2</string>
+	<key>SketchUp.Preferences.NewModelCount</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.SaveBackup</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.ShowInferenceTips</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.ShowStylesWarning</key>
+	<string>1</string>
+	<key>SketchUp.Preferences.SnapAngle</key>
+	<string>15.000000</string>
+	<key>SketchUp.Preferences.UpdateDefaultColorOn</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.UpdateDefaultOn</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.UseFastFeedback8</key>
+	<string>1</string>
+	<key>SketchUp.Preferences.VCBShowTypedInputBackground</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.VCBTimoutSeconds</key>
+	<string>5</string>
+	<key>SketchUp.Scenes.SceneViewSelection</key>
+	<string>2</string>
+	<key>SketchUp.ShareWith3DWH.dontAskAgain</key>
+	<string>YES</string>
+	<key>SketchUp.SlideshowOptions.LoopSlideshow</key>
+	<string>YES</string>
+	<key>SketchUp.SlideshowOptions.SlideTime</key>
+	<string>1</string>
+	<key>SketchUp.Toolbars.Dynamic Components.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Toolbars.Maxwell.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Toolbars.Shadow Strings Fix.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Toolbars.SketchUp.Visible</key>
+	<string>1</string>
+	<key>SketchUp.Toolbars.Solar North.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Tools.FovDisplayMode</key>
+	<string>0</string>
+	<key>SketchUp.Version</key>
+	<string>8.0.16845</string>
+	<key>SketchUp.WelcomeDialog.ShowOnStartup</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportAuthorAttribution</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportDoublePrecision</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportDoubleSidedFaces</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportEdges</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportHiddenGeometry</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportMaterialsByLayer</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportPreserveHierarchies</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportSelectionSetOnly</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportTextureMaps</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportTriangulatedFaces</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportVertexNormals</key>
+	<string>YES</string>
+	<key>Sketchup.MainFrameSize</key>
+	<string>{{4, 65}, {1024, 830}}</string>
+	<key>ThumbnailDisplayStateStyle</key>
+	<integer>4</integer>
+	<key>UpdateServiceLastChecked</key>
+	<date>2011-08-26T20:10:00Z</date>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GBCloneFromGithub</key>
+	<true/>
+	<key>GBDidTerminateSafely</key>
+	<true/>
+	<key>GBSidebarItems</key>
+	<dict>
+		<key>contents</key>
+		<array>
+			<dict>
+				<key>class</key>
+				<string>GBRepositoriesController</string>
+				<key>collapsed</key>
+				<false/>
+				<key>contents</key>
+				<array/>
+			</dict>
+		</array>
+		<key>selectedItemIndexes</key>
+		<array/>
+	</dict>
+	<key>MASPreferences Selected Identifier View</key>
+	<string>GBPreferencesDiff</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Source/ansible</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSSplitView Subview Frames dd</key>
+	<array>
+		<string>0.000000, 0.000000, 197.000000, 435.000000, NO</string>
+		<string>198.000000, 0.000000, 601.000000, 435.000000, NO</string>
+	</array>
+	<key>NSWindow Frame GBActivityController</key>
+	<string>256 170 661 362 0 0 1680 1028 </string>
+	<key>NSWindow Frame gitboxwindow</key>
+	<string>433 392 799 457 0 0 1680 1028 </string>
+	<key>SUAutomaticallyUpdate</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-08-26T04:48:12Z</date>
+	<key>WelcomeWasDisplayed</key>
+	<true/>
+	<key>diffTool</key>
+	<string>FileMerge</string>
+	<key>iRateEventCount</key>
+	<integer>0</integer>
+	<key>iRateFirstUsed</key>
+	<date>2014-08-26T04:47:29Z</date>
+	<key>iRateLastVersionUsed</key>
+	<string>1.6.2</string>
+	<key>iRateUseCount</key>
+	<integer>1</integer>
+	<key>migrated_toV13sidebar</key>
+	<true/>
+</dict>
+</plist>

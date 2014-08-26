@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Copier 1 Regular</string>
+	<string></string>
+	<false/>
+	<string>2</string>
+	<string>1:5</string>
+	<string>0,0,255,0,0,1,0,0,450,700,0,24,Helvetica,CONFIDENTIAL</string>
+	<string>0,0,0,0,255,1,0,0,450,700,0,24,Helvetica,COPY</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,DRAFT</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,TOP SECRET</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,ORIGINAL</string>
+	<string>0:6</string>
+	<string>*EFDuplex</string>
+	<string>*EFStapler</string>
+	<string>*EFOutputBin</string>
+	<string>*InputSlot</string>
+	<string>*EFMediaType</string>
+	<string>*EFPrintSize</string>
+	<string>----- Data End -----</string>
+	<string>Copier 2 Pro</string>
+	<string>10.5.0.57</string>
+	<true/>
+	<string>2</string>
+	<string>1:5</string>
+	<string>0,0,255,0,0,1,0,0,450,700,0,24,Helvetica,CONFIDENTIAL</string>
+	<string>0,0,0,0,255,1,0,0,450,700,0,24,Helvetica,COPY</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,DRAFT</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,TOP SECRET</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,ORIGINAL</string>
+	<string>0:7</string>
+	<string>*EFDuplex</string>
+	<string>*EFPunchHoleType</string>
+	<string>*EFPunchEdge</string>
+	<string>*EFStapler</string>
+	<string>*InputSlot</string>
+	<string>*EFMediaType</string>
+	<string>*EFPrintSize</string>
+	<string>----- Data End -----</string>
+	<string>Canon Copier 1 EFI Driver</string>
+	<string></string>
+	<false/>
+	<string>2</string>
+	<string>1:5</string>
+	<string>0,0,255,0,0,1,0,0,450,700,0,24,Helvetica,CONFIDENTIAL</string>
+	<string>0,0,0,0,255,1,0,0,450,700,0,24,Helvetica,COPY</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,DRAFT</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,TOP SECRET</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,ORIGINAL</string>
+	<string>0:6</string>
+	<string>*InputSlot</string>
+	<string>*EFDuplex</string>
+	<string>*EFSort</string>
+	<string>*EFStapler</string>
+	<string>*EFPrintSize</string>
+	<string>*EFMediaType</string>
+	<string>----- Data End -----</string>
+	<string>Canon Copier 2</string>
+	<string></string>
+	<false/>
+	<string>2</string>
+	<string>1:5</string>
+	<string>0,0,255,0,0,1,0,0,450,700,0,24,Helvetica,CONFIDENTIAL</string>
+	<string>0,0,0,0,255,1,0,0,450,700,0,24,Helvetica,COPY</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,DRAFT</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,TOP SECRET</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,ORIGINAL</string>
+	<string>0:6</string>
+	<string>*InputSlot</string>
+	<string>*EFDuplex</string>
+	<string>*EFSort</string>
+	<string>*EFStapler</string>
+	<string>*EFMediaType</string>
+	<string>*EFPrintSize</string>
+	<string>----- Data End -----</string>
+	<string>Canon Copier 1</string>
+	<string></string>
+	<true/>
+	<string>2</string>
+	<string>1:5</string>
+	<string>0,0,255,0,0,1,0,0,450,700,0,24,Helvetica,CONFIDENTIAL</string>
+	<string>0,0,0,0,255,1,0,0,450,700,0,24,Helvetica,COPY</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,DRAFT</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,TOP SECRET</string>
+	<string>0,0,0,255,0,1,0,0,450,700,0,24,Helvetica,ORIGINAL</string>
+	<string>0:6</string>
+	<string>*InputSlot</string>
+	<string>*EFDuplex</string>
+	<string>*EFSort</string>
+	<string>*EFStapler</string>
+	<string>*EFPrintSize</string>
+	<string>*EFMediaType</string>
+	<string>----- Data End -----</string>
+	<string>SF_MFProd01-lpr</string>
+	<string>SF-VM01</string>
+	<false/>
+	<string>2</string>
+	<string>----- Data End -----</string>
+	<string>SF-VM01-SF_MF01</string>
+	<string>SF-vm01.bcj.loc</string>
+	<false/>
+	<string>2</string>
+	<string>----- Data End -----</string>
+</array>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>natTypeCache</key>
+	<dict>
+		<key>IPv4.Router=10.5.0.1;IPv4.RouterHardwareAddress=00:a0:c8:54:c6:07</key>
+		<dict>
+			<key>natFlags</key>
+			<integer>204</integer>
+			<key>natFlagsLastUpdated</key>
+			<date>2012-10-02T16:29:25Z</date>
+		</dict>
+	</dict>
+</dict>
+</plist>

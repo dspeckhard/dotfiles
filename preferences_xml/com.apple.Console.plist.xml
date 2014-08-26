@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImportedLegacyLogFileDicts</key>
+	<true/>
+	<key>LogOutlineViewVisible</key>
+	<true/>
+	<key>LogOutlineViewWidth</key>
+	<real>321</real>
+	<key>MessagesDisplayStyle</key>
+	<integer>0</integer>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSOutlineView Items Console</key>
+	<array>
+		<string>/Library/Logs</string>
+		<string>/var/log</string>
+		<string>~/Library/Logs/DiagnosticReports</string>
+		<string>kLogFilesGroupSidebarItemIdentifier</string>
+		<string>kDiagnosticInformationSidebarItemIdentifier</string>
+		<string>kLogDatabaseQueriesGroupSidebarItemIdentifier</string>
+	</array>
+	<key>NSTableView Columns ASL Messages</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmRhdGVUaW1lU3RyaW5nhg==
+		</data>
+		<string>120</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNlbmRlckFuZFBJRIY=
+		</data>
+		<string>259</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCmRhdGVTdHJpbmeG
+		</data>
+		<string>80</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCnRpbWVTdHJpbmeG
+		</data>
+		<string>80</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBGhvc3SG
+		</data>
+		<string>60</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBnNlbmRlcoY=
+		</data>
+		<string>84</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCXBpZFN0cmluZ4Y=
+		</data>
+		<string>75</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCGZhY2lsaXR5hg==
+		</data>
+		<string>93</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBWxldmVshg==
+		</data>
+		<string>74</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21lc3NhZ2WG
+		</data>
+		<string>490</string>
+	</array>
+	<key>NSTableView Hidden Columns ASL Messages</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCmRhdGVTdHJpbmeG
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCnRpbWVTdHJpbmeG
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBGhvc3SG
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBnNlbmRlcoY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCXBpZFN0cmluZ4Y=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCGZhY2lsaXR5hg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBWxldmVshg==
+		</data>
+	</array>
+	<key>NSTableView Sort Ordering ASL Messages</key>
+	<array/>
+	<key>NSWindow Frame /Applications/Utilities/Console.app/Contents/Resources/ASLQueries/All Messages.aslquery</key>
+	<string>19 482 1141 546 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Applications/Utilities/Console.app/Contents/Resources/ASLQueries/Console Messages.aslquery</key>
+	<string>21 364 1094 661 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/Adobe</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/CrashPlan</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/CrashReporter</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/Kernel_2012-05-15-085621_MAC221.panic</key>
+	<string>440 465 800 429 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/Mail_2012-11-27-072656_MAC221.hang</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/Mail_2012-11-27-101551_MAC221.spin</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/Mail_2012-11-27-101601_MAC221.hang</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/Python_2012-11-25-095956_MAC221.hang</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/System Preferences_2012-11-26-224944_MAC221.hang</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/XBMC_2012-11-25-233850_MAC221.hang</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/mds_2012-11-12-115534_localhost.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /Library/Logs/DiagnosticReports/mds_2012-11-14-122011_localhost.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /var/log/DiagnosticMessages</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame /var/log/apache2</key>
+	<string>427 240 1084 671 0 0 1680 1028 </string>
+	<key>NSWindow Frame /var/log/apache2/access_log</key>
+	<string>19 482 1141 546 0 0 1680 1028 </string>
+	<key>NSWindow Frame /var/log/apache2/error_log</key>
+	<string>19 482 1141 546 0 0 1680 1028 </string>
+	<key>NSWindow Frame /var/log/kernel.log</key>
+	<string>427 240 1084 671 0 0 1680 1028 </string>
+	<key>NSWindow Frame /var/log/system.log</key>
+	<string>19 482 1141 546 0 0 1680 1028 </string>
+	<key>NSWindow Frame Console</key>
+	<string>19 482 1141 546 0 0 1680 1028 </string>
+	<key>NSWindow Frame kLogFilesGroupSidebarItemIdentifier</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/AMRestoreLog.txt</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/Adobe</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/Adobe Illustrator CS6</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashPlan</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashPlan/ui.log.0</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashReporter</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashReporter/MobileDevice</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashReporter/MobileDevice/DS iPhone</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashReporter/MobileDevice/Douglas Speckhard’s iPhone</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/CrashReporter/MobileDevice/Douglas Speckhard’s iPhone.symbolicated</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DavMail/davmail.log</key>
+	<string>19 482 1141 546 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/EFI FD3toJP_2012-11-25-224321_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/EFI FD3toJP_2012-11-26-163953_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/PluginProcess_2012-11-21-163707_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/Safari_2012-05-03-201712_MAC221.crash</key>
+	<string>438 272 1183 623 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/XBMC_2012-11-10-211836_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/XBMC_2012-11-13-001951_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/XBMC_2012-11-27-000017_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/XBMC_2012-11-27-000023_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/XBMC_2012-11-27-000030_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/com.apple.qtkitserver_2012-11-11-004526_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/iCal_2012-11-15-132119_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/iCal_2012-11-17-163330_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/iCal_2012-11-19-131516_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/iCal_2012-11-23-125256_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/DiagnosticReports/iCal_2012-11-26-155306_MAC221.crash</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/com.citrixonline.GoToMeeting</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/com.thelittleappfactory.Tagalicious</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>NSWindow Frame ~/Library/Logs/xbmc.log</key>
+	<string>436 166 1214 713 0 0 1680 1028 </string>
+	<key>OpenLogFilePaths</key>
+	<array>
+		<string>~/davmail.log</string>
+	</array>
+	<key>OpenPanelDirectory</key>
+	<string>~</string>
+	<key>StringEncodings</key>
+	<dict>
+		<key>/private/var/log/com.apple.launchd.peruser.502/2567B926-5BCF-4234-8149-9BE7EF8B59D4.launchd.events.LR9Dwo.stats</key>
+		<integer>1</integer>
+		<key>/private/var/log/com.apple.launchd.peruser.502/E9125596-3220-412F-B2FC-4F00EB9F93F5.launchd.events.3uuyFW.stats</key>
+		<integer>1</integer>
+		<key>/private/var/log/com.apple.launchd.peruser.502/launchd-shutdown.dspeckhard.log</key>
+		<integer>1</integer>
+		<key>/private/var/log/system.log</key>
+		<integer>1</integer>
+		<key>/var/log/system.log</key>
+		<integer>1</integer>
+	</dict>
+	<key>TagsSidebarCollapsed</key>
+	<true/>
+	<key>WrapLines</key>
+	<true/>
+</dict>
+</plist>

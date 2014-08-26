@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents</string>
+	<key>NSSplitView Subview Frames plLibrarySplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 318.000000, 394.000000, NO</string>
+		<string>319.000000, 0.000000, 438.000000, 394.000000, NO</string>
+	</array>
+	<key>NSWindow Frame /vm/#d4630193118551fe/-plVMSettings</key>
+	<string>582 553 613 325 0 0 1440 878 </string>
+	<key>NSWindow Frame /vm/#d4630193118551fe/-plVMWindow</key>
+	<string>0 118 1440 760 0 0 1440 878 </string>
+	<key>NSWindow Frame plLibraryWindow</key>
+	<string>658 105 757 416 0 0 1440 878 </string>
+	<key>NSWindow Frame plNewVMWindow</key>
+	<string>384 302 671 500 0 0 1440 878 </string>
+	<key>ProxyAppUpgradeInfo</key>
+	<dict>
+		<key>/vm/#d4630193118551fe/</key>
+		<dict>
+			<key>LastUpgradeVersion</key>
+			<integer>196839</integer>
+		</dict>
+	</dict>
+	<key>VMFavoritesListDefaults2</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>XP PRO 32</string>
+			<key>path</key>
+			<string>/Users/dspeckhard/Documents/XP PRO 32.vmwarevm</string>
+			<key>uuid</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boot Camp partition</string>
+			<key>path</key>
+			<string>/Users/dspeckhard/Library/Application Support/VMware Fusion/Virtual Machines/Boot Camp/%2Fdev%2Fdisk0/Boot Camp partition.vmwarevm</string>
+			<key>uuid</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>VMWelcomeScreenViewed_2.0</key>
+	<true/>
+	<key>fusion1XDockersUpgraded</key>
+	<true/>
+</dict>
+</plist>

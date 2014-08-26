@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastURL</key>
+	<string>cifs://SF-SVR01</string>
+	<key>NSWindow Frame BrowserWindow</key>
+	<string>62 630 485 358 0 0 1680 1028 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>727 358 514 546 0 0 1680 1028 </string>
+	<key>RecentURLS</key>
+	<array>
+		<string>cifs://BCJ5-SVR00</string>
+		<string>smb://BCJ5-SVR00</string>
+		<string>cifs://SF-SVR01</string>
+	</array>
+</dict>
+</plist>

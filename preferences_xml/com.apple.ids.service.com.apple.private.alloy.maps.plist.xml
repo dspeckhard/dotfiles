@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accounts</key>
+	<dict>
+		<key>C4E2E676-67D5-48CA-96FC-BA706C35621D</key>
+		<dict>
+			<key>AccountType</key>
+			<integer>1</integer>
+			<key>Aliases</key>
+			<array>
+				<dict>
+					<key>Alias</key>
+					<string>+14154205779</string>
+					<key>Status</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Alias</key>
+					<string>karl_backus_bcjsf@icloud.com</string>
+					<key>Status</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+			<key>AuthID</key>
+			<string>D:1616477672</string>
+			<key>HasEverRegistered</key>
+			<true/>
+			<key>LoginAs</key>
+			<string>karl_backus_bcjsf@icloud.com</string>
+			<key>Profile</key>
+			<dict>
+				<key>ErrorCode</key>
+				<integer>-1</integer>
+				<key>Number</key>
+				<string>+14154205779</string>
+				<key>Region</key>
+				<string>R:US</string>
+				<key>ServerContext</key>
+				<dict/>
+				<key>Status</key>
+				<integer>3</integer>
+			</dict>
+			<key>Registration</key>
+			<dict>
+				<key>ErrorCode</key>
+				<integer>14</integer>
+				<key>Status</key>
+				<integer>-1</integer>
+			</dict>
+			<key>ServerHost</key>
+			<string>init.ess.apple.com</string>
+			<key>ServiceName</key>
+			<string>com.apple.private.alloy.maps</string>
+			<key>VettedAliases</key>
+			<array>
+				<string>+14154205779</string>
+				<string>karl_backus_bcjsf@icloud.com</string>
+			</array>
+		</dict>
+	</dict>
+	<key>EnabledAccounts</key>
+	<array/>
+</dict>
+</plist>

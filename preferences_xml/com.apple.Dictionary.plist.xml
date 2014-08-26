@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dictionary preferences</key>
+	<dict>
+		<key>com.apple.dictionary.Wikipedia</key>
+		<dict>
+			<key>com.apple.Dictionary.onlineDictionary.networkNoticeShown</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>last available dictionaries</key>
+	<array>
+		<string>/Library/Dictionaries/New Oxford American Dictionary.dictionary</string>
+		<string>/Library/Dictionaries/Oxford American Writer's Thesaurus.dictionary</string>
+		<string>/Library/Dictionaries/Apple Dictionary.dictionary</string>
+		<string>/Library/Dictionaries/Shogakukan Progressive English-Japanese Japanese-English Dictionary.dictionary</string>
+		<string>/Library/Dictionaries/Shogakukan Daijisen.dictionary</string>
+		<string>/Library/Dictionaries/Shogakukan Ruigo Reikai Jiten.dictionary</string>
+		<string>/Library/Dictionaries/Oxford Thesaurus of English.dictionary</string>
+		<string>/Library/Dictionaries/Oxford Dictionary of English.dictionary</string>
+		<string>/System/Library/Frameworks/CoreServices.framework/Frameworks/DictionaryServices.framework/Resources/Wikipedia.wikipediadictionary</string>
+	</array>
+	<key>standard text size</key>
+	<integer>16</integer>
+	<key>version</key>
+	<integer>3</integer>
+	<key>window frames</key>
+	<array>
+		<string>23 135 540 322 0 0 1680 1028 </string>
+	</array>
+	<key>window settings</key>
+	<array>
+		<dict>
+			<key>dictionaries</key>
+			<array>
+				<dict>
+					<key>disclosure opened</key>
+					<true/>
+					<key>path</key>
+					<string>/Library/Dictionaries/New Oxford American Dictionary.dictionary</string>
+					<key>user choice</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>disclosure opened</key>
+					<true/>
+					<key>path</key>
+					<string>/Library/Dictionaries/Oxford American Writer's Thesaurus.dictionary</string>
+					<key>user choice</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>disclosure opened</key>
+					<true/>
+					<key>path</key>
+					<string>/Library/Dictionaries/Apple Dictionary.dictionary</string>
+					<key>user choice</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>disclosure opened</key>
+					<true/>
+					<key>path</key>
+					<string>/System/Library/Frameworks/CoreServices.framework/Frameworks/DictionaryServices.framework/Resources/Wikipedia.wikipediadictionary</string>
+					<key>sub-dictionaries</key>
+					<array>
+						<dict>
+							<key>disclosure opened</key>
+							<true/>
+							<key>identifier</key>
+							<string>com.apple.dictionary.Wikipedia-en</string>
+							<key>user choice</key>
+							<false/>
+						</dict>
+					</array>
+					<key>user choice</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>disclosure opened</key>
+					<true/>
+					<key>path</key>
+					<string>/Library/Dictionaries/Oxford Thesaurus of English.dictionary</string>
+					<key>user choice</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>disclosure opened</key>
+					<true/>
+					<key>path</key>
+					<string>/Library/Dictionaries/Oxford Dictionary of English.dictionary</string>
+					<key>user choice</key>
+					<false/>
+				</dict>
+			</array>
+			<key>image window frame</key>
+			<string>{{0, 0}, {0, 0}}</string>
+			<key>image window parent frame</key>
+			<string>{{0, 0}, {0, 0}}</string>
+			<key>index width</key>
+			<integer>100</integer>
+			<key>search method</key>
+			<integer>1</integer>
+			<key>window ID</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

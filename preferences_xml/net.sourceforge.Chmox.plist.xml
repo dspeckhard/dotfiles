@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Downloads</string>
+	<key>NSWindow Frame 575453f1a6ff53b1c97c929b76d3752b7aa28be0</key>
+	<string>315 169 973 771 0 0 1680 1028 </string>
+	<key>VersionChecker:daysBetweenAutomaticChecks</key>
+	<integer>7</integer>
+	<key>VersionChecker:firstTime</key>
+	<false/>
+	<key>VersionChecker:lastCheckDate</key>
+	<date>2011-06-21T23:54:02Z</date>
+</dict>
+</plist>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivitiesStartExpanded</key>
+	<true/>
+	<key>AlwaysShowTabBar</key>
+	<true/>
+	<key>BookmarkSourceSelectedIndex</key>
+	<integer>4</integer>
+	<key>BookmarksSidebarWidth</key>
+	<real>0.0</real>
+	<key>BookmarksToolbarProxiesWereConvertedForSafari4</key>
+	<true/>
+	<key>CachedBookmarksFileDate</key>
+	<real>430317315</real>
+	<key>CachedBookmarksFileDateNanoseconds</key>
+	<integer>0</integer>
+	<key>CachedBookmarksFileDateSeconds</key>
+	<integer>1382592365</integer>
+	<key>CachedBookmarksFileSize</key>
+	<integer>83000</integer>
+	<key>CalSuccessfulLaunchTimestampPreferenceKey</key>
+	<real>374455008</real>
+	<key>CollapsedBonjourFolders</key>
+	<array/>
+	<key>ConvertedNewWindowBehaviorForTopSites</key>
+	<true/>
+	<key>DidAddReadingListToBookmarksBar</key>
+	<true/>
+	<key>DidMigrateExtensionSettingsToExtensionsDomain</key>
+	<true/>
+	<key>DidMigrateNewBookmarkSheetToReadingListDefault</key>
+	<true/>
+	<key>DidMigrateTabsToLinksForReaderKey</key>
+	<true/>
+	<key>DidMigrateToMoreRestrictiveFileURLPolicy</key>
+	<true/>
+	<key>DidMigrateWebKit1Preferences</key>
+	<true/>
+	<key>DidPromptToFetchRecentHistoryPreviews</key>
+	<true/>
+	<key>DidReportHistorySettings</key>
+	<true/>
+	<key>DidUnsubscribeFromRSSFeeds</key>
+	<true/>
+	<key>DomainsToNeverSetUp</key>
+	<array>
+		<string>google.com</string>
+		<string>yahoo.com</string>
+		<string>facebook.com</string>
+	</array>
+	<key>DomainsWhereAutocompleteOffDeniedSaveOrFillOperation</key>
+	<array>
+		<string>webex.com</string>
+		<string>10.5.0.2</string>
+		<string>eyemedvisioncare.com</string>
+		<string>enwisen.com</string>
+	</array>
+	<key>DownloadsPath</key>
+	<string>~/Downloads</string>
+	<key>DownloadsPathWasConverted</key>
+	<true/>
+	<key>GestureNavSwipeTimeStamp</key>
+	<real>430289504</real>
+	<key>HasPendingDefaultSearchProvider</key>
+	<false/>
+	<key>HomePage</key>
+	<string>http://www.google.com/</string>
+	<key>IncludeDevelopMenu</key>
+	<true/>
+	<key>InputFieldWidthRatio</key>
+	<real>2.466292142868042</real>
+	<key>LastApplicationCacheMessageTraceTime</key>
+	<real>430711184.47271198</real>
+	<key>LastDisplayedWelcomePageVersionString</key>
+	<string>4.0</string>
+	<key>LastExtensionMessageTraceTime</key>
+	<real>430102554.79491401</real>
+	<key>LastInstalledPlugInsMessageTraceTime</key>
+	<real>430711187.95911902</real>
+	<key>LastOSVersionSafariWasLaunchedOn</key>
+	<string>10.9.4</string>
+	<key>LastSharedLinksMessageTraceTime</key>
+	<real>430099368.72252899</real>
+	<key>LocalFileRestrictionsEnabled</key>
+	<true/>
+	<key>ManagedPlugInPolicies</key>
+	<dict>
+		<key>com.2020technologies.2020Player-IKEA.NP</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.AdobeExManDetectLib.AdobeExManDetect</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.adobe.director_12_0.shockwave.pluginshim</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.apple.QuickTime Plugin.plugin</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+		<key>com.apple.plugin.iPhotoPhotocast</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.cisco_webex.plugin.gpc64</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.google.googletalkbrowserplugin</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.google.o1dbrowserplugin</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.google.o3d</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.macromedia.Flash Player.plugin</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+		<key>com.microsoft.SilverlightPlugin</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+		</dict>
+		<key>com.microsoft.officelive.browserplugin</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.unity.UnityWebPlayer</key>
+		<dict>
+			<key>PlugInDisallowPromptBeforeUseDialog</key>
+			<true/>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>com.webex.WebEx</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+		<key>net.telestream.wmv.plugin</key>
+		<dict>
+			<key>PlugInFirstVisitPolicy</key>
+			<string>PlugInPolicyAsk</string>
+		</dict>
+	</dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents/Projects/12520 Glen Ellen Cabin/2014 07 03 Update</string>
+	<key>NSNavLastUserSetHideExtensionButtonState</key>
+	<false/>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{1680, 400}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{1507, 562}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSPreferencesContentSize</key>
+	<string>{668, 148}</string>
+	<key>NSPreferencesSelectedIndex</key>
+	<integer>4</integer>
+	<key>NSTableView Columns Activity Viewer Outline</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB2FkZHJlc3OG
+		</data>
+		<string>317</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBnN0YXR1c4Y=
+		</data>
+		<string>75</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBHN0b3CG
+		</data>
+		<string>18</string>
+	</array>
+	<key>NSTableView Columns Activity Window</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB2FkZHJlc3OG
+		</data>
+		<string>795</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBnN0YXR1c4Y=
+		</data>
+		<string>250</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBHN0b3CG
+		</data>
+		<string>12</string>
+	</array>
+	<key>NSTableView Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<string>1000</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<string>88</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+		<string>60</string>
+	</array>
+	<key>NSTableView Hidden Columns Activity Viewer Outline</key>
+	<array/>
+	<key>NSTableView Hidden Columns Activity Window</key>
+	<array/>
+	<key>NSTableView Hidden Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+	</array>
+	<key>NSTableView Sort Ordering Activity Viewer Outline</key>
+	<array/>
+	<key>NSTableView Sort Ordering Activity Window</key>
+	<array/>
+	<key>NSTableView Sort Ordering NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<true/>
+	</array>
+	<key>NSTableView Sort Ordering Passwords Preferences</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErD0FkZHJlc3NDb2x1bW5JRIY=
+		</data>
+		<true/>
+	</array>
+	<key>NSToolbar Configuration BrowserToolbarIdentifier</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSToolbar Configuration BrowserWindowToolbarIdentifier</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSToolbar Configuration NSPreferences</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame ActivityViewer</key>
+	<string>40 84 1082 765 0 0 1680 1028 </string>
+	<key>NSWindow Frame Authentication Panel</key>
+	<string>626 696 424 251 0 0 1680 1028 </string>
+	<key>NSWindow Frame BrowserWindowFrame</key>
+	<string>13 77 1581 951 0 0 1680 1028 </string>
+	<key>NSWindow Frame Downloads</key>
+	<string>1305 66 347 365 0 0 1680 1028 </string>
+	<key>NSWindow Frame HTMLSource</key>
+	<string>710 321 930 683 0 0 1680 1028 </string>
+	<key>NSWindow Frame NewBookmarksSheet</key>
+	<string>615 752 330 204 0 0 1680 1028 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>67 163 593 390 0 0 1680 1028 </string>
+	<key>NSWindow Frame SourceWindowFrame</key>
+	<string>710 321 930 683 0 0 1680 1028 </string>
+	<key>NSWindow Frame WBBlockedPlugins</key>
+	<string>487 335 706 522 0 0 1680 1028 </string>
+	<key>NSWindow Frame WBCookiesAndOtherWebsiteData</key>
+	<string>528 425 625 442 0 0 1680 1028 </string>
+	<key>NSWindow Frame Web Inspector 2</key>
+	<string>246 266 1352 644 0 0 1680 1028 </string>
+	<key>NewBookmarksLocationUUID</key>
+	<string>FDD1BED2-5D82-4741-8F4A-18D2FFBE47DF</string>
+	<key>NewTabBehavior</key>
+	<integer>4</integer>
+	<key>NewWindowBehavior</key>
+	<integer>0</integer>
+	<key>NewestLaunchedSafariVersion</key>
+	<string>537.77.4</string>
+	<key>OpenWindows</key>
+	<array>
+		<string>BrowserWindowControllerMac</string>
+	</array>
+	<key>PMPrintingExpandedStateForPrint</key>
+	<true/>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<true/>
+	<key>PreviouslyAnnouncedBlockedPlugins</key>
+	<array>
+		<string>com.macromedia.Flash Player.plugin:11.6.602.167</string>
+		<string>com.macromedia.Flash Player.plugin:11.5.502.146</string>
+		<string>com.macromedia.Flash Player.plugin:11.3.300.268</string>
+	</array>
+	<key>PrintHeadersAndFooters</key>
+	<false/>
+	<key>ProxiesInBookmarksBar</key>
+	<array>
+		<string>Top Sites</string>
+		<string>Reading List</string>
+	</array>
+	<key>RecentSearchStrings</key>
+	<array>
+		<string>k+l wines</string>
+		<string>Amador Country Wineries</string>
+		<string>weather plymoth CA November</string>
+		<string>North in latin</string>
+		<string>revit to unity workflow</string>
+		<string>osc protocol</string>
+		<string>vivo monitor stand</string>
+		<string>bluecross blueshield californa</string>
+		<string>twelve south hirise</string>
+		<string>ioomobile</string>
+	</array>
+	<key>RegisteredSafariSyncClient</key>
+	<true/>
+	<key>RegisteredSafariSyncClientInSafari31Location</key>
+	<true/>
+	<key>RemoteConfigurationLastUpdateFailed</key>
+	<false/>
+	<key>RemoteConfigurationLastUpdateTime</key>
+	<real>430705656.32738602</real>
+	<key>SafariGeolocationPermissionPolicy</key>
+	<integer>1</integer>
+	<key>SearchProviderIdentifierMigratedToSystemPreference</key>
+	<true/>
+	<key>SearchProviderManifestLastUpdateFailed</key>
+	<false/>
+	<key>SearchProviderManifestLastUpdateTime</key>
+	<real>301790832.62698901</real>
+	<key>ShowReadingListInNewWindows</key>
+	<false/>
+	<key>ShowStatusBar</key>
+	<true/>
+	<key>SidebarViewModeIdentifier</key>
+	<string>Bookmarks</string>
+	<key>SuccessfulLaunchTimestamp</key>
+	<real>430366080</real>
+	<key>UserStyleSheetEnabled</key>
+	<false/>
+	<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
+	<true/>
+	<key>WebKitPDFScaleFactor</key>
+	<real>0.87435024976730347</real>
+	<key>WebKitRespectStandardStyleKeyEquivalents</key>
+	<true/>
+	<key>WebKitShouldPrintBackgroundsPreferenceKey</key>
+	<false/>
+	<key>__WebInspectorPageGroup__.WebKit2ApplicationChromeModeEnabled</key>
+	<true/>
+	<key>__WebInspectorPageGroup__.WebKit2InspectorStartsAttached</key>
+	<false/>
+	<key>__WebInspectorPageGroup__.WebKit2SuppressesIncrementalRendering</key>
+	<true/>
+	<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultTextEncodingName</key>
+	<string>iso-8859-1</string>
+	<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
+	<true/>
+	<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2InspectorWindowFrame</key>
+	<string>{{340, 279}, {1000, 672}}</string>
+	<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PDFScaleFactor</key>
+	<real>0.0</real>
+	<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2ShouldPrintBackgrounds</key>
+	<false/>
+	<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2StorageBlockingPolicy</key>
+	<integer>1</integer>
+	<key>com.apple.Safari.ReaderPageGroupIdentifier.WebKit2DatabasesEnabled</key>
+	<false/>
+	<key>com.apple.Safari.ReadingListFetcher.WebKit2JavaScriptEnabled</key>
+	<false/>
+	<key>com.apple.Safari.ReadingListFetcher.WebKit2LoadsImagesAutomatically</key>
+	<false/>
+	<key>com.apple.Safari.ReadingListFetcher.WebKit2LoadsSiteIconsIgnoringImageLoadingPreference</key>
+	<true/>
+	<key>com.apple.Safari.ReadingListFetcher.WebKit2PluginsEnabled</key>
+	<false/>
+	<key>com.apple.WebKit.searchField:Apple.com Reseller</key>
+	<array>
+		<string>94108</string>
+	</array>
+	<key>com.apple.WebKit.searchField:LT_quickSearch</key>
+	<array>
+		<string>Pawson</string>
+	</array>
+	<key>com.apple.WebKit.searchField:applestyle_srch</key>
+	<array>
+		<string>Exponents Credenza</string>
+	</array>
+</dict>
+</plist>

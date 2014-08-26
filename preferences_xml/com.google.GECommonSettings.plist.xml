@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LayersVisibility.http:__kh·google·com:80_.1st Level Admin Borders (States_Provinces)</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.1st Level Admin Names (States_Provinces)</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.2nd Level Admin Regions (Counties)</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.360 Cities</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Campsites</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Coastlines</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Country Names</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Forest Service Facilities</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Gray </key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.International Borders</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Islands</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Lookouts</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.National Forest Boundaries</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Panoramio</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Park Boundaries</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Park Descriptions</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Parks </key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Photorealistic </key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Picnic Areas</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Places </key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Populated Places</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Roads</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Roadside Park</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Trail Junctions</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Trailhead</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Trails</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Trees</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Visitor Facilities</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Water Bodies</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.Winter Recreation Area</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_geographic_features_en·kml.Mountains</key>
+	<true/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.ARKive: Endangered Species</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Appalachian Mountaintop Removal</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Earthwatch Expeditions</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Fair Trade Certified</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Global Heritage Fund</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Greenpeace</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Jane Goodall's Gombe Chimpanzee Blog</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.The Earth from Above with GoodPlanet</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.The Elders: Every Human Has Rights</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.UNDP: Millennium Development Goals Monitor</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.UNEP: Atlas of Our Changing Environment</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.USHMM: Crisis in Darfur</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.USHMM: World is Witness</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.Unicef: Water and Sanitation</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.WWF Conservation Projects</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-earth-vectordb_outreach_root2_root_en·kmz.WaterAid</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-ocean_ocean_root_1_root_en·kmz.Explore the Ocean</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-weather_base_files_kml_weather_en·kmz.Clouds</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-weather_base_files_kml_weather_en·kmz.Conditions and Forecasts</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-weather_base_files_kml_weather_en·kmz.Information</key>
+	<false/>
+	<key>LayersVisibility.http:__kh·google·com:80_.http:__mw1·google·com_mw-weather_base_files_kml_weather_en·kmz.Radar</key>
+	<false/>
+	<key>WMSServers</key>
+	<string>http://atlas.walis.wa.gov.au/servlet/com.esri.wms.Esrimap http://blackice.pfc.forestry.ca/cubestor/cubeserv/cubeserv.cgi http://ceoware2.ccrs.nrcan.gc.ca/cubewerx/cubeserv/cubeserv.cgi http://cgdi-dev.geoconnections.org/cgi-bin/tomatlasmapper http://cgns.nrcan.gc.ca/wms/cubeserv.cgi http://clearinghouse1.fgdc.gov/scripts/ogc/ms.pl http://demo.cubewerx.com/demo/cubeserv/cubeserv.cgi http://dev.geographynetwork.ca/ogcwms/servlet/com.esri.ogc.wms.WMSServlet http://edcw2ks51.cr.usgs.gov/servlet/com.esri.wms.Esrimap http://gis.vibamt.dk/ArealInfo/AI_WMS.asp http://gisdata.usgs.net/servlet/com.esri.wms.Esrimap http://globe.digitalearth.gov/viz-bin/wmt.cgi http://iceds.ge.ucl.ac.uk/cgi-bin/wms http://linuxgurrl.agr.ca/cgi-bin/mapeco http://maps.customweather.com/image http://maps1.intergraph.com/wms/ussample/request.asp http://maps1.intergraph.com/wms/world/request.asp http://mapserv2.esrin.esa.it/cubestor/cubeserv/cubeserv.cgi http://mapster.esri.com/ows1/servlet/com.esri.ogc.wms.WMSServlet http://nautilus.baruch.sc.edu/wms/seacoos_in_situ http://nautilus.baruch.sc.edu/wms/seacoos_rs http://redspider.us/CarbonProject/wfs/BOSTON_PG http://regis.intergraph.com/wfs/dcmetro/request.asp http://slkapps2.env.gov.bc.ca/servlet/com.esri.wms.Esrimap http://terraservice.net/ogccapabilities.ashx http://wms.cits.nrcan.gc.ca/cgi-bin/cubeserv.cgi http://wms.jpl.nasa.gov/wms.cgi http://www.demis.nl/mapserver/request.asp http://www.geographynetwork.com/servlet/com.esri.wms.Esrimap http://www.gis2.nrw.de/wmsconnector/wms/stobo http://www.gworks.ca/site/lib/wms/simple_wms.php http://www.lifemapper.org/Services/WMS/ http://www.nztopoonline.linz.govt.nz/wmsconnector/com.esri.wms.Esrimap http://www2.demis.nl/mapserver/request.asp http://www2.dmsolutions.ca/cgi-bin/mswms_gmap </string>
+</dict>
+</plist>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pmcache 5</key>
+	<dict>
+		<key>file://localhost/Library/Printers/Canon/CUPSCMFP/PBMs/IOM_BackGrounder.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>2.30</string>
+			<key>kIOMBrowserPath</key>
+			<string>/Library/Printers/Canon/CUPSCMFP/PBMs/PBM_BackGrounder.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>Canon_CUPS_CMFP_BackGrounder</string>
+		</dict>
+		<key>file://localhost/Library/Printers/Canon/CUPSCMFP/PBMs/IOM_LPRv6.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>2.30</string>
+			<key>kIOMBrowserPath</key>
+			<string>/Library/Printers/Canon/CUPSCMFP/PBMs/PBM_LPRv6.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>Canon_CUPS_CMFP_LPRv6</string>
+		</dict>
+		<key>file://localhost/Library/Printers/Canon/UFR2/IOMs/BG_IOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>2.30</string>
+			<key>kIOMBrowserPath</key>
+			<string>/Library/Printers/Canon/UFR2/PBMs/PBM_BackGrounder.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>Canon_MCD_UFR2_BackGrounder</string>
+		</dict>
+		<key>file://localhost/Library/Printers/Canon/UFR2/IOMs/LPR_IOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>2.30</string>
+			<key>kIOMBrowserPath</key>
+			<string>/Library/Printers/Canon/UFR2/PBMs/PBM_LPR.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>MCD_UFR2_LPR</string>
+		</dict>
+		<key>file://localhost/Library/Printers/Canon/UFR2/IOMs/LPRv6_IOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>2.30</string>
+			<key>kIOMBrowserPath</key>
+			<string>/Library/Printers/Canon/UFR2/PBMs/PBM_LPRv6.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>MCD_UFR2_LPRv6</string>
+		</dict>
+		<key>file://localhost/System/Library/Printers/IOMs/BluetoothIOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>6.3</string>
+			<key>kIOMBrowserPath</key>
+			<string>../../PBMs/PB_Bluetooth.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>Bluetooth</string>
+		</dict>
+		<key>file://localhost/System/Library/Printers/IOMs/DNSSDIOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>6.3</string>
+			<key>kIOMBrowserPath</key>
+			<string>../../PBMs/PB_DNSSD.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>DNSSD</string>
+		</dict>
+		<key>file://localhost/System/Library/Printers/IOMs/LPRIOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>6.3</string>
+			<key>kIOMBrowserPath</key>
+			<string>../../PBMs/PB_LPR.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>LPR</string>
+		</dict>
+		<key>file://localhost/System/Library/Printers/IOMs/USBIOM.plugin/</key>
+		<dict>
+			<key>Bundle Version</key>
+			<string>6.3</string>
+			<key>kIOMBrowserPath</key>
+			<string>../../PBMs/PB_USB.plugin</string>
+			<key>kIOMConnectionType</key>
+			<string>USB</string>
+		</dict>
+		<key>file://localhost/System/Library/Printers/PMs/PSPM.plugin/</key>
+		<dict>
+			<key>Bluetooth</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>Bundle Version</key>
+			<string>6.3</string>
+			<key>Canon_CUPS_CMFP_BackGrounder</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>Canon_CUPS_CMFP_LPRv6</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>Canon_MCD_UFR2_BackGrounder</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>DNSSD</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>LPR</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>MCD_UFR2_LPR</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>MCD_UFR2_LPRv6</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+			<key>USB</key>
+			<array>
+				<dict>
+					<key>Apple PostScript Printer Module</key>
+					<true/>
+					<key>Printer Browser DeviceID</key>
+					<string>CMD:PostScript</string>
+					<key>Printer Browser Info</key>
+					<string>LaserWriter</string>
+					<key>Printer Browser Kind</key>
+					<string>PostScript printer</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

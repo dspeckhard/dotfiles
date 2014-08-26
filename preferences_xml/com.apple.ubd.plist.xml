@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MMeConfig</key>
+	<dict>
+		<key>sync.client</key>
+		<dict>
+			<key>http.timeout</key>
+			<integer>180</integer>
+			<key>p2p.enabled</key>
+			<false/>
+			<key>polling.interval.seconds</key>
+			<integer>86400</integer>
+		</dict>
+	</dict>
+	<key>MMeConfigNextFetch</key>
+	<integer>1404430272</integer>
+	<key>hwUUID.1616477672.0</key>
+	<string>3A36874C-86F2-5EE4-B7AF-560C46C12CA7</string>
+	<key>hwUUID.56721848.0</key>
+	<string>3A36874C-86F2-5EE4-B7AF-560C46C12CA7</string>
+	<key>hwUUID.dummy.0</key>
+	<string>3A36874C-86F2-5EE4-B7AF-560C46C12CA7</string>
+	<key>indirectUUID.1616477672.0</key>
+	<string>C80ADFB1-C35C-4A06-BADB-CDAB759BA54A</string>
+	<key>indirectUUID.56721848.0</key>
+	<string>D9880FD5-F506-4C7F-9A59-AA733182525D</string>
+	<key>indirectUUID.dummy.0</key>
+	<string>2650C531-28C5-44A1-842C-4E3FA1CC569F</string>
+	<key>kUBSyncEnabledKey</key>
+	<false/>
+	<key>peerUUID.dummy.0</key>
+	<string>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</string>
+	<key>peerUUIDv24.1616477672.0</key>
+	<string>F432A2C0-0690-417D-ADBA-6C1EA734ECCD</string>
+	<key>peerUUIDv24.56721848.0</key>
+	<string>34CA9385-309F-4106-BC1E-6FD88B74564E</string>
+	<key>peerUUIDv24.dummy.0</key>
+	<string>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</string>
+</dict>
+</plist>

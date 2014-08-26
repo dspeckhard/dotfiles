@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>always_never_send</key>
+	<integer>0</integer>
+	<key>closeOnCRCNNotFoundFlag</key>
+	<integer>0</integer>
+	<key>guid_dspeckhard</key>
+	<string>74B704BD-6C0B-41C0-9838-F6F2818D5477</string>
+	<key>lastCrash_dspeckhard_Adobe Bridge CS4</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe Bridge CS5</key>
+	<string>Adobe Bridge CS5_2012-08-30-133623_MAC221.crash</string>
+	<key>lastCrash_dspeckhard_Adobe Bridge CS6</key>
+	<string>Adobe Bridge CS6_2013-08-07-083418_MAC221.crash</string>
+	<key>lastCrash_dspeckhard_Adobe Device Central CS5</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe Illustrator</key>
+	<string>Adobe Illustrator_2013-01-02-232235_MAC221.crash</string>
+	<key>lastCrash_dspeckhard_Adobe InDesign CS4</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe InDesign CS5</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe InDesign CS6</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe Photoshop CS4</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe Photoshop CS5</key>
+	<string>-1</string>
+	<key>lastCrash_dspeckhard_Adobe Photoshop CS6</key>
+	<string>-1</string>
+	<key>search_solution</key>
+	<integer>0</integer>
+</dict>
+</plist>

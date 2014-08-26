@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSWindow Frame XStreamRipper</key>
+	<string>306 464 671 490 0 0 1680 1028 </string>
+	<key>SUCheckAtStartup</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2010-12-10T21:32:03Z</date>
+	<key>addid3</key>
+	<false/>
+	<key>countfiles</key>
+	<false/>
+	<key>downloadpath</key>
+	<string>/Users/dspeckhard/Music/</string>
+	<key>makerelay</key>
+	<true/>
+	<key>overwritetracks</key>
+	<false/>
+	<key>proxyurl</key>
+	<string></string>
+	<key>radiostreams</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAROb2RlAISECE5TT2JqZWN0AIWShISECE5TU3Ry
+	aW5nAZSEASsEUm9vdIaShJaWAIaShISEDk5TTXV0YWJsZUFycmF5AISEB05TQXJyYXkA
+	lIQBaQOShJOShJaWF0RyYWcnbidkcm9wIGZyb20gaVR1bmVzhpKXkoSZmQCGkpKZAIaS
+	hJOShJaWGkRyYWcnbidkcm9wIGZyb20gd2ViIHBhZ2VzhpKXkoSZmQCGkpKZAIaShJOS
+	hJaWFFVzZSB0aGUgVHVuZXIgbWVudSAhhpKXkoSZmQCGkpKZAIaGkoWZAIY=
+	</data>
+	<key>relayport</key>
+	<integer>8000</integer>
+	<key>searchports</key>
+	<true/>
+	<key>separatedirs</key>
+	<true/>
+	<key>singlefile</key>
+	<false/>
+	<key>useproxy</key>
+	<false/>
+	<key>useragent</key>
+	<string>iTunes/7.0 (Macintosh; U; PPC Mac OS X 10.4.7)</string>
+</dict>
+</plist>

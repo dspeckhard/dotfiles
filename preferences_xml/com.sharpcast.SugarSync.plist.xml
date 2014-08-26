@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppPrefs.WindowHeight</key>
+	<integer>49</integer>
+	<key>AppPrefs.WindowWidth</key>
+	<integer>1045</integer>
+	<key>Connection.ThrottlePercent</key>
+	<integer>80</integer>
+	<key>General.DeleteAppData</key>
+	<false/>
+	<key>General.DontShowWelcomeScreen</key>
+	<integer>1</integer>
+	<key>General.IconOverlaysEnabled</key>
+	<true/>
+	<key>General.Language</key>
+	<string>en_us</string>
+	<key>General.LastBulletinDisplayTime</key>
+	<integer>1348071182</integer>
+	<key>General.LastEventLogTime</key>
+	<integer>1365007041</integer>
+	<key>General.MacMenubarIconBlackWhiteEnabled</key>
+	<true/>
+	<key>General.NextLowUsageToastTime</key>
+	<integer>0</integer>
+	<key>General.SetupCompleted</key>
+	<true/>
+	<key>General.SetupInitiated</key>
+	<true/>
+	<key>General.UpgradeWindowDisplayTime</key>
+	<integer>1360613095</integer>
+	<key>General.configWidgetHeight</key>
+	<integer>549</integer>
+	<key>General.configWidgetWidth</key>
+	<integer>786</integer>
+</dict>
+</plist>

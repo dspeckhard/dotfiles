@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSColorPanelMode</key>
+	<string>6</string>
+	<key>NSColorPanelMode.modal</key>
+	<integer>6</integer>
+	<key>NSColorPanelToolbarIsShown.modal</key>
+	<integer>1</integer>
+	<key>NSColorPanelVisibleSwatchRows.modal</key>
+	<integer>1</integer>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSWindow Frame NSColorPanel</key>
+	<string>367 342 201 309 0 0 1680 1028 </string>
+	<key>NSWindow Frame NSColorPanel.modal</key>
+	<string>739 572 201 309 0 0 1680 1028 </string>
+	<key>PMPrintingExpandedStateForPrint</key>
+	<true/>
+</dict>
+</plist>

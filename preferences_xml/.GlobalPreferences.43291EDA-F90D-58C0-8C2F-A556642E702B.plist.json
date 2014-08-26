@@ -1,0 +1,29 @@
+{
+  "com.apple.trackpad.fourFingerHorizSwipeGesture" : true,
+  "com.apple.CommonPanels.CalibrateDisplay.seed" : -1120508567,
+  "com.apple.trackpad.rotateGesture" : false,
+  "com.apple.trackpad.enableSecondaryClick" : true,
+  "com.apple.mouse.swapLeftRightButton" : false,
+  "com.apple.trackpad.pinchGesture" : false,
+  "com.apple.trackpad.scrollBehavior" : 2,
+  "com.apple.CommonPanels.CalibrateDisplay.identifier-0CE010C1" : "com.apple.ColorSyncCalibrator",
+  "com.apple.ColorSync.Devices" : {
+    "Device.mntr.00000C33-0000-8043-0000-00000CE010C1" : {
+      "CustomProfiles" : {
+        "1" : "\/Users\/dspeckhard\/Library\/ColorSync\/Profiles\/CASIO-PJ Calibrated.icc"
+      }
+    },
+    "Device.mntr.00001C45-0000-0001-0000-000111400041" : {
+      "CustomProfiles" : {
+        "1" : "\/Users\/dspeckhard\/Library\/ColorSync\/Profiles\/Grandbeing Calibrated.icc"
+      }
+    }
+  },
+  "com.apple.trackpad.threeFingerSwipeGesture" : true,
+  "com.apple.trackpad.fourFingerNavigationHorizSwipeGesture" : false,
+  "com.apple.trackpad.fourFingerVertSwipeGesture" : true,
+  "com.apple.CommonPanels.CalibrateDisplay.identifier-11400041" : "com.apple.ColorSyncCalibrator",
+  "com.apple.trackpad.momentumScroll" : true,
+  "com.apple.trackpad.threeFingerDragginGesture" : false,
+  "com.apple.trackpad.fourFingerNavigationVertSwipeGesture" : false
+}

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adobe Application Manager</key>
+	<dict>
+		<key>Date</key>
+		<string>2012-09-06T19:28:13Z</string>
+		<key>OptIn</key>
+		<integer>0</integer>
+	</dict>
+	<key>CRProcessor</key>
+	<dict>
+		<key>Adobe Bridge CS6</key>
+		<string>/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/LogTransport2</string>
+		<key>Adobe Illustrator</key>
+		<string>/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/LogTransport2</string>
+		<key>Adobe InDesign CS6</key>
+		<string>/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/LogTransport2</string>
+		<key>Adobe Photoshop CS5</key>
+		<string>/Applications/Adobe Photoshop CS5/Adobe Photoshop CS5.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/LogTransport2</string>
+		<key>Adobe Photoshop CS6</key>
+		<string>/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/LogTransport2</string>
+		<key>InDesign CS5</key>
+		<string>/Applications/Adobe InDesign CS5/Adobe InDesign CS5.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/LogTransport2</string>
+	</dict>
+	<key>CS5</key>
+	<dict>
+		<key>Adobe BridgeSerialState</key>
+		<integer>3</integer>
+		<key>Adobe Photoshop CS5SerialState</key>
+		<integer>2</integer>
+		<key>Date</key>
+		<string>2012-08-22T15:42:29Z</string>
+		<key>Demographic</key>
+		<dict>
+			<key>CompanySize</key>
+			<string>3</string>
+			<key>CountryOrRegion</key>
+			<string>1</string>
+			<key>Industry</key>
+			<string>2</string>
+			<key>JobFunction</key>
+			<string>1</string>
+		</dict>
+		<key>InDesign CS5SerialState</key>
+		<integer>2</integer>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS5Headlights</key>
+	<dict>
+		<key>Adobe Bridge</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>3</integer>
+		</dict>
+		<key>Adobe Illustrator</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>3</integer>
+		</dict>
+		<key>Adobe Photoshop CS5</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>5</integer>
+		</dict>
+		<key>AppBitSet</key>
+		<integer>21627137</integer>
+		<key>CapsModDate</key>
+		<integer>1347316944</integer>
+		<key>Device Central</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>2</integer>
+		</dict>
+		<key>InDesign CS5</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>CS6</key>
+	<dict>
+		<key>Adobe BridgeSerialState</key>
+		<integer>3</integer>
+		<key>Adobe IllustratorSerialState</key>
+		<integer>2</integer>
+		<key>Adobe Photoshop CS6SerialState</key>
+		<integer>2</integer>
+		<key>Date</key>
+		<string>2012-09-12T04:35:22Z</string>
+		<key>Demographic</key>
+		<dict>
+			<key>CompanySize</key>
+			<string>3</string>
+			<key>CountryOrRegion</key>
+			<string>1</string>
+			<key>Industry</key>
+			<string>2</string>
+			<key>JobFunction</key>
+			<string>1</string>
+		</dict>
+		<key>InDesign CS6SerialState</key>
+		<integer>2</integer>
+		<key>LiloSerialState</key>
+		<integer>2</integer>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6Headlights</key>
+	<dict>
+		<key>Adobe Bridge</key>
+		<dict>
+			<key>Build</key>
+			<string>20121225.five.4</string>
+			<key>LaunchCounter</key>
+			<integer>4</integer>
+			<key>Prerelease</key>
+			<integer>0</integer>
+		</dict>
+		<key>Adobe Illustrator</key>
+		<dict>
+			<key>Build</key>
+			<string>691</string>
+			<key>Prerelease</key>
+			<integer>0</integer>
+		</dict>
+		<key>Adobe Photoshop CS6</key>
+		<dict>
+			<key>Build</key>
+			<string>13.0.6 20131025.r.54 2013/10/25:21:00:00</string>
+			<key>LaunchCounter</key>
+			<integer>5</integer>
+			<key>Prerelease</key>
+			<integer>0</integer>
+		</dict>
+		<key>AppBitSet</key>
+		<integer>917504</integer>
+		<key>CapsModDate</key>
+		<integer>1389842696</integer>
+		<key>InDesign CS6</key>
+		<dict>
+			<key>Build</key>
+			<string>413</string>
+			<key>LaunchCounter</key>
+			<integer>2</integer>
+			<key>Prerelease</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>CS6_CS6_Adobe Bridge_5.0.0.399 (326560)</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Bridge_5.0.1.21 (366323)</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Bridge_5.0.2.4 (410516)</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Illustrator_16.0.0</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Illustrator_16.0.1</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Illustrator_16.0.3</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Illustrator_16.0.4</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Photoshop CS6_13.0.1</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Photoshop CS6_13.0.4</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Photoshop CS6_13.0.5</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Adobe Photoshop CS6_13.0.6</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_InDesign CS6_8.0</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_InDesign CS6_8.0.1</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_InDesign CS6_8.0.2</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>CS6_CS6_Lilo_6.0</key>
+	<dict>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>Exchange-Pro 9</key>
+	<dict>
+		<key>Date</key>
+		<string>2012-08-22T15:42:29Z</string>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>GUID</key>
+	<string>0BF7149C-7E97-4E4C-9064-E2918EA1996D</string>
+</dict>
+</plist>

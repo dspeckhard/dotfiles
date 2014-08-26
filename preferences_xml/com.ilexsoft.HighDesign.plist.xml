@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavLastUserSetHideExtensionButtonState:PutFile:0</key>
+	<false/>
+	<key>NSNavPanelExpandedSizeForOpenMode:GetFile:0</key>
+	<string>{537, 400}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode:PutFile:0</key>
+	<string>{537, 422}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>PMPrintingExpandedStateForPrint</key>
+	<false/>
+</dict>
+</plist>

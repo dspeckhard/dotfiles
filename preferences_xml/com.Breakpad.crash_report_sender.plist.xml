@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chrome_Mac</key>
+	<dict>
+		<key>LastSubmission</key>
+		<real>427732642.96692097</real>
+	</dict>
+	<key>clientid</key>
+	<string>ec1e96eb384b1c35c91eb4</string>
+	<key>com.apple.PreferenceSync.ExcludeAllSyncKeys</key>
+	<true/>
+</dict>
+</plist>

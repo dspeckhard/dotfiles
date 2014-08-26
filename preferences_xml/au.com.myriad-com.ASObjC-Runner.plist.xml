@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSWindow Frame SUUpdateAlertFrame</key>
+	<string>672 590 575 392 0 0 1920 1178 </string>
+	<key>SMSCheckForUpdates</key>
+	<false/>
+	<key>SMSLastUpdateCheck</key>
+	<date>2012-07-14T18:28:46Z</date>
+	<key>SULastCheckTime</key>
+	<date>2012-07-14T18:28:46Z</date>
+	<key>appHasRun</key>
+	<true/>
+	<key>statusMenuShowing</key>
+	<false/>
+</dict>
+</plist>

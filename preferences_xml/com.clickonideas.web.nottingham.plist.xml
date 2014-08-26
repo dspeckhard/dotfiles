@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Notes</string>
+	<key>NSSplitView Subview Frames splitLandscape</key>
+	<array>
+		<string>0.000000, 0.000000, 239.000000, 895.000000, NO</string>
+		<string>240.000000, 0.000000, 1440.000000, 895.000000, NO</string>
+	</array>
+	<key>NSWindow Frame mainWindowLandscape</key>
+	<string>0 89 1680 939 0 0 1680 1028 </string>
+	<key>SULastCheckTime</key>
+	<date>2013-06-11T23:28:03Z</date>
+	<key>defaultFolder</key>
+	<string>/Users/dspeckhard/Notes</string>
+	<key>noteBackgroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAYPq1nw/g+rWfD8Bhg==
+	</data>
+	<key>noteFontColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZgABhg==
+	</data>
+	<key>numberOfPreviewLines</key>
+	<integer>3</integer>
+</dict>
+</plist>

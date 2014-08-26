@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BindPort</key>
+	<integer>51413</integer>
+	<key>CheckDownload</key>
+	<true/>
+	<key>CheckStalled</key>
+	<true/>
+	<key>CheckUpload</key>
+	<true/>
+	<key>CollapsedGroups</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhBFOU011dGFibGVJbmRleFNldACEhApOU0luZGV4
+	U2V0AISECE5TT2JqZWN0AIWEAUkAhg==
+	</data>
+	<key>DisplayPeerProgressBarNumber</key>
+	<false/>
+	<key>DonateAskDate</key>
+	<date>2010-12-25T03:46:27Z</date>
+	<key>DownloadLimit</key>
+	<integer>60</integer>
+	<key>FilterSearchType</key>
+	<string>Name</string>
+	<key>GroupDicts</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGk5RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoK8QJQcIFB8gISIoLi8wND4/QiZDTVBRUlxfYGFrbm9wen1+f4mNjo9VJG51bGzS
+	CQoLE1pOUy5vYmplY3RzViRjbGFzc6cMDQ4PEBESgAKAC4AQgBSAGIAcgCCAJNMVCQoW
+	Gh5XTlMua2V5c6MXGBmAA4AEgAWjGxwdgAaACIAJgApVQ29sb3JUTmFtZVVJbmRleNMj
+	JAolJidVTlNSR0JcTlNDb2xvclNwYWNlRjEgMCAwABABgAfSKSorLFokY2xhc3NuYW1l
+	WCRjbGFzc2VzV05TQ29sb3KiKy1YTlNPYmplY3RTUmVkEADSKSoxMl8QE05TTXV0YWJs
+	ZURpY3Rpb25hcnmjMTMtXE5TRGljdGlvbmFyedMVCQo1OR6jNhgZgAyABIAFozo7PIAN
+	gA6AD4AKVUNvbG9y0yMkCkAmJ0gxIDAuNSAwAIAHVk9yYW5nZdMVCQpESB6jNhgZgAyA
+	BIAFo0lKS4ARgBKAE4AK0yMkCk4mJ0YxIDEgMACAB1ZZZWxsb3cQAtMVCQpTVx6jNhgZ
+	gAyABIAFo1hZWoAVgBaAF4AK0yMkCl0mJ0YwIDEgMACAB1VHcmVlbhAD0xUJCmJmHqM2
+	GBmADIAEgAWjZ2hpgBmAGoAbgArTIyQKbCYnRjAgMCAxAIAHVEJsdWUQBNMVCQpxdR6j
+	NhgZgAyABIAFo3Z3eIAdgB6AH4AK0yMkCnsmJ0owLjUgMCAwLjUAgAdWUHVycGxlEAXT
+	FQkKgIQeozYYGYAMgASABaOFhoeAIYAigCOACtOKJAqLYCdXTlNXaGl0ZUQwLjUAgAdU
+	R3JheRAG0ikqkJFeTlNNdXRhYmxlQXJyYXmjkJItV05TQXJyYXlfEA9OU0tleWVkQXJj
+	aGl2ZXLRlZZUcm9vdIABAAgAEQAaACMALQAyADcAXwBlAGoAdQB8AIQAhgCIAIoAjACO
+	AJAAkgCUAJsAowCnAKkAqwCtALEAswC1ALcAuQC/AMQAygDRANcA5ADrAO0A7wD0AP8B
+	CAEQARMBHAEgASIBJwE9AUEBTgFVAVkBWwFdAV8BYwFlAWcBaQFrAXEBeAGBAYMBigGR
+	AZUBlwGZAZsBnwGhAaMBpQGnAa4BtQG3Ab4BwAHHAcsBzQHPAdEB1QHXAdkB2wHdAeQB
+	6wHtAfMB9QH8AgACAgIEAgYCCgIMAg4CEAISAhkCIAIiAicCKQIwAjQCNgI4AjoCPgJA
+	AkICRAJGAk0CWAJaAmECYwJqAm4CcAJyAnQCeAJ6AnwCfgKAAocCjwKUApYCmwKdAqIC
+	sQK1Ar0CzwLSAtcAAAAAAAACAQAAAAAAAACXAAAAAAAAAAAAAAAAAAAC2Q==
+	</data>
+	<key>IdleLimitCheck</key>
+	<true/>
+	<key>IdleLimitMinutes</key>
+	<integer>30</integer>
+	<key>InfoVisible</key>
+	<false/>
+	<key>InspectorContentHeightFiles</key>
+	<real>365</real>
+	<key>InspectorContentHeightPeers</key>
+	<real>604</real>
+	<key>InspectorContentHeightTracker</key>
+	<real>740</real>
+	<key>InspectorSelected</key>
+	<string>Files</string>
+	<key>LocalPeerDiscoveryGlobal</key>
+	<true/>
+	<key>MessageLevel</key>
+	<integer>1</integer>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/WDRaid/Media/TV Shows/Elementary</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{585, 400}</string>
+	<key>NSTableView Columns InspectorTable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErAklQhg==
+		</data>
+		<string>113</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBkNsaWVudIY=
+		</data>
+		<string>229</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCkVuY3J5cHRpb26G
+		</data>
+		<string>14</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCFByb2dyZXNzhg==
+		</data>
+		<string>32</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB0RMIEZyb22G
+		</data>
+		<string>38</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBVVMIFRvhg==
+		</data>
+		<string>39</string>
+	</array>
+	<key>NSTableView Columns InspectorTableWebSeeds</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB0FkZHJlc3OG
+		</data>
+		<string>439</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB0RMIEZyb22G
+		</data>
+		<string>38</string>
+	</array>
+	<key>NSTableView Columns LogTableView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBUxldmVshg==
+		</data>
+		<string>14</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBERhdGWG
+		</data>
+		<string>208</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBE5hbWWG
+		</data>
+		<string>99</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB01lc3NhZ2WG
+		</data>
+		<string>796</string>
+	</array>
+	<key>NSTableView Hidden Columns InspectorTable</key>
+	<array/>
+	<key>NSTableView Hidden Columns InspectorTableWebSeeds</key>
+	<array/>
+	<key>NSTableView Hidden Columns LogTableView</key>
+	<array/>
+	<key>NSTableView Sort Ordering InspectorTable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErAklQhg==
+		</data>
+		<true/>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBkNsaWVudIY=
+		</data>
+		<true/>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB0RMIEZyb22G
+		</data>
+		<false/>
+	</array>
+	<key>NSTableView Sort Ordering InspectorTableWebSeeds</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB0FkZHJlc3OG
+		</data>
+		<true/>
+	</array>
+	<key>NSTableView Sort Ordering LogTableView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBERhdGWG
+		</data>
+		<true/>
+	</array>
+	<key>NSWindow Frame AddMagnetWindow</key>
+	<string>755 165 400 260 0 0 1680 1028 </string>
+	<key>NSWindow Frame AddWindow</key>
+	<string>913 437 627 465 0 0 1680 1028 </string>
+	<key>NSWindow Frame InspectorWindow</key>
+	<string>269 513 505 456 0 0 1680 1028 </string>
+	<key>NSWindow Frame MessageWindowFrame</key>
+	<string>165 238 1144 600 0 0 1680 1028 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>1161 631 384 129 0 0 1680 1028 </string>
+	<key>NSWindow Frame TransmissionWindow</key>
+	<string>1 478 728 550 0 0 1680 1028 </string>
+	<key>PeersTorrent</key>
+	<integer>400</integer>
+	<key>PeersTotal</key>
+	<integer>400</integer>
+	<key>PiecesViewShowAvailability</key>
+	<false/>
+	<key>PlayDownloadSound</key>
+	<false/>
+	<key>Queue</key>
+	<true/>
+	<key>QueueDownloadNumber</key>
+	<integer>120</integer>
+	<key>QueueSeed</key>
+	<true/>
+	<key>QueueSeedNumber</key>
+	<integer>30</integer>
+	<key>RPC</key>
+	<true/>
+	<key>RPCPort</key>
+	<integer>9091</integer>
+	<key>RPCUseWhitelist</key>
+	<true/>
+	<key>RatioCheck</key>
+	<true/>
+	<key>RatioLimit</key>
+	<real>3</real>
+	<key>RemoveWhenFinishSeeding</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-08-09T22:16:19Z</date>
+	<key>SelectedPrefView</key>
+	<string>TOOLBAR_BANDWIDTH</string>
+	<key>SmallView</key>
+	<false/>
+	<key>SortByGroup</key>
+	<true/>
+	<key>SpeedLimit</key>
+	<false/>
+	<key>SpeedLimitAuto</key>
+	<true/>
+	<key>SpeedLimitAutoOffDate</key>
+	<date>2000-01-01T15:00:00Z</date>
+	<key>SpeedLimitAutoOnDate</key>
+	<date>1999-12-31T08:00:00Z</date>
+	<key>SpeedLimitDownloadLimit</key>
+	<integer>6000</integer>
+	<key>SpeedLimitUploadLimit</key>
+	<integer>6000</integer>
+	<key>StalledMinutes</key>
+	<integer>5</integer>
+	<key>UploadLimit</key>
+	<integer>60</integer>
+	<key>WarningDonate</key>
+	<false/>
+	<key>WarningLegal</key>
+	<false/>
+	<key>WarningRemainingSpace</key>
+	<false/>
+</dict>
+</plist>

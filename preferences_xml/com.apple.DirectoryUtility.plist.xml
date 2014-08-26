@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstLaunch</key>
+	<false/>
+	<key>NSSplitView Subview Frames MainSplit</key>
+	<array>
+		<string>0.000000, 0.000000, 595.000000, 282.000000, NO</string>
+		<string>0.000000, 283.000000, 595.000000, 245.000000, NO</string>
+	</array>
+	<key>NSWindow Frame DU</key>
+	<string>580 324 790 622 0 0 1680 1028 </string>
+	<key>NSWindow Frame MainWindow1</key>
+	<string>580 324 790 622 0 0 1680 1028 </string>
+	<key>perHost</key>
+	<dict>
+		<key>N/A</key>
+		<dict>
+			<key>/Active Directory/BCJ/All Domains</key>
+			<dict>
+				<key>recordType</key>
+				<string>dsRecTypeStandard:Users</string>
+			</dict>
+			<key>/Local/Default</key>
+			<dict>
+				<key>recordType</key>
+				<string>dsRecTypeStandard:Computers</string>
+			</dict>
+			<key>nodeName</key>
+			<string>/Active Directory/BCJ/All Domains</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

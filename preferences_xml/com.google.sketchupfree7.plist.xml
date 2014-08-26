@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Instructor</key>
+	<integer>1</integer>
+	<key>NSFontPanelAttributes</key>
+	<string>1, 0</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>/Applications/LuxRender</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Applications</string>
+	<key>NSWindow Frame GoogleToolPaletteLarge</key>
+	<string>0 260 71 129 0 0 1680 1028 </string>
+	<key>OpenGLGeneric</key>
+	<false/>
+	<key>OpenInspectors</key>
+	<array/>
+	<key>SketchUp.ApplicationGUID.GUID</key>
+	<string>a1889f9f-d266-4043-b899-96216ebc5f83</string>
+	<key>SketchUp.AutoSave.AutoSaveFile</key>
+	<string>/Users/dspeckhard/Library/Application Support/Google SketchUp 7/SketchUp/Autosave/AutoSave_Untitled.skp</string>
+	<key>SketchUp.Components.RecentSearches.Primary</key>
+	<array>
+		<string>cubicle</string>
+		<string>desk</string>
+		<string>table</string>
+		<string>office chair</string>
+		<string>chair</string>
+		<string>Architecture</string>
+	</array>
+	<key>SketchUp.DefaultFolder.Export</key>
+	<string>/Applications/LuxRender</string>
+	<key>SketchUp.Extensions.Dynamic Components</key>
+	<string>1</string>
+	<key>SketchUp.Extensions.OpenStudio1.0.4.85</key>
+	<string>1</string>
+	<key>SketchUp.Extensions.Photo Textures1.0.0</key>
+	<string>1</string>
+	<key>SketchUp.GoogleToolPalette.SketchUp.Visible</key>
+	<string>0</string>
+	<key>SketchUp.OpenStudio.Cache Eso Results</key>
+	<string>true</string>
+	<key>SketchUp.OpenStudio.Check For Update</key>
+	<string>true</string>
+	<key>SketchUp.OpenStudio.EnergyPlus Path</key>
+	<string>"/Applications/EnergyPlus-4-0-0/bin/energyplus"</string>
+	<key>SketchUp.OpenStudio.Erase Entities</key>
+	<string>false</string>
+	<key>SketchUp.OpenStudio.Interzone Surfaces Behavior</key>
+	<string>"SET_BOUNDARY_CONDITIONS"</string>
+	<key>SketchUp.OpenStudio.Last Input File Dir</key>
+	<string>"/Library/Application Support/Google SketchUp 7/SketchUp/Plugins/OpenStudio/lib/examples"</string>
+	<key>SketchUp.OpenStudio.On Coordinate System Change</key>
+	<string>"Always Ask User"</string>
+	<key>SketchUp.OpenStudio.Open Dialogs</key>
+	<string>""</string>
+	<key>SketchUp.OpenStudio.Play Sounds</key>
+	<string>true</string>
+	<key>SketchUp.OpenStudio.Project Sub Surfaces</key>
+	<string>true</string>
+	<key>SketchUp.OpenStudio.Server Timeout</key>
+	<string>"120"</string>
+	<key>SketchUp.OpenStudio.Show Drawing</key>
+	<string>false</string>
+	<key>SketchUp.OpenStudio.Skip Update</key>
+	<string>""</string>
+	<key>SketchUp.OpenStudio.Text Editor Path</key>
+	<string>"/Applications/TextEdit.app"</string>
+	<key>SketchUp.OpenStudio.Zoom Extents</key>
+	<string>true</string>
+	<key>SketchUp.PageOptions.ShowTransition</key>
+	<string>YES</string>
+	<key>SketchUp.PageOptions.TransitionTime</key>
+	<string>1.5</string>
+	<key>SketchUp.Preferences.AAMethod</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.AlwaysFixValidityErrors</key>
+	<string>NO</string>
+	<key>SketchUp.Preferences.AngleSnapping</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AutoDrawingPlane</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AutoSave</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.AutoSaveFreq</key>
+	<string>5</string>
+	<key>SketchUp.Preferences.BrowserHome</key>
+	<string></string>
+	<key>SketchUp.Preferences.CheckForUpdates</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.ClickStyle</key>
+	<string>2</string>
+	<key>SketchUp.Preferences.ContinueLineMode</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.DefaultTemplate</key>
+	<string>/Library/Application Support/Google SketchUp 7/SketchUp/Resources/en-US/Templates/Temp01a - Simple.skp</string>
+	<key>SketchUp.Preferences.DisplayCrosshairs</key>
+	<string>NO</string>
+	<key>SketchUp.Preferences.DisplayTabs</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.EnableCheckValidity</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.Export3DDefaultIndex</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.IntersectEdges</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.LastUpdateCheck</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.LengthSnapping</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.MaxUndo</key>
+	<string>100</string>
+	<key>SketchUp.Preferences.MinSnapPixels</key>
+	<string>2</string>
+	<key>SketchUp.Preferences.NewModelCount</key>
+	<string>0</string>
+	<key>SketchUp.Preferences.SaveBackup</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.ShowInferenceTips</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.SnapAngle</key>
+	<string>15.000000</string>
+	<key>SketchUp.Preferences.StyleThumbFile</key>
+	<string>/Library/Application Support/Google SketchUp 7/SketchUp/Styles/StyleTemplate.skp</string>
+	<key>SketchUp.Preferences.StyleThumbFileRead</key>
+	<string>NO</string>
+	<key>SketchUp.Preferences.UpdateDefaultColorOn</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.UpdateDefaultOn</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.UseFastFeedback7</key>
+	<string>1</string>
+	<key>SketchUp.Preferences.VCBShowTypedInputBackground</key>
+	<string>YES</string>
+	<key>SketchUp.Preferences.VCBTimoutSeconds</key>
+	<string>5</string>
+	<key>SketchUp.SlideshowOptions.LoopSlideshow</key>
+	<string>YES</string>
+	<key>SketchUp.SlideshowOptions.SlideTime</key>
+	<string>1</string>
+	<key>SketchUp.Toolbars.Dynamic Components.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Toolbars.OpenStudio Rendering.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Toolbars.OpenStudio.Visible</key>
+	<string>0</string>
+	<key>SketchUp.Tools.FovDisplayMode</key>
+	<string>0</string>
+	<key>SketchUp.Version</key>
+	<string>7.1.6859</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportAuthorAttribution</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportDoubleSidedFaces</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportEdges</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportHiddenGeometry</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportMaterialsByLayer</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportPreserveHierarchies</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportSelectionSetOnly</key>
+	<string>NO</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportTextureMaps</key>
+	<string>YES</string>
+	<key>SketchUp.export.com.google.sketchup.collada.dae.ExportTriangulatedFaces</key>
+	<string>YES</string>
+	<key>ThumbnailDisplayStateComponent7</key>
+	<integer>7</integer>
+	<key>ThumbnailDisplayStateStyle</key>
+	<integer>4</integer>
+	<key>UpdateServiceLastChecked</key>
+	<date>2010-12-02T17:17:51Z</date>
+	<key>displayWelcomeOnStartup</key>
+	<false/>
+</dict>
+</plist>

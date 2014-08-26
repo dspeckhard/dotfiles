@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CustomAvailableMessages</key>
+	<array>
+		<string>Surfing the web</string>
+		<string>Reading email</string>
+		<string>At home</string>
+	</array>
+	<key>CustomAwayMessages</key>
+	<array>
+		<string>Out to lunch</string>
+		<string>On the phone</string>
+		<string>In a meeting</string>
+	</array>
+</dict>
+</plist>

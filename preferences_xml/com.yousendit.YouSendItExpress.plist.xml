@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoRun</key>
+	<string>0</string>
+	<key>AutoSignIn</key>
+	<string>0</string>
+	<key>EsigFiles</key>
+	<string></string>
+	<key>ExitWhenClose</key>
+	<string>1</string>
+	<key>HasSeenEULA</key>
+	<string>1</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/server/09205X1 GC3 Interiors/file/E Consultant Correspondence/E 6 Transparent House/from/2012 02 16 Final Grey</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{615, 400}</string>
+	<key>PDFFiles</key>
+	<string></string>
+	<key>RemAddrAndPwd</key>
+	<string>1</string>
+	<key>UploadCompleteNotification</key>
+	<string>1</string>
+	<key>UserName</key>
+	<string>dspeckhard@bcj.com</string>
+	<key>WebKitTabToLinksPreferenceKey</key>
+	<true/>
+	<key>YouSendItExpressPromptTime</key>
+	<string>1345582435000</string>
+	<key>accounts\dspeckhard@bcj.com\certified_delivery</key>
+	<string>0</string>
+	<key>accounts\dspeckhard@bcj.com\duration</key>
+	<string>10080</string>
+	<key>accounts\dspeckhard@bcj.com\fileexpiration</key>
+	<string>0</string>
+	<key>accounts\dspeckhard@bcj.com\password_protected</key>
+	<string>0</string>
+	<key>accounts\dspeckhard@bcj.com\premium_delivery</key>
+	<string>0</string>
+	<key>accounts\dspeckhard@bcj.com\return_receipt</key>
+	<string>0</string>
+	<key>accounts\dspeckhard@bcj.com\savesettings</key>
+	<string>1</string>
+	<key>accounts\dspeckhard@bcj.com\timesofdownloads</key>
+	<string></string>
+	<key>accounts\dspeckhard@bcj.com\zipfiles</key>
+	<string>0</string>
+</dict>
+</plist>

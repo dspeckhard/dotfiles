@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCRCTrackpadCommanderEnabled</key>
+	<real>287699622.87562603</real>
+	<key>SCRCUserDefaultsBrailleTableIdentifier</key>
+	<real>301193675.06175297</real>
+	<key>SCRCategories_SCRCategorySystemWide_SCRSpeechComponentSettings_SCRRateAsPercent</key>
+	<real>291332035.84899402</real>
+	<key>SCRDisplayTextFontSize</key>
+	<real>301193689.053406</real>
+	<key>SCRDisplayTextLocationX</key>
+	<real>301193693.374699</real>
+	<key>SCRDisplayTextLocationY</key>
+	<real>301193693.37466699</real>
+	<key>SCRDisplayTextNumberOfRows</key>
+	<real>301193693.37468398</real>
+	<key>SCRDisplayTextWidth</key>
+	<real>301193693.37463897</real>
+	<key>SCREnableAppleScript</key>
+	<real>287699620.70670199</real>
+</dict>
+</plist>

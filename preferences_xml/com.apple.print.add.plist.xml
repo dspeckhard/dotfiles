@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/Depts/IT/PrintDrvs/OS X Oce Drivers/MacOSX/English/StandardFonts</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{1015, 422}</string>
+	<key>NSWindow Frame com.apple.print.add.window</key>
+	<string>405 233 692 499 0 0 1680 1028 </string>
+	<key>NSWindow Frame com.apple.print.ppdpicker</key>
+	<string>1103 179 437 362 0 0 1680 1028 </string>
+	<key>com.apple.print.add.toolbar</key>
+	<dict>
+		<key>SelectedItemIdentifier</key>
+		<string>com.apple.print.pbm.uber</string>
+	</dict>
+	<key>com.apple.print.pbm.ip</key>
+	<dict>
+		<key>Recent Addresses</key>
+		<array>
+			<string>10.5.0.74</string>
+			<string>10.5.0.73</string>
+			<string>10.5.0.68</string>
+			<string>10.5.0.67</string>
+		</array>
+		<key>Recent Queues</key>
+		<array>
+			<string>print</string>
+		</array>
+	</dict>
+	<key>defaultTableView</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0FycmF5AISECE5TT2JqZWN0AIWEAWkCkoSE
+	hBBOU1NvcnREZXNjcmlwdG9yAJSShISECE5TU3RyaW5nAZSEASsEbmFtZYaEAWMBkoSY
+	mBdjYXNlSW5zZW5zaXRpdmVDb21wYXJlOoaGkoSWkoSYmBFicm93c2VySWRlbnRpZmll
+	coaZAZKEmJgXY2FzZUluc2Vuc2l0aXZlQ29tcGFyZTqGhoY=
+	</data>
+</dict>
+</plist>

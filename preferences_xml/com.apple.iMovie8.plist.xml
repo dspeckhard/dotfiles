@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1080ImportSizeSet</key>
+	<true/>
+	<key>AskAboutUpgrades</key>
+	<dict>
+		<key>9.0</key>
+		<true/>
+	</dict>
+	<key>AutoUpgradeCheck</key>
+	<true/>
+	<key>FlowHUDCoverflow</key>
+	<true/>
+	<key>ILMediaBrowserAppDefinedAudioPaths</key>
+	<array>
+		<string>/Applications/iMovie.app/Contents/Resources/iMovie '08 Sound Effects</string>
+		<string>/Library/Audio/Apple Loops/Apple/iLife Sound Effects</string>
+	</array>
+	<key>ILMediaBrowserMediaType</key>
+	<integer>0</integer>
+	<key>MIORAD-EnableHWH264Decoding</key>
+	<true/>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>~/TV Shows/Chuck</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{537, 537}</string>
+	<key>NSOutlineView Items projectOutline</key>
+	<array>
+		<string>/Users/dspeckhard/Movies/iMovie Projects.localized</string>
+	</array>
+	<key>NSTableView Columns AudioTable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDkF1ZGlvVGFibGVOYW1lhg==
+		</data>
+		<string>188</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErEEF1ZGlvVGFibGVBcnRpc3SG
+		</data>
+		<string>138</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDkF1ZGlvVGFibGVUaW1lhg==
+		</data>
+		<string>106</string>
+	</array>
+	<key>NSTableView Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<string>219</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<string>88</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+		<string>60</string>
+	</array>
+	<key>NSTableView Hidden Columns AudioTable</key>
+	<array/>
+	<key>NSTableView Hidden Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+	</array>
+	<key>NSTableView Sort Ordering AudioTable</key>
+	<array/>
+	<key>NSTableView Sort Ordering NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<true/>
+	</array>
+	<key>NSWindow Frame prefsWindowLocation</key>
+	<string>530 673 512 346 0 0 1600 1028 </string>
+	<key>NextUpgradeCheck</key>
+	<date>2011-10-11T18:53:30Z</date>
+	<key>RCInputDevice</key>
+	<string>Built-in Microphone</string>
+	<key>RCInputVolume</key>
+	<real>0.58333331346511841</real>
+	<key>RCUpdateMediaVerbosely</key>
+	<false/>
+	<key>RCVoiceEnhancementOnOff</key>
+	<true/>
+	<key>addAutoTransitionDuration</key>
+	<true/>
+	<key>audioScrubbing</key>
+	<false/>
+	<key>autoStabilize</key>
+	<true/>
+	<key>captureTapeAdvanced</key>
+	<false/>
+	<key>captureVolumePath</key>
+	<string>/Users/dspeckhard/Movies/iMovie Events.localized</string>
+	<key>convertDuringCapture</key>
+	<true/>
+	<key>dateSortReverse</key>
+	<true/>
+	<key>disableMIORAD-QTKitRuntimeAjustments</key>
+	<true/>
+	<key>divideDays</key>
+	<false/>
+	<key>eventSelectionMode</key>
+	<integer>0</integer>
+	<key>exitFullscreenWhenDone</key>
+	<true/>
+	<key>exportFolder</key>
+	<string>~/Movies</string>
+	<key>exportMovieSize</key>
+	<integer>2</integer>
+	<key>fixedSelectionDuration</key>
+	<real>4</real>
+	<key>flowAutoHide</key>
+	<true/>
+	<key>fontColors</key>
+	<array>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>1</real>
+			<key>g</key>
+			<real>1</real>
+			<key>r</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.0</real>
+			<key>g</key>
+			<real>0.0</real>
+			<key>r</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.43529412150382996</real>
+			<key>g</key>
+			<real>0.38823530077934265</real>
+			<key>r</key>
+			<real>0.3960784375667572</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.88627451658248901</real>
+			<key>g</key>
+			<real>0.84313726425170898</real>
+			<key>r</key>
+			<real>0.74901962280273438</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.56470590829849243</real>
+			<key>g</key>
+			<real>0.51372551918029785</real>
+			<key>r</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.24705882370471954</real>
+			<key>g</key>
+			<real>0.77254903316497803</real>
+			<key>r</key>
+			<real>0.65882354974746704</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.33725491166114807</real>
+			<key>g</key>
+			<real>0.78823530673980713</real>
+			<key>r</key>
+			<real>0.9529411792755127</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.090196080505847931</real>
+			<key>g</key>
+			<real>0.054901961237192154</real>
+			<key>r</key>
+			<real>0.54117649793624878</real>
+		</dict>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>b</key>
+			<real>0.7137255072593689</real>
+			<key>g</key>
+			<real>0.28627452254295349</real>
+			<key>r</key>
+			<real>0.78823530673980713</real>
+		</dict>
+	</array>
+	<key>fonts</key>
+	<array>
+		<dict>
+			<key>fontName</key>
+			<string>HelveticaNeue</string>
+			<key>size</key>
+			<real>24</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>Futura-Medium</string>
+			<key>size</key>
+			<real>24</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>Impact</string>
+			<key>size</key>
+			<real>22</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>Coolvetica</string>
+			<key>size</key>
+			<real>22</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>SignPainter-HouseScript</string>
+			<key>size</key>
+			<real>23</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>Chalkboard</string>
+			<key>size</key>
+			<real>24</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>AmericanTypewriter</string>
+			<key>size</key>
+			<real>22</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>BigCaslon-Medium</string>
+			<key>size</key>
+			<real>20</real>
+		</dict>
+		<dict>
+			<key>fontName</key>
+			<string>Baskerville</string>
+			<key>size</key>
+			<real>24</real>
+		</dict>
+	</array>
+	<key>fullscreenHudMode</key>
+	<integer>1</integer>
+	<key>fullscreenResolutionMode</key>
+	<integer>1</integer>
+	<key>hideShaky</key>
+	<false/>
+	<key>iCodecNormalQualityIsQuarterFrame</key>
+	<true/>
+	<key>importCopyFiles</key>
+	<true/>
+	<key>importUseCustomName</key>
+	<false/>
+	<key>keywords2</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Indoor</string>
+			<key>number</key>
+			<integer>1</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Outdoor</string>
+			<key>number</key>
+			<integer>2</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Landscape</string>
+			<key>number</key>
+			<integer>3</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Closeup</string>
+			<key>number</key>
+			<integer>4</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wide Angle</string>
+			<key>number</key>
+			<integer>5</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>People</string>
+			<key>number</key>
+			<integer>6</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pets</string>
+			<key>number</key>
+			<integer>7</integer>
+			<key>tagged</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>lastImportPaths</key>
+	<array>
+		<string>/Users/dspeckhard/Movies/iMovie Events.localized/New Event 10-4-11</string>
+	</array>
+	<key>lastiPhotoMovies</key>
+	<array>
+		<string>/2010/Nov 17, 2010/IMG_0062.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0036.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0049.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0054.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0065.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0087.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0095.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0111.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0113.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0114.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0115.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0121.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0122.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0130.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0141.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0164.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0193.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0261.MOV</string>
+		<string>/2011/Apr 15, 2011/IMG_0262.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0348.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0349.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0350.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0351.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0352.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0353.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0354.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0392.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0411.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0472.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0684.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0685.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0771.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0772.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0779.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0804.MOV</string>
+		<string>/2011/Sep 21, 2011/IMG_0805.MOV</string>
+	</array>
+	<key>mediaTabIndex</key>
+	<integer>4</integer>
+	<key>playAvoidsCursor</key>
+	<true/>
+	<key>prefersReducedSizeCapture</key>
+	<true/>
+	<key>prefsTabIndex</key>
+	<integer>0</integer>
+	<key>reducedSizeCapture</key>
+	<integer>1</integer>
+	<key>respectProjectCrop</key>
+	<false/>
+	<key>showAssets</key>
+	<false/>
+	<key>showCapture</key>
+	<false/>
+	<key>showFineTune</key>
+	<true/>
+	<key>showFineTuningButtons</key>
+	<false/>
+	<key>showISightResolutionPopup</key>
+	<false/>
+	<key>showPlayButton</key>
+	<true/>
+	<key>showProjectView</key>
+	<true/>
+	<key>showProjects</key>
+	<true/>
+	<key>showSimpleFontPanel</key>
+	<true/>
+	<key>showTapes</key>
+	<true/>
+	<key>showViewerPlayMessage</key>
+	<true/>
+	<key>snapToBeats</key>
+	<true/>
+	<key>snapping</key>
+	<true/>
+	<key>splitCaptureDays</key>
+	<true/>
+	<key>splitYearsIntoMonths</key>
+	<false/>
+	<key>timelapseFramerate</key>
+	<integer>15</integer>
+	<key>timelapseFramerateMultiplier</key>
+	<integer>1</integer>
+	<key>trimClipFrameSkip</key>
+	<integer>3</integer>
+	<key>trimEditFrameSkip</key>
+	<integer>3</integer>
+	<key>validPaths8.0.6</key>
+	<dict>
+		<key>/Users/dspeckhard/Movies/iMovie Events.localized/New Event 10-4-11/clip-2011-10-04 11;54;42.mov</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2010/Nov 17, 2010/IMG_0062.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0036.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0049.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0054.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0065.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0087.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0095.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0111.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0113.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0114.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0115.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0121.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0122.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0130.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0141.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0164.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0193.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0261.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Apr 15, 2011/IMG_0262.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0348.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0349.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0350.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0351.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0352.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0353.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0354.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0392.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0411.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0472.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0684.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0685.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0771.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0772.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0779.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0804.MOV</key>
+		<true/>
+		<key>/Users/dspeckhard/Pictures/iPhoto Library/Originals/2011/Sep 21, 2011/IMG_0805.MOV</key>
+		<true/>
+	</dict>
+	<key>videoFrameRate</key>
+	<integer>30</integer>
+	<key>viewByDate</key>
+	<true/>
+	<key>viewProjectsByVolume</key>
+	<false/>
+	<key>windowSettings</key>
+	<dict>
+		<key>lastScreen</key>
+		<string>{{0, 0}, {1600, 1050}}</string>
+		<key>{{0, 0}, {1600, 1050}}</key>
+		<dict>
+			<key>assetsFrame</key>
+			<string>{{78, 89}, {456, 583}}</string>
+			<key>centerBarPosition</key>
+			<real>0.50995022058486938</real>
+			<key>toolsCornerPoint</key>
+			<string>{150, 878}</string>
+			<key>viewsSwapped</key>
+			<false/>
+			<key>windowFrame</key>
+			<string>{{80, 108}, {1440, 872}}</string>
+		</dict>
+		<key>{{0, 0}, {1680, 1050}}</key>
+		<dict>
+			<key>assetsFrame</key>
+			<string>{{83, 89}, {456, 583}}</string>
+			<key>centerBarPosition</key>
+			<real>0.50815558433532715</real>
+			<key>toolsCornerPoint</key>
+			<string>{150, 878}</string>
+			<key>viewsSwapped</key>
+			<false/>
+			<key>windowFrame</key>
+			<string>{{84, 115}, {1512, 865}}</string>
+		</dict>
+	</dict>
+	<key>workspaceSettings</key>
+	<dict>
+		<key>destGridSettings</key>
+		<dict>
+			<key>frameSkip</key>
+			<integer>4</integer>
+		</dict>
+		<key>mediaSettings</key>
+		<dict>
+			<key>collapsedPaths</key>
+			<array/>
+			<key>editSettings</key>
+			<dict>
+				<key>anyAll</key>
+				<false/>
+				<key>exclude</key>
+				<false/>
+				<key>filterOnKeywords</key>
+				<false/>
+				<key>rating</key>
+				<integer>0</integer>
+			</dict>
+			<key>enabledKeywords</key>
+			<array/>
+			<key>selectedKeys</key>
+			<array>
+				<string>/Users/dspeckhard/Movies/iMovie Events.localized/New Event 10-4-11</string>
+			</array>
+		</dict>
+		<key>printSettings</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIP0BUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABrxAUCQoPJSYnKCkqKywtLi8wMTIzNDtVJG51bGzS
+		CwwNDlxOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAE9MQEQwSGyRaTlMub2JqZWN0
+		c1dOUy5rZXlzqBMUFRUXGBkagAuADIANgA2ADoAPgBCAEagcHR4fICEiI4AD
+		gASABYAGgAeACIAJgAqAEl8QFU5TSG9yaXpvbmFsUGFnaW5hdGlvbl1OU1Jp
+		Z2h0TWFyZ2luXxAWTlNIb3Jpem9udGFsbHlDZW50ZXJlZF8QFE5TVmVydGlj
+		YWxseUNlbnRlcmVkW05TVG9wTWFyZ2luXE5TTGVmdE1hcmdpbl8QFE5TVmVy
+		dGljYWxQYWdpbmF0aW9uXk5TQm90dG9tTWFyZ2luEAIiQpAAAAkiQrQAACJC
+		kAAAEAAiQrQAANI1Njc4WCRjbGFzc2VzWiRjbGFzc25hbWWjODk6XxATTlNN
+		dXRhYmxlRGljdGlvbmFyeVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNTY8PqI9
+		OltOU1ByaW50SW5mb1tOU1ByaW50SW5mbxIAAYagXxAPTlNLZXllZEFyY2hp
+		dmVyAAgAEQAWAB8AKAAyADUAOgA8AFMAWQBeAGsAcgB0AHYAfQCIAJAAmQCb
+		AJ0AnwChAKMApQCnAKkAsgC0ALYAuAC6ALwAvgDAAMIAxADcAOoBAwEaASYB
+		MwFKAVkBWwFgAWEBZgFrAW0BcgF3AYABiwGPAaUBsgG7AcABwwHPAdsB4AAA
+		AAAAAAIBAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAHy
+		</data>
+		<key>projectSettings</key>
+		<dict>
+			<key>selectedPath</key>
+			<string>/Users/dspeckhard/Movies/iMovie Projects.localized/My First Project.rcproject</string>
+		</dict>
+		<key>srcGridSettings</key>
+		<dict>
+			<key>frameSkip</key>
+			<integer>4</integer>
+		</dict>
+		<key>thumbSize</key>
+		<real>1</real>
+	</dict>
+</dict>
+</plist>

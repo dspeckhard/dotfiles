@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Software\office\editor\versionII\Green</key>
+	<string>1387440000</string>
+	<key>Software\office\editor\versionII\Loop</key>
+	<string>1366095600</string>
+	<key>Software\office\editor\versionII\PrevRenewal</key>
+	<string>1387440000</string>
+	<key>Software\office\editor\versionII\Ready</key>
+	<string>1366095600</string>
+	<key>Software\office\editor\versionII\Renewal</key>
+	<string>1418976000</string>
+	<key>Software\office\editor\versionII\UserRegData.User_email</key>
+	<string>dspeckhard@bcj.com</string>
+	<key>Software\office\editor\versionII\guid</key>
+	<string>{989c2f50-289c-47b6-83cc-69344ca61123}</string>
+</dict>
+</plist>

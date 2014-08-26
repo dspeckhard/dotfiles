@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UserAssignableHotKeys</key>
+	<array>
+		<dict>
+			<key>enabled</key>
+			<integer>0</integer>
+			<key>key</key>
+			<integer>49</integer>
+			<key>modifier</key>
+			<integer>1048576</integer>
+			<key>sybmolichotkey</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>enabled</key>
+			<integer>1</integer>
+			<key>key</key>
+			<integer>49</integer>
+			<key>modifier</key>
+			<integer>1048576</integer>
+			<key>sybmolichotkey</key>
+			<integer>64</integer>
+		</dict>
+		<dict>
+			<key>enabled</key>
+			<integer>0</integer>
+			<key>key</key>
+			<integer>49</integer>
+			<key>modifier</key>
+			<integer>1572864</integer>
+			<key>sybmolichotkey</key>
+			<integer>61</integer>
+		</dict>
+		<dict>
+			<key>enabled</key>
+			<integer>1</integer>
+			<key>key</key>
+			<integer>49</integer>
+			<key>modifier</key>
+			<integer>1572864</integer>
+			<key>sybmolichotkey</key>
+			<integer>65</integer>
+		</dict>
+	</array>
+	<key>closeViewDriver</key>
+	<false/>
+	<key>closeViewHotkeysEnabled</key>
+	<false/>
+	<key>closeViewScrollWheelToggle</key>
+	<false/>
+	<key>closeViewZoomFactor</key>
+	<real>1</real>
+	<key>com.apple.custommenu.apps</key>
+	<array/>
+	<key>login</key>
+	<false/>
+	<key>voiceOverOnOffKey</key>
+	<false/>
+</dict>
+</plist>

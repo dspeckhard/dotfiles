@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BatteryHistory</key>
+	<dict>
+		<key>60-fb-42-0a-7b-f9</key>
+		<integer>12</integer>
+	</dict>
+	<key>afActionHistory</key>
+	<dict>
+		<key>60-fb-42-0a-7b-f9.AppleBluetoothHIDKeyboard.AppleBluetoothHIDKeyboard.CriticallyLowBattery</key>
+		<dict>
+			<key>afBatteryPercent</key>
+			<integer>14</integer>
+			<key>afTimestamp</key>
+			<date>2014-01-12T05:13:52Z</date>
+		</dict>
+	</dict>
+	<key>randomData</key>
+	<data>
+	Z1cczZEzKVAaw4OQpuHXiw==
+	</data>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory:ChooseFolder:0</key>
+	<string>/Volumes/BB1/E 99 Photography/2012 09 12 Site Photos</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/WDRaid/Media/Pictures</string>
+	<key>NSNavLastRootDirectory:ChooseFolder:0</key>
+	<string>/Volumes/BB1/E 99 Photography/2012 09 12 Site Photos</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{814, 400}</string>
+	<key>NSNavPanelExpandedSizeForOpenMode:ChooseFolder:0</key>
+	<string>{585, 400}</string>
+</dict>
+</plist>

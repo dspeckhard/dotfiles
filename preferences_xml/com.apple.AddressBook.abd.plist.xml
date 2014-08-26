@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABDConduitData</key>
+	<dict>
+		<key>ABDAB</key>
+		<dict>
+			<key>priorState</key>
+			<dict/>
+		</dict>
+		<key>ABDiDisk</key>
+		<dict>
+			<key>priorState</key>
+			<dict/>
+		</dict>
+	</dict>
+	<key>ABDConfigData</key>
+	<dict>
+		<key>ABDSubscriptionTurdBaseKey</key>
+		<string>/ABSubscriptions</string>
+		<key>ABDThreadCountKey</key>
+		<integer>3</integer>
+		<key>ABDiDiskAddressKey</key>
+		<string>idisk.mac.com</string>
+	</dict>
+	<key>ABDLastConfigFetchDate</key>
+	<date>2011-01-03T18:03:35Z</date>
+</dict>
+</plist>

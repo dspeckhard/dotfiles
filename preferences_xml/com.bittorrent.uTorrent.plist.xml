@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleLastVersion</key>
+	<string>29971</string>
+	<key>COMPUTER_ID</key>
+	<string>DwaMIp7f9AXoVEce</string>
+	<key>IsAutoStartSetted</key>
+	<true/>
+	<key>LastSelectedPref</key>
+	<string>PrefTabGeneral</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSSplitView Subview Frames mainSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 200.000000, 577.000000, NO</string>
+		<string>201.000000, 0.000000, 842.000000, 577.000000, NO</string>
+	</array>
+	<key>NSWindow Frame Preferences</key>
+	<string>520 0 641 580 0 0 1680 1028 </string>
+	<key>NSWindow Frame mainWindow</key>
+	<string>165 174 1042 596 0 0 1680 1028 </string>
+	<key>SUFeedURL</key>
+	<string>http://update.utorrent.com/checkupdate.php</string>
+	<key>SULastCheckTime</key>
+	<date>2014-08-24T22:40:11Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>SidebarExpandItems</key>
+	<array>
+		<string>torrents</string>
+		<string>labels</string>
+		<string>rss</string>
+	</array>
+	<key>SidebarSelection</key>
+	<integer>2</integer>
+	<key>detailViewHeight</key>
+	<real>331</real>
+	<key>infoPaneVisible</key>
+	<true/>
+	<key>initiallyInstalledOn</key>
+	<date>2014-01-21T03:44:29Z</date>
+	<key>mainSplitView.position</key>
+	<real>200</real>
+	<key>prevVersion</key>
+	<string>1.8.4</string>
+	<key>savedSplitterPosition</key>
+	<real>218</real>
+	<key>u_siut</key>
+	<integer>41</integer>
+</dict>
+</plist>

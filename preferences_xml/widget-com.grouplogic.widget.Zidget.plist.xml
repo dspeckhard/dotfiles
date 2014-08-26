@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FrontHeight</key>
+	<real>316</real>
+	<key>FrontWidth</key>
+	<real>260</real>
+	<key>MasterServer</key>
+	<string>SF-svr01.bcj.loc</string>
+	<key>PListVersion</key>
+	<string>2.0.8</string>
+	<key>RefreshInterval</key>
+	<real>15</real>
+</dict>
+</plist>

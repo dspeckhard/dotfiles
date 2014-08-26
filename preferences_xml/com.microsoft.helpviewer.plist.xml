@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSWindow Frame windowFrame:/Applications/Microsoft Office 2008/Microsoft Excel.app</key>
+	<string>824 227 856 609 0 0 1680 1028 </string>
+	<key>alwaysOnTop</key>
+	<true/>
+	<key>recentSearches:/Applications/Microsoft Office 2008/Microsoft Excel.app</key>
+	<array>
+		<string>FIND</string>
+		<string>range</string>
+		<string>smaller of</string>
+		<string>PMT</string>
+		<string>present vaue</string>
+		<string>Array Formulas</string>
+		<string>criteria</string>
+		<string>sumif</string>
+		<string>custom colors</string>
+		<string>SUMIF</string>
+	</array>
+	<key>useOnlineHelp</key>
+	<false/>
+	<key>userID</key>
+	<string>DC94C2B9-1039-4651-B179-4EF2A1E8BA25</string>
+</dict>
+</plist>

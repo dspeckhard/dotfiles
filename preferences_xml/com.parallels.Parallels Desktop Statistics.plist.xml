@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Gui Usage.HID Host Hook.last0</key>
+	<string>[10-05 16:12:16.111] DT(1016067103) DOWN(0) UP(1)</string>
+	<key>Gui Usage.HID Host Hook.total</key>
+	<string>TOTAL(1)</string>
+	<key>Gui Usage.Messages.Are you sure you want to start the virtual machine?
+One or more kernel components loaded on your Mac are for another version of Parallels Desktop· If you start the virtual machine now, it may work incorrectly· To solve this problem, restart your Mac· If the problem persists, reinstall Parallels Desktop· with result 1</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.Are you sure you want to start the virtual machine?
+One or more kernel components loaded on your Mac are for another version of Parallels Desktop· If you start the virtual machine now, it may work incorrectly· To solve this problem, restart your Mac· If the problem persists, reinstall Parallels Desktop· with result 2</key>
+	<integer>5</integer>
+	<key>Gui Usage.Messages.Are you sure you want to stop the virtual machine?
+The virtual machine uses the Boot Camp partition as its virtual hard disk· If you stop the virtual machine now, you may lose unsaved data or corrupt the data on the Boot Camp partition· Perform a shutdown from within the virtual machine instead· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.Do you want this USB device to be automatically connected to the virtual machine?
+When plugged in, this USB device will be automatically connected to the virtual machine· The device will not be available on your Mac until it is released from the virtual machine· with result 2</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.My Boot Camp is a Boot Camp virtual machine· Please avoid using the Boot Camp partition before you resume this virtual machine, as it may lead to data loss· Are you sure you want to suspend this virtual machine?
+If you log in to the Boot Camp partition natively before resuming this virtual machine, the virtual machine will be restarted when you try to resume it· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.My Boot Camp is a Boot Camp virtual machine· Please avoid using the Boot Camp partition before you resume this virtual machine, as it may lead to data loss· Are you sure you want to suspend this virtual machine?
+If you log in to the Boot Camp partition natively before resuming this virtual machine, the virtual machine will be restarted when you try to resume it· with result 2</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.My Boot Camp uses an NTFS-formatted Boot Camp partition and cannot be suspended·
+Software allowing reading and writing to NTFS partitions has been found on your Mac· To be able to suspend My Boot Camp, remove any such software from your Mac· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.PRL_ERR_OPERATION_FAILED
+PRL_ERR_OPERATION_FAILED with result 1</key>
+	<integer>5</integer>
+	<key>Gui Usage.Messages.Thank you for registering your copy of Parallels Desktop·
+ with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The Windows Applications folder will be added to the Dock·
+Click this folder to access your My Boot Camp applications· To remove the folder, drag it out of the Dock·&lt;br&gt;&lt;br&gt;This message will be closed in @PRL_GUI_STD_SECONDS_TIMER.5 seconds· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The Windows Applications folder will be removed from the Dock·
+To add it back, right-click My Boot Camp in the virtual machines list, choose Configure &gt; Options &gt; Applications and select the option "Show Windows applications folder in the Dock"·&lt;br&gt;&lt;br&gt;This message will be closed in @PRL_GUI_STD_SECONDS_TIMER.5 seconds· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The current copy of Parallels Desktop was successfully activated·
+ with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The email or password you entered is invalid· Please check your email and password and try again·
+ with result 1</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.The email you entered does not belong to any account·
+If you use multiple email addresses, try entering another email address· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The name Windows 7 Bootcamp is already used by another virtual machine or template·
+Specify another name and try again· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The name Windows 7 is already used by another virtual machine or template·
+Specify another name and try again· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The physical network adapter connected to virtual network adapter 1 does not exist· Do you want to save the virtual machine configuration anyway?
+If you click Yes now, this virtual network adapter will not be connected at the virtual machine startup· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.The physical network adapter connected to virtual network adapter 1 does not exist· Do you want to save the virtual machine configuration anyway?
+If you click Yes now, this virtual network adapter will not be connected at the virtual machine startup· with result 2</key>
+	<integer>3</integer>
+	<key>Gui Usage.Messages.The virtual machine is not available·
+The virtual machine's files have been moved or deleted· If the files are on an external device, reconnect the device· You can also remove the virtual machine from the list or manually locate its files· with result 2</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.The virtual machine performance may be degraded because the hardware virtualization support is disabled on the host computer·
+It is recommended to enable the hardware virtualization support in BIOS settings· with result 1</key>
+	<integer>7</integer>
+	<key>Gui Usage.Messages.This copy of Parallels Desktop is not registered and cannot be updated· Do you want to register it?
+Updates will become available after you register Parallels Desktop· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.Time Machine backup is in progress·
+Your virtual machines may work slower during the backup· with result 0</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.Time Machine backup is in progress·
+Your virtual machines may work slower during the backup· with result 1</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.Unable to connect to Parallels Service·
+Make sure that the prl_disp_service process is active and it is not blocked by Firewall· For details, please refer to &lt;a href="http:.kb·parallels·com.8089"&gt;http:.kb·parallels·com.8089&lt;.a&gt;· If the problem persists, contact the Parallels support team for assistance· with result 1</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.Unable to start the "My Boot Camp" virtual machine·
+Free at least 3722 MB on the physical hard disk that stores the "My Boot Camp" virtual machine and try again· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.Unable to start the "My Boot Camp" virtual machine·
+Free at least 3923 MB on the physical hard disk that stores the "My Boot Camp" virtual machine and try again· with result 1</key>
+	<integer>2</integer>
+	<key>Gui Usage.Messages.You are booting from your Boot Camp partition inside a virtual machine·
+You will need to reactivate Windows and Microsoft Office· Do not change the virtual machine configuration without necessity as it may require another reactivation· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.You are running out of free hard disk space·
+Free some disk space on the hard disk and click &lt;b&gt;Retry&lt;.b&gt;·&lt;br&gt;&lt;br&gt;Note: If you stop the virtual machine "My Boot Camp" now, you will lose all unsaved data· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.You have enabled Shared Profile for a Boot Camp virtual machine·
+If you boot natively from the Boot Camp partition, Shared Profile will be automatically disabled· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.You have entered the Full Screen mode· To exit the Full Screen mode, use the active corner or press
+Alt+Cmd+Return with result 1</key>
+	<integer>10</integer>
+	<key>Gui Usage.Messages.Your problem report has been sent to the Parallels Support team with ID 6810163·
+Thank you for sending a report to Parallels· We value your feedback as it helps us improve the product· You can learn your problem report status by sending an inquiry with the problem report ID to Parallels Support· with result 1</key>
+	<integer>1</integer>
+	<key>Gui Usage.Messages.Your virtual machine is in Crystal Mode now·
+To control your virtual machine and Parallels Desktop in this mode, use the Parallels icon on the right end of the menu bar· The Parallels Desktop menu and Dock icon are hidden in this mode· To learn more about Crystal Mode, &lt;a href="%1"&gt;read this help page&lt;.a&gt; or &lt;a href="%2"&gt;watch the video tutorial&lt;.a&gt;· with result 1</key>
+	<integer>3</integer>
+	<key>Gui Usage.window actions.File-&gt;New···</key>
+	<integer>1</integer>
+	<key>Gui Usage.window actions.File-&gt;Preferences···</key>
+	<integer>2</integer>
+	<key>Gui Usage.window actions.File-&gt;Quit Parallels Desktop</key>
+	<integer>20</integer>
+	<key>Gui Usage.window actions.View-&gt;Full Screen</key>
+	<integer>3</integer>
+	<key>Gui Usage.window actions.View-&gt;Window</key>
+	<integer>3</integer>
+	<key>Gui Usage.window actions.Virtual Machine-&gt;Configure···</key>
+	<integer>8</integer>
+	<key>Gui Usage.window actions.Virtual Machine-&gt;Shut Down</key>
+	<integer>2</integer>
+	<key>Gui Usage.window actions.Virtual Machine-&gt;Start</key>
+	<integer>4</integer>
+	<key>Gui Usage.window actions.Virtual Machine-&gt;Suspend</key>
+	<integer>2</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - General-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdGeneralDialog-&gt;m_cmbCpuNumb</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - General-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdGeneralDialog-&gt;m_sliderRamSize</key>
+	<integer>3</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - General-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdGeneralDialog-&gt;m_spinRamSize</key>
+	<integer>4</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdBackupDialog-&gt;m_ckbDontBackup</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdCoherenceDialog-&gt;m_chkDisableAero</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdOptimizationDialog-&gt;m_ckbAdaptiveHypervisor</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdOptimizationDialog-&gt;m_ckbShowBatteryStatus</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdOptimizationDialog-&gt;m_cmbPerformance</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdSharedFoldersDialog-&gt;m_groupMacSharing-&gt;m_ckbEnableSharedProfile</key>
+	<integer>2</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdSharedFoldersDialog-&gt;m_groupMacSharing-&gt;m_ckbEnableSmartMount</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.My Boot Camp - Parallels Desktop-&gt;My Boot Camp - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdSmartSelectDialog-&gt;m_ckbShowAppFolderInDock</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.New Virtual Machine Assistant-&gt;CNewVmWizNameAndLocationPagePD-&gt;m_edtName</key>
+	<integer>13</integer>
+	<key>Gui Usage.window controls.New Virtual Machine Assistant-&gt;CNewVmWizOsAutodetectPagePD-&gt;m_cmbInstallFrom</key>
+	<integer>5</integer>
+	<key>Gui Usage.window controls.Parallels Virtual Machines-&gt;New Virtual Machine Assistant-&gt;CNewVmWizNameAndLocationPagePD-&gt;m_ckbCustomizeSettings</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.Parallels Virtual Machines-&gt;New Virtual Machine Assistant-&gt;CNewVmWizNameAndLocationPagePD-&gt;m_edtName</key>
+	<integer>11</integer>
+	<key>Gui Usage.window controls.Parallels Virtual Machines-&gt;New Virtual Machine Assistant-&gt;CNewVmWizOsAutodetectPagePD-&gt;m_cmbInstallFrom</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.Parallels Virtual Machines-&gt;Windows 7 Bootcamp 1 - Hardware-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdHardwareSection-&gt;m_DialogWidgetStack-&gt;CVmEdNetworkDialog-&gt;m_cmbNetAdaptersList</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.Windows 7 - Parallels Desktop-&gt;Windows 7 - Hardware-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdHardwareSection-&gt;m_DialogWidgetStack-&gt;CVmEdHardDiskDialog-&gt;m_cmbInterface</key>
+	<integer>2</integer>
+	<key>Gui Usage.window controls.Windows 7 Bootcamp 1 - Parallels Desktop-&gt;Windows 7 Bootcamp 1 - General-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdGeneralDialog-&gt;m_sliderRamSize</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.Windows 7 Bootcamp 1 - Parallels Desktop-&gt;Windows 7 Bootcamp 1 - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdBackupDialog-&gt;m_ckbDontBackup</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.Windows 7 Bootcamp 1 - Parallels Desktop-&gt;Windows 7 Bootcamp 1 - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdCoherenceDialog-&gt;m_chkDisableAero</key>
+	<integer>2</integer>
+	<key>Gui Usage.window controls.Windows 7 Bootcamp 1 - Parallels Desktop-&gt;Windows 7 Bootcamp 1 - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdOptimizationDialog-&gt;m_ckbAdaptiveHypervisor</key>
+	<integer>1</integer>
+	<key>Gui Usage.window controls.Windows 7 Bootcamp 1 - Parallels Desktop-&gt;Windows 7 Bootcamp 1 - Options-&gt;centralwidget-&gt;m_placeholder-&gt;CVmEdOptionsSection-&gt;m_DialogWidgetStack-&gt;CVmEdSharedFoldersDialog-&gt;m_groupMacSharing-&gt;m_cmbAccessType</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleOtherHighlightColor</key>
+	<string>0.500000 0.500000 0.500000</string>
+	<key>CalSuccessfulLaunchTimestampPreferenceKey</key>
+	<real>375735360</real>
+	<key>DefaultExposeTab</key>
+	<string>ExposeTab</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents/Projects/P5 - General Promotional/Photography/Hufton and Crow Proofs/Images</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{585, 454}</string>
+	<key>NSOutlineView Items DSKSourceOfPicturesOutlineView</key>
+	<array>
+		<string>DSKAppleRootSource</string>
+	</array>
+	<key>NSQuitAlwaysKeepsWindows</key>
+	<false/>
+	<key>NSSplitView Subview Frames DSKSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 165.000000, 252.000000, NO</string>
+		<string>166.000000, 0.000000, 435.000000, 252.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames keyboard.shortcuts.splitview</key>
+	<array>
+		<string>0.000000, 0.000000, 171.000000, 230.000000, NO</string>
+		<string>180.000000, 0.000000, 405.000000, 230.000000, NO</string>
+	</array>
+	<key>NSWindow Frame Assignments</key>
+	<string>522 384 640 378 0 0 1680 1028 </string>
+	<key>NSWindow Frame DestinationSheet</key>
+	<string>1065 354 500 295 0 0 1680 1028 </string>
+	<key>NSWindow Frame Identity Picker</key>
+	<string>785 521 357 270 0 0 1680 1028 </string>
+	<key>NSWindow Frame Main Window Frame SystemPreferencesApp 8.0</key>
+	<string>535 718 668 238 0 0 1680 1028 </string>
+	<key>NSWindow Frame com.apple.print.ppdpicker</key>
+	<string>501 402 437 362 0 0 1440 878 </string>
+	<key>SecurityPrefTab</key>
+	<string>Firewall</string>
+	<key>ShowAllMode</key>
+	<false/>
+	<key>SoundTab</key>
+	<string>output</string>
+	<key>ThirdPartyCount</key>
+	<integer>9</integer>
+	<key>WebIconDatabaseDirectoryDefaultsKey</key>
+	<string>~/Library/Icons</string>
+	<key>com.adobe.preferences.flashplayer</key>
+	<dict>
+		<key>IndexOfSelectedTab</key>
+		<integer>3</integer>
+	</dict>
+	<key>com.apple.PreferenceSync.ExcludeSyncKeys</key>
+	<array>
+		<string>Main Window Frame SystemPreferencesApp 8.0</string>
+		<string>com.apple.preference.keyboard.lastselectedtab</string>
+	</array>
+	<key>com.apple.SecurityPref.Privacy.LastSourceSelected</key>
+	<integer>4</integer>
+	<key>com.apple.TimeMachine.OpenPanelDirectory</key>
+	<string>/Users/dspeckhard</string>
+	<key>com.apple.datetimepref.lastselectedtab</key>
+	<string>TimeZone</string>
+	<key>com.apple.dtandsspref.lastselectedtab</key>
+	<string>com.apple.preference.desktopscreeneffect.screeneffects</string>
+	<key>com.apple.preference.keyboard.lastselectedtab</key>
+	<string>hotkeysTabIdentifier</string>
+	<key>com.apple.preferences.accounts.outline.groupparent</key>
+	<false/>
+	<key>com.apple.preferences.accounts.outline.usersparent</key>
+	<true/>
+	<key>com.apple.preferences.energysaver</key>
+	<dict>
+		<key>hasBeenWarnedAboutEnergyUsage</key>
+		<string>YES</string>
+	</dict>
+	<key>com.apple.preferences.sharing</key>
+	<dict>
+		<key>FirstActiveService</key>
+		<integer>1</integer>
+	</dict>
+	<key>com.apple.preferences.sharing.selectedservice</key>
+	<integer>5</integer>
+</dict>
+</plist>

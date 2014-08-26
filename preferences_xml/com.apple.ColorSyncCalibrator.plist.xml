@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0CE010C1-name</key>
+	<string>CASIO-PJ Calibrated</string>
+	<key>0CE010C1-targetGamma</key>
+	<real>1.7999999523162842</real>
+	<key>0CE010C1-targetTemp</key>
+	<integer>0</integer>
+	<key>11400041-name</key>
+	<string>Grandbeing Calibrated</string>
+	<key>11400041-targetGamma</key>
+	<real>1.7999999523162842</real>
+	<key>11400041-targetTemp</key>
+	<integer>0</integer>
+	<key>2B183F79-adminMode</key>
+	<integer>1</integer>
+	<key>2B183F79-expertMode</key>
+	<integer>1</integer>
+	<key>2B183F79-name</key>
+	<string>DELL M410HD Calibrated</string>
+	<key>2B183F79-targetGamma</key>
+	<real>1.206829309463501</real>
+	<key>2B183F79-targetTemp</key>
+	<integer>0</integer>
+</dict>
+</plist>

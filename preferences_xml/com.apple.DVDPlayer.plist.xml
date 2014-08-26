@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApPDpWindowPosition</key>
+	<dict>
+		<key>h</key>
+		<integer>505</integer>
+		<key>v</key>
+		<integer>256</integer>
+	</dict>
+	<key>AudioLanguage</key>
+	<string>  **</string>
+	<key>AudioOutMode</key>
+	<integer>1</integer>
+	<key>AudioVolume</key>
+	<integer>142</integer>
+	<key>AutoPlay</key>
+	<true/>
+	<key>AutoPlayOnDiscMount</key>
+	<true/>
+	<key>AutoPresentationMode</key>
+	<true/>
+	<key>CC Bkgrd Color</key>
+	<dict>
+		<key>blue</key>
+		<integer>0</integer>
+		<key>green</key>
+		<integer>0</integer>
+		<key>red</key>
+		<integer>0</integer>
+	</dict>
+	<key>CC Font Name</key>
+	<string>Lucida Grande</string>
+	<key>CC Font Size</key>
+	<integer>18</integer>
+	<key>CC Text Color</key>
+	<dict>
+		<key>blue</key>
+		<integer>65535</integer>
+		<key>green</key>
+		<integer>65535</integer>
+		<key>red</key>
+		<integer>65535</integer>
+	</dict>
+	<key>CC Transparency</key>
+	<integer>50</integer>
+	<key>CCDisplayType</key>
+	<integer>2</integer>
+	<key>CloseCaptioningOn</key>
+	<false/>
+	<key>Controller Bar Display Type</key>
+	<integer>2</integer>
+	<key>DefaultScanRate</key>
+	<integer>4</integer>
+	<key>Deinterlace Quality Mode</key>
+	<integer>-1</integer>
+	<key>Deinterlace Video</key>
+	<true/>
+	<key>DimAdditionalMonitors</key>
+	<false/>
+	<key>DisplayCCWhenMuted</key>
+	<true/>
+	<key>DisplayDolbyLineMode</key>
+	<false/>
+	<key>DisplayHelpTags</key>
+	<true/>
+	<key>DisplayStatusWindow</key>
+	<true/>
+	<key>DolbyLineMode</key>
+	<false/>
+	<key>Equalizer Enabled</key>
+	<false/>
+	<key>Equalizer Use Disc Settings</key>
+	<true/>
+	<key>FadeWindowsOnQE</key>
+	<true/>
+	<key>FullScreenWhileSuspended</key>
+	<false/>
+	<key>HD Normal Size</key>
+	<integer>1</integer>
+	<key>HDCNpWindowPosition</key>
+	<dict>
+		<key>h</key>
+		<integer>13</integer>
+		<key>v</key>
+		<integer>915</integer>
+	</dict>
+	<key>HDCNpWindowSize</key>
+	<dict>
+		<key>HIPoint</key>
+		<dict>
+			<key>x</key>
+			<real>348</real>
+			<key>y</key>
+			<real>80</real>
+		</dict>
+	</dict>
+	<key>HUDNormalizedXPos</key>
+	<real>209.18760681152344</real>
+	<key>HUDNormalizedYPos</key>
+	<real>98.492179870605469</real>
+	<key>Image Bar Video Clips</key>
+	<true/>
+	<key>InactiveControllerTimeOut</key>
+	<integer>10</integer>
+	<key>Kiosk Menu Sleep</key>
+	<false/>
+	<key>KioskMode</key>
+	<false/>
+	<key>LastPlayMode</key>
+	<integer>2</integer>
+	<key>MenuLanguage</key>
+	<string>  **</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents</string>
+	<key>Pause Playback when Minimized</key>
+	<true/>
+	<key>PauseOnChatConnection</key>
+	<false/>
+	<key>PauseWhileSuspended</key>
+	<false/>
+	<key>PrefsVersion</key>
+	<integer>2</integer>
+	<key>PresHideInactiveController</key>
+	<true/>
+	<key>Put drive to sleep while playing</key>
+	<integer>-1</integer>
+	<key>SD Normal Size</key>
+	<integer>2</integer>
+	<key>SSPD</key>
+	<data>
+	Rk9STRQAAABEVkRDRFZEUgwAAAA0EiRDAAAAADQSJEMAAAAABQAAAA==
+	</data>
+	<key>Show Bookmark Thumbnails</key>
+	<true/>
+	<key>Show Chapter Thumbnails</key>
+	<true/>
+	<key>Show Video Clip Thumbnails</key>
+	<true/>
+	<key>SubTitleLanguage</key>
+	<string>  00</string>
+	<key>Use current video size in full screen</key>
+	<false/>
+	<key>Video Color Enabled</key>
+	<false/>
+	<key>Video Color Use Disc Settings</key>
+	<true/>
+	<key>Viewer Above Other Apps</key>
+	<false/>
+	<key>VwrWpWindowPosition</key>
+	<dict>
+		<key>h</key>
+		<integer>0</integer>
+		<key>v</key>
+		<integer>0</integer>
+	</dict>
+	<key>WebAccess</key>
+	<false/>
+	<key>Zoom Enabled</key>
+	<false/>
+	<key>Zoom Use Disc Settings</key>
+	<true/>
+</dict>
+</plist>

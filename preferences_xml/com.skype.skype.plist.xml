@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABDefaultSelectedMember</key>
+	<string>6B675424-5485-4C0B-BA42-7723B2D7D50B:ABPerson</string>
+	<key>ABMainWindowViewMode</key>
+	<integer>0</integer>
+	<key>AddressBookGroupSortIndex</key>
+	<integer>3</integer>
+	<key>AllGroupSortIndex</key>
+	<integer>2</integer>
+	<key>AutoCollapseChatView</key>
+	<true/>
+	<key>AutoCollapseSidebar</key>
+	<false/>
+	<key>DialpadOpen</key>
+	<false/>
+	<key>DisableWebKitDeveloperExtras</key>
+	<true/>
+	<key>EventActions</key>
+	<dict>
+		<key>AuthRequestReceived</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Authorisation Request Received</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have received contact request from "@"!</string>
+		</dict>
+		<key>Busy</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<true/>
+			<key>SoundToPlay</key>
+			<string>Busy</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Line is busy.</string>
+		</dict>
+		<key>CallConnecting</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Touch Tone Dial Up</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Call connecting.</string>
+		</dict>
+		<key>CallHold</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Hold Call</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Hold call.</string>
+		</dict>
+		<key>CallResume</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Resume Call</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Resume call.</string>
+		</dict>
+		<key>ContactOffline</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<false/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Contact Unavailable</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>"@" went offline</string>
+		</dict>
+		<key>ContactOnline</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Contact Available</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>"@" is online</string>
+		</dict>
+		<key>ContactsReceived</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<true/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Contacts Received </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have received a list of contacts from "@"!</string>
+		</dict>
+		<key>Hangup</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Hangup </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You hung up.</string>
+		</dict>
+		<key>IncomingCall</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<true/>
+			<key>RepeatSound</key>
+			<true/>
+			<key>SoundToPlay</key>
+			<string>Incoming Call </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have an incoming call from "@"!</string>
+		</dict>
+		<key>IncomingCallWaiting</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<true/>
+			<key>RepeatSound</key>
+			<true/>
+			<key>SoundToPlay</key>
+			<string>Call Waiting</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have an incoming call from "@"!</string>
+		</dict>
+		<key>IncomingTransfer</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<true/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Incoming File Transfer</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have received a file from "@"!</string>
+		</dict>
+		<key>InstantMessageReceived</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Message Received </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Message from "@".</string>
+		</dict>
+		<key>InstantMessageSent</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Message Sent</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Message from "@".</string>
+		</dict>
+		<key>Login</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Login </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have signed in.</string>
+		</dict>
+		<key>Logout</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<false/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Logout </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have signed out.</string>
+		</dict>
+		<key>MoodMessageReceived</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<false/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Message Received </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>"@" changed mood message</string>
+		</dict>
+		<key>NewInstantMessageReceived</key>
+		<dict>
+			<key>Bounce</key>
+			<true/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>First Message Received</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>You have a chat message from "@"!</string>
+		</dict>
+		<key>OutgoingCall</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<true/>
+			<key>SoundToPlay</key>
+			<string>Outgoing Call </string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Calling "@".</string>
+		</dict>
+		<key>PartnerHangup</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>Remote Hangup</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>Partner hung up.</string>
+		</dict>
+		<key>TransferCompleted</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>File Transfer Complete</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>File transfer with "@" is completed.</string>
+		</dict>
+		<key>TransferFailed</key>
+		<dict>
+			<key>Bounce</key>
+			<false/>
+			<key>EnableActions</key>
+			<true/>
+			<key>PlaySound</key>
+			<true/>
+			<key>RepeatBounce</key>
+			<false/>
+			<key>RepeatSound</key>
+			<false/>
+			<key>SoundToPlay</key>
+			<string>File Transfer Failed</string>
+			<key>Speak</key>
+			<false/>
+			<key>TextToSpeak</key>
+			<string>File transfer with "@" has failed.</string>
+		</dict>
+	</dict>
+	<key>HasMigratedUserDefinedEvents</key>
+	<true/>
+	<key>HasMigratedUserDefinedEvents_2</key>
+	<true/>
+	<key>HockeySDKAutomaticallySendCrashReports</key>
+	<false/>
+	<key>HockeySDKCrashReportActivated</key>
+	<true/>
+	<key>IncludeDebugMenu</key>
+	<false/>
+	<key>IncomingCalls</key>
+	<integer>0</integer>
+	<key>LastUserSidebarWidth</key>
+	<real>190</real>
+	<key>LiveConversationSplitViewPosition</key>
+	<real>400</real>
+	<key>NSPreferencesContentSize</key>
+	<string>{542, 113}</string>
+	<key>NSPreferencesSelectedIndex</key>
+	<integer>0</integer>
+	<key>NSSplitView Subview Frames MainSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 190.000000, 903.000000, NO</string>
+		<string>191.000000, 0.000000, 1489.000000, 903.000000, NO</string>
+	</array>
+	<key>NSTableView Columns ContactList</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBG5hbWWG
+		</data>
+		<string>200</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCGZhdm9yaXRlhg==
+		</data>
+		<string>30</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBnN0YXR1c4Y=
+		</data>
+		<string>200</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBHRhZ3OG
+		</data>
+		<string>150</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCGxvY2F0aW9uhg==
+		</data>
+		<string>89</string>
+	</array>
+	<key>NSTableView Columns SKHistoryList</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC01JU1NFRE9STk9Uhg==
+		</data>
+		<string>16</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBERBVEWG
+		</data>
+		<string>338</string>
+	</array>
+	<key>NSTableView Columns SKHistoryListB</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC01JU1NFRE9STk9Uhg==
+		</data>
+		<string>16</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErEE9OTElORVNUQVRVU0lDT06G
+		</data>
+		<string>32</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBERBVEWG
+		</data>
+		<string>189</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBE5BTUWG
+		</data>
+		<string>126</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCERVUkFUSU9Ohg==
+		</data>
+		<string>68</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBkJVVFRPToY=
+		</data>
+		<string>16</string>
+	</array>
+	<key>NSTableView Hidden Columns ContactList</key>
+	<array/>
+	<key>NSTableView Hidden Columns SKHistoryList</key>
+	<array/>
+	<key>NSTableView Hidden Columns SKHistoryListB</key>
+	<array/>
+	<key>NSTableView Sort Ordering ContactList</key>
+	<array/>
+	<key>NSTableView Sort Ordering SKHistoryList</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC01JU1NFRE9STk9Uhg==
+		</data>
+		<false/>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBERBVEWG
+		</data>
+		<false/>
+	</array>
+	<key>NSTableView Sort Ordering SKHistoryListB</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC01JU1NFRE9STk9Uhg==
+		</data>
+		<false/>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBERBVEWG
+		</data>
+		<false/>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBE5BTUWG
+		</data>
+		<true/>
+	</array>
+	<key>NSToolbar Configuration Main Dlg Toolbar Identifier B</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>Address Field Item Identifier</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+		<key>TB Visibility Priority Values</key>
+		<dict/>
+	</dict>
+	<key>NSToolbar Configuration NSPreferences</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>General</string>
+			<string>Privacy</string>
+			<string>Notifications</string>
+			<string>Audio</string>
+			<string>Calls</string>
+			<string>SMS</string>
+			<string>Video</string>
+			<string>Chat</string>
+			<string>Transfer</string>
+			<string>Advanced</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+		<key>TB Visibility Priority Values</key>
+		<dict/>
+	</dict>
+	<key>NSToolbar Configuration SKCallToolbarIdentifier</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>SKVideoToolbarItemIdentifier</string>
+			<string>SKShareToolbarItemIdentifier</string>
+			<string>NSToolbarSeparatorItem</string>
+			<string>SKMoreToolbarItemIdentifier</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>SKCallToolbarItemIdentifier</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+		<key>TB Visibility Priority Values</key>
+		<dict>
+			<key>SKCallToolbarItemIdentifier</key>
+			<array>
+				<integer>1000</integer>
+			</array>
+		</dict>
+	</dict>
+	<key>NSToolbar Configuration SKChatToolbarIdentifier</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>SKAddToChatToolbarItemIdentifier</string>
+			<string>SKChatTopicToolbarItemIdentifier</string>
+			<string>NSToolbarSeparatorItem</string>
+			<string>SKCallToolbarItemIdentifier</string>
+			<string>SKVideoToolbarItemIdentifier</string>
+			<string>SKShareToolbarItemIdentifier</string>
+			<string>SKMoreToolbarItemIdentifier</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>SKDrawerToolbarItemIdentifier</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+		<key>TB Visibility Priority Values</key>
+		<dict>
+			<key>SKCallToolbarItemIdentifier</key>
+			<array>
+				<integer>1000</integer>
+			</array>
+		</dict>
+	</dict>
+	<key>NSWindow Frame CallsMonitor</key>
+	<string>1323 776 257 80 0 0 1680 1028 </string>
+	<key>NSWindow Frame Chat Window</key>
+	<string>874 113 515 567 0 0 1440 878 </string>
+	<key>NSWindow Frame M5Window</key>
+	<string>0 103 1680 925 0 0 1680 1028 </string>
+	<key>NSWindow Frame Main Window</key>
+	<string>5 95 379 358 0 0 1680 1028 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>52 125 593 390 0 0 1440 878 </string>
+	<key>NSWindow Frame Profile Panel</key>
+	<string>614 328 837 407 0 0 1680 1028 </string>
+	<key>NSWindow Frame SKHistoryWndB</key>
+	<string>600 505 480 382 0 0 1680 1028 </string>
+	<key>NSWindow Frame Search Window4</key>
+	<string>543 733 567 158 0 0 1680 1028 </string>
+	<key>SKAudioOutputDeviceUID</key>
+	<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+	<key>SKAudioOutputSource</key>
+	<string>Headphones</string>
+	<key>SKAudioRingerDeviceUID</key>
+	<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+	<key>SKAudioRingerSource</key>
+	<string>Headphones</string>
+	<key>SKAvatarCacheDiskCacheHasReset_6</key>
+	<true/>
+	<key>SKAvatarCacheDiskCacheHasReset_7</key>
+	<true/>
+	<key>SKAvatarLoaderDiskCacheHasReset_2</key>
+	<true/>
+	<key>SKAvatarLoaderDiskCacheHasReset_4</key>
+	<true/>
+	<key>SKAwayInactiveTime</key>
+	<real>3</real>
+	<key>SKCallPreferencesForwardInAdvancedMode</key>
+	<false/>
+	<key>SKCallPreferencesVoicemailInAdvancedMode</key>
+	<true/>
+	<key>SKCallWndFrame</key>
+	<dict>
+		<key>Height</key>
+		<real>513</real>
+		<key>Width</key>
+		<real>1038</real>
+		<key>X</key>
+		<real>0.0</real>
+		<key>Y</key>
+		<real>438</real>
+	</dict>
+	<key>SKChatInputAutomaticDashSubstitution</key>
+	<false/>
+	<key>SKChatInputAutomaticQuoteSubstitution</key>
+	<false/>
+	<key>SKChatInputContinuousSpellChecking</key>
+	<true/>
+	<key>SKClickToCallCompatibleSystem</key>
+	<false/>
+	<key>SKContactDoubleClickAction</key>
+	<integer>0</integer>
+	<key>SKContactListContactCell</key>
+	<string>2</string>
+	<key>SKCurrentDayOfYear</key>
+	<integer>138</integer>
+	<key>SKDisableWelcomeTour</key>
+	<false/>
+	<key>SKEULA</key>
+	<string>d668ea13f08f123d97bed29ca969de6c</string>
+	<key>SKEnableSkypeVideo</key>
+	<true/>
+	<key>SKGroupContactsB</key>
+	<true/>
+	<key>SKHasSeenAddressBookPopUp</key>
+	<true/>
+	<key>SKLocationAddressCacheDiskCacheHasReset_1</key>
+	<true/>
+	<key>SKLocationMapTileCacheDiskCacheHasReset_1</key>
+	<true/>
+	<key>SKMacUserSkypeVersion</key>
+	<string>6.15.0.330</string>
+	<key>SKMyselfMinimized</key>
+	<false/>
+	<key>SKNetworkSearchRecents</key>
+	<array>
+		<string>sharon speckhard</string>
+		<string>speckhard</string>
+	</array>
+	<key>SKOldAppThatWasUpgraded</key>
+	<string>/Applications/Skype_old.app</string>
+	<key>SKRememberPassword</key>
+	<true/>
+	<key>SKScreensharingFullScreenDisplayIndex</key>
+	<integer>0</integer>
+	<key>SKSearchWindowAdvancedItems</key>
+	<dict>
+		<key>age</key>
+		<integer>0</integer>
+		<key>city</key>
+		<string></string>
+		<key>country</key>
+		<integer>0</integer>
+		<key>language</key>
+		<integer>0</integer>
+		<key>lookfor</key>
+		<string>barbara.bradac1</string>
+		<key>sex</key>
+		<integer>0</integer>
+		<key>skypeme</key>
+		<false/>
+		<key>state</key>
+		<string></string>
+	</dict>
+	<key>SKSendVideoWndFrame</key>
+	<dict>
+		<key>Height</key>
+		<real>316</real>
+		<key>Width</key>
+		<real>1293</real>
+		<key>X</key>
+		<real>0.0</real>
+		<key>Y</key>
+		<real>635</real>
+	</dict>
+	<key>SKShowAddressBookContacts</key>
+	<false/>
+	<key>SKShowOnlyOnlineContacts</key>
+	<false/>
+	<key>SKShowWelcomeOnLogin</key>
+	<false/>
+	<key>SKSilentUpgradeNoticeShown</key>
+	<true/>
+	<key>SKSimpleSearchAutoSaveItems</key>
+	<array>
+		<string>sspeckhard@gmail.com</string>
+	</array>
+	<key>SKToolbarIsHidden</key>
+	<false/>
+	<key>SKUseGrowlInsteadOfDefault</key>
+	<false/>
+	<key>SKUserContactListColumnSizesPreferences</key>
+	<dict>
+		<key>favorite</key>
+		<real>30</real>
+		<key>location</key>
+		<real>89</real>
+		<key>name</key>
+		<real>200</real>
+		<key>status</key>
+		<real>200</real>
+		<key>tags</key>
+		<real>150</real>
+	</dict>
+	<key>SKVideoWndFrame</key>
+	<dict>
+		<key>Height</key>
+		<real>885</real>
+		<key>Width</key>
+		<real>1132</real>
+		<key>X</key>
+		<real>0.0</real>
+		<key>Y</key>
+		<real>66</real>
+	</dict>
+	<key>SKWebAvatarCacheDiskCacheHasReset_1</key>
+	<true/>
+	<key>ShowDialpadOnLogin</key>
+	<false/>
+	<key>ShowVideoCollapsedInCallsMonitor</key>
+	<true/>
+	<key>TryBeforeYouBuyRules</key>
+	<dict>
+		<key>doug.speckhard</key>
+		<dict>
+			<key>RulesCounter</key>
+			<integer>2</integer>
+			<key>ShowOnDate</key>
+			<date>2011-04-30T00:33:04Z</date>
+		</dict>
+	</dict>
+	<key>UserDefinedEvents</key>
+	<dict>
+		<key>Busy</key>
+		<dict>
+			<key>SoundToPlay</key>
+			<string>Busy</string>
+		</dict>
+		<key>ContactBecomesAvailable</key>
+		<dict>
+			<key>TextToSpeak</key>
+			<string>"@" is online</string>
+		</dict>
+		<key>MessageSent</key>
+		<dict>
+			<key>TextToSpeak</key>
+			<string>Message from "@".</string>
+		</dict>
+		<key>MoodMessageReceived</key>
+		<dict>
+			<key>TextToSpeak</key>
+			<string>"@" changed mood message</string>
+		</dict>
+		<key>SignOut</key>
+		<dict>
+			<key>SoundToPlay</key>
+			<string>Logout </string>
+		</dict>
+	</dict>
+	<key>WebKitDeveloperExtras</key>
+	<false/>
+</dict>
+</plist>

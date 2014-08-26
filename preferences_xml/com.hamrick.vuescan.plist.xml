@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory:ChooseFolder:0</key>
+	<string>~/Documents/Personal/Pictures</string>
+	<key>NSNavLastCurrentDirectory:PutFile:0</key>
+	<string>~/Documents/Personal/Pictures</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavLastRootDirectory:ChooseFolder:0</key>
+	<string>~/Documents/Personal</string>
+	<key>NSNavLastRootDirectory:PutFile:0</key>
+	<string>~/Documents</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+</dict>
+</plist>

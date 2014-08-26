@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop/1515 Third Street</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{712, 562}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<true/>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QBearerEngineFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.bearer.libqcorewlanbearer·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>corewlan</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QBearerEngineFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.bearer.libqgenericbearer·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>generic</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QIconEngineFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QIconEngineFactoryInterfaceV2:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>svg</string>
+		<string>svgz</string>
+		<string>svg.gz</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:03</string>
+		<string>gif</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.imageformats.libqico·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:03</string>
+		<string>ico</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:03</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:03</string>
+		<string>mng</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:03</string>
+		<string>svg</string>
+		<string>svgz</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:03</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>gif</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>ico</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>mng</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>svg</string>
+		<string>svgz</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.codecs.libqcncodecs·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:00</string>
+		<string>GB18030</string>
+		<string>GBK</string>
+		<string>GB2312</string>
+		<string>CP936</string>
+		<string>MS936</string>
+		<string>windows-936</string>
+		<string>MIB: 114</string>
+		<string>MIB: 113</string>
+		<string>MIB: 2025</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.codecs.libqjpcodecs·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:00</string>
+		<string>EUC-JP</string>
+		<string>ISO-2022-JP</string>
+		<string>Shift_JIS</string>
+		<string>JIS7</string>
+		<string>SJIS</string>
+		<string>MS_Kanji</string>
+		<string>MIB: 18</string>
+		<string>MIB: 39</string>
+		<string>MIB: 17</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.codecs.libqkrcodecs·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:00</string>
+		<string>EUC-KR</string>
+		<string>cp949</string>
+		<string>MIB: 38</string>
+		<string>MIB: -949</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.MacOS.codecs.libqtwcodecs·dylib</key>
+	<array>
+		<string>2012-12-27T11:21:00</string>
+		<string>Big5</string>
+		<string>Big5-HKSCS</string>
+		<string>Big5-ETen</string>
+		<string>CP950</string>
+		<string>MIB: 2026</string>
+		<string>MIB: 2101</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqcncodecs·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>GB18030</string>
+		<string>GBK</string>
+		<string>GB2312</string>
+		<string>CP936</string>
+		<string>MS936</string>
+		<string>windows-936</string>
+		<string>MIB: 114</string>
+		<string>MIB: 113</string>
+		<string>MIB: 2025</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqjpcodecs·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>EUC-JP</string>
+		<string>ISO-2022-JP</string>
+		<string>Shift_JIS</string>
+		<string>JIS7</string>
+		<string>SJIS</string>
+		<string>MS_Kanji</string>
+		<string>MIB: 18</string>
+		<string>MIB: 39</string>
+		<string>MIB: 17</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqkrcodecs·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>EUC-KR</string>
+		<string>cp949</string>
+		<string>MIB: 38</string>
+		<string>MIB: -949</string>
+	</array>
+	<key>Trolltech.Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqtwcodecs·dylib</key>
+	<array>
+		<string>2013-10-09T10:22:10</string>
+		<string>Big5</string>
+		<string>Big5-HKSCS</string>
+		<string>Big5-ETen</string>
+		<string>CP950</string>
+		<string>MIB: 2026</string>
+		<string>MIB: 2101</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.codecs.libqcncodecs·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:00</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.codecs.libqjpcodecs·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:00</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.codecs.libqkrcodecs·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:00</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.codecs.libqtwcodecs·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:00</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.imageformats.libqgif·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:03</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.imageformats.libqico·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:03</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.imageformats.libqjpeg·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:03</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.imageformats.libqmng·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:03</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.imageformats.libqsvg·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:03</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.MacOS.imageformats.libqtiff·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2012-12-27T11:21:03</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.bearer.libqcorewlanbearer·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.bearer.libqgenericbearer·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqcncodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqjpcodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqkrcodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqtwcodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.iconengines.libqsvgicon·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqgif·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqico·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqjpeg·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqmng·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqsvg·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+	<key>Trolltech.Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqtiff·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-09T10:22:10</string>
+	</array>
+</dict>
+</plist>

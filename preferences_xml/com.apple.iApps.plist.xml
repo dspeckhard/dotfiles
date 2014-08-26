@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AskAboutUpgrades</key>
+	<dict>
+		<key>11.0</key>
+		<date>2013-10-14T04:02:54Z</date>
+	</dict>
+	<key>PhotoBoothLibraries</key>
+	<array>
+		<string>file://localhost/Users/dspeckhard/Pictures/Photo%20Booth%20Library/</string>
+	</array>
+	<key>iMovie</key>
+	<dict>
+		<key>dateSortReverse</key>
+		<true/>
+		<key>iLMBArtworkHints</key>
+		<dict>
+			<key>eventBrowserCalendarIcon</key>
+			<string>Contents/Resources/icon-calendar.tif</string>
+			<key>eventIcon</key>
+			<string>Contents/Resources/icon-event.tif</string>
+			<key>projectIcon</key>
+			<string>Contents/Resources/icon-project.tif</string>
+		</dict>
+	</dict>
+	<key>iPhotoAutoImportPath</key>
+	<string>~/Pictures/iPhoto Library/Auto Import</string>
+	<key>iPhotoRecentDatabases</key>
+	<array>
+		<string>file://localhost/Users/dspeckhard/Pictures/iPhoto%20Library/AlbumData.xml</string>
+	</array>
+	<key>iTunesRecentDatabasePaths</key>
+	<array>
+		<string>~/Music/iTunes/iTunes Music Library.xml</string>
+	</array>
+	<key>iTunesRecentDatabases</key>
+	<array>
+		<string>file://localhost/Users/dspeckhard/Music/iTunes/iTunes%20Music%20Library.xml</string>
+	</array>
+</dict>
+</plist>

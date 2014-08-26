@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastUsedPrinters</key>
+	<array>
+		<dict>
+			<key>Network</key>
+			<string>10.5.0.1</string>
+			<key>PrinterID</key>
+			<string>SF_MF01</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>10.0.0.1</string>
+			<key>PrinterID</key>
+			<string>HP_LaserJet_P1006</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>172.16.5.1</string>
+			<key>PrinterID</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>192.168.0.1</string>
+			<key>PrinterID</key>
+			<string>EPSON_Stylus_Photo_R200</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>10.2.0.1</string>
+			<key>PrinterID</key>
+			<string>Canon_iR_ADV_C5000s_B1_PSV1_0US</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>192.168.8.1</string>
+			<key>PrinterID</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>192.168.168.1</string>
+			<key>PrinterID</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>10.125.175.254</string>
+			<key>PrinterID</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>172.19.191.251</string>
+			<key>PrinterID</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>Network</key>
+			<string>192.168.2.1</string>
+			<key>PrinterID</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+	</array>
+	<key>PDFAuthor</key>
+	<string>Douglas Speckhard</string>
+	<key>UseLastPrinter</key>
+	<false/>
+	<key>perprinterpresetdefault</key>
+	<true/>
+</dict>
+</plist>

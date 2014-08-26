@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisabledExtensions</key>
+	<array>
+		<string>Watch History</string>
+	</array>
+	<key>LastSearchEngine</key>
+	<string>all</string>
+	<key>RunAtStartup</key>
+	<false/>
+	<key>UseInternetLookupForNew</key>
+	<true/>
+	<key>donateCounter</key>
+	<integer>10</integer>
+	<key>donateNoThanks</key>
+	<integer>1</integer>
+	<key>lastDonateTime</key>
+	<real>1374451794.472538</real>
+	<key>lastRetryNetLookup</key>
+	<integer>1374439811</integer>
+	<key>leftViewSize</key>
+	<real>200</real>
+	<key>mainWindowFrame</key>
+	<string>{{15, 55}, {1311, 598}}</string>
+	<key>musicTabClicked2</key>
+	<true/>
+	<key>startupTasksDone</key>
+	<true/>
+</dict>
+</plist>

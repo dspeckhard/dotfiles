@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleVersion</key>
+	<string>3.0.0fc9774</string>
+	<key>Installed Services</key>
+	<array>
+		<string>/Users/dspeckhard/Library/Services/Import into NOOK for Mac.workflow</string>
+		<string>/Users/dspeckhard/Library/Application Support/Barnes &amp; Noble/Helper Apps/BNProtocolRouter.app</string>
+		<string>/Users/dspeckhard/Library/Application Support/Barnes &amp; Noble/Helper Apps/com.barnes.noble.NookForMac.plist</string>
+	</array>
+	<key>NSWindow Frame MainReaderFrame</key>
+	<string>0 62 1680 966 0 0 1680 1028 </string>
+	<key>User Accepted EULA</key>
+	<true/>
+	<key>WebContinuousSpellCheckingEnabled</key>
+	<true/>
+	<key>WebIconDatabaseDirectoryDefaultsKey</key>
+	<string>~/Library/Icons</string>
+	<key>WebKitTabToLinksPreferenceKey</key>
+	<false/>
+</dict>
+</plist>

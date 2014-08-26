@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABBirthDayVisible</key>
+	<true/>
+	<key>ABCleanWindowController-MainCleanWindow-groupList</key>
+	<dict>
+		<key>selectedGroupEntryIdentifier</key>
+		<string>ABAccountBrowsingGroupEntry:(null)</string>
+	</dict>
+	<key>ABCleanWindowController-MainCleanWindow-personListController</key>
+	<dict>
+		<key>selectedUIDs</key>
+		<array>
+			<string>A4FA200C-7359-4775-8A19-61C8CF2CC587:ABPerson</string>
+		</array>
+	</dict>
+	<key>ABDirectoryServicesSearchable</key>
+	<true/>
+	<key>ABMetaDataChangeCount</key>
+	<integer>43971</integer>
+	<key>ABMetadataLastOilChange</key>
+	<date>2014-08-25T21:55:25Z</date>
+	<key>ABTextSizeIncrement</key>
+	<integer>2</integer>
+	<key>ABVersion</key>
+	<integer>1371</integer>
+	<key>NSWindow Frame ABCleanWindowController-MainCleanWindow</key>
+	<string>840 309 729 438 0 0 1680 1028 </string>
+</dict>
+</plist>

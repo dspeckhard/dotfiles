@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnableGrowlNotifications</key>
+	<true/>
+	<key>LastEventID</key>
+	<integer>18158642108222721061</integer>
+	<key>LastSyncTime</key>
+	<date>2013-11-14T18:49:18Z</date>
+	<key>SULastCheckTime</key>
+	<date>2014-08-26T03:26:45Z</date>
+	<key>SyncPointPath</key>
+	<string>/Users/dspeckhard/Box Documents</string>
+	<key>UseGraphiteUI</key>
+	<true/>
+	<key>isLoggedIn</key>
+	<string>0</string>
+	<key>login</key>
+	<string>dspeckhard@bcj.com</string>
+	<key>syncStoppedExplicitly</key>
+	<true/>
+</dict>
+</plist>

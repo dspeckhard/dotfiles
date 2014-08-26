@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSServicesNoFilterServices</key>
+	<true/>
+	<key>NSServicesStatus</key>
+	<dict>
+		<key>(null) - Open URL in Google Chrome - runWorkflowAsService</key>
+		<dict>
+			<key>key_equivalent</key>
+			<string>@~g</string>
+		</dict>
+		<key>com.apple.Terminal - New Terminal Tab at Folder - newTerminalAtFolder</key>
+		<dict>
+			<key>enabled_context_menu</key>
+			<true/>
+			<key>enabled_services_menu</key>
+			<true/>
+		</dict>
+		<key>com.apple.services.addToiTunesAsSpokenTrack - Add to iTunes as a Spoken Track - runWorkflowAsService</key>
+		<dict>
+			<key>enabled_context_menu</key>
+			<false/>
+			<key>enabled_services_menu</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>NSServicesUserDirectoryModDate</key>
+	<real>1322121455</real>
+</dict>
+</plist>

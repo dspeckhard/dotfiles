@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QAccessibleFactoryInterface:.Applications.Launchy·app.Contents.PlugIns.accessible.libqtaccessiblewidgets·dylib</key>
+	<array>
+		<string>2010-04-04T09:20:28</string>
+		<string>QLineEdit</string>
+		<string>QComboBox</string>
+		<string>QAbstractSpinBox</string>
+		<string>QSpinBox</string>
+		<string>QDoubleSpinBox</string>
+		<string>QScrollBar</string>
+		<string>QSlider</string>
+		<string>QAbstractSlider</string>
+		<string>QToolButton</string>
+		<string>QCheckBox</string>
+		<string>QRadioButton</string>
+		<string>QPushButton</string>
+		<string>QAbstractButton</string>
+		<string>QDialog</string>
+		<string>QMessageBox</string>
+		<string>QMainWindow</string>
+		<string>QLabel</string>
+		<string>QLCDNumber</string>
+		<string>QGroupBox</string>
+		<string>QStatusBar</string>
+		<string>QProgressBar</string>
+		<string>QMenuBar</string>
+		<string>Q3PopupMenu</string>
+		<string>QMenu</string>
+		<string>QHeaderView</string>
+		<string>QTabBar</string>
+		<string>QToolBar</string>
+		<string>QWorkspaceChild</string>
+		<string>QSizeGrip</string>
+		<string>QAbstractItemView</string>
+		<string>QWidget</string>
+		<string>QSplitter</string>
+		<string>QSplitterHandle</string>
+		<string>QTextEdit</string>
+		<string>QTipLabel</string>
+		<string>QFrame</string>
+		<string>QStackedWidget</string>
+		<string>QToolBox</string>
+		<string>QMdiArea</string>
+		<string>QMdiSubWindow</string>
+		<string>QWorkspace</string>
+		<string>QDialogButtonBox</string>
+		<string>QDial</string>
+		<string>QRubberBand</string>
+		<string>QTextBrowser</string>
+		<string>QAbstractScrollArea</string>
+		<string>QScrollArea</string>
+		<string>QCalendarWidget</string>
+		<string>QDockWidget</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QAccessibleFactoryInterface:.Applications.Synergy·app.Contents.PlugIns.accessible.libqtaccessiblewidgets·dylib</key>
+	<array>
+		<string>2012-07-30T09:50:11</string>
+		<string>QLineEdit</string>
+		<string>QComboBox</string>
+		<string>QAbstractSpinBox</string>
+		<string>QSpinBox</string>
+		<string>QDoubleSpinBox</string>
+		<string>QScrollBar</string>
+		<string>QSlider</string>
+		<string>QAbstractSlider</string>
+		<string>QToolButton</string>
+		<string>QCheckBox</string>
+		<string>QRadioButton</string>
+		<string>QPushButton</string>
+		<string>QAbstractButton</string>
+		<string>QDialog</string>
+		<string>QMessageBox</string>
+		<string>QMainWindow</string>
+		<string>QLabel</string>
+		<string>QLCDNumber</string>
+		<string>QGroupBox</string>
+		<string>QStatusBar</string>
+		<string>QProgressBar</string>
+		<string>QMenuBar</string>
+		<string>Q3PopupMenu</string>
+		<string>QMenu</string>
+		<string>QHeaderView</string>
+		<string>QTabBar</string>
+		<string>QToolBar</string>
+		<string>QWorkspaceChild</string>
+		<string>QSizeGrip</string>
+		<string>QAbstractItemView</string>
+		<string>QWidget</string>
+		<string>QSplitter</string>
+		<string>QSplitterHandle</string>
+		<string>QTextEdit</string>
+		<string>QTipLabel</string>
+		<string>QFrame</string>
+		<string>QStackedWidget</string>
+		<string>QToolBox</string>
+		<string>QMdiArea</string>
+		<string>QMdiSubWindow</string>
+		<string>QWorkspace</string>
+		<string>QDialogButtonBox</string>
+		<string>QDial</string>
+		<string>QRubberBand</string>
+		<string>QTextBrowser</string>
+		<string>QAbstractScrollArea</string>
+		<string>QScrollArea</string>
+		<string>QCalendarWidget</string>
+		<string>QDockWidget</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QIconEngineFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:25</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QIconEngineFactoryInterfaceV2:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:25</string>
+		<string>svg</string>
+		<string>svgz</string>
+		<string>svg.gz</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2010-09-29T21:00:48</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>2010-09-29T21:00:48</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2010-09-29T21:00:48</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2010-09-29T21:00:48</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2010-09-29T21:00:48</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Launchy·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2010-04-04T09:20:28</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Launchy·app.Contents.PlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>2010-04-04T09:20:28</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Launchy·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2010-04-04T09:20:28</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Launchy·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2010-04-04T09:20:28</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Launchy·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2010-04-04T09:20:28</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Synergy·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2012-07-30T09:50:12</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Synergy·app.Contents.PlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>2012-07-30T09:50:12</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Synergy·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2012-07-30T09:50:12</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Synergy·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2012-07-30T09:50:12</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Synergy·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2012-07-30T09:50:12</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:24</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqico·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:24</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:24</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:24</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:24</string>
+		<string>svg</string>
+	</array>
+	<key>Qt Factory Cache 4·6.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2010-10-17T16:27:24</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QAccessibleFactoryInterface:.Applications.VirtualBox·app.Contents.MacOS.accessible.libqtaccessiblewidgets·dylib</key>
+	<array>
+		<string>2014-03-26T12:18:54</string>
+		<string>QLineEdit</string>
+		<string>QComboBox</string>
+		<string>QAbstractSpinBox</string>
+		<string>QSpinBox</string>
+		<string>QDoubleSpinBox</string>
+		<string>QScrollBar</string>
+		<string>QSlider</string>
+		<string>QAbstractSlider</string>
+		<string>QToolButton</string>
+		<string>QCheckBox</string>
+		<string>QRadioButton</string>
+		<string>QPushButton</string>
+		<string>QAbstractButton</string>
+		<string>QDialog</string>
+		<string>QMessageBox</string>
+		<string>QMainWindow</string>
+		<string>QLabel</string>
+		<string>QLCDNumber</string>
+		<string>QGroupBox</string>
+		<string>QStatusBar</string>
+		<string>QProgressBar</string>
+		<string>QMenuBar</string>
+		<string>Q3PopupMenu</string>
+		<string>QMenu</string>
+		<string>QHeaderView</string>
+		<string>QTabBar</string>
+		<string>QToolBar</string>
+		<string>QWorkspaceChild</string>
+		<string>QSizeGrip</string>
+		<string>QAbstractItemView</string>
+		<string>QWidget</string>
+		<string>QSplitter</string>
+		<string>QSplitterHandle</string>
+		<string>QTextEdit</string>
+		<string>QTipLabel</string>
+		<string>QFrame</string>
+		<string>QStackedWidget</string>
+		<string>QToolBox</string>
+		<string>QMdiArea</string>
+		<string>QMdiSubWindow</string>
+		<string>QWorkspace</string>
+		<string>QDialogButtonBox</string>
+		<string>QDial</string>
+		<string>QRubberBand</string>
+		<string>QTextBrowser</string>
+		<string>QAbstractScrollArea</string>
+		<string>QScrollArea</string>
+		<string>QCalendarWidget</string>
+		<string>QDockWidget</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QBearerEngineFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.bearer.libqgenericbearer·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>generic</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QBearerEngineFactoryInterface:.Applications.calibre·app.Contents.MacOS.bearer.libqgenericbearer·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:01</string>
+		<string>generic</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QIconEngineFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QIconEngineFactoryInterface:.Applications.calibre·app.Contents.MacOS.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QIconEngineFactoryInterfaceV2:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>svg</string>
+		<string>svgz</string>
+		<string>svg.gz</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QIconEngineFactoryInterfaceV2:.Applications.calibre·app.Contents.MacOS.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>svg</string>
+		<string>svgz</string>
+		<string>svg.gz</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libFxQtImagePlugin·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>svg</string>
+		<string>svgz</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Google Earth·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2013-10-07T14:47:45</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Google Earth·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2013-10-07T14:47:45</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Google Earth·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2013-10-07T14:47:45</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqgif_debug·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqico_debug·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqico·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqjpeg_debug·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqmng_debug·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqtiff_debug·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Stellarium·app.Contents.plugins.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2010-12-05T07:15:44</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.calibre·app.Contents.MacOS.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.calibre·app.Contents.MacOS.imageformats.libqico·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.calibre·app.Contents.MacOS.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.calibre·app.Contents.MacOS.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.calibre·app.Contents.MacOS.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>svg</string>
+		<string>svgz</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.calibre·app.Contents.MacOS.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>tiff</string>
+		<string>tif</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqcncodecs·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>GB18030</string>
+		<string>GBK</string>
+		<string>GB2312</string>
+		<string>CP936</string>
+		<string>MS936</string>
+		<string>windows-936</string>
+		<string>MIB: 114</string>
+		<string>MIB: 113</string>
+		<string>MIB: 2025</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqjpcodecs·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>EUC-JP</string>
+		<string>ISO-2022-JP</string>
+		<string>Shift_JIS</string>
+		<string>JIS7</string>
+		<string>SJIS</string>
+		<string>MS_Kanji</string>
+		<string>MIB: 18</string>
+		<string>MIB: 39</string>
+		<string>MIB: 17</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqkrcodecs·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>EUC-KR</string>
+		<string>cp949</string>
+		<string>MIB: 38</string>
+		<string>MIB: -949</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqtwcodecs·dylib</key>
+	<array>
+		<string>2014-03-14T12:27:52</string>
+		<string>Big5</string>
+		<string>Big5-HKSCS</string>
+		<string>Big5-ETen</string>
+		<string>CP950</string>
+		<string>MIB: 2026</string>
+		<string>MIB: 2101</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.calibre·app.Contents.MacOS.codecs.libqcncodecs·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:01</string>
+		<string>GB18030</string>
+		<string>GBK</string>
+		<string>GB2312</string>
+		<string>CP936</string>
+		<string>MS936</string>
+		<string>windows-936</string>
+		<string>MIB: 114</string>
+		<string>MIB: 113</string>
+		<string>MIB: 2025</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.calibre·app.Contents.MacOS.codecs.libqjpcodecs·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>EUC-JP</string>
+		<string>ISO-2022-JP</string>
+		<string>Shift_JIS</string>
+		<string>JIS7</string>
+		<string>SJIS</string>
+		<string>MS_Kanji</string>
+		<string>MIB: 18</string>
+		<string>MIB: 39</string>
+		<string>MIB: 17</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.calibre·app.Contents.MacOS.codecs.libqkrcodecs·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>EUC-KR</string>
+		<string>cp949</string>
+		<string>MIB: 38</string>
+		<string>MIB: -949</string>
+	</array>
+	<key>Qt Factory Cache 4·7.com·trolltech·Qt·QTextCodecFactoryInterface:.Applications.calibre·app.Contents.MacOS.codecs.libqtwcodecs·dylib</key>
+	<array>
+		<string>2011-11-18T19:22:00</string>
+		<string>Big5</string>
+		<string>Big5-HKSCS</string>
+		<string>Big5-ETen</string>
+		<string>CP950</string>
+		<string>MIB: 2026</string>
+		<string>MIB: 2101</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.LeapFrogConnect·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2013-06-02T20:04:06</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.LeapFrogConnect·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2013-06-02T20:04:06</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.LeapFrogConnect·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2013-06-02T20:04:06</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.SugarSync Manager·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2013-01-23T23:57:06</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.SugarSync Manager·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2013-01-23T23:57:06</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2013-05-03T20:24:06</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqico·dylib</key>
+	<array>
+		<string>2013-05-03T20:24:06</string>
+		<string>ico</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2013-05-03T20:24:06</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqmng·dylib</key>
+	<array>
+		<string>2013-05-03T20:24:06</string>
+		<string>mng</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>2013-05-03T20:24:06</string>
+		<string>svg</string>
+		<string>svgz</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Volumes.LeapFrogConnectSetup_LeapPadExplorer.LeapFrogConnectSetup_LeapPadExplorer·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>2012-10-18T15:12:11</string>
+		<string>gif</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QImageIOHandlerFactoryInterface:.Volumes.LeapFrogConnectSetup_LeapPadExplorer.LeapFrogConnectSetup_LeapPadExplorer·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>2012-10-18T15:12:11</string>
+		<string>jpeg</string>
+		<string>jpg</string>
+	</array>
+	<key>Qt Factory Cache 4·8.com·trolltech·Qt·QSqlDriverFactoryInterface:.Applications.Tomahawk·app.Contents.qt-plugins.sqldrivers.libqsqlite·dylib</key>
+	<array>
+		<string>2013-05-03T20:24:06</string>
+		<string>QSQLITE</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-09-29T21:00:48</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-09-29T21:00:48</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-09-29T21:00:48</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-09-29T21:00:48</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Autodesk.AutoCAD 2011.AutoCAD·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-09-29T21:00:48</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.MacOS.plugins.libcalcy·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.MacOS.plugins.libgcalc·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.MacOS.plugins.librunner·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.MacOS.plugins.libverby·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.MacOS.plugins.libweby·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.PlugIns.accessible.libqtaccessiblewidgets·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.PlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Launchy·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>40602</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-04-04T09:20:28</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Parallels Desktop·app.Contents.PlugIns.phonon_backend.libphonon_qt7·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string> macosx macx g++-4 full-config </string>
+		<string>2010-09-14T02:39:15</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Synergy·app.Contents.PlugIns.accessible.libqtaccessiblewidgets·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2012-07-30T09:50:11</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Synergy·app.Contents.PlugIns.imageformats.libqgif·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2012-07-30T09:50:12</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Synergy·app.Contents.PlugIns.imageformats.libqico·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2012-07-30T09:50:12</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Synergy·app.Contents.PlugIns.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2012-07-30T09:50:12</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Synergy·app.Contents.PlugIns.imageformats.libqmng·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2012-07-30T09:50:12</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Applications.Synergy·app.Contents.PlugIns.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2012-07-30T09:50:12</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.iconengines.libqsvgicon·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:25</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqgif·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:24</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqico·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:24</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqjpeg·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:24</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqmng·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:24</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqsvg·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:24</string>
+	</array>
+	<key>Qt Plugin Cache 4·6·false.Users.dspeckhard.Downloads.calibre·app.Contents.MacOS.imageformats.libqtiff·dylib</key>
+	<array>
+		<string>40603</string>
+		<string>0</string>
+		<string>macosx macx g++-4 full-config</string>
+		<string>2010-10-17T16:27:24</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.bearer.libqgenericbearer·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqcncodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqjpcodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqkrcodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.codecs.libqtwcodecs·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.iconengines.libqsvgicon·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libFxQtImagePlugin·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqgif·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqico·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqjpeg·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqmng·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqsvg·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.DraftSight·app.Contents.PlugIns.QtPlugIns.imageformats.libqtiff·dylib-x86_64</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-14T12:27:52</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Google Earth·app.Contents.PlugIns.imageformats.libqgif·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-07T14:47:45</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Google Earth·app.Contents.PlugIns.imageformats.libqjpeg·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-07T14:47:45</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Google Earth·app.Contents.PlugIns.imageformats.libqtiff·dylib-i386</key>
+	<array>
+		<string>40704</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-10-07T14:47:45</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.iconengines.libqsvgicon_debug·dylib-i386</key>
+	<array>
+		<string>0</string>
+		<string>1</string>
+		<string>unknown</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.iconengines.libqsvgicon·dylib-i386</key>
+	<array>
+		<string>0</string>
+		<string>1</string>
+		<string>unknown</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqgif_debug·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqgif·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqico_debug·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqico·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqjpeg_debug·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqjpeg·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqmng_debug·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqmng·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqsvg_debug·dylib-i386</key>
+	<array>
+		<string>0</string>
+		<string>1</string>
+		<string>unknown</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqsvg·dylib-i386</key>
+	<array>
+		<string>0</string>
+		<string>1</string>
+		<string>unknown</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqtiff_debug·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.Stellarium·app.Contents.plugins.imageformats.libqtiff·dylib-i386</key>
+	<array>
+		<string>40700</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2010-12-05T07:15:44</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.VirtualBox·app.Contents.MacOS.accessible.libqtaccessiblewidgets·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>VirtualBox macosx macx-cocoa g++-4 full-config</string>
+		<string>2014-03-26T12:18:54</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.bearer.libqgenericbearer·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:01</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.codecs.libqcncodecs·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:01</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.codecs.libqjpcodecs·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.codecs.libqkrcodecs·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.codecs.libqtwcodecs·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.iconengines.libqsvgicon·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.imageformats.libqgif·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.imageformats.libqico·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.imageformats.libqjpeg·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.imageformats.libqmng·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.imageformats.libqsvg·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·7·false.Applications.calibre·app.Contents.MacOS.imageformats.libqtiff·dylib-x86_64</key>
+	<array>
+		<string>40701</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2011-11-18T19:22:00</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.LeapFrogConnect·app.Contents.PlugIns.Styles.libStylePlugin_Common_EnglishUS·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-06-02T20:04:07</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.LeapFrogConnect·app.Contents.PlugIns.Styles.libStylePlugin_Shell_EnglishUS·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-06-02T20:04:08</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.LeapFrogConnect·app.Contents.PlugIns.imageformats.libqgif·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-06-02T20:04:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.LeapFrogConnect·app.Contents.PlugIns.imageformats.libqjpeg·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-06-02T20:04:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.LeapFrogConnect·app.Contents.PlugIns.imageformats.libqmng·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-06-02T20:04:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.SugarSync Manager·app.Contents.PlugIns.imageformats.libqgif·dylib-i386</key>
+	<array>
+		<string>40800</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-01-23T23:57:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.SugarSync Manager·app.Contents.PlugIns.imageformats.libqjpeg·dylib-i386</key>
+	<array>
+		<string>40800</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-01-23T23:57:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_account_google·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_account_twitter·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_account_xmpp·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_account_zeroconf·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_adium·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_charts·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_discogs·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_echonest·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_hypem·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_musicbrainz·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_musixmatch·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_newreleases·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_rovi·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.MacOS.libtomahawk_infoplugin_spotify·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:05</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqgif·dylib-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqico·dylib-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqjpeg·dylib-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqmng·dylib-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.imageformats.libqsvg·dylib-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.phonon_backend.phonon_vlc·so-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Applications.Tomahawk·app.Contents.qt-plugins.sqldrivers.libqsqlite·dylib-x86_64</key>
+	<array>
+		<string>40804</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 full-config</string>
+		<string>2013-05-03T20:24:06</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Library.Application Support.LeapFrog.LeapFrog Connect.Devices.LeapPadExplorer·lfcDevice.Contents.Hook.libLeapPadExplorerDeviceHook·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-02-16T08:34:31</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Library.Application Support.LeapFrog.LeapFrog Connect.Devices.LeapPadExplorer·lfcDevice.Contents.Style.libStylePlugin_LeapPadExplorer_EnglishUS·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-02-16T08:34:30</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Library.Application Support.LeapFrog.LeapFrog Connect.Devices.LeapPadExplorer·lfcDevice.Contents.Suite.libLeapPadExplorerDevice·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-02-16T08:34:30</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Library.Application Support.LeapFrog.LeapFrog Connect.Devices.LeapPadExplorer·lfcDevice.Contents.Suite.libLeapPadExplorerUpdateDevice·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>1</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2013-02-16T08:34:31</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Volumes.LeapFrogConnectSetup_LeapPadExplorer.LeapFrogConnectSetup_LeapPadExplorer·app.Contents.PlugIns.imageformats.libqgif·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2012-10-18T15:12:11</string>
+	</array>
+	<key>Qt Plugin Cache 4·8·false.Volumes.LeapFrogConnectSetup_LeapPadExplorer.LeapFrogConnectSetup_LeapPadExplorer·app.Contents.PlugIns.imageformats.libqjpeg·dylib-i386</key>
+	<array>
+		<string>40803</string>
+		<string>0</string>
+		<string>macosx macx-cocoa g++-4 no-pkg-config</string>
+		<string>2012-10-18T15:12:11</string>
+	</array>
+	<key>Qt.filedialog</key>
+	<data>
+	AAAAvgAAAAMAAAAeAAAA/wAAAAAAAAACAAAAaQAADgABAAAABwEAAAABAAAAAgAAAAVm
+	aWxlOgAAABhmaWxlOi8vL1VzZXJzL2RzcGVja2hhcmQAAAAGAAAAhAAvAFUAcwBlAHIA
+	cwAvAGQAcwBwAGUAYwBrAGgAYQByAGQALwBEAG8AYwB1AG0AZQBuAHQAcwAvAFAAZQBy
+	AHMAbwBuAGEAbAAvAEwAaQB2AGkAbgBnACAAUgBvAG8AbQAgAFAAYQBpAG4AdAAgAFMA
+	YwBoAGUAbQBlAHMALwBSAEEAVwAAALgALwBWAG8AbAB1AG0AZQBzAC8AUAByAG8AagBl
+	AGMAdABzAC8AMgAwADEAMgAvADEAMgA1ADIAMAAgAEcAbABlAG4AIABFAGwAbABlAG4A
+	IABDAGEAYgBpAG4ALwBmAGkAbABlAC8AVwAgAEUAbABlAGMAdAByAG8AbgBpAGMAIABJ
+	AG0AYQBnAGUAcwAvADIAMAAxADMAIAAxADIAIAAxADAAIABTAGkAdABlACAAVgBpAHMA
+	aQB0AAAANAAvAFUAcwBlAHIAcwAvAGQAcwBwAGUAYwBrAGgAYQByAGQALwBQAGkAYwB0
+	AHUAcgBlAHMAAAA2AC8AVQBzAGUAcgBzAC8AZABzAHAAZQBjAGsAaABhAHIAZAAvAEQA
+	bwBjAHUAbQBlAG4AdABzAAAAZgAvAFUAcwBlAHIAcwAvAGQAcwBwAGUAYwBrAGgAYQBy
+	AGQALwBQAGkAYwB0AHUAcgBlAHMALwBQAGgAbwB0AG8AcwAvAEsAYQB1AGEAaQAgAFAA
+	aABvAHQAbwBzACAAMgAwADEANAAAAEYALwBWAG8AbAB1AG0AZQBzAC8AVwBEAFIAYQBp
+	AGQALwBNAGUAZABpAGEALwBQAGkAYwB0AHUAcgBlAHMALwAyADAAMQAzAAAAPAAvAFYA
+	bwBsAHUAbQBlAHMALwBXAEQAUgBhAGkAZAAvAE0AZQBkAGkAYQAvAFAAaQBjAHQAdQBy
+	AGUAcwAAAH4AAAD/AAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAB/wAA
+	AAQBAQAAAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAQAAAEEAAAAAQAAAAAAAABA
+	AAAAAQAAAAAAAABDAAAAAQAAAAAAAAB4AAAAAQAAAAAAAAAA
+	</data>
+</dict>
+</plist>

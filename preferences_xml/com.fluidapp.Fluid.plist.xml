@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FluidDestinationDir</key>
+	<string>/Applications</string>
+	<key>NSWindow Frame FluidWindow</key>
+	<string>582 572 515 283 0 0 1680 1028 </string>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2013-01-03T04:21:19Z</date>
+	<key>WebIconDatabaseDirectoryDefaultsKey</key>
+	<string>~/Library/Icons</string>
+	<key>WebIconDatabaseEnabled</key>
+	<true/>
+	<key>WebKitAllowAnimatedImageLoopingPreferenceKey</key>
+	<false/>
+	<key>WebKitAllowAnimatedImagesPreferenceKey</key>
+	<false/>
+	<key>WebKitDisplayImagesKey</key>
+	<false/>
+	<key>WebKitJavaEnabled</key>
+	<false/>
+	<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
+	<false/>
+	<key>WebKitPluginsEnabled</key>
+	<false/>
+	<key>WebKitPrivateBrowsingEnabled</key>
+	<true/>
+	<key>WebKitUsesPageCachePreferenceKey</key>
+	<false/>
+</dict>
+</plist>

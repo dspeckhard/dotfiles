@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CleanQuit</key>
+	<true/>
+	<key>ImportPreviouslySelectPath</key>
+	<string>/Users/dspeckhard/TV Shows</string>
+	<key>MainWindowGeometry</key>
+	<data>
+	AdnQywABAAAAAAFyAAAAhwAACAEAAARoAAABcgAAAM0AAAUbAAADEQAAAAACAA==
+	</data>
+	<key>MainWindowState</key>
+	<data>
+	AAAA/wAAAAD9AAAAAgAAAAAAAAEAAAABFvwCAAAAAvsAAAAmAGQAbwBjAGsAZQBkAF8A
+	RQBmAGYAZQBjAHQAcwAgAEwAaQBzAHQBAAACZwAAAIsAAABoAP////sAAAAcAGQAbwBj
+	AGsAZQBkAF8ASABpAHMAdABvAHIAeQEAAALzAAAAigAAAGgA////AAAAAgAABpAAAAJm
+	/AEAAAAD+wAAACgAZABvAGMAawBlAGQAXwBNAGUAZABpAGEAIABMAGkAYgByAGEAcgB5
+	AQAAAAAAAAEoAAABGAD////7AAAAJgBkAG8AYwBrAGUAZABfAEMAbABpAHAAIABQAHIA
+	ZQB2AGkAZQB3AQAAASkAAAMaAAABSAD////7AAAALABkAG8AYwBrAGUAZABfAFAAcgBv
+	AGoAZQBjAHQAIABQAHIAZQB2AGkAZQB3AQAABEQAAAJMAAABSAD///8AAAWPAAABFgAA
+	AAQAAAAEAAAACAAAAAj8AAAAAA==
+	</data>
+	<key>VlmcVersion</key>
+	<string>0.2</string>
+	<key>private.LogLevel</key>
+	<integer>0</integer>
+</dict>
+</plist>

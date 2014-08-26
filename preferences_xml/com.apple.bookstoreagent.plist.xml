@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NextClientIDPingDate</key>
+	<date>2014-07-15T23:06:52Z</date>
+	<key>NextClientIDPingVary</key>
+	<string>X-Apple-Store-Front,X-Dsid,Cookie</string>
+	<key>Storefront</key>
+	<string>143441-1,22</string>
+</dict>
+</plist>

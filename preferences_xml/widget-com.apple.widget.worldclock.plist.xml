@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0000000000000002-cityName</key>
+	<string>San Francisco</string>
+	<key>0000000000000002-continentName</key>
+	<string>North America</string>
+	<key>af7a9c58b412b441-city</key>
+	<string>29</string>
+	<key>af7a9c58b412b441-continent</key>
+	<string>5</string>
+	<key>af7a9c58b412b441-geoID</key>
+	<string>5391959</string>
+	<key>c075e96ab412b441-city</key>
+	<string>6</string>
+	<key>c075e96ab412b441-continent</key>
+	<string>5</string>
+	<key>c075e96ab412b441-geoID</key>
+	<string>5391959</string>
+	<key>city</key>
+	<string>6</string>
+	<key>continent</key>
+	<string>5</string>
+	<key>geoID</key>
+	<string>5391959</string>
+</dict>
+</plist>

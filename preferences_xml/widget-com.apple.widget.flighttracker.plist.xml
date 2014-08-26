@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultAirlineCode</key>
+	<string>SWA</string>
+	<key>defaultArriveCity</key>
+	<string>MDW</string>
+	<key>defaultDepartCity</key>
+	<string>MCI</string>
+	<key>f6ce9471d212b441-airlineCode</key>
+	<string>SWA</string>
+	<key>f6ce9471d212b441-arriveCity</key>
+	<string>MDW</string>
+	<key>f6ce9471d212b441-departCity</key>
+	<string>MCI</string>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Setting.ConnectivitySettings</key>
+	<dict>
+		<key>CDXAddress</key>
+		<string>17.155.5.232:4398</string>
+		<key>CohortAddress</key>
+		<string>17.173.255.223:16386</string>
+		<key>CohortAddressName</key>
+		<string>commnat-cohort.ess.apple.com:16386</string>
+		<key>IceTimeout</key>
+		<real>35</real>
+		<key>Main0Address</key>
+		<string>17.173.255.222:16384</string>
+		<key>Main0AddressName</key>
+		<string>commnat-main.ess.apple.com:16384</string>
+		<key>Main1Address</key>
+		<string>17.173.255.222:16385</string>
+		<key>Main1AddressName</key>
+		<string>commnat-main.ess.apple.com:16385</string>
+		<key>MaxBlobSize</key>
+		<integer>130</integer>
+		<key>NatTypeTimeout</key>
+		<real>5</real>
+		<key>NetworkConditionsTimeout</key>
+		<real>60</real>
+		<key>NetworkSupport</key>
+		<true/>
+		<key>NoRemotePacketsTimeout</key>
+		<real>30</real>
+		<key>PreRelayTimeout</key>
+		<real>6</real>
+		<key>RelayBitrateMax</key>
+		<integer>2000</integer>
+	</dict>
+	<key>Setting.OfflineAtQuit</key>
+	<integer>1</integer>
+	<key>Setting.RememberPassword</key>
+	<true/>
+</dict>
+</plist>

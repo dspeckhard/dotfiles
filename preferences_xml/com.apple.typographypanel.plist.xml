@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSTypographyPanel_Helvetica</key>
+	<dict/>
+	<key>NSTypographyPanel_Helvetica-Bold</key>
+	<dict>
+		<key>Glyph Variations_DisclosedState</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

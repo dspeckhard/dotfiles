@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GrowlDisplayPluginName</key>
+	<string>Smoke</string>
+	<key>GrowlEnableForward</key>
+	<false/>
+	<key>GrowlEnabled</key>
+	<true/>
+	<key>GrowlLogType</key>
+	<integer>0</integer>
+	<key>GrowlLoggingEnabled</key>
+	<false/>
+	<key>GrowlMenuExtra</key>
+	<false/>
+	<key>GrowlRemoteRegistration</key>
+	<false/>
+	<key>GrowlSelectedPosition</key>
+	<integer>3</integer>
+	<key>GrowlSquelchMode</key>
+	<false/>
+	<key>GrowlStartServer</key>
+	<false/>
+	<key>GrowlUDPPort</key>
+	<integer>9887</integer>
+	<key>GrowlUpdateCheck</key>
+	<true/>
+	<key>IdleThreshold</key>
+	<integer>30</integer>
+	<key>LastUpdateCheck</key>
+	<date>2012-07-14T03:44:43Z</date>
+	<key>StickyWhenAway</key>
+	<false/>
+</dict>
+</plist>

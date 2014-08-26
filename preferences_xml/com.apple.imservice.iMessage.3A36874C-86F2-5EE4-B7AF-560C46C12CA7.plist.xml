@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Status</key>
+	<dict>
+		<key>550B3B16-82B5-4453-AE09-5A7EC476E624</key>
+		<dict>
+			<key>FZPersonFirstName</key>
+			<string>Douglas</string>
+			<key>FZPersonLastName</key>
+			<string>Speckhard</string>
+			<key>FZPersonStatus</key>
+			<integer>4</integer>
+			<key>FZPersonStatusMessage</key>
+			<string></string>
+			<key>FZPersonStatusURL</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>

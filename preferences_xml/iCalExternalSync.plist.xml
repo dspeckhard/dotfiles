@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalSuccessfulLaunchTimestampPreferenceKey</key>
+	<real>393443776</real>
+	<key>com.apple.PreferenceSync.ExcludeAllSyncKeys</key>
+	<true/>
+	<key>expectedDatabase</key>
+	<string>B15F409B-1DE0-4C3C-B684-4EFD032EFD2D</string>
+	<key>expectedSyncAnchor</key>
+	<integer>95326</integer>
+	<key>newChangesAreAvailable</key>
+	<false/>
+</dict>
+</plist>

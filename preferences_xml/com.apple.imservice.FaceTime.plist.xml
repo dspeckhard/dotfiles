@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accounts</key>
+	<dict>
+		<key>84BFF09D-362A-443F-9786-427592C7989A</key>
+		<dict>
+			<key>AccountPrefs</key>
+			<dict/>
+			<key>Aliases</key>
+			<array>
+				<dict>
+					<key>Alias</key>
+					<string>doug.speckhard@gmail.com</string>
+					<key>Status</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+			<key>AuthID</key>
+			<string>D:1376469249</string>
+			<key>AuthToken</key>
+			<string>V1MHKWb8df4d7ad3e6151769819eb72548254551e36ecbadaf93c5193303a769b48f7a863dc5d376e5e7bf8071752784a4579d71a27a772951687efed279e2f7f7c252e521dac50a7dd56e6ea763bdb8a42bfffa75820f6832fcecf122bbb61a383814e96db5918445e06a4aea7f7774f70850cc8d748e6686194d33edda12db19e142e6f4c7ce0cbd4e4a27a090bb0bff7d3f826ccc9869b3b73ff57e199d2407b1929e85c179f6a1fbf1972b67f024e751a2491c47a6e29a7e9686e3107f231ff2d5ec7e6b5dc2aef4ae81a320d61acdf7bc12c2eb3eabc2705934e370081492e106128dc1695aa527b1ee768cd61214f9d77b9c87d174973b4aeb536944ed08186a1edef3cbaef1692f210eca8ca086d9d4148ee3f253bd53e1d3fe339833edb0ed77f58b50e6ddf3618e0630c9eaa3b945a8802c1d999201de17f34150be2b8fdd9e8dd5fa9e2f6684e9b9be7428b902cf297fd21eeac269f69680d05e44e8aa2134484cf571e950859c517b1f9d2587439e096f0e40553011f08d199c8b7af8a415ba989a0166a4c4e7d1d38798c643a5f78cc2dbc722eaaef4fd263a9548a3ecd1efa18a06330c21708eb98ee6055745KMHZ</string>
+			<key>InvitationProtocolVersion</key>
+			<integer>15</integer>
+			<key>LoginAs</key>
+			<string>E:doug.speckhard@gmail.com</string>
+			<key>Profile</key>
+			<dict>
+				<key>ErrorCode</key>
+				<integer>-1</integer>
+				<key>Number</key>
+				<string>+14152058650</string>
+				<key>Region</key>
+				<string>R:US</string>
+				<key>ServerContext</key>
+				<dict/>
+				<key>Status</key>
+				<integer>3</integer>
+			</dict>
+			<key>Registration</key>
+			<dict>
+				<key>ErrorCode</key>
+				<integer>-1</integer>
+				<key>Status</key>
+				<integer>1</integer>
+			</dict>
+			<key>ServerHost</key>
+			<string>init.ess.apple.com</string>
+		</dict>
+	</dict>
+	<key>ActiveAccounts</key>
+	<array/>
+	<key>OnlineAccounts</key>
+	<array/>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/com/sun/deploy/</key>
+	<dict>
+		<key>util/</key>
+		<dict>
+			<key>ConsoleWindow/</key>
+			<dict>
+				<key>h</key>
+				<string>400</string>
+				<key>w</key>
+				<string>600</string>
+				<key>x</key>
+				<string>0</string>
+				<key>y</key>
+				<string>22</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

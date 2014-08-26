@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JobAccount</key>
+	<array>
+		<dict>
+			<key>PdeUseJobAccount</key>
+			<string>YES</string>
+			<key>PrinterName</key>
+			<string>Canon iR-ADV C5000s-B1 PSV1.0US</string>
+		</dict>
+	</array>
+</dict>
+</plist>

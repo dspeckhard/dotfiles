@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FilterDomainStrings</key>
+	<array>
+		<string>com.apple.security</string>
+		<string>edu.mit.Kerberos</string>
+		<string>loginwindow</string>
+		<string>com.apple.sidebarlists</string>
+		<string>widget-</string>
+		<string>com.apple.keychainsync</string>
+		<string>com.apple.loginitems</string>
+		<string>com.apple.recentitems</string>
+		<string>com.apple.dotmactranslator</string>
+		<string>com.apple.dashboard</string>
+		<string>com.apple.PreferenceSync</string>
+		<string>com.apple.DotMacSync</string>
+		<string>com.apple.scheduler</string>
+		<string>com.apple.dock</string>
+	</array>
+	<key>FilterPrefStrings</key>
+	<array>
+		<string>NSRecentDocumentRecords</string>
+		<string>com.apple.PreferenceSync.ExcludeSyncKeys</string>
+		<string>NSNavLast</string>
+		<string>ApplicationCrashedAfterRelaunch</string>
+		<string>NSWindow Frame</string>
+		<string>iToolsMember</string>
+		<string>NSNavPanelExpandedSize</string>
+	</array>
+</dict>
+</plist>

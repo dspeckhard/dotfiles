@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{537, 400}</string>
+	<key>NSWindow Frame SWFDecompiler</key>
+	<string>241 93 957 713 0 0 1440 878 </string>
+	<key>User Preferences</key>
+	<dict>
+		<key>Braces</key>
+		<string>1</string>
+		<key>BrwFileNoParse</key>
+		<string>false</string>
+		<key>ConvertSTToShape</key>
+		<string>false</string>
+		<key>CreateForlderForSymbol</key>
+		<string>true</string>
+		<key>EportResPath</key>
+		<string>/Users/dspeckhard/Desktop</string>
+		<key>ExportPathArray</key>
+		<array>
+			<string>/Users/dspeckhard/Desktop/~playerembed.fla</string>
+		</array>
+		<key>FlexExportPathArray</key>
+		<array/>
+		<key>GenComment</key>
+		<string>false</string>
+		<key>GenGuideLine</key>
+		<string>false</string>
+		<key>HowToSelFlaVersion</key>
+		<integer>0</integer>
+		<key>Ident</key>
+		<string>4</string>
+		<key>Motion</key>
+		<integer>2</integer>
+		<key>MultiExportOutput</key>
+		<string></string>
+		<key>RemLastExportFolder</key>
+		<string>true</string>
+		<key>ShowSWFCatcher</key>
+		<string>true</string>
+		<key>SnapPath</key>
+		<string>/Users/dspeckhard/Desktop</string>
+		<key>SnapToFile</key>
+		<string>0</string>
+		<key>StartUseData</key>
+		<date>2010-04-02T05:55:18Z</date>
+		<key>UseEmail</key>
+		<string>Unregisted</string>
+		<key>UseFlexasSubDir</key>
+		<string>false</string>
+		<key>UseNameAsSubDir</key>
+		<string>false</string>
+		<key>UseRegeditCode</key>
+		<string>ErrorCode</string>
+		<key>UseSWFasSubDir</key>
+		<string>true</string>
+		<key>WhetherOpenInFlash</key>
+		<string>false</string>
+		<key>WriteUserInformation</key>
+		<string>false</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedEULA</key>
+	<true/>
+	<key>BlacklistedBundle</key>
+	<string></string>
+	<key>DlnaClientPreferences</key>
+	<string>IP=10.0.0.8,DirectPlay=true,DirectStream=true,LocalResolution=1920x1080,RemoteResolution=1280x720,OnlineResolution=1280x720,LocalVideoQuality=74,RemoteVideoQuality=49,OnlineVideoQuality=49,SubtitleSize=100,AudioBoost=100,MusicBitrate=192</string>
+	<key>FSEventLibraryUpdatesEnabled</key>
+	<true/>
+	<key>FirstRun</key>
+	<false/>
+	<key>MachineIdentifier</key>
+	<string>b8662675-6647-4269-a66a-08bfbb5f891d</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>~/Music</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{537, 400}</string>
+	<key>NSWindow Frame MMWindow</key>
+	<string>0 96 1680 932 0 0 1680 1028 </string>
+	<key>ProcessedMachineIdentifier</key>
+	<string>9b482f8c1bdf6cbd8bcbfbf611b5427f035df4a4</string>
+	<key>SUFeedURL</key>
+	<string>https://www.plexapp.com/appcast/mac/pms.xml</string>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-04-13T16:00:34Z</date>
+	<key>ScheduledLibraryUpdatesEnabled</key>
+	<false/>
+	<key>allowedNetworks</key>
+	<string>10.0.0.0/24</string>
+</dict>
+</plist>

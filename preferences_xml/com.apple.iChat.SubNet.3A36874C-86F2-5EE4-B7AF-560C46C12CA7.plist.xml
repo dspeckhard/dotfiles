@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accounts</key>
+	<dict>
+		<key>Default</key>
+		<dict>
+			<key>AutoLogin</key>
+			<true/>
+			<key>BlockOtherAddresses</key>
+			<true/>
+			<key>LoginAs</key>
+			<string>dspeckhard@SF-L16</string>
+		</dict>
+	</dict>
+	<key>ActiveAccounts</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>OnlineAccounts</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>Status</key>
+	<dict>
+		<key>Default</key>
+		<dict>
+			<key>FZPersonFirstName</key>
+			<string>Douglas</string>
+			<key>FZPersonLastName</key>
+			<string>Speckhard</string>
+			<key>FZPersonStatus</key>
+			<integer>3</integer>
+			<key>FZPersonStatusMessage</key>
+			<string>Away</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

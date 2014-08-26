@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prefs_direction</key>
+	<string>prefs_direction_down</string>
+	<key>prefs_processor_class</key>
+	<integer>0</integer>
+	<key>prefs_profile_system_libraries</key>
+	<integer>0</integer>
+	<key>prefs_shark_profiling</key>
+	<integer>0</integer>
+	<key>prefs_size_limit_enabled</key>
+	<false/>
+	<key>prefs_size_limit_units</key>
+	<integer>1048576</integer>
+	<key>prefs_size_limit_value</key>
+	<real>30</real>
+	<key>prefs_time</key>
+	<string>prefs_time_seconds</string>
+	<key>prefs_time_limit_enabled</key>
+	<true/>
+	<key>prefs_time_limit_units</key>
+	<integer>60</integer>
+	<key>prefs_time_limit_value</key>
+	<real>30</real>
+	<key>prefs_version</key>
+	<string>2.0</string>
+	<key>prefs_xaxes</key>
+	<string>prefs_xaxes_time</string>
+	<key>text_finder_auto_expand</key>
+	<false/>
+	<key>text_finder_ignore_case</key>
+	<true/>
+</dict>
+</plist>

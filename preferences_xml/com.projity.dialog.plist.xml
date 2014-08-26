@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/com/projity/dialog/</key>
+	<dict>
+		<key>ShowTipOnStartup</key>
+		<string>false</string>
+		<key>licenseValidationDate</key>
+		<string>1267694339290.37</string>
+		<key>tipNumber</key>
+		<string>4</string>
+		<key>userEmail</key>
+		<string></string>
+		<key>validatedLicense</key>
+		<string>true</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DontQuitWhenLastWindowCloses</key>
+	<false/>
+	<key>FirstOSRun</key>
+	<true/>
+	<key>NSGrowBoxSurfaceEnabled</key>
+	<true/>
+	<key>NSToolbar Configuration ControlToolbar</key>
+	<dict>
+		<key>TB Default Item Identifiers</key>
+		<array>
+			<string>Control</string>
+			<string>Scale</string>
+			<string>Capture</string>
+			<string>NSToolbarSpaceItem</string>
+			<string>GetClipboard</string>
+			<string>SendClipboard</string>
+			<string>NSToolbarSpaceItem</string>
+			<string>NSToolbarSpaceItem</string>
+		</array>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>Scale</string>
+			<string>Capture</string>
+			<string>NSToolbarSpaceItem</string>
+			<string>GetClipboard</string>
+			<string>SendClipboard</string>
+			<string>NSToolbarSpaceItem</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>ShowBonjourBrowser_Debug</key>
+	<false/>
+	<key>ToggleControlKey</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>7</integer>
+		<key>modifiers</key>
+		<integer>1572864</integer>
+	</dict>
+	<key>controlObserveQuality</key>
+	<integer>3</integer>
+	<key>dontWarnOnVNCEncryption</key>
+	<false/>
+	<key>panControl</key>
+	<true/>
+</dict>
+</plist>

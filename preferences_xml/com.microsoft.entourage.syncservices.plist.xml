@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sync calendar</key>
+	<false/>
+	<key>sync contacts</key>
+	<false/>
+	<key>sync notes</key>
+	<false/>
+	<key>sync tasks</key>
+	<false/>
+</dict>
+</plist>

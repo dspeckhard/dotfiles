@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPU Names</key>
+	<dict>
+		<key>AGX-en_US</key>
+		<string>MacBook Pro (15-inch, Mid 2010)</string>
+	</dict>
+	<key>NSTableView Columns Contents</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCGNvbnRlbnRzhg==
+		</data>
+		<string>123</string>
+	</array>
+	<key>NSTableView Hidden Columns Contents</key>
+	<array/>
+	<key>NSTableView Sort Ordering Contents</key>
+	<array/>
+	<key>NSWindow Frame SystemProfile</key>
+	<string>675 199 750 522 0 0 1680 1028 </string>
+</dict>
+</plist>

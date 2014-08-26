@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory:GetFile:0</key>
+	<string>~/Music/from Mac193/iTunes/iTunes Music/_Rancid/Live from New York City 082706</string>
+	<key>NSNavLastCurrentDirectory:PutFile:0</key>
+	<string>~/Desktop/SD_VIDEO/PRG001</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavLastRootDirectory:PutFile:0</key>
+	<string>~/Desktop/SD_VIDEO/PRG001</string>
+	<key>NSNavPanelExpandedSizeForOpenMode:GetFile:0</key>
+	<string>{692, 400}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode:PutFile:0</key>
+	<string>{712, 480}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+</dict>
+</plist>

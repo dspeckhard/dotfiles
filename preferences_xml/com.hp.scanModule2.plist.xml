@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FilenamePrefix</key>
+	<string>IMG_</string>
+	<key>ModuleSpecificPrefs</key>
+	<dict>
+		<key>HP_AIO_CustomControlsState</key>
+		<dict>
+			<key>HP Scanjet 5590 -DF</key>
+			<dict>
+				<key>VF_Test_6ColourScanning</key>
+				<false/>
+				<key>VF_Test_AdaptiveLightning</key>
+				<integer>0</integer>
+				<key>VF_Test_Descreen</key>
+				<false/>
+				<key>VF_Test_DustScratch</key>
+				<false/>
+				<key>VF_Test_RestoreFadedColor</key>
+				<false/>
+				<key>VF_Test_SharpeningLevel</key>
+				<integer>0</integer>
+			</dict>
+			<key>HP Scanjet 5590 -FB</key>
+			<dict>
+				<key>VF_Test_6ColourScanning</key>
+				<false/>
+				<key>VF_Test_AdaptiveLightning</key>
+				<integer>0</integer>
+				<key>VF_Test_Descreen</key>
+				<false/>
+				<key>VF_Test_DustScratch</key>
+				<false/>
+				<key>VF_Test_RestoreFadedColor</key>
+				<false/>
+				<key>VF_Test_SharpeningLevel</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<key>HP_AIO_FunctionalUnitType</key>
+		<dict>
+			<key>HP Scanjet 5590 </key>
+			<dict>
+				<key>ICALastSelectedFunctionalUnit</key>
+				<integer>3</integer>
+			</dict>
+		</dict>
+	</dict>
+	<key>NextFilenameCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

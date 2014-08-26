@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>/Applications/NodeBox/Examples/Animation</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Applications</string>
+	<key>NSWindow Frame NodeBoxDocumentWindow</key>
+	<string>328 140 1106 602 0 0 1680 1028 </string>
+</dict>
+</plist>

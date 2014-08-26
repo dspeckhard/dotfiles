@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Antivirus.FirstStartApp</key>
+	<string>2010-09-20 15:30:02</string>
+	<key>Antivirus.HavPromoLastShowtime</key>
+	<string>2010-10-05 12:36:44</string>
+	<key>Antivirus.HavPromoOff</key>
+	<true/>
+	<key>AppPreferencesDialog.Window Position</key>
+	<string>@Point(619 255)</string>
+	<key>AppPreferencesDialog.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Application preferences.Check for updates</key>
+	<integer>2</integer>
+	<key>Application preferences.Dock icon</key>
+	<integer>0</integer>
+	<key>Application preferences.Download updates automatically</key>
+	<true/>
+	<key>Application preferences.Last selected page</key>
+	<integer>0</integer>
+	<key>Application preferences.LastDedicatedSpace</key>
+	<integer>-1</integer>
+	<key>Application preferences.Old application preferences resetted</key>
+	<true/>
+	<key>Application preferences.Show application shortcut</key>
+	<string>F6</string>
+	<key>Application preferences.Show application shortcut enabled</key>
+	<true/>
+	<key>Application preferences.Show application shortcut key scancode</key>
+	<integer>97</integer>
+	<key>Application preferences.Use Start button icon in Coherence</key>
+	<true/>
+	<key>Application preferences.Use animations</key>
+	<true/>
+	<key>Assistants.Creation Mode When disconnect</key>
+	<false/>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Hardware.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Hardware.Page Type</key>
+	<integer>3</integer>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Options.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Options.Page Type</key>
+	<integer>6</integer>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Section Type</key>
+	<integer>2</integer>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Window Position</key>
+	<string>@Point(560 282)</string>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Window Space Number</key>
+	<integer>1</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Hardware.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Hardware.Page Type</key>
+	<integer>28</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Options.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Options.Page Type</key>
+	<integer>34</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Section Type</key>
+	<integer>3</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Window Position</key>
+	<string>@Point(560 281)</string>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Window Space Number</key>
+	<integer>1</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Hardware.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Hardware.Page Type</key>
+	<integer>25</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Options.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Options.Page Type</key>
+	<integer>6</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Section Type</key>
+	<integer>3</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Window Position</key>
+	<string>@Point(560 282)</string>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{4d1073fa-0adc-48b3-a855-f4d808294221}.Window Space Number</key>
+	<integer>1</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Hardware.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Hardware.Page Type</key>
+	<integer>28</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Options.Page Index</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Options.Page Type</key>
+	<integer>34</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Section Type</key>
+	<integer>3</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Window Position</key>
+	<string>@Point(560 281)</string>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Configuration Editor.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Window Space Number</key>
+	<integer>1</integer>
+	<key>Console.Coherence Tool Was Started.{29cd595a-8425-435d-8946-ff68f8c0cbb2}</key>
+	<integer>1</integer>
+	<key>Console.Coherence Tool Was Started.{4d1073fa-0adc-48b3-a855-f4d808294221}</key>
+	<integer>1</integer>
+	<key>Console.Default Console Mode.{29cd595a-8425-435d-8946-ff68f8c0cbb2}</key>
+	<integer>1</integer>
+	<key>Console.Default Console Mode.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}</key>
+	<integer>1</integer>
+	<key>Console.Default Console Mode.{4d1073fa-0adc-48b3-a855-f4d808294221}</key>
+	<integer>1</integer>
+	<key>Console.Default Console Mode.{6524affa-6af3-4d02-9bf1-8337bbe950af}</key>
+	<integer>1</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window Frame Geometry</key>
+	<string>@Rect(83 22 641 588)</string>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window Guest Screen Resolution</key>
+	<string>@Size(0 0)</string>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window Normal Geometry</key>
+	<string>@Rect(83 100 640 509)</string>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window Space Number</key>
+	<integer>1</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window States</key>
+	<integer>0</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.1.Window Toolbar is visible</key>
+	<true/>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window Frame Geometry</key>
+	<string>@Rect(5 25 1681 938)</string>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window Guest Screen Resolution</key>
+	<string>@Size(1680 962)</string>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window Normal Geometry</key>
+	<string>@Rect(5 47 1680 915)</string>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window Space Number</key>
+	<integer>1</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window States</key>
+	<integer>0</integer>
+	<key>Console.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.0.3.Window Toolbar is visible</key>
+	<false/>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window Frame Geometry</key>
+	<string>@Rect(100 100 641 532)</string>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window Guest Screen Resolution</key>
+	<string>@Size(0 0)</string>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window Normal Geometry</key>
+	<string>@Rect(100 122 640 509)</string>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window Space Number</key>
+	<integer>1</integer>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window States</key>
+	<integer>0</integer>
+	<key>Console.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.0.1.Window Toolbar is visible</key>
+	<false/>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window Frame Geometry</key>
+	<string>@Rect(100 100 641 532)</string>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window Guest Screen Resolution</key>
+	<string>@Size(0 0)</string>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window Normal Geometry</key>
+	<string>@Rect(100 122 640 509)</string>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window Space Number</key>
+	<integer>1</integer>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window States</key>
+	<integer>0</integer>
+	<key>Console.{4d1073fa-0adc-48b3-a855-f4d808294221}.0.1.Window Toolbar is visible</key>
+	<false/>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window Frame Geometry</key>
+	<string>@Rect(100 100 641 532)</string>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window Guest Screen Resolution</key>
+	<string>@Size(0 0)</string>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window Normal Geometry</key>
+	<string>@Rect(100 122 640 509)</string>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window Space Number</key>
+	<integer>1</integer>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window States</key>
+	<integer>0</integer>
+	<key>Console.{6524affa-6af3-4d02-9bf1-8337bbe950af}.0.1.Window Toolbar is visible</key>
+	<false/>
+	<key>FileDevSelectorWidget.FloppyDiskHistoryItem·0</key>
+	<string>/Users/dspeckhard/Documents/Parallels/Windows 7 Bootcamp.pvm/floppy.fdd</string>
+	<key>FileDevSelectorWidget.FolderHistoryItem·0</key>
+	<string>/Users/dspeckhard/Documents/Parallels</string>
+	<key>FileDevSelectorWidget.HardDiskHistoryItem·0</key>
+	<string>/Users/dspeckhard/Documents/Parallels/Windows 7.pvm/Windows 7-0.hdd</string>
+	<key>Hidden Messages ID List.-2147482364</key>
+	<integer>1</integer>
+	<key>Login.DefaultConnectServer</key>
+	<string>localhost</string>
+	<key>Login.Ping attempts</key>
+	<integer>5</integer>
+	<key>Login.Ping timeout</key>
+	<integer>20</integer>
+	<key>Login.Servers.1.Connection Security</key>
+	<integer>1</integer>
+	<key>Login.Servers.1.Last Session Uuid</key>
+	<string>{5b3d559e-64f4-485a-8203-7527bd7e6f95}</string>
+	<key>Login.Servers.1.Save Password</key>
+	<false/>
+	<key>Login.Servers.1.Server Custom Name</key>
+	<string></string>
+	<key>Login.Servers.1.Server Disp Id</key>
+	<string>{3f3c2758-b9aa-4ffe-a2ee-817c7a28c5a8}</string>
+	<key>Login.Servers.1.Server Id</key>
+	<string>{83991cd5-a8a6-43f7-91df-89fcb2c6819e}</string>
+	<key>Login.Servers.1.Server Ip</key>
+	<string>127.0.0.1</string>
+	<key>Login.Servers.1.Server Name</key>
+	<string>localhost</string>
+	<key>Login.Servers.1.Use Local Login</key>
+	<true/>
+	<key>Login.Servers.1.User Name</key>
+	<string></string>
+	<key>Login.Servers.1.Video compression type</key>
+	<integer>65537</integer>
+	<key>Login.Servers.size</key>
+	<integer>1</integer>
+	<key>Main Window.Status Bar Devices Visibility</key>
+	<false/>
+	<key>Other Windows.New Virtual Machine Assistant.Window Position</key>
+	<string>@Point(386 158)</string>
+	<key>Other Windows.New Virtual Machine Assistant.Window Screen Number</key>
+	<integer>0</integer>
+	<key>Problem Report.ContactUserEmail</key>
+	<string></string>
+	<key>Problem Report.ContactUserName</key>
+	<string>Douglas Speckhard</string>
+	<key>Product Build Number Release Major</key>
+	<integer>6</integer>
+	<key>Product Build Number Release Minor</key>
+	<integer>0</integer>
+	<key>Product Build Number Version Major</key>
+	<integer>12094</integer>
+	<key>Product Build Number Version Minor</key>
+	<integer>676494</integer>
+	<key>ProductPromo.457.PromoOff</key>
+	<true/>
+	<key>ProductPromo.ForcePromoOff</key>
+	<false/>
+	<key>ProductPromo.PromoShowTime</key>
+	<date>2012-05-10T23:12:41Z</date>
+	<key>Register.Email</key>
+	<string>dspeckhard@bcj.com</string>
+	<key>Register.Protected bit checked</key>
+	<true/>
+	<key>Register.Show Welcome Dialog.{3f3c2758-b9aa-4ffe-a2ee-817c7a28c5a8}</key>
+	<false/>
+	<key>Register.Welcome next show time.{3f3c2758-b9aa-4ffe-a2ee-817c7a28c5a8}</key>
+	<date>2010-09-23T22:46:34Z</date>
+	<key>Settings Versions.Usb List Version</key>
+	<integer>1</integer>
+	<key>Shared Applications.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Apps folder added to Dock</key>
+	<false/>
+	<key>Shared Applications.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Enable SmartSelect</key>
+	<true/>
+	<key>Shared Applications.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Isolated VM</key>
+	<false/>
+	<key>Shared Applications.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Share Guest Applications</key>
+	<true/>
+	<key>Shared Applications.{29cd595a-8425-435d-8946-ff68f8c0cbb2}.Share Host Applications</key>
+	<true/>
+	<key>Shared Applications.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Enable SmartSelect</key>
+	<true/>
+	<key>Shared Applications.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Isolated VM</key>
+	<false/>
+	<key>Shared Applications.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}.Share Guest Applications</key>
+	<true/>
+	<key>Shared Applications.{4d1073fa-0adc-48b3-a855-f4d808294221}.Enable SmartSelect</key>
+	<true/>
+	<key>Shared Applications.{4d1073fa-0adc-48b3-a855-f4d808294221}.Isolated VM</key>
+	<false/>
+	<key>Shared Applications.{4d1073fa-0adc-48b3-a855-f4d808294221}.Share Guest Applications</key>
+	<true/>
+	<key>Shared Applications.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Enable SmartSelect</key>
+	<true/>
+	<key>Shared Applications.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Isolated VM</key>
+	<false/>
+	<key>Shared Applications.{6524affa-6af3-4d02-9bf1-8337bbe950af}.Share Guest Applications</key>
+	<true/>
+	<key>Shown Once For VM Messages ID List.{29cd595a-8425-435d-8946-ff68f8c0cbb2}</key>
+	<integer>-2147479548</integer>
+	<key>SupportCode</key>
+	<string>56759-81085</string>
+	<key>Toolbar settings.{xxxx-xxxx-xxxx-xxxx}.Reset once</key>
+	<integer>1</integer>
+	<key>Toolbar settings.{xxxx-xxxx-xxxx-xxxx}.Toolbar action object name</key>
+	<string>actionVmPowerOn,actionVmShutDown,actionVmSuspend,actionSeparator,actionEditVmConfig,actionFlexibleSpace,actionFullscreenMode,actionCoherence,</string>
+	<key>Toolbar settings.{xxxx-xxxx-xxxx-xxxx}.Toolbar button style</key>
+	<integer>3</integer>
+	<key>Toolbar settings.{xxxx-xxxx-xxxx-xxxx}.Toolbar icon size</key>
+	<false/>
+	<key>Toolbar settings.{xxxx-xxxx-xxxx-xxxx}.Window Toolbar is visible</key>
+	<true/>
+	<key>Usb Devices.1.Action</key>
+	<integer>1</integer>
+	<key>Usb Devices.1.Device Id</key>
+	<string>fa140000|05ac|0304|low|KM|Empty</string>
+	<key>Usb Devices.1.Device Name</key>
+	<string>Apple Optical USB Mouse #2</string>
+	<key>Usb Devices.size</key>
+	<integer>1</integer>
+	<key>User Preferences.First Create Bootcamp Was</key>
+	<true/>
+	<key>User Preferences.Keyboard.Old keyboard setting imported</key>
+	<true/>
+	<key>User Preferences.Keyboard.Profile Assigns.{29cd595a-8425-435d-8946-ff68f8c0cbb2}</key>
+	<string>Windows</string>
+	<key>User Preferences.Keyboard.Profile Assigns.{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}</key>
+	<string>Windows</string>
+	<key>User Preferences.Keyboard.Profile Assigns.{4d1073fa-0adc-48b3-a855-f4d808294221}</key>
+	<string>Windows</string>
+	<key>User Preferences.Keyboard.Profile Assigns.{6524affa-6af3-4d02-9bf1-8337bbe950af}</key>
+	<string>Windows</string>
+	<key>User Preferences.Keyboard.Profiles version</key>
+	<integer>12094</integer>
+	<key>User Preferences.Keyboard.Profiles version update 2</key>
+	<true/>
+	<key>User Preferences.Patch vms on first login</key>
+	<true/>
+	<key>User Preferences.Show Welcome Screen</key>
+	<false/>
+	<key>User Preferences.Update.Check In Background</key>
+	<true/>
+	<key>User Preferences.Update.Download Path</key>
+	<string>/Users/dspeckhard/Downloads</string>
+	<key>User Preferences.Update.Incomplete Update</key>
+	<true/>
+	<key>User Preferences.Update.Last Checked On</key>
+	<string>2012-10-10 14:56:20</string>
+	<key>User Preferences.Welcome Screen Build</key>
+	<string>6.0.11822.604190</string>
+	<key>User Preferences.dspeckhard - init default VM's storage path</key>
+	<true/>
+	<key>VM List window.Geometry.Height</key>
+	<integer>94</integer>
+	<key>VM List window.Geometry.Multidisplay screen number</key>
+	<integer>0</integer>
+	<key>VM List window.Geometry.Screen position</key>
+	<string>@Point(885 311)</string>
+	<key>VM List window.Geometry.Screens count at save time</key>
+	<integer>1</integer>
+	<key>VM List window.Geometry.Width</key>
+	<integer>400</integer>
+	<key>VM List window.Items.1.UUID</key>
+	<string>{29cd595a-8425-435d-8946-ff68f8c0cbb2}</string>
+	<key>VM List window.Items.2.UUID</key>
+	<string>{415c7ebb-1c52-4da8-b502-beaa20ccbc7a}</string>
+	<key>VM List window.Items.size</key>
+	<integer>1</integer>
+</dict>
+</plist>

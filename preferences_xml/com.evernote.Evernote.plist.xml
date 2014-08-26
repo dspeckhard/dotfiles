@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CardViewWidth.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<real>431</real>
+	<key>CrashReportSender.lastCrashDate</key>
+	<date>2014-07-30T09:10:19Z</date>
+	<key>ENAppMigrationLastVersion</key>
+	<integer>402634</integer>
+	<key>ENApplicationBundlePath</key>
+	<string>/opt/homebrew-cask/Caskroom/evernote/latest/Evernote.app</string>
+	<key>ENCPPreferencesPremiumPopoverSkipAdvertisement</key>
+	<true/>
+	<key>ENCachedUSNForAccount.dspeckhard@bcj.com.Evernote</key>
+	<integer>20</integer>
+	<key>ENCurrentModule</key>
+	<string>notes</string>
+	<key>ENExpandedLeftNavItemsHaveBeenSet.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>ENFullScreenCollectionWindow.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<false/>
+	<key>ENHasShownCardScanPreferencesPanel.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>ENHasShownNaturalSearchFirstLaunch</key>
+	<true/>
+	<key>ENHasShownNaturalSearchFirstLaunch.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>ENIncludeTagsOnImport</key>
+	<true/>
+	<key>ENLastSuccessfulLoginID</key>
+	<dict>
+		<key>profile</key>
+		<string>Evernote</string>
+		<key>usernameOrEmail</key>
+		<string>dspeckhard@bcj.com</string>
+	</dict>
+	<key>ENMarkupDidShowFeatureAnnouncement</key>
+	<true/>
+	<key>ENNotebooksViewMode</key>
+	<true/>
+	<key>ENRemindersExpanded.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>ENShareNotebooksCalloutDefaultsKey.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>ENShowWelcomeView.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<false/>
+	<key>ENSyncShortcuts.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>ENThumbnailVersion</key>
+	<integer>400001</integer>
+	<key>ENWKNoteEditorPrefsWebKitShouldPrintBackgroundsPreferenceKey</key>
+	<true/>
+	<key>ENWelcomeChecklistDoneItems.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<array>
+		<integer>100</integer>
+	</array>
+	<key>ENWelcomeChecklistItemSet.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<string>newUserItems</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop/bookmarks</string>
+	<key>NSOutlineView Items ENExpandedLeftNavItems.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<array>
+		<string>notes</string>
+		<string>shortcuts</string>
+	</array>
+	<key>NSSplitView Subview Frames ENSidebar</key>
+	<array>
+		<string>0.000000, 0.000000, 164.000000, 879.000000, NO</string>
+		<string>165.000000, 0.000000, 1515.000000, 879.000000, NO</string>
+	</array>
+	<key>NSWindow Frame ENAccountInfoWindow</key>
+	<string>504 377 672 398 0 0 1680 1028 </string>
+	<key>NSWindow Frame ENPreferences</key>
+	<string>470 370 740 302 0 0 1680 1028 </string>
+	<key>NSWindow Frame noteCollectionWindow</key>
+	<string>0 127 1680 901 0 0 1680 1028 </string>
+	<key>NSWindow Frame noteEditorWindow</key>
+	<string>217 78 697 431 0 0 1680 1028 </string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-08-14T23:16:45Z</date>
+	<key>SUScheduledCheckInterval</key>
+	<real>86400</real>
+	<key>SnippetViewWidth.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<real>580</real>
+	<key>WebKitLocalStorageDatabasePathPreferenceKey</key>
+	<string>/Users/dspeckhard/Library/Application Support/Evernote/announcements</string>
+	<key>WebKitLocalStorageEnabledPreferenceKey</key>
+	<true/>
+	<key>WebSmartInsertDeleteEnabled</key>
+	<false/>
+	<key>firstLaunch</key>
+	<false/>
+	<key>helperPrefsHaveBeenSet</key>
+	<true/>
+	<key>kENCardScanPreference.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<true/>
+	<key>lastQuery.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGNTZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKgHCBESJCctMVUkbnVsbNMJCgsMDhBXTlMua2V5c1pOUy5vYmplY3RzViRjbGFz
+	c6ENgAKhD4ADgAdVUXVlcnnZCxMUFRYXGBkaGxwdHh8eHyIfUnRjUnRrUmFuUm5pUnRx
+	UnNuUmltUm5igAYQAIAECIAACIAAEAeAANIKCyUmoIAF0igpKitaJGNsYXNzbmFtZVgk
+	Y2xhc3Nlc1dOU0FycmF5oiosWE5TT2JqZWN00igpLi9YRU40UXVlcnmiMCxYRU40UXVl
+	cnnSKCkyM18QE05TTXV0YWJsZURpY3Rpb25hcnmjMjQsXE5TRGljdGlvbmFyeV8QD05T
+	S2V5ZWRBcmNoaXZlctE3OFRyb290gAEACAARABoAIwAtADIANwBAAEYATQBVAGAAZwBp
+	AGsAbQBvAHEAdwCKAI0AkACTAJYAmQCcAJ8AogCkAKYAqACpAKsArACuALAAsgC3ALgA
+	ugC/AMoA0wDbAN4A5wDsAPUA+AEBAQYBHAEgAS0BPwFCAUcAAAAAAAACAQAAAAAAAAA5
+	AAAAAAAAAAAAAAAAAAABSQ==
+	</data>
+	<key>lastSelection.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCBBVJG51bGzUCQoLDA0ODw9aTlNMb2NhdGlvblYkY2xhc3NcTlNSYW5nZUNv
+	dW50WE5TTGVuZ3RoEACAAhAB0hESExRaJGNsYXNzbmFtZVgkY2xhc3Nlc1pOU0luZGV4
+	U2V0ohUWWk5TSW5kZXhTZXRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGRpUcm9v
+	dIABCBEaIy0yNztBSlVcaXJ0dnh9iJGcn6qzxcjNAAAAAAAAAQEAAAAAAAAAGwAAAAAA
+	AAAAAAAAAAAAAM8=
+	</data>
+	<key>lastView.9ED29691-8F66-4050-B23F-F32E3F018D7E</key>
+	<integer>1</integer>
+	<key>runHelperAtLogin</key>
+	<true/>
+</dict>
+</plist>

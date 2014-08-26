@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SpacesConfiguration</key>
+	<dict>
+		<key>Management Data</key>
+		<dict>
+			<key>Management Mode</key>
+			<integer>0</integer>
+			<key>Monitors</key>
+			<array>
+				<dict>
+					<key>Current Space</key>
+					<dict>
+						<key>id64</key>
+						<integer>3</integer>
+						<key>type</key>
+						<integer>0</integer>
+						<key>uuid</key>
+						<string></string>
+						<key>wsid</key>
+						<integer>1</integer>
+					</dict>
+					<key>Display Identifier</key>
+					<string>Main</string>
+					<key>Spaces</key>
+					<array>
+						<dict>
+							<key>id64</key>
+							<integer>4</integer>
+							<key>pid</key>
+							<integer>759</integer>
+							<key>type</key>
+							<integer>2</integer>
+							<key>uuid</key>
+							<string>dashboard</string>
+						</dict>
+						<dict>
+							<key>id64</key>
+							<integer>3</integer>
+							<key>type</key>
+							<integer>0</integer>
+							<key>uuid</key>
+							<string></string>
+							<key>wsid</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<key>Space Properties</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>dashboard</string>
+				<key>windows</key>
+				<array>
+					<integer>132</integer>
+					<integer>24</integer>
+					<integer>23</integer>
+					<integer>22</integer>
+					<integer>21</integer>
+					<integer>20</integer>
+					<integer>19</integer>
+					<integer>18</integer>
+					<integer>17</integer>
+					<integer>29</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string></string>
+				<key>windows</key>
+				<array>
+					<integer>132</integer>
+					<integer>43</integer>
+					<integer>124</integer>
+					<integer>36</integer>
+					<integer>30</integer>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<key>SpacesDisplayConfiguration</key>
+	<dict>
+		<key>Management Data</key>
+		<dict>
+			<key>Management Mode</key>
+			<integer>1</integer>
+			<key>Monitors</key>
+			<array>
+				<dict>
+					<key>Current Space</key>
+					<dict>
+						<key>id64</key>
+						<integer>3</integer>
+						<key>type</key>
+						<integer>0</integer>
+						<key>uuid</key>
+						<string></string>
+						<key>wsid</key>
+						<integer>1</integer>
+					</dict>
+					<key>Display Identifier</key>
+					<string>Main</string>
+					<key>Spaces</key>
+					<array>
+						<dict>
+							<key>id64</key>
+							<integer>5</integer>
+							<key>pid</key>
+							<integer>2064</integer>
+							<key>type</key>
+							<integer>2</integer>
+							<key>uuid</key>
+							<string>dashboard</string>
+						</dict>
+						<dict>
+							<key>id64</key>
+							<integer>3</integer>
+							<key>type</key>
+							<integer>0</integer>
+							<key>uuid</key>
+							<string></string>
+							<key>wsid</key>
+							<integer>1</integer>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>Collapsed Space</key>
+					<dict>
+						<key>id64</key>
+						<integer>242</integer>
+						<key>type</key>
+						<integer>0</integer>
+						<key>uuid</key>
+						<string>4F741A7B-AD64-444E-A706-70ABFE0A0604</string>
+					</dict>
+					<key>Display Identifier</key>
+					<string>1EF5C350-36BB-FA9D-3953-4BA0472A1400</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Space Properties</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>dashboard</string>
+				<key>windows</key>
+				<array>
+					<integer>24</integer>
+					<integer>23</integer>
+					<integer>22</integer>
+					<integer>21</integer>
+					<integer>20</integer>
+					<integer>19</integer>
+					<integer>18</integer>
+					<integer>17</integer>
+					<integer>29</integer>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string></string>
+				<key>windows</key>
+				<array>
+					<integer>53</integer>
+					<integer>32</integer>
+					<integer>31</integer>
+					<integer>972</integer>
+					<integer>909</integer>
+					<integer>65</integer>
+					<integer>30</integer>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<key>spaces</key>
+	<array/>
+</dict>
+</plist>

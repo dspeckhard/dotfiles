@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/WebDev/arbsf.com-hyde</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSWindow Frame SF-L16.local</key>
+	<string>481 290 962 624 0 0 1680 1028 </string>
+	<key>loginPanelLastLoginServerAddress</key>
+	<string>127.0.0.1</string>
+	<key>loginPanelLastLoginUserName</key>
+	<string>Douglas Speckhard</string>
+	<key>showAllCertificates</key>
+	<false/>
+	<key>showAllDNSRecords</key>
+	<false/>
+</dict>
+</plist>

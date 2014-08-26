@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bookmarks</key>
+	<array/>
+	<key>BookmarksVisible</key>
+	<false/>
+	<key>ColorScheme</key>
+	<integer>2</integer>
+	<key>DefaultEEIdentifier</key>
+	<string>com.sublimetext.2</string>
+	<key>DirectoryAlias</key>
+	<data>
+	AAAAAAFUAAIAAQlNQUMyMjEgSEQAAAAAAAAAAAAAAAAAAAAAAADIBlOrSCsAAAGC+hQF
+	Tm90ZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAnegkM3dBmsAAAAAAAAAAAABAAMAAAkgAAAAAAAAAAAAAAAAAAAA
+	B0Ryb3Bib3gAABAACAAAyAa2GwAAABEACAAAzd1o2wAAAAEADAGC+hQAEyI2AACSPwAC
+	ACtNQUMyMjEgSEQ6VXNlcnM6AGRzcGVja2hhcmQ6AERyb3Bib3g6AE5vdGVzAAAOAAwA
+	BQBOAG8AdABlAHMADwAUAAkATQBBAEMAMgAyADEAIABIAEQAEgAeVXNlcnMvZHNwZWNr
+	aGFyZC9Ecm9wYm94L05vdGVzABMAAS8AABUAAgAR//8AAA==
+	</data>
+	<key>HorizontalLayout</key>
+	<true/>
+	<key>LastScrollOffset</key>
+	<real>0.0</real>
+	<key>LastSearchString</key>
+	<string>ToDo: nvPy / nvAlt setup on Win / Mac</string>
+	<key>LastSelectedNoteUUIDBytes</key>
+	<string>BC3B5A38-54C3-4E94-8D4E-C6369CC4B8D1</string>
+	<key>LastSelectedPrefsPane</key>
+	<string>Notes</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Dropbox/Notes</string>
+	<key>NSTableView Columns notesTable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBVRpdGxlhg==
+		</data>
+		<string>877</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDURhdGUgTW9kaWZpZWSG
+		</data>
+		<string>100</string>
+	</array>
+	<key>NSTableView Columns unifiedNotesTable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBVRpdGxlhg==
+		</data>
+		<string>989</string>
+	</array>
+	<key>NSTableView Hidden Columns notesTable</key>
+	<array/>
+	<key>NSTableView Hidden Columns unifiedNotesTable</key>
+	<array/>
+	<key>NSTableView Sort Ordering notesTable</key>
+	<array/>
+	<key>NSTableView Sort Ordering unifiedNotesTable</key>
+	<array/>
+	<key>NSWindow Frame NotationWindow</key>
+	<string>0 89 1680 939 0 0 1680 1028 </string>
+	<key>NSWindow Frame externallyDeletedNotesTable</key>
+	<string>654 602 371 244 0 0 1680 1028 </string>
+	<key>RBSplitView H centralSplitView</key>
+	<string>2 228 650.835</string>
+	<key>RBSplitView V centralSplitView</key>
+	<string>2 257.943 1414.06</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>http://abyss.designheresy.com/nvalt2/nvalt2main.xml</string>
+	<key>SULastCheckTime</key>
+	<date>2013-06-12T04:15:02Z</date>
+	<key>TableFontPointSize</key>
+	<real>11</real>
+	<key>TextEditor</key>
+	<string>Default</string>
+	<key>ToolbarHidden</key>
+	<false/>
+	<key>TriedToImportBlor</key>
+	<true/>
+	<key>UseAutoPairing</key>
+	<true/>
+	<key>UseMarkdownImport</key>
+	<true/>
+	<key>UseReadability</key>
+	<false/>
+	<key>WebKitDefaultFontSize</key>
+	<integer>11</integer>
+	<key>WebKitDeveloperExtras</key>
+	<true/>
+	<key>WebKitStandardFont</key>
+	<string>Lucida Grande</string>
+	<key>markupPreviewVisible</key>
+	<false/>
+</dict>
+</plist>

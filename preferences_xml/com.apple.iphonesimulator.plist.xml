@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LocationMode</key>
+	<integer>3104</integer>
+	<key>LocationScenario</key>
+	<string>Apple</string>
+	<key>SimulateDevice</key>
+	<string>iPad</string>
+	<key>SimulatorWindowCenterX</key>
+	<real>689</real>
+	<key>SimulatorWindowCenterY</key>
+	<real>505</real>
+	<key>currentSDKRoot</key>
+	<string>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk</string>
+	<key>windowOrientation</key>
+	<integer>3</integer>
+</dict>
+</plist>

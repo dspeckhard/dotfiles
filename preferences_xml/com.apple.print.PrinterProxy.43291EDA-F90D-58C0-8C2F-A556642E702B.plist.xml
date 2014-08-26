@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EPSON Epson Stylus NX420-FB-AS-DocumentName</key>
+	<string>Scan</string>
+	<key>EPSON Epson Stylus NX420-FB-AS-DownloadPath</key>
+	<string>~/Documents</string>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-BitDepth</key>
+	<integer>8</integer>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-CreateSinglePDF</key>
+	<true/>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-DetectSeparateItems</key>
+	<true/>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-DocumentName</key>
+	<string>Scan</string>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-DocumentType</key>
+	<integer>2</integer>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-DownloadPath</key>
+	<string>~/Pictures</string>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-FileFormat</key>
+	<string>public.tiff</string>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-ImageCorrection</key>
+	<integer>0</integer>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-Resolution</key>
+	<integer>300</integer>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-Scaling</key>
+	<integer>100</integer>
+	<key>IK-EPSON Epson Stylus NX420-FB-AS-SourceSizeUnits</key>
+	<integer>1</integer>
+	<key>com.apple.imagekit.knowndevice.34443433-3332-3530-3333-333333353339</key>
+	<true/>
+	<key>com.apple.imagekit.lastUsedDeviceIsRemote</key>
+	<false/>
+	<key>com.apple.imagekit.lastUsedDeviceUUID</key>
+	<string>34443433-3332-3530-3333-333333353339</string>
+</dict>
+</plist>

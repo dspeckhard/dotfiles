@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HockeySDKAutomaticallySendCrashReports</key>
+	<false/>
+	<key>HockeySDKCrashReportActivated</key>
+	<true/>
+	<key>NSWindow Frame Activity</key>
+	<string>1080 115 525 511 0 0 1680 1028 </string>
+	<key>NSWindow Frame MessageComposer</key>
+	<string>147 180 591 742 0 0 1680 1028 </string>
+	<key>NSWindow Frame MessageWindow</key>
+	<string>218 224 605 613 0 0 1680 1028 </string>
+	<key>NSWindow Frame Unison</key>
+	<string>0 110 1680 918 0 0 1680 1028 </string>
+	<key>NewsgroupProfileMap</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGExRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCA1VJG51bGzSCQoLDFdOUy50aW1lViRjbGFzcyNBuPrlf9E0zoAC0g4PEBFa
+	JGNsYXNzbmFtZVgkY2xhc3Nlc1ZOU0RhdGWiEBJYTlNPYmplY3RfEA9OU0tleWVkQXJj
+	aGl2ZXLTFRYXGBkaV01hcFNpemVaUHJvZmlsZU51bVdQcm9maWxlEAUQyYABCBEaIy0y
+	NztBRk5VXmBlcHmAg4yepa24wMLEAAAAAAAAAQEAAAAAAAAAGwAAAAAAAAAAAAAAAAAA
+	AMY=
+	</data>
+	<key>PCListView-newsgroupsearch</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>count</string>
+			<key>width</key>
+			<real>122</real>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>name</string>
+		</dict>
+	</array>
+	<key>SUAutomaticallyUpdate</key>
+	<false/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-04-13T15:33:27Z</date>
+	<key>SULastProfileSubmissionDate</key>
+	<date>2014-04-13T15:33:27Z</date>
+	<key>UNActivityViewVisible</key>
+	<false/>
+	<key>UNDidShowEListForm</key>
+	<true/>
+	<key>UNDownloadsPaused</key>
+	<false/>
+	<key>UNFlatThreadViewSelected</key>
+	<false/>
+	<key>UNItemListDividerPosition</key>
+	<real>382</real>
+	<key>UNItemListSortDescriptors</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0FycmF5AISECE5TT2JqZWN0AIWEAWkBkoSE
+	hBBOU1NvcnREZXNjcmlwdG9yAJSShISECE5TU3RyaW5nAZSEASsEZGF0ZYaEAWMAkoSY
+	mAhjb21wYXJlOoaGhg==
+	</data>
+	<key>UNItemListVisibleTypes</key>
+	<integer>2</integer>
+	<key>UNLastPrefPaneShown</key>
+	<string>Servers</string>
+	<key>UNMainSplitWidth</key>
+	<real>293</real>
+	<key>UNNewsgroupSearchSortDescriptors</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhA5OU011dGFibGVBcnJheQCEhAdOU0FycmF5AISE
+	CE5TT2JqZWN0AIWEAWkBkoSEhBBOU1NvcnREZXNjcmlwdG9yAJWShISECE5TU3RyaW5n
+	AZWEASsFY291bnSGhAFjAJKEmZkIY29tcGFyZTqGhoY=
+	</data>
+	<key>UNPersonalities</key>
+	<array>
+		<dict>
+			<key>emailAddress</key>
+			<string>dspeckhard@bcj.com</string>
+			<key>fullName</key>
+			<string>Douglas Speckhard</string>
+			<key>organization</key>
+			<string>BCJ</string>
+			<key>signature</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>UNSelectedActivityTab</key>
+	<integer>1</integer>
+	<key>UNSelectedServer</key>
+	<integer>1</integer>
+	<key>UNServerList</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGMTJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKgHCA4jJCUmLVUkbnVsbNIJCgsNWk5TLm9iamVjdHNWJGNsYXNzoQyAAoAH2w8Q
+	ERIKExQVFhcYGRoZGxwdHh8gISJUcG9ydFdhZGRyZXNzXxARYmFja3VwU2VydmVyUm93
+	aWRfEA9jb25uZWN0aW9uTGltaXRfEBFsaW1pdFRyYW5zZmVyUmF0ZVh1c2VybmFtZVVs
+	YWJlbFVyb3dpZFd1c2VzU1NMXxARdHJhbnNmZXJSYXRlTGltaXQQAIAEEAiABgiABYAD
+	EAEJIwAAAAAAAAAAU0JDSlprYy5iY2ouY29tWmRzcGVja2hhcmTSJygpKlokY2xhc3Nu
+	YW1lWCRjbGFzc2VzWFVOU2VydmVyoissWFVOU2VydmVyWE5TT2JqZWN00icoLi9eTlNN
+	dXRhYmxlQXJyYXmjLjAsV05TQXJyYXlfEA9OU0tleWVkQXJjaGl2ZXLRMzRUcm9vdIAB
+	AAgAEQAaACMALQAyADcAQABGAEsAVgBdAF8AYQBjAHoAfwCHAJsArQDBAMoA0ADWAN4A
+	8gD0APYA+AD6APsA/QD/AQEBAgELAQ8BGgElASoBNQE+AUcBSgFTAVwBYQFwAXQBfAGO
+	AZEBlgAAAAAAAAIBAAAAAAAAADUAAAAAAAAAAAAAAAAAAAGY
+	</data>
+	<key>UNSourceListFavorites</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGhYZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoK8QHAcIFCwwNzg5Oj9GSUpRVFVcX2BnamtydXZ9gIFVJG51bGzSCQoLE1pOUy5v
+	YmplY3RzViRjbGFzc6cMDQ4PEBESgAKACYAMgA+AEoAVgBiAG9wVFhcYGQoaGxwdHh8g
+	ISIjJCUmJygpKitUdXVpZF8QFHByZWZlcnJlZFNlcnZlclJvd2lkVG5hbWVZZ3JvdXBJ
+	bmZvXmF1dG9leHBpcmVVbml0W3BlcnNvbmFsaXR5XW5ld3Nncm91cE5hbWVfEA9hdXRv
+	ZXhwaXJlQ291bnRfEBJyZWZyZXNoSW50ZXJ2YWxJbnRYZW5jb2RpbmdaaXNFeHBhbmRl
+	ZIADEACAAIAHEAKACIAFgAYQDBAKEAUI0gotLi9ZTlMuc3RyaW5ngARfECRBNEMyOTZF
+	OC00QkU3LTRFNTItODVFNS0wRjg4MTY1QTY2NDXSMTIzNFokY2xhc3NuYW1lWCRjbGFz
+	c2VzXxAPTlNNdXRhYmxlU3RyaW5nozM1NlhOU1N0cmluZ1hOU09iamVjdF8QEURvdWds
+	YXMgU3BlY2toYXJkXxAPY29tLmJjai5zdXBwb3J0TxAU/GJwrh1O1BKY5mN5h4JRQGJ9
+	HPfSMTI7PF8QGVVOU291cmNlTGlzdE5ld3Nncm91cE5vZGWjPT42XxAZVU5Tb3VyY2VM
+	aXN0TmV3c2dyb3VwTm9kZV8QEFVOU291cmNlTGlzdE5vZGXbChkcHR8WFRsYHhclJCgp
+	KyFCQyMqIoAICIAKgAuAB4AA0gotLkiABF8QJDNFMTk3NTEzLTU1QTktNEU1QS1CQTJC
+	LUFCNjM4NUExMDkzQl8QFGNvbS5iY2ouZnRwLXJlcXVlc3Rz2woZHB0fFhUbGB4XJSQo
+	KSshTU4jKiKACAiADYAOgAeAANIKLS5TgARfECREQTUyODNDQS05QkNGLTQ3MDItQjA3
+	RC04MTdFM0U1RUI5MDZfEBZjb20uYmNqLmVtYWlsLXJlcXVlc3Rz2woZHB0fFhUbGB4X
+	JSQoKSshWFkjKiKACAiAEIARgAeAANIKLS5egARfECQwQ0U3NkM1MS03NjExLTRBOEEt
+	OTVBNy00ODZENDZENjVENjVfEBNjb20uYmNqLmZ0cC1yZXF1ZXN02woZHB0fFhUbGB4X
+	JSQoKSshY2QjKiKACAiAE4AUgAeAANIKLS5pgARfECQ3NkEzNDA2MS1CQjYwLTQyRjUt
+	QjBEMC01NUQ0RDEzMTZFREVfEBJjb20uYmNqLnJldml0Z3JvdXDbChkcHR8WFRsYHhcl
+	JCgpKyFubyMqIoAICIAWgBeAB4AA0gotLnSABF8QJEE5NDM5MDE0LThCOEYtNEU5Qi04
+	MzhDLTk4NzE5OUU2RjM3MF8QEGNvbS5iY2ouY2FkZ3JvdXDbChkcHR8WFRsYHhclJCgp
+	KyF5eiMqIoAICIAZgBqAB4AA0gotLn+ABF8QJDI4MDI1Qjk3LUUyMTAtNDk5MS1BMEI0
+	LTk2NjBFRDEzMkQ0RF8QEGNvbS5iY2ouYmNqdGVjaHPSMTKCg15OU011dGFibGVBcnJh
+	eaOChDZXTlNBcnJheV8QD05TS2V5ZWRBcmNoaXZlctGHiFRyb290gAEACAARABoAIwAt
+	ADIANwBWAFwAYQBsAHMAewB9AH8AgQCDAIUAhwCJAIsApACpAMAAxQDPAN4A6gD4AQoB
+	HwEoATMBNQE3ATkBOwE9AT8BQQFDAUUBRwFJAUoBTwFZAVsBggGHAZIBmwGtAbEBugHD
+	AdcB6QIAAgUCIQIlAkECVAJrAm0CbgJwAnICdAJ2AnsCfQKkArsC0gLUAtUC1wLZAtsC
+	3QLiAuQDCwMkAzsDPQM+A0ADQgNEA0YDSwNNA3QDigOhA6MDpAOmA6gDqgOsA7EDswPa
+	A+8EBgQIBAkECwQNBA8EEQQWBBgEPwRSBGkEawRsBG4EcARyBHQEeQR7BKIEtQS6BMkE
+	zQTVBOcE6gTvAAAAAAAAAgEAAAAAAAAAiQAAAAAAAAAAAAAAAAAABPE=
+	</data>
+	<key>UNSourceListSelection</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGKitYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKkHCA4UGRobIiZVJG51bGzSCQoLDVpOUy5vYmplY3RzViRjbGFzc6EMgAKACNMK
+	DxAREhNaaW5kZXhBcnJheVZsZW5ndGiAB4ADEALSCQoVGKIWF4AEgAWABhAAEAjSHB0e
+	H1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ox4gIVdOU0FycmF5WE5T
+	T2JqZWN00hwdIyRbUENJbmRleFBhdGiiJSFbUENJbmRleFBhdGjSHB0nKFxOU011dGFi
+	bGVTZXSjJykhVU5TU2V0XxAPTlNLZXllZEFyY2hpdmVy0SwtVHJvb3SAAQAIABEAGgAj
+	AC0AMgA3AEEARwBMAFcAXgBgAGIAZABrAHYAfQB/AIEAgwCIAIsAjQCPAJEAkwCVAJoA
+	pQCuAL0AwQDJANIA1wDjAOYA8gD3AQQBCAEOASABIwEoAAAAAAAAAgEAAAAAAAAALgAA
+	AAAAAAAAAAAAAAAAASo=
+	</data>
+	<key>WebKitUserStyleSheetEnabledPreferenceKey</key>
+	<true/>
+	<key>WebKitUserStyleSheetLocationPreferenceKey</key>
+	<string>/Applications/Unison.app/Contents/Resources/messageStyle.css</string>
+</dict>
+</plist>

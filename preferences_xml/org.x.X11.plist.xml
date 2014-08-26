@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_to_run</key>
+	<string>/usr/X11/bin/xterm</string>
+	<key>cache_fonts</key>
+	<true/>
+	<key>done_xinit_check</key>
+	<true/>
+	<key>login_shell</key>
+	<string>/bin/sh</string>
+	<key>no_auth</key>
+	<false/>
+	<key>nolisten_tcp</key>
+	<true/>
+	<key>startx_script</key>
+	<string>/usr/X11/bin/startx</string>
+</dict>
+</plist>

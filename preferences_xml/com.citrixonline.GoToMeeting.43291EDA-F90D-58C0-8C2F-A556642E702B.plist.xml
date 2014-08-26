@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConnectionInfo/LastGood/Proto1/Method</key>
+	<integer>32</integer>
+	<key>ConnectionInfo/LastGood/Proto1/OriginalDetector</key>
+	<integer>4</integer>
+	<key>ConnectionInfo/LastGood/Proto1/Proto</key>
+	<integer>1</integer>
+	<key>ConnectionInfo/LastGood/Proto1/TargetPort</key>
+	<integer>443</integer>
+	<key>ConnectionInfo/Proxy</key>
+	<string>127.0.0.1:8080</string>
+	<key>ConnectionInfo/ProxyNotes</key>
+	<string>127.0.0.1:8080,1024</string>
+	<key>ConnectionInfo/SOCKS</key>
+	<string>127.0.0.1:8080</string>
+	<key>EGWAddress</key>
+	<string>216.115.208.199,216.219.117.209,216.219.118.209</string>
+	<key>EGWDNS</key>
+	<string>egw.gotomeeting.com</string>
+	<key>EGWPort</key>
+	<string>8200,80,443</string>
+	<key>OutOfSessionHelp</key>
+	<string>http://support.gotomeeting.com/</string>
+	<key>Role</key>
+	<integer>0</integer>
+	<key>UI/remMyE</key>
+	<string>dspeckhard@bcj.com</string>
+	<key>UI/remMyN</key>
+	<string>Doug Speckhard</string>
+	<key>UI/remShowScreenNameEmailDialog</key>
+	<integer>0</integer>
+	<key>UserId</key>
+	<string>sntbqc/W9M0=</string>
+	<key>WebsiteUrl</key>
+	<string>https://www.gotomeeting.com</string>
+	<key>WebsiteUrlWebinar</key>
+	<string>https://www.gotowebinar.com</string>
+	<key>lastBandwidthProbeTime</key>
+	<string>1290114570</string>
+</dict>
+</plist>

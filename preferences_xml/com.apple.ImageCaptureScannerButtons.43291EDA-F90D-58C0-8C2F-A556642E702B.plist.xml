@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>34443433-3332-3530-3333-333333353339</key>
+	<dict>
+		<key>buttonMapping</key>
+		<dict>
+			<key>copy</key>
+			<dict>
+				<key>application</key>
+				<string>/Applications/Image Capture.app</string>
+				<key>label</key>
+				<string>Button 1:</string>
+			</dict>
+			<key>scan</key>
+			<dict>
+				<key>application</key>
+				<string>/Applications/Image Capture.app</string>
+				<key>label</key>
+				<string>Button 2:</string>
+			</dict>
+			<key>web </key>
+			<dict>
+				<key>application</key>
+				<string>/Applications/Image Capture.app</string>
+				<key>label</key>
+				<string>Button 3:</string>
+			</dict>
+		</dict>
+		<key>deviceIconPath</key>
+		<string>/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/Printer_C106.icns</string>
+		<key>deviceModulePath</key>
+		<string>/Library/Image Capture/Devices/EPSON Scanner.app</string>
+		<key>name</key>
+		<string>EPSON Epson Stylus NX420</string>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

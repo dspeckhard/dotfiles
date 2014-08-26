@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>12" x 60"</key>
+	<dict>
+		<key>bottom</key>
+		<real>18</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>864</real>
+		<key>id</key>
+		<string>12" x 60"</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>12" x 60"</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>4320</real>
+	</dict>
+	<key>15" x 21"</key>
+	<dict>
+		<key>bottom</key>
+		<real>0.0</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>1080</real>
+		<key>id</key>
+		<string>15" x 21"</string>
+		<key>left</key>
+		<real>0.0</real>
+		<key>name</key>
+		<string>15" x 21"</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>0.0</real>
+		<key>top</key>
+		<real>0.0</real>
+		<key>width</key>
+		<real>1512</real>
+	</dict>
+	<key>19" x 23"</key>
+	<dict>
+		<key>bottom</key>
+		<real>18</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>1656</real>
+		<key>id</key>
+		<string>19" x 23"</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>19" x 23"</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>1368</real>
+	</dict>
+	<key>22" x 34"</key>
+	<dict>
+		<key>bottom</key>
+		<real>18</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>1584</real>
+		<key>id</key>
+		<string>22" x 34"</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>22" x 34"</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>2448</real>
+	</dict>
+	<key>4x6</key>
+	<dict>
+		<key>bottom</key>
+		<real>40</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>432</real>
+		<key>id</key>
+		<string>4x6</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>4x6</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>288</real>
+	</dict>
+	<key>5.5" x 8.5"</key>
+	<dict>
+		<key>bottom</key>
+		<real>40</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>612</real>
+		<key>id</key>
+		<string>5.5" x 8.5"</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>5.5" x 8.5"</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>396</real>
+	</dict>
+	<key>5x7</key>
+	<dict>
+		<key>bottom</key>
+		<real>40</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>504</real>
+		<key>id</key>
+		<string>5x7</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>5x7</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>360</real>
+	</dict>
+	<key>Untitled</key>
+	<dict>
+		<key>bottom</key>
+		<real>40</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>3456</real>
+		<key>id</key>
+		<string>Untitled</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>2160</real>
+	</dict>
+	<key>Untitled 1</key>
+	<dict>
+		<key>bottom</key>
+		<real>18</real>
+		<key>custom</key>
+		<true/>
+		<key>height</key>
+		<real>1980</real>
+		<key>id</key>
+		<string>Untitled 1</string>
+		<key>left</key>
+		<real>18</real>
+		<key>name</key>
+		<string>Untitled 1</string>
+		<key>printer</key>
+		<string> </string>
+		<key>right</key>
+		<real>18</real>
+		<key>top</key>
+		<real>18</real>
+		<key>width</key>
+		<real>1422</real>
+	</dict>
+</dict>
+</plist>

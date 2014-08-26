@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accounts</key>
+	<array>
+		<dict>
+			<key>AliasCustomSMTPInfos</key>
+			<dict/>
+			<key>AliasSMTPServices</key>
+			<dict/>
+			<key>AliasSignatures</key>
+			<dict/>
+			<key>CounterEnabled</key>
+			<true/>
+			<key>DefaultImagePath</key>
+			<string>/Library/User Pictures/Flowers/Dandelion.tif</string>
+			<key>Email</key>
+			<string>dspeckhard@bcj.com</string>
+			<key>Folders</key>
+			<array>
+				<string>Archive</string>
+				<string>calendar</string>
+				<string>contacts</string>
+				<string>Conversation Action Settings</string>
+				<string>Trash</string>
+				<string>Trash/Test Sharing</string>
+				<string>Deleted Messages</string>
+				<string>Drafts</string>
+				<string>Email Receipts</string>
+				<string>Errors</string>
+				<string>INBOX</string>
+				<string>Intranet BCJ Blog</string>
+				<string>Journal</string>
+				<string>Junk</string>
+				<string>MY SERVICES</string>
+				<string>News Feed</string>
+				<string>Notes</string>
+				<string>Unsent Messages</string>
+				<string>Quick Step Settings</string>
+				<string>RSS Feeds</string>
+				<string>Sent</string>
+				<string>Sent Messages</string>
+				<string>Suggested Contacts</string>
+				<string>Sync Issues</string>
+				<string>Sync Issues/Conflicts</string>
+				<string>Sync Issues/Local Failures</string>
+				<string>Sync Issues/Server Failures</string>
+				<string>Tasks</string>
+			</array>
+			<key>HTMLSignature</key>
+			<string>&lt;div&gt;--&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Douglas Speckhard&lt;/div&gt;&lt;div&gt;Sent with &lt;a href="http://www.sparrowmailapp.com/?sig"&gt;Sparrow&lt;/a&gt;&lt;/div&gt;</string>
+			<key>HiddenLabels</key>
+			<array>
+				<string>Drafts</string>
+				<string>Trash</string>
+				<string>Sent Messages</string>
+				<string>contacts</string>
+				<string>Deleted Messages</string>
+				<string>Archive</string>
+				<string>Sent</string>
+			</array>
+			<key>IMAPInfo</key>
+			<dict>
+				<key>hostname</key>
+				<string>localhost</string>
+				<key>insecure</key>
+				<true/>
+				<key>login</key>
+				<string>dspeckhard@bcj.com</string>
+				<key>port</key>
+				<integer>1143</integer>
+				<key>service</key>
+				<string>imap</string>
+			</dict>
+			<key>IMAPService</key>
+			<dict>
+				<key>authtype</key>
+				<string>login</string>
+				<key>hostname</key>
+				<string>localhost</string>
+				<key>port</key>
+				<integer>1143</integer>
+			</dict>
+			<key>ImageFromGmail</key>
+			<false/>
+			<key>LabelsColors</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGoKFYJHZlcnNpb25YJG9iamVjdHNZJGFy
+			Y2hpdmVyVCR0b3ASAAGGoK8QMAcIOzw9Pj9AQUJDREVGR0hJSktM
+			TU5PUFFXXWBjZmlsb3J1eHt+gYSHio2Qk5aZnFUkbnVsbNMJCgsM
+			DSRWJGNsYXNzV05TLmtleXNaTlMub2JqZWN0c4AvrxAWDg8QERIT
+			FBUWFxgZGhscHR4fICEiI4ACgAOABIAFgAaAB4AIgAmACoALgAyA
+			DYAOgA+AEIARgBKAE4AUgBWAFoAXrxAWJSYnKCkqKywtLi8wMTIz
+			NDU2Nzg5OoAYgBqAG4AcgB2AHoAfgCCAIYAigCOAJIAlgCaAJ4Ao
+			gCmAKoArgCyALYAuXxAbU3luYyBJc3N1ZXMvU2VydmVyIEZhaWx1
+			cmVzWGNhbGVuZGFyW01ZIFNFUlZJQ0VTV0pvdXJuYWxfEBxDb252
+			ZXJzYXRpb24gQWN0aW9uIFNldHRpbmdzWVJTUyBGZWVkc18QEUlu
+			dHJhbmV0IEJDSiBCbG9nVFNlbnRWRXJyb3JzXxATUXVpY2sgU3Rl
+			cCBTZXR0aW5nc18QFVN5bmMgSXNzdWVzL0NvbmZsaWN0c18QGlN5
+			bmMgSXNzdWVzL0xvY2FsIEZhaWx1cmVzXkVtYWlsIFJlY2VpcHRz
+			XxASU3VnZ2VzdGVkIENvbnRhY3RzW1N5bmMgSXNzdWVzXxASVHJh
+			c2gvVGVzdCBTaGFyaW5nXxAPVW5zZW50IE1lc3NhZ2VzVVRyYXNo
+			VVRhc2tzVU5vdGVzWU5ld3MgRmVlZFhjb250YWN0c9MJUlNUVVZc
+			TlNDb2xvclNwYWNlVU5TUkdCgBkQAU8QJzAuNzYwNzg0MzEzNyAw
+			LjQ4MjM1Mjk0MTIgMC42Mjc0NTA5ODA0ANJYWVpbWiRjbGFzc25h
+			bWVYJGNsYXNzZXNXTlNDb2xvcqJaXFhOU09iamVjdNMJUlNUVV+A
+			GU8QFTAuODc4NDMxMzcyNSAwLjQgMC40ANMJUlNUVWKAGU8QJzAu
+			NzYwNzg0MzEzNyAwLjQ4MjM1Mjk0MTIgMC42Mjc0NTA5ODA0ANMJ
+			UlNUVWWAGU8QJzAuNTU2ODYyNzQ1MSAwLjQ4NjI3NDUwOTggMC43
+			NjQ3MDU4ODI0ANMJUlNUVWiAGU8QEzEgMC44NTA5ODAzOTIyIDAu
+			NADTCVJTVFVrgBlPECcwLjQxNTY4NjI3NDUgMC42NTg4MjM1Mjk0
+			IDAuMzA5ODAzOTIxNgDTCVJTVFVugBlPEBMxIDAuODUwOTgwMzky
+			MiAwLjQA0wlSU1RVcYAZTxAmMC41NzY0NzA1ODgyIDAuNzY4NjI3
+			NDUxIDAuNDkwMTk2MDc4NADTCVJTVFV0gBlPECcwLjk2NDcwNTg4
+			MjQgMC42OTgwMzkyMTU3IDAuNDE5NjA3ODQzMQDTCVJTVFV3gBlP
+			ECcwLjk0NTA5ODAzOTIgMC43NjA3ODQzMTM3IDAuMTk2MDc4NDMx
+			NADTCVJTVFV6gBlPECYwLjQzNTI5NDExNzYgMC42NTg4MjM1Mjk0
+			IDAuODYyNzQ1MDk4ANMJUlNUVX2AGU8QJzAuNTU2ODYyNzQ1MSAw
+			LjQ4NjI3NDUwOTggMC43NjQ3MDU4ODI0ANMJUlNUVYCAGU8QFTAu
+			ODc4NDMxMzcyNSAwLjQgMC40ANMJUlNUVYOAGU8QJzAuMjM5MjE1
+			Njg2MyAwLjUyMTU2ODYyNzUgMC43NzY0NzA1ODgyANMJUlNUVYaA
+			GU8QJjAuNDYyNzQ1MDk4IDAuNjQ3MDU4ODIzNSAwLjY4NjI3NDUw
+			OTgA0wlSU1RViYAZTxAmMC45MDE5NjA3ODQzIDAuNTY4NjI3NDUx
+			IDAuMjE5NjA3ODQzMQDTCVJTVFWMgBlPECcwLjk0NTA5ODAzOTIg
+			MC43NjA3ODQzMTM3IDAuMTk2MDc4NDMxNADTCVJTVFWPgBlIMC44
+			IDAgMADTCVJTVFWSgBlPEBwwLjc0OTAxOTYwNzggMC41NjQ3MDU4
+			ODI0IDAA0wlSU1RVlYAZTxAmMC45MDE5NjA3ODQzIDAuNTY4NjI3
+			NDUxIDAuMjE5NjA3ODQzMQDTCVJTVFWYgBlIMC44IDAgMADTCVJT
+			VFWbgBlPECcwLjk2NDcwNTg4MjQgMC42OTgwMzkyMTU3IDAuNDE5
+			NjA3ODQzMQDSWFmdnl8QE05TTXV0YWJsZURpY3Rpb25hcnmjnZ9c
+			XE5TRGljdGlvbmFyeV8QD05TS2V5ZWRBcmNoaXZlctGio1Ryb290
+			gAEACAARABoAIwAtADIANwBqAHAAdwB+AIYAkQCTAKwArgCwALIA
+			tAC2ALgAugC8AL4AwADCAMQAxgDIAMoAzADOANAA0gDUANYA2ADx
+			APMA9QD3APkA+wD9AP8BAQEDAQUBBwEJAQsBDQEPAREBEwEVARcB
+			GQEbAR0BOwFEAVABWAF3AYEBlQGaAaEBtwHPAewB+wIQAhwCMQJD
+			AkkCTwJVAl8CaAJvAnwCggKEAoYCsAK1AsACyQLRAtQC3QLkAuYC
+			/gMFAwcDMQM4AzoDZANrA20DgwOKA4wDtgO9A78D1QPcA94EBwQO
+			BBAEOgRBBEMEbQR0BHYEnwSmBKgE0gTZBNsE8wT6BPwFJgUtBS8F
+			WAVfBWEFigWRBZMFvQXEBcYFzwXWBdgF9wX+BgAGKQYwBjIGOwZC
+			BkQGbgZzBokGjQaaBqwGrwa0AAAAAAAAAgEAAAAAAAAApAAAAAAA
+			AAAAAAAAAAAABrY=
+			</data>
+			<key>LastContactsSync</key>
+			<real>0.0</real>
+			<key>LastSelectedLabel</key>
+			<string>calendar</string>
+			<key>Name</key>
+			<string>Douglas Speckhard</string>
+			<key>NamespaceDelimiter</key>
+			<string>/</string>
+			<key>NotificationEnabled</key>
+			<true/>
+			<key>Provider</key>
+			<string>default</string>
+			<key>RefreshDelay</key>
+			<integer>0</integer>
+			<key>SMTPInfo</key>
+			<dict>
+				<key>hostname</key>
+				<string>localhost</string>
+				<key>insecure</key>
+				<true/>
+				<key>login</key>
+				<string>dspeckhard@bcj.com</string>
+				<key>port</key>
+				<integer>1025</integer>
+				<key>service</key>
+				<string>smtp</string>
+			</dict>
+			<key>SMTPService</key>
+			<dict>
+				<key>authtype</key>
+				<string>plain</string>
+				<key>hostname</key>
+				<string>localhost</string>
+				<key>port</key>
+				<integer>1025</integer>
+			</dict>
+			<key>ServiceType</key>
+			<string>imap</string>
+			<key>SoundEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>ActivityEnabled</key>
+	<false/>
+	<key>AdsProvider</key>
+	<string>influads</string>
+	<key>AppStartsAtLogin</key>
+	<false/>
+	<key>AvatarStorageVersion</key>
+	<integer>77</integer>
+	<key>DatabaseDirty</key>
+	<false/>
+	<key>FBAssistantDisplayedOnceUserDefaults</key>
+	<true/>
+	<key>FullscreenMessageListWidth</key>
+	<real>250</real>
+	<key>FullscreenSidebarWidth</key>
+	<real>60</real>
+	<key>HasBeenLaunchedForInspector</key>
+	<true/>
+	<key>InspectorEnabled</key>
+	<true/>
+	<key>LaunchCount</key>
+	<integer>2</integer>
+	<key>MMLastStatCheckDate</key>
+	<real>392675013.31308502</real>
+	<key>MessageViewWidth</key>
+	<real>883</real>
+	<key>NSWindow Frame MMMainWindow</key>
+	<string>105 185 1649 692 0 0 1680 1028 </string>
+	<key>SULastCheckTime</key>
+	<date>2013-06-11T20:23:30Z</date>
+	<key>SidebarExtendedWidth</key>
+	<real>259</real>
+	<key>SidebarWidth</key>
+	<real>259</real>
+	<key>WebKitDefaultFontSize</key>
+	<integer>13</integer>
+</dict>
+</plist>

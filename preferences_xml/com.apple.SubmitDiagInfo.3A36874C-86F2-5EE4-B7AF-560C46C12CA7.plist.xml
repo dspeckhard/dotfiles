@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoSubmit</key>
+	<true/>
+	<key>AutoSubmitVersion</key>
+	<integer>2</integer>
+	<key>PreviousSubmissionDate</key>
+	<date>2014-08-22T20:44:05Z</date>
+	<key>SeedUntil</key>
+	<array>
+		<string>12F45</string>
+		<date>2043-10-20T05:52:56Z</date>
+		<false/>
+		<integer>6</integer>
+	</array>
+	<key>SubmissionRateVersion</key>
+	<string>1</string>
+</dict>
+</plist>

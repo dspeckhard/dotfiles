@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACRRLastSubmitted</key>
+	<dict>
+		<key>Applications</key>
+		<dict>
+			<key>CalendarAgent</key>
+			<dict>
+				<key>1.0 (57)</key>
+				<dict>
+					<key>AppCrashCount</key>
+					<integer>1</integer>
+					<key>AppDuration</key>
+					<integer>0</integer>
+				</dict>
+			</dict>
+			<key>Cyberduck</key>
+			<dict>
+				<key>4.2.1 (9350)</key>
+				<dict>
+					<key>AppCrashCount</key>
+					<integer>1</integer>
+					<key>AppDuration</key>
+					<integer>110</integer>
+				</dict>
+			</dict>
+			<key>Sublime Text 2</key>
+			<dict>
+				<key>Version 2.0.2, Build 2221 (2221)</key>
+				<dict>
+					<key>AppCrashCount</key>
+					<integer>1</integer>
+					<key>AppDuration</key>
+					<integer>57235</integer>
+				</dict>
+			</dict>
+			<key>XBMC</key>
+			<dict>
+				<key>12.2 (Git-20130502-32b1a5e)</key>
+				<dict>
+					<key>AppCrashCount</key>
+					<integer>1</integer>
+					<key>AppDuration</key>
+					<integer>57410</integer>
+				</dict>
+			</dict>
+			<key>com.apple.security.pboxd</key>
+			<dict>
+				<key>2.0 (80.7)</key>
+				<dict>
+					<key>AppCrashCount</key>
+					<integer>1</integer>
+					<key>AppDuration</key>
+					<integer>5513</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>OSBuild</key>
+		<string>10.8.5:12F37</string>
+		<key>SystemCrashCount</key>
+		<integer>8</integer>
+		<key>UserDuration</key>
+		<integer>386665</integer>
+	</dict>
+</dict>
+</plist>

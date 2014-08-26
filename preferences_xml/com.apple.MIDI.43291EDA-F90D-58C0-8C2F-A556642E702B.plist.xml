@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MIDISetup</key>
+	<dict>
+		<key>devices</key>
+		<array>
+			<dict>
+				<key>driver</key>
+				<string>com.apple.AppleMIDIIACDriver</string>
+				<key>entities</key>
+				<array>
+					<dict>
+						<key>destinations</key>
+						<array>
+							<dict>
+								<key>uniqueID</key>
+								<integer>-548005349</integer>
+							</dict>
+						</array>
+						<key>embedded</key>
+						<integer>1</integer>
+						<key>maxSysExSpeed</key>
+						<integer>3125</integer>
+						<key>name</key>
+						<string>Bus 1</string>
+						<key>sources</key>
+						<array>
+							<dict>
+								<key>uniqueID</key>
+								<integer>191666541</integer>
+							</dict>
+						</array>
+						<key>uniqueID</key>
+						<integer>-254837870</integer>
+					</dict>
+				</array>
+				<key>image</key>
+				<string>/System/Library/Extensions/AppleMIDIIACDriver.plugin/Contents/Resources/IACDriverIcon.tiff</string>
+				<key>manufacturer</key>
+				<string>Apple Inc.</string>
+				<key>model</key>
+				<string>IAC Driver</string>
+				<key>name</key>
+				<string>IAC Driver</string>
+				<key>offline</key>
+				<integer>1</integer>
+				<key>uniqueID</key>
+				<integer>364603475</integer>
+			</dict>
+			<dict>
+				<key>apple.midirtp.errors</key>
+				<data>
+				</data>
+				<key>driver</key>
+				<string>com.apple.AppleMIDIRTPDriver</string>
+				<key>entities</key>
+				<array/>
+				<key>image</key>
+				<string>/System/Library/Extensions/AppleMIDIRTPDriver.plugin/Contents/Resources/RTPDriverIcon.tiff</string>
+				<key>manufacturer</key>
+				<string></string>
+				<key>model</key>
+				<string></string>
+				<key>name</key>
+				<string>Network</string>
+				<key>offline</key>
+				<integer>0</integer>
+				<key>scheduleAheadMuSec</key>
+				<integer>50000</integer>
+				<key>uniqueID</key>
+				<integer>2093752797</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

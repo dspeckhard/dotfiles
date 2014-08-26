@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSWindow Frame MainWindow</key>
+	<string>18 424 696 604 0 0 1680 1028 </string>
+	<key>RecentNetworks</key>
+	<array>
+		<dict>
+			<key>hashKey</key>
+			<integer>2815824934</integer>
+			<key>interfaceKey</key>
+			<string>en0</string>
+		</dict>
+		<dict>
+			<key>hashKey</key>
+			<integer>3642692919</integer>
+			<key>interfaceKey</key>
+			<string>en1</string>
+		</dict>
+		<dict>
+			<key>hashKey</key>
+			<integer>0</integer>
+			<key>interfaceKey</key>
+			<string>en1</string>
+		</dict>
+		<dict>
+			<key>hashKey</key>
+			<integer>301990537</integer>
+			<key>interfaceKey</key>
+			<string>en1</string>
+		</dict>
+		<dict>
+			<key>hashKey</key>
+			<integer>3561690279</integer>
+			<key>interfaceKey</key>
+			<string>en1</string>
+		</dict>
+	</array>
+	<key>loadDataAddressKey</key>
+	<string>10.3.0.127</string>
+	<key>version</key>
+	<integer>1536</integer>
+</dict>
+</plist>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/server/12520 Glen Ellen Cabin/file/B Pre design/B03 Site Surveys &amp; Information</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{1057, 400}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{537, 400}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSTableView Columns ListBrowserView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBElDT06G
+		</data>
+		<string>20</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCEZJTEVOQU1Fhg==
+		</data>
+		<string>275</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBFNJWkWG
+		</data>
+		<string>80</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCE1PRElGSUVEhg==
+		</data>
+		<string>150</string>
+	</array>
+	<key>NSTableView Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<string>547</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<string>88</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+		<string>60</string>
+	</array>
+	<key>NSTableView Columns OutlineBrowserView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCEZJTEVOQU1Fhg==
+		</data>
+		<string>571</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBFNJWkWG
+		</data>
+		<string>150</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCE1PRElGSUVEhg==
+		</data>
+		<string>470</string>
+	</array>
+	<key>NSTableView Hidden Columns ListBrowserView</key>
+	<array/>
+	<key>NSTableView Hidden Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+	</array>
+	<key>NSTableView Hidden Columns OutlineBrowserView</key>
+	<array/>
+	<key>NSTableView Sort Ordering ListBrowserView</key>
+	<array/>
+	<key>NSTableView Sort Ordering NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<true/>
+	</array>
+	<key>NSTableView Sort Ordering OutlineBrowserView</key>
+	<array/>
+	<key>NSToolbar Configuration Cyberduck Toolbar</key>
+	<dict>
+		<key>TB Default Item Identifiers</key>
+		<array>
+			<string>New Connection</string>
+			<string>Quick Connect</string>
+			<string>Tools</string>
+			<string>Refresh</string>
+			<string>Edit</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>Disconnect</string>
+		</array>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>New Connection</string>
+			<string>NSToolbarSeparatorItem</string>
+			<string>Quick Connect</string>
+			<string>Tools</string>
+			<string>NSToolbarSeparatorItem</string>
+			<string>Refresh</string>
+			<string>Edit</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>Disconnect</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+		<key>TB Visibility Priority Values</key>
+		<dict/>
+	</dict>
+	<key>NSToolbar Configuration Queue Toolbar</key>
+	<dict>
+		<key>TB Default Item Identifiers</key>
+		<array>
+			<string>Resume</string>
+			<string>Stop</string>
+			<string>Reload</string>
+			<string>Remove</string>
+			<string>Show</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>Search</string>
+		</array>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>Resume</string>
+			<string>Reload</string>
+			<string>Stop</string>
+			<string>Remove</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>Open</string>
+			<string>Show</string>
+			<string>Search</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+		<key>TB Visibility Priority Values</key>
+		<dict/>
+	</dict>
+	<key>NSWindow Frame Action</key>
+	<string>477 414 1203 262 0 0 1680 1028 </string>
+	<key>NSWindow Frame Activity</key>
+	<string>1244 465 435 180 0 0 1680 1028 </string>
+	<key>NSWindow Frame Bookmark</key>
+	<string>1177 48 434 545 0 0 1680 1028 </string>
+	<key>NSWindow Frame Browser</key>
+	<string>656 353 1199 591 0 0 1680 1028 </string>
+	<key>NSWindow Frame Connection</key>
+	<string>852 482 460 412 0 0 1680 1028 </string>
+	<key>NSWindow Frame Donate</key>
+	<string>577 526 526 347 0 0 1680 1028 </string>
+	<key>NSWindow Frame Folder</key>
+	<string>982 486 412 171 0 0 1680 1028 </string>
+	<key>NSWindow Frame Info</key>
+	<string>120 665 393 352 0 0 1680 1028 </string>
+	<key>NSWindow Frame Login</key>
+	<string>872 606 420 288 0 0 1680 1028 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>463 452 753 443 0 0 1680 1028 </string>
+	<key>NSWindow Frame Queue</key>
+	<string>842 113 810 518 0 0 1680 1028 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>648 689 384 129 0 0 1680 1028 </string>
+	<key>NSWindow Frame SUUpdateAlertFrame</key>
+	<string>557 491 566 395 0 0 1680 1028 </string>
+	<key>NSWindow Frame Validator</key>
+	<string>1028 156 439 419 0 0 1680 1028 </string>
+	<key>SULastCheckTime</key>
+	<date>2012-02-22T20:57:08Z</date>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+	<key>alert.toggle.transcript</key>
+	<string>0</string>
+	<key>bookmark.06dc4e6c-7fcc-41b9-82cd-36dd3eee5dfa</key>
+	<string>0</string>
+	<key>bookmark.488a6e0d-9e85-4f3b-946e-01f13b904f4d</key>
+	<string>9</string>
+	<key>bookmark.4c66f561-5d5d-4e99-a567-3d2350bd7e5a</key>
+	<string>3</string>
+	<key>bookmark.5d5430ca-33b0-4eb2-be4e-0d393f36ca5d</key>
+	<string>11</string>
+	<key>bookmark.66f40332-ffd6-408e-9ef1-84fd0883c0df</key>
+	<string>10</string>
+	<key>bookmark.6baf33b1-8977-49ef-87d3-3d3760b8fa5b</key>
+	<string>7</string>
+	<key>bookmark.7e61436e-a1cc-483c-a5df-28ace794b943</key>
+	<string>12</string>
+	<key>bookmark.80fad81b-f74f-48ef-ba0f-b44bfcae183d</key>
+	<string>6</string>
+	<key>bookmark.8b200442-4cd5-402d-b5e5-f4a62e40fc97</key>
+	<string>4</string>
+	<key>bookmark.8e545185-e98e-4242-b0c7-5b07617cefb9</key>
+	<string>1</string>
+	<key>bookmark.8fe473b5-eaca-437d-96e1-bc3158ad55d4</key>
+	<string>5</string>
+	<key>bookmark.9049b413-3227-4a0b-bcf0-90590ab4c1db</key>
+	<string>2</string>
+	<key>bookmark.b83aa88f-6599-4d8f-87e5-ce99d61edaee</key>
+	<string>8</string>
+	<key>bookmark.f009182b-51ab-4d70-bff6-1b5f6bca6032</key>
+	<string>10</string>
+	<key>bookmark.icon.size</key>
+	<string>32</string>
+	<key>bookmark.import.com.crossftp</key>
+	<string>true</string>
+	<key>bookmark.import.de.filezilla</key>
+	<string>true</string>
+	<key>bookmark.import.org.mozdev.fireftp</key>
+	<string>true</string>
+	<key>bookmark.toggle.options</key>
+	<string>1</string>
+	<key>browser.logDrawer.isOpen</key>
+	<string>false</string>
+	<key>browser.logDrawer.size.height</key>
+	<string>200</string>
+	<key>browser.openUntitled</key>
+	<string>true</string>
+	<key>browser.sort.ascending</key>
+	<string>true</string>
+	<key>browser.sort.column</key>
+	<string>FILENAME</string>
+	<key>browser.view</key>
+	<string>1</string>
+	<key>browser.view.autoexpand.delay</key>
+	<string>1.0</string>
+	<key>browser.view.autoexpand.useDelay</key>
+	<string>true</string>
+	<key>connection.login.addKeychain</key>
+	<string>true</string>
+	<key>connection.retry</key>
+	<string>1</string>
+	<key>connection.retry.delay</key>
+	<string>10</string>
+	<key>connection.timeout.seconds</key>
+	<string>30</string>
+	<key>connection.toggle.options</key>
+	<string>1</string>
+	<key>connection.unsecure.ftp.hdcco.com</key>
+	<string>true</string>
+	<key>crashreport.date</key>
+	<real>1271223552</real>
+	<key>defaulthandler.reminder</key>
+	<string>false</string>
+	<key>donate.reminder</key>
+	<string>4.2.1</string>
+	<key>donate.reminder.date</key>
+	<string>1329770336174</string>
+	<key>ftp.transfermode</key>
+	<string>binary</string>
+	<key>preferences.toolbar.selected</key>
+	<string>0</string>
+	<key>queue.maxtransfers</key>
+	<string>5</string>
+	<key>queue.openByDefault</key>
+	<string>false</string>
+	<key>queue.prompt.action.default</key>
+	<string>resume</string>
+	<key>transfer.toggle.details</key>
+	<string>1</string>
+	<key>uses</key>
+	<string>130</string>
+</dict>
+</plist>

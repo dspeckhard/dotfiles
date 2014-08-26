@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CredentialOptions</key>
+	<dict>
+		<key>AddresslessCredentials</key>
+		<true/>
+		<key>CredentialLifetime</key>
+		<integer>36000</integer>
+		<key>CredentialRenewalLifetime</key>
+		<integer>0</integer>
+		<key>ForwardableCredentials</key>
+		<true/>
+		<key>ProxiableCredentials</key>
+		<true/>
+		<key>RenewableCredentials</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

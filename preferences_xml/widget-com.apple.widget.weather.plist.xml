@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>7a38459ab412b441-celcius</key>
+	<false/>
+	<key>7a38459ab412b441-collapsed</key>
+	<string>false</string>
+	<key>7a38459ab412b441-show-lows</key>
+	<true/>
+	<key>7a38459ab412b441-yahooBacksideCityString</key>
+	<string>Dubuque, IA</string>
+	<key>7a38459ab412b441-yahooFrontsideCityString</key>
+	<string>Dubuque</string>
+	<key>7a38459ab412b441-yahooPostal</key>
+	<string>USIA0248|2394000</string>
+	<key>88845b93b412b441-celcius</key>
+	<false/>
+	<key>88845b93b412b441-collapsed</key>
+	<string>false</string>
+	<key>88845b93b412b441-show-lows</key>
+	<true/>
+	<key>88845b93b412b441-yahooBacksideCityString</key>
+	<string>San Francisco, CA</string>
+	<key>88845b93b412b441-yahooFrontsideCityString</key>
+	<string>San Francisco</string>
+	<key>88845b93b412b441-yahooPostal</key>
+	<string>USCA0987|2487956</string>
+	<key>e605089fb412b441-celcius</key>
+	<false/>
+	<key>e605089fb412b441-collapsed</key>
+	<string>false</string>
+	<key>e605089fb412b441-show-lows</key>
+	<true/>
+	<key>e605089fb412b441-yahooBacksideCityString</key>
+	<string>Washington, DC</string>
+	<key>e605089fb412b441-yahooFrontsideCityString</key>
+	<string>Washington</string>
+	<key>e605089fb412b441-yahooPostal</key>
+	<string>USDC0001|2514815</string>
+</dict>
+</plist>

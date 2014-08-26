@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FilenamePrefix</key>
+	<string>IMG_</string>
+	<key>ModuleSpecificPrefs</key>
+	<dict/>
+	<key>NextFilenameCount</key>
+	<integer>0</integer>
+	<key>defBacklightKey</key>
+	<integer>0</integer>
+	<key>defBitDepthKey</key>
+	<integer>8</integer>
+	<key>defColorRestorationKey</key>
+	<integer>0</integer>
+	<key>defDescreenKey</key>
+	<integer>0</integer>
+	<key>defDustRemovalKey</key>
+	<integer>0</integer>
+	<key>defUSMKey</key>
+	<integer>0</integer>
+	<key>defXYResolutionKey</key>
+	<integer>200</integer>
+</dict>
+</plist>

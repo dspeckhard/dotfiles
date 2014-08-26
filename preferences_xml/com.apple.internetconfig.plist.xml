@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version 2.5.4</key>
+	<dict>
+		<key>ic-added</key>
+		<dict>
+			<key>HelperDesc‚Ä¢FMP7</key>
+			<dict>
+				<key>ic-data</key>
+				<data>
+				FkZpbGVNYWtlciBQcm8gRGF0YWJhc2U=
+				</data>
+			</dict>
+			<key>Helper‚Ä¢FMP7</key>
+			<dict>
+				<key>ic-data</key>
+				<data>
+				Rk1QNw1GaWxlTWFrZXIgUHJvIBAAAAAAAAAMuL94AAAA
+				AAAAAAAAAAAADL7aEAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				RkY=
+				</data>
+			</dict>
+			<key>Helper•news</key>
+			<dict>
+				<key>ic-data</key>
+				<data>
+				dU5zTgZVbmlzb24AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAA
+				AAA=
+				</data>
+			</dict>
+		</dict>
+		<key>ic-deleted</key>
+		<array/>
+		<key>ic-mappings</key>
+		<dict>
+			<key>ic-added-mappings</key>
+			<array>
+				<data>
+				AHwAFgAAQ0dkYk1TY2dNU2NnAAAADAQuY2lsFk1pY3Jv
+				c29mdCBDbGlwIEdhbGxlcnkWTWljcm9zb2Z0IENsaXAg
+				R2FsbGVyeRthcHBsaWNhdGlvbi92bmQubXMtYXJ0Z2Fs
+				cnkWQ2xpcCBHYWxsZXJ5IExpdmUgRmlsZQ==
+				</data>
+				<data>
+				AGcAFgAARk1QN0ZNUDcAAAAAAAAAAQQuZnA3DUZpbGVN
+				YWtlciBQcm8NRmlsZU1ha2VyIFBybxZhcHBsaWNhdGlv
+				bi9maWxlbWFrZXI3GEZpbGVNYWtlciBQcm8gNyBEYXRh
+				YmFzZQ==
+				</data>
+			</array>
+			<key>ic-removed-mappings</key>
+			<array/>
+		</dict>
+	</dict>
+</dict>
+</plist>

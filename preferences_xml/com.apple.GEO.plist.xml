@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceCountryCode</key>
+	<string>US</string>
+	<key>GEOLastNetworkDefaultsURL</key>
+	<string>https://configuration.apple.com/configurations/pep/config/geo/networkDefaults-osx-10.9.plist</string>
+	<key>GEOLastResourceManifestURL</key>
+	<string>https://gspa35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&amp;application_version=1&amp;country_code=US&amp;hardware=MacBookPro6,2&amp;os=osx&amp;os_build=13D65&amp;os_version=10.9.3</string>
+	<key>GEOLastSearchAttributionManifestURL</key>
+	<string>http://gspa21.ls.apple.com/config/search-attribution-2</string>
+</dict>
+</plist>

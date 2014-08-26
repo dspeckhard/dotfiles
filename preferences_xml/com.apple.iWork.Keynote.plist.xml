@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGApplicationShowKeynote509Welcome</key>
+	<false/>
+	<key>BGDefaultSaveDirectory</key>
+	<string>~/Desktop</string>
+	<key>BGFormatBarVisibility</key>
+	<true/>
+	<key>DataEditorVisibility</key>
+	<false/>
+	<key>ImageAdjustVisibility</key>
+	<false/>
+	<key>InspFrames</key>
+	<array>
+		<string>794 295 230 380 0 0 1024 746 </string>
+	</array>
+	<key>InspPanes</key>
+	<array>
+		<integer>1002</integer>
+	</array>
+	<key>InspTabViewIdentifiers</key>
+	<array>
+		<string>document</string>
+	</array>
+	<key>InspVisibility</key>
+	<array>
+		<false/>
+	</array>
+	<key>MediaBrowserMediaType</key>
+	<integer>1</integer>
+	<key>MediaBrowserVisibility</key>
+	<false/>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{537, 473}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSWindow Frame WarningsInspectorFrame</key>
+	<string>990 373 450 276 0 0 1440 878 </string>
+	<key>RecentlyUsedAnimations</key>
+	<array>
+		<array/>
+		<array/>
+		<array/>
+		<array/>
+		<array/>
+	</array>
+	<key>SFDefaultsLastLaunchedBundleVersion</key>
+	<integer>1034</integer>
+	<key>SFLDefaultsNextUpdateCheck</key>
+	<date>2012-01-26T02:15:51Z</date>
+	<key>dontShowWhatsNew</key>
+	<true/>
+</dict>
+</plist>

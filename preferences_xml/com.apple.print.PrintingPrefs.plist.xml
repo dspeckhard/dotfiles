@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Quit When Finished</key>
+	<true/>
+	<key>UseLastPrinterAsCurrentPrinter</key>
+	<true/>
+	<key>com.apple.print.lastCSProfilePath</key>
+	<string>/Library/Printers/EPSON/InkjetPrinter2/ICCProfiles/Standard_07.profiles/Contents/Resources/Epson IJ Printer 07.icc</string>
+	<key>kLocationHistoryArrayKeyTMP</key>
+	<array>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>10.5.0.1</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>10.5.0.2</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>192.168.2.1</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>BW_Oce_LPR</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>192.168.1.254</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>192.168.0.1</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>BW_Oce_LPR</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>192.168.168.1</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Canon_Copier_1_EFI_Driver</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>10.203.63.254</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Copier_1_Regular</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>172.19.191.254</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Copier_1_Regular</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>38.106.58.130</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Copier_1_Regular</string>
+		</dict>
+		<dict>
+			<key>kLocationNetworkKey</key>
+			<string>10.0.124.1</string>
+			<key>kLocationPrinterIDKey</key>
+			<string>Copier_1_Regular</string>
+		</dict>
+	</array>
+</dict>
+</plist>

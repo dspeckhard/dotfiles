@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DTWirelessUniqueShortTypeLocationID</key>
+	<string>1828540038</string>
+	<key>DTraceFlagRuntimeErrors</key>
+	<false/>
+	<key>DTraceKernelBufferSize</key>
+	<string>25</string>
+	<key>DTracePermitZeroMatchProbes</key>
+	<true/>
+	<key>DTraceStackDepth</key>
+	<string>128</string>
+	<key>DTraceWarnBufferResourceLimit</key>
+	<true/>
+	<key>NSNewCursorRects</key>
+	<true/>
+	<key>XFFileBrowserExpandbundles</key>
+	<false/>
+	<key>XRCompressRunData</key>
+	<true/>
+	<key>XRDiscardPreviousRunData</key>
+	<true/>
+	<key>XRDockSamplingDuration</key>
+	<string>5</string>
+	<key>XRDockSamplingDurationUnits</key>
+	<string>sec</string>
+	<key>XRDockSamplingInterval</key>
+	<string>1</string>
+	<key>XRDockSamplingIntervalUnits</key>
+	<string>ms</string>
+	<key>XRDockSamplingRecentsLimit</key>
+	<string>10</string>
+	<key>XRFileExplorerShowHiddenFiles</key>
+	<false/>
+	<key>XRFileExplorerViewStyle</key>
+	<string>0</string>
+	<key>XRFloatingInspectorWindowFrame</key>
+	<string>1010 503 216 222 0 0 1440 878 </string>
+	<key>XRIgnoreTargetTermination</key>
+	<false/>
+	<key>XRInitialDeckHeightEnforced</key>
+	<true/>
+	<key>XRLockedInspectorWindowFrame</key>
+	<string>1000 513 216 222 0 0 1440 878 </string>
+	<key>XRPreserveIntermediateDTraceFiles</key>
+	<false/>
+	<key>XRQuickStartHeadless</key>
+	<false/>
+	<key>XRQuickStartHeadlessTimeout</key>
+	<string>10000</string>
+	<key>XRSortProcessListsByIdentifier</key>
+	<true/>
+	<key>XRSuppressTemplateChooserUserDefault</key>
+	<false/>
+	<key>XRTemplateChooserDefaultGroupIndex</key>
+	<integer>16</integer>
+	<key>XRTemplateChooserDefaultTemplateIndexForGroup1</key>
+	<integer>0</integer>
+	<key>XRTemplateChooserDefaultTemplateIndexForGroup16</key>
+	<integer>2</integer>
+	<key>stack.colorLibraries</key>
+	<true/>
+	<key>stack.displayFilePath</key>
+	<true/>
+	<key>stack.displayLibraries</key>
+	<true/>
+	<key>stack.inverted</key>
+	<true/>
+</dict>
+</plist>

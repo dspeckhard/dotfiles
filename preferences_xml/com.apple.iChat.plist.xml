@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABDefaultSelectedMember</key>
+	<string>58EFAAB9-F418-4776-8D7C-577CAB26E121:ABPerson</string>
+	<key>ABMainWindowViewMode</key>
+	<integer>0</integer>
+	<key>AccountSortOrder</key>
+	<array>
+		<string>550B3B16-82B5-4453-AE09-5A7EC476E624</string>
+		<string>C07DCFA9-A110-492E-8E47-461142E2B6CF</string>
+		<string>Default</string>
+	</array>
+	<key>AccountsToLogInAtLaunch</key>
+	<array/>
+	<key>AllowStatusPerAccount</key>
+	<true/>
+	<key>ApplicationRestorableStateStorageVersion</key>
+	<integer>3</integer>
+	<key>BuddyInfoWindowSelectedTab</key>
+	<integer>0</integer>
+	<key>BuddyInfoWindowSizeForTab0</key>
+	<string>{739, 247}</string>
+	<key>CachedVCCaps</key>
+	<integer>21990461014016</integer>
+	<key>ChatControllerLatestDateCheckedForOutOfOrderLastSession</key>
+	<real>427699623.58877897</real>
+	<key>ChatWindowControllerUnifiedChatListWidth</key>
+	<real>272</real>
+	<key>ChatWindowControllerUnifiedFrame</key>
+	<string>{{10, 49}, {730, 520}}</string>
+	<key>ChatWindowControllerUnifiedIsVisible</key>
+	<true/>
+	<key>CustomAvailableMessages</key>
+	<array>
+		<string>Surfing the web</string>
+		<string>Reading email</string>
+		<string>At home</string>
+	</array>
+	<key>CustomAwayMessages</key>
+	<array>
+		<string>Out to lunch</string>
+		<string>On the phone</string>
+		<string>In a meeting</string>
+	</array>
+	<key>CustomInBalloonColor</key>
+	<false/>
+	<key>CustomOutBalloonColor</key>
+	<false/>
+	<key>CustomStatusMessageSheetFrame</key>
+	<string>1297 360 383 281 0 0 1680 1028 </string>
+	<key>DaemonConnectionWaitTime</key>
+	<integer>201</integer>
+	<key>DownloadsBookmark</key>
+	<data>
+	Ym9va3gCAAAAAAQQMAAAAIWE9ep6CaEnARifMJkt/2yv7bwmyNz8pMEeG61KIdiPgAEA
+	AAUAAAABAQAAVXNlcnMAAAAKAAAAAQEAAGRzcGVja2hhcmQAAAkAAAABAQAARG93bmxv
+	YWRzAAAADAAAAAEGAAAEAAAAFAAAACgAAAAIAAAABAMAAD+SAAAAAAAACAAAAAQDAAA2
+	IhMAAAAAAAgAAAAEAwAAtUkTAAAAAAAMAAAAAQYAAFAAAABgAAAAcAAAAAgAAAAABAAA
+	QbJFWq0AAAAYAAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAAAQAA
+	AAAAAAAEAAAAAwMAAPYBAAAJAAAAAQEAAE1BQzIyMSBIRAAAAAgAAAAEAwAAAGBBsjcA
+	AAAIAAAAAAQAAEGxkT0bAAAAJAAAAAEBAABCMkNCNDBBQi1GNjAwLTMyRjYtQTQ2Qy1F
+	RjZCNEI4RjAwRjEYAAAAAQIAAIEAAAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAA
+	LwAAAAAAAAABBQAABAAAAAMDAAAACAAowAAAAP7///8BAAAAAAAAAA8AAAAEEAAAPAAA
+	AAAAAAAFEAAAgAAAAAAAAAAQEAAApAAAAAAAAABAEAAAlAAAAAAAAAACIAAAYAEAAAAA
+	AAAQIAAA4AAAAAAAAAARIAAAFAEAAAAAAAASIAAA9AAAAAAAAAATIAAABAEAAAAAAAAg
+	IAAAQAEAAAAAAAAwIAAAbAEAAAAAAAABwAAAxAAAAAAAAAARwAAAFAAAAAAAAAASwAAA
+	1AAAAAAAAAAQ0AAAdAEAAAAAAAA=
+	</data>
+	<key>HasPromptediMessageFTU</key>
+	<true/>
+	<key>IKPictureTakerLocation</key>
+	<string>{300, 200}</string>
+	<key>IgnoreAppOfflineOnQuit</key>
+	<true/>
+	<key>LastArchivedMessageID</key>
+	<integer>923</integer>
+	<key>LastRunVersion</key>
+	<string>13E28</string>
+	<key>MessageInTextStyle</key>
+	<dict>
+		<key>bgcolor</key>
+		<integer>15329769</integer>
+		<key>fgcolor</key>
+		<integer>0</integer>
+		<key>font</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<real>12</real>
+	</dict>
+	<key>MessageTextStyle</key>
+	<dict>
+		<key>fgcolor</key>
+		<integer>0</integer>
+		<key>font</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<real>12</real>
+	</dict>
+	<key>NSPreferencesContentSize</key>
+	<string>{554, 403}</string>
+	<key>NSPreferencesSelectedIndex3</key>
+	<integer>1</integer>
+	<key>NSSplitView Subview Frames (null)</key>
+	<array>
+		<string>0.000000, 0.000000, 0.000000, 272.000000, NO</string>
+		<string>1.000000, 0.000000, 327.000000, 272.000000, NO</string>
+	</array>
+	<key>NSToolbar Configuration NSPreferences</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame My Camera</key>
+	<string>647 671 400 357 0 0 1680 1028 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>67 163 593 390 0 0 1680 1028 </string>
+	<key>RecentAvailableList</key>
+	<dict>
+		<key></key>
+		<string>2014-05-07 15:18:14 -0700</string>
+		<key>At home</key>
+		<string>2010-03-09 20:41:48 -0800</string>
+		<key>Reading email</key>
+		<string>2010-03-09 20:41:48 -0800</string>
+		<key>Surfing the web</key>
+		<string>2010-03-09 20:41:48 -0800</string>
+	</dict>
+	<key>RecentAwayList</key>
+	<dict>
+		<key></key>
+		<string>2014-01-15 15:57:26 -0800</string>
+		<key>In a meeting</key>
+		<string>2010-03-09 20:41:48 -0800</string>
+		<key>On the phone</key>
+		<string>2010-03-09 20:41:48 -0800</string>
+		<key>Out to lunch</key>
+		<string>2010-03-09 20:41:48 -0800</string>
+	</dict>
+	<key>RecentChats</key>
+	<array>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>C07DCFA9-A110-492E-8E47-461142E2B6CF</string>
+			<key>GUID</key>
+			<string>FB13D7D5-B7D6-4CED-9861-A3D3F01D5318</string>
+			<key>Participants</key>
+			<array>
+				<string>sspeckhard@gmail.com</string>
+			</array>
+			<key>RoomName</key>
+			<string></string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>C07DCFA9-A110-492E-8E47-461142E2B6CF</string>
+			<key>GUID</key>
+			<string>8C5D680A-A549-465D-8719-AD9C822D56F6</string>
+			<key>Participants</key>
+			<array>
+				<string>partychat@gmail.com</string>
+			</array>
+			<key>RoomName</key>
+			<string></string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>C07DCFA9-A110-492E-8E47-461142E2B6CF</string>
+			<key>GUID</key>
+			<string>0F3536FA-8E0E-4F54-A834-1C0C5994C11F</string>
+			<key>Participants</key>
+			<array>
+				<string>gavinross@gmail.com</string>
+			</array>
+			<key>RoomName</key>
+			<string></string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>C07DCFA9-A110-492E-8E47-461142E2B6CF</string>
+			<key>GUID</key>
+			<string>AA5543FD-49DA-4CC3-9551-5541F84B762D</string>
+			<key>Participants</key>
+			<array>
+				<string>mhensler21@gmail.com</string>
+			</array>
+			<key>RoomName</key>
+			<string></string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>550B3B16-82B5-4453-AE09-5A7EC476E624</string>
+			<key>GUID</key>
+			<string>iMessage;-;+12145339322</string>
+			<key>Participants</key>
+			<array>
+				<string>+12145339322</string>
+			</array>
+			<key>RoomName</key>
+			<string>+12145339322</string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>550B3B16-82B5-4453-AE09-5A7EC476E624</string>
+			<key>GUID</key>
+			<string>iMessage;-;+13234227984</string>
+			<key>Participants</key>
+			<array>
+				<string>+13234227984</string>
+			</array>
+			<key>RoomName</key>
+			<string>+13234227984</string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>ARDRole</key>
+			<integer>0</integer>
+			<key>AccountID</key>
+			<string>550B3B16-82B5-4453-AE09-5A7EC476E624</string>
+			<key>GUID</key>
+			<string>iMessage;-;+16178038658</string>
+			<key>Participants</key>
+			<array>
+				<string>+16178038658</string>
+			</array>
+			<key>RoomName</key>
+			<string>+16178038658</string>
+			<key>Style</key>
+			<integer>2</integer>
+			<key>UseRoomName</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>SOMessageFormatManagerDefaultIncomingSettings</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGPD1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKwHCBcbIyYwMTIzNDhVJG51bGzXCQoLDA0ODxAREhMTFRZWJGNsYXNzW2RlZmF1
+	bHRGb250XxAXZGVmYXVsdEZvbnRNZXNzYWdlQ29sb3JfECRvdmVycmlkZXNGb250TWVz
+	c2FnZUNvbG9yV2l0aERlZmF1bHRfEBhvdmVycmlkZXNGb250V2l0aERlZmF1bHRfEBVi
+	YWNrZ3JvdW5kQ29sb3JQb2xpY3lfEB1kZWZhdWx0QmFja2dyb3VuZE1lc3NhZ2VDb2xv
+	coALgAWABAgIEACAAtIYCRkaU3RhZxBsgAPSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2Vz
+	XxAUU09DYW5uZWRNZXNzYWdlQ29sb3KjICEiXxAUU09DYW5uZWRNZXNzYWdlQ29sb3Je
+	U09NZXNzYWdlQ29sb3JYTlNPYmplY3TSGAkkGhDJgAPTJygJKSwvV05TLmtleXNaTlMu
+	b2JqZWN0c6IqK4AGgAeiLS6ACIAJgApfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNG
+	b250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFlIZWx2ZXRpY2HSHB01Nl8QE05TTXV0YWJs
+	ZURpY3Rpb25hcnmjNTciXE5TRGljdGlvbmFyedIcHTk6XxAWU09NZXNzYWdlRm9ybWF0
+	TWFuYWdlcqI7Il8QFlNPTWVzc2FnZUZvcm1hdE1hbmFnZXJfEA9OU0tleWVkQXJjaGl2
+	ZXLRPj9Ucm9vdIABAAgAEQAaACMALQAyADcARABKAFkAYABsAIYArQDIAOABAAECAQQB
+	BgEHAQgBCgEMAREBFQEXARkBHgEpATIBSQFNAWQBcwF8AYEBgwGFAYwBlAGfAaIBpAGm
+	AakBqwGtAa8BxQHbAeQB7gHzAgkCDQIaAh8COAI7AlQCZgJpAm4AAAAAAAACAQAAAAAA
+	AABAAAAAAAAAAAAAAAAAAAACcA==
+	</data>
+	<key>Splitview.ChatController</key>
+	<integer>141</integer>
+	<key>Unified.CollapsedGroups</key>
+	<array/>
+	<key>Unified.EnableGroups</key>
+	<true/>
+	<key>Unified.HideAudioStatus</key>
+	<false/>
+	<key>Unified.HideOfflines</key>
+	<false/>
+	<key>Unified.HidePictures</key>
+	<false/>
+	<key>Unified.HideVideoStatus</key>
+	<false/>
+	<key>Unified.IsVisible</key>
+	<false/>
+	<key>Unified.PeopleSortOrder</key>
+	<dict>
+		<key>PrimarySort</key>
+		<integer>3</integer>
+		<key>SecondarySort</key>
+		<integer>2</integer>
+		<key>SortManually</key>
+		<false/>
+	</dict>
+	<key>Unified.UseOfflineGroup</key>
+	<true/>
+	<key>Unified.Visible</key>
+	<true/>
+	<key>Unified.WindowSize</key>
+	<string>{{818, 856}, {510, 618}}</string>
+	<key>UnifiedChatWindowControllerSelectionGUIDSet</key>
+	<string>Jabber;-;abradac@gmail.com</string>
+	<key>VCDefaultCamera</key>
+	<string></string>
+	<key>WebIconDatabaseEnabled</key>
+	<false/>
+	<key>WebKitCacheModelPreferenceKey</key>
+	<integer>1</integer>
+	<key>WebKitDeveloperExtras</key>
+	<false/>
+	<key>WebKitJavaEnabled</key>
+	<false/>
+	<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
+	<false/>
+	<key>WebKitJavaScriptEnabled</key>
+	<true/>
+	<key>WebKitLocalStorageEnabledPreferenceKey</key>
+	<false/>
+	<key>WebKitShouldPrintBackgroundsPreferenceKey</key>
+	<true/>
+	<key>WebKitShouldRespectImageOrientation</key>
+	<true/>
+	<key>WelcomeBackMode</key>
+	<integer>-1</integer>
+	<key>aimServersMovedToAPI</key>
+	<true/>
+	<key>audioChatfail</key>
+	<integer>0</integer>
+	<key>audioChatnoop</key>
+	<integer>0</integer>
+	<key>audioChatpass</key>
+	<integer>0</integer>
+	<key>bwd</key>
+	<dict>
+		<key>ip</key>
+		<string>snatmap.apple.com</string>
+		<key>portCount</key>
+		<integer>1</integer>
+		<key>startPort</key>
+		<integer>16384</integer>
+	</dict>
+	<key>bwddown</key>
+	<integer>2244060</integer>
+	<key>bwdid</key>
+	<string>[5.0.6.10:0.255.255.255]</string>
+	<key>bwdlast</key>
+	<real>1409027375.0259659</real>
+	<key>bwdup</key>
+	<integer>4369690</integer>
+	<key>com.apple.iChat.LastArchivedMessageID</key>
+	<integer>923</integer>
+	<key>daemonHasUpdatedLaunchOnReceipt</key>
+	<true/>
+	<key>doug.speckhard@gmail.com:Jabber.CollapsedGroups</key>
+	<array/>
+	<key>doug.speckhard@gmail.com:Jabber.Visible</key>
+	<true/>
+	<key>doug.speckhard@gmail.com:Jabber.WindowSize</key>
+	<string>{{1377, 681}, {278, 618}}</string>
+	<key>iChatWindowFrame.ChatWindow</key>
+	<string>{{1048, 84}, {319, 324}}</string>
+	<key>kPromptEnableReadRecipts</key>
+	<true/>
+	<key>messageTracerAIMUsed</key>
+	<false/>
+	<key>messageTracerBonjourUsed</key>
+	<true/>
+	<key>messageTracerCharactersSent</key>
+	<integer>0</integer>
+	<key>messageTracerDotMacUsed</key>
+	<false/>
+	<key>messageTracerGoogleTalkUsed</key>
+	<true/>
+	<key>messageTracerIMessageUsed</key>
+	<true/>
+	<key>messageTracerIMessagesReceived</key>
+	<integer>6</integer>
+	<key>messageTracerIMessagesSent</key>
+	<integer>0</integer>
+	<key>messageTracerJabberUsed</key>
+	<true/>
+	<key>messageTracerMeDotComUsed</key>
+	<false/>
+	<key>messageTracerMessagesReceived</key>
+	<integer>6</integer>
+	<key>messageTracerMessagesSent</key>
+	<integer>0</integer>
+	<key>messageTracerNumUpgradeOffers</key>
+	<integer>0</integer>
+	<key>messageTracerOtherServiceUsed</key>
+	<false/>
+	<key>messageTracerSMSMenuUsed</key>
+	<false/>
+	<key>messageTracerSMSSent</key>
+	<integer>0</integer>
+	<key>messageTracerSubmitDate</key>
+	<integer>430698692</integer>
+	<key>messageTracerUpgradesAccepted</key>
+	<integer>0</integer>
+	<key>messageTracerUpgradesDeclined</key>
+	<integer>0</integer>
+	<key>messageTracerYahooUsed</key>
+	<false/>
+	<key>microphone gain</key>
+	<integer>2</integer>
+	<key>screenSharingfail</key>
+	<integer>0</integer>
+	<key>screenSharingnoop</key>
+	<integer>0</integer>
+	<key>screenSharingpass</key>
+	<integer>0</integer>
+	<key>snatmap</key>
+	<dict>
+		<key>ip</key>
+		<string>snatmap.apple.com</string>
+		<key>port</key>
+		<integer>5678</integer>
+	</dict>
+	<key>videoChatfail</key>
+	<integer>0</integer>
+	<key>videoChatnoop</key>
+	<integer>0</integer>
+	<key>videoChatpass</key>
+	<integer>0</integer>
+</dict>
+</plist>

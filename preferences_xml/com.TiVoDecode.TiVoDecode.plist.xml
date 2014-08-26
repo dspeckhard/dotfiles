@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBottom</key>
+	<integer>436</integer>
+	<key>CBottom</key>
+	<integer>1003</integer>
+	<key>CLeft</key>
+	<integer>3</integer>
+	<key>CRight</key>
+	<integer>864</integer>
+	<key>CTop</key>
+	<integer>25</integer>
+	<key>Col1</key>
+	<integer>70</integer>
+	<key>Col2</key>
+	<integer>200</integer>
+	<key>Col3</key>
+	<integer>220</integer>
+	<key>Col5</key>
+	<integer>150</integer>
+	<key>Col6</key>
+	<integer>100</integer>
+	<key>DL</key>
+	<string>/Volumes/WDRaid/Media/TV Shows/Cat in the Hat Knows a Lot About That!/From Tivo/</string>
+	<key>DLHistory</key>
+	<array/>
+	<key>Growl</key>
+	<string></string>
+	<key>IPA</key>
+	<string>169.254.47.28</string>
+	<key>LaunchCount</key>
+	<integer>1</integer>
+	<key>MAK</key>
+	<string>4334600412</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>/Volumes/WDRaid/Media/TV Shows/Cat in the Hat Knows a Lot About That!/From Tivo</string>
+	<key>PrefVersion</key>
+	<integer>2</integer>
+	<key>TiVo</key>
+	<string>My TiVos</string>
+	<key>customAudioBR</key>
+	<string>128</string>
+	<key>customHeight</key>
+	<string>480</string>
+	<key>customVideoBR</key>
+	<string>1800</string>
+	<key>customWidth</key>
+	<string>640</string>
+	<key>format</key>
+	<string>Quicktime H.264 (iPod/iPhone)</string>
+	<key>iTunes</key>
+	<string></string>
+	<key>iTunesIcon</key>
+	<string></string>
+	<key>openDetail</key>
+	<integer>1</integer>
+	<key>versionCheck</key>
+	<string></string>
+</dict>
+</plist>

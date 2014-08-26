@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoOpenedWindowDictionary</key>
+	<dict>
+		<key>1</key>
+		<data>
+		IQAAACAAAAAfFQAAIgAAAFYAAABJAAAARwAAAAoAAAAOKQAACCkAAAsAAAAs
+		AAAAHAAAAA==
+		</data>
+		<key>CurrentSpaceID</key>
+		<integer>1</integer>
+		<key>NumberOfSpaces</key>
+		<integer>16</integer>
+	</dict>
+	<key>LastSavedLanguage</key>
+	<string>en</string>
+	<key>LoginHook</key>
+	<string>/Applications/PCClient.app/Contents/Resources/login-hook-start-no-restart</string>
+	<key>NSWindow Frame ProcessPanel</key>
+	<string>1094 125 527 514 0 0 1680 1028 </string>
+	<key>TALLogoutReason</key>
+	<string>Restart</string>
+	<key>TALLogoutSavesState</key>
+	<true/>
+</dict>
+</plist>

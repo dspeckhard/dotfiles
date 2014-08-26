@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveDrivers</key>
+	<array>
+		<dict>
+			<key>deviceName</key>
+			<string>Airport Card</string>
+			<key>driverID</key>
+			<string>WaveDriverAirport</string>
+			<key>dumpDestination</key>
+			<string>~/DumpLog %y-%m-%d %H:%M</string>
+			<key>dumpFilter</key>
+			<integer>0</integer>
+			<key>firstChannel</key>
+			<integer>1</integer>
+			<key>injectionDevice</key>
+			<false/>
+			<key>kismetserverhost</key>
+			<string>127.0.0.1</string>
+			<key>kismetserverport</key>
+			<integer>2501</integer>
+			<key>useChannel01</key>
+			<false/>
+			<key>useChannel02</key>
+			<false/>
+			<key>useChannel03</key>
+			<false/>
+			<key>useChannel04</key>
+			<false/>
+			<key>useChannel05</key>
+			<false/>
+			<key>useChannel06</key>
+			<false/>
+			<key>useChannel07</key>
+			<false/>
+			<key>useChannel08</key>
+			<false/>
+			<key>useChannel09</key>
+			<false/>
+			<key>useChannel10</key>
+			<false/>
+			<key>useChannel11</key>
+			<false/>
+			<key>useChannel12</key>
+			<false/>
+			<key>useChannel13</key>
+			<false/>
+			<key>useChannel14</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>autoAdjustTimer</key>
+			<false/>
+			<key>deviceName</key>
+			<string>Airport Extreme Card</string>
+			<key>driverID</key>
+			<string>WaveDriverAirportExtreme</string>
+			<key>dumpDestination</key>
+			<string>~/DumpLog %y-%m-%d %H:%M</string>
+			<key>dumpFilter</key>
+			<integer>0</integer>
+			<key>firstChannel</key>
+			<integer>1</integer>
+			<key>injectionDevice</key>
+			<false/>
+			<key>kismetserverhost</key>
+			<string>127.0.0.1</string>
+			<key>kismetserverport</key>
+			<integer>2501</integer>
+			<key>useChannel01</key>
+			<integer>1</integer>
+			<key>useChannel02</key>
+			<integer>1</integer>
+			<key>useChannel03</key>
+			<integer>1</integer>
+			<key>useChannel04</key>
+			<integer>1</integer>
+			<key>useChannel05</key>
+			<integer>1</integer>
+			<key>useChannel06</key>
+			<integer>1</integer>
+			<key>useChannel07</key>
+			<integer>1</integer>
+			<key>useChannel08</key>
+			<integer>1</integer>
+			<key>useChannel09</key>
+			<integer>1</integer>
+			<key>useChannel10</key>
+			<integer>1</integer>
+			<key>useChannel11</key>
+			<integer>1</integer>
+			<key>useChannel12</key>
+			<integer>1</integer>
+			<key>useChannel13</key>
+			<integer>1</integer>
+			<key>useChannel14</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>DebugMode</key>
+	<integer>0</integer>
+	<key>GPSDaemonHost</key>
+	<string>localhost</string>
+	<key>GPSDaemonPort</key>
+	<integer>2947</integer>
+	<key>GPSDevice</key>
+	<string>CoreLocation</string>
+	<key>GPSNoFix</key>
+	<integer>0</integer>
+	<key>GPSTrace</key>
+	<integer>2</integer>
+	<key>GPSTripmate</key>
+	<false/>
+	<key>GeigerSensity</key>
+	<integer>250</integer>
+	<key>GraphMode</key>
+	<integer>0</integer>
+	<key>GraphTimeInterval</key>
+	<integer>0</integer>
+	<key>KisMACHomeDir</key>
+	<string>/Applications/KisMAC.app</string>
+	<key>NSWindow Frame aKisMAC_Main</key>
+	<string>493 429 900 452 0 0 1680 1028 </string>
+	<key>NSWindow Frame aKisMAC_Prefs</key>
+	<string>600 681 480 255 0 0 1680 1028 </string>
+	<key>NetAreaQuality</key>
+	<real>5</real>
+	<key>NetAreaSensitivity</key>
+	<integer>30</integer>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-01-24T07:55:10Z</date>
+	<key>SULastProfileSubmissionDate</key>
+	<date>2014-01-24T07:40:09Z</date>
+	<key>SUSendProfileInfo</key>
+	<true/>
+	<key>WaveNetAvgTime</key>
+	<integer>2</integer>
+	<key>ac_ff</key>
+	<integer>2</integer>
+	<key>bf_interval</key>
+	<real>0.0</real>
+	<key>frequence</key>
+	<real>0.25</real>
+	<key>pr_interval</key>
+	<integer>100</integer>
+	<key>whichDriver</key>
+	<string>Airport Extreme Card</string>
+</dict>
+</plist>

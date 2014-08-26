@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alice - Library height</key>
+	<real>713</real>
+	<key>Alice - Library width</key>
+	<real>1172</real>
+	<key>Alice - Library x</key>
+	<real>196</real>
+	<key>Alice - Library y</key>
+	<real>132</real>
+	<key>ListOfDirectoriesToMonitor</key>
+	<array/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Music/iTunes/iTunes Media/Books/Julian Clayton</string>
+	<key>WebKitJavaEnabled</key>
+	<false/>
+	<key>first-run</key>
+	<date>2012-07-31T23:06:57Z</date>
+</dict>
+</plist>

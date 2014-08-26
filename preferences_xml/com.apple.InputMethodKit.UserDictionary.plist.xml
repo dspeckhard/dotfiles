@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DidMigrateLegacySpellCheckEntries</key>
+	<true/>
+	<key>UserDictionary</key>
+	<dict>
+		<key>PFUbiquitySetupTokenAndIDArray</key>
+		<array>
+			<dict>
+				<key>cid</key>
+				<string>67365046-DA9F-438F-BDB0-20E279FA24FB</string>
+				<key>token</key>
+				<data>
+				9bZuzPmpxp81Q3zPaR1MTMlWU0k=
+				</data>
+			</dict>
+			<dict>
+				<key>cid</key>
+				<string>C52140F1-EEB8-481B-A92D-E08A41758B11</string>
+				<key>token</key>
+				<data>
+				f6B9O+xx8HqrGT1ZuEypC6eJed0=
+				</data>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

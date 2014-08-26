@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/</key>
+	<dict>
+		<key>burp/</key>
+		<dict>
+			<key>caCert</key>
+			<string>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</string>
+		</dict>
+		<key>com/</key>
+		<dict>
+			<key>nto/</key>
+			<dict>
+				<key>info/</key>
+				<dict/>
+			</dict>
+			<key>projity/</key>
+			<dict>
+				<key>dialog/</key>
+				<dict/>
+				<key>main/</key>
+				<dict/>
+				<key>util/</key>
+				<dict/>
+			</dict>
+			<key>sun/</key>
+			<dict>
+				<key>deploy/</key>
+				<dict/>
+			</dict>
+		</dict>
+		<key>stanza/</key>
+		<dict>
+			<key>container/</key>
+			<dict>
+				<key>swt/</key>
+				<dict/>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

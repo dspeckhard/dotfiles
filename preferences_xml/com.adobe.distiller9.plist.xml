@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<true/>
+	<key>AllowPSFileOps</key>
+	<false/>
+	<key>FROMVIEWER</key>
+	<false/>
+	<key>WinHeight</key>
+	<real>533</real>
+	<key>WinOrigX</key>
+	<real>380</real>
+	<key>WinOrigY</key>
+	<real>274</real>
+	<key>WinWidth</key>
+	<real>679</real>
+</dict>
+</plist>

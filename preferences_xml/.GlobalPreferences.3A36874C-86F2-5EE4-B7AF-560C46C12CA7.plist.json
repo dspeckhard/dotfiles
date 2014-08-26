@@ -1,0 +1,237 @@
+{
+  "com.apple.trackpad.scrollBehavior" : 2,
+  "com.apple.trackpad.threeFingerTapGesture" : 2,
+  "com.apple.trackpad.fourFingerPinchSwipeGesture" : 2,
+  "com.apple.ColorSync.Devices" : {
+    "Device.scnr.34443433-3332-3530-3333-333333353339" : {
+      "DeviceDescriptions" : {
+        "en_US" : "EPSON Epson Stylus NX420"
+      },
+      "FactoryProfiles" : {
+        "286326784" : {
+          "DeviceProfileURL" : "\/System\/Library\/ColorSync\/Profiles\/Generic Gray Gamma 2.2 Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Reflective Gray"
+          }
+        },
+        "287375360" : {
+          "DeviceProfileURL" : "\/System\/Library\/ColorSync\/Profiles\/sRGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Reflective RGB"
+          }
+        },
+        "DeviceDefaultProfileID" : "287375360"
+      }
+    },
+    "Device.cmra.64666163-3361-6439-3234-313631613063" : {
+      "DeviceDescriptions" : {
+        "en_US" : "DS iPhone"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.66636639-6139-6339-6163-356663643330" : {
+      "DeviceDescriptions" : {
+        "en_US" : "ABs iPhone"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.mntr.CACD24F5-9A76-5C9F-0748-3C5A4279B91A" : {
+      "CustomProfiles" : {
+        "HDMI HD" : "\/Library\/ColorSync\/Profiles\/Canon HDTV gamma 2.4 Monitor"
+      }
+    },
+    "Device.cmra.66306562-3262-3164-3063-646364373536" : {
+      "DeviceDescriptions" : {
+        "en_US" : "BCJSF 1"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.31326463-3531-6532-3163-356561663538" : {
+      "DeviceDescriptions" : {
+        "en_US" : "Amy's iPad"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          },
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc"
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.scnr.00000000-0000-0000-0000-000003F01705" : {
+      "DeviceDescriptions" : {
+        "en_US" : "HP Scanjet 5590 "
+      },
+      "FactoryProfiles" : {
+        "286326784" : {
+          "DeviceModeDescriptions" : {
+            "en_US" : "Reflective Gray"
+          },
+          "DeviceProfileURL" : "\/System\/Library\/ColorSync\/Profiles\/Generic Gray Gamma 2.2 Profile.icc"
+        },
+        "287375360" : {
+          "DeviceModeDescriptions" : {
+            "en_US" : "Reflective RGB"
+          },
+          "DeviceProfileURL" : "\/System\/Library\/ColorSync\/Profiles\/sRGB Profile.icc"
+        },
+        "DeviceDefaultProfileID" : "287375360"
+      }
+    },
+    "Device.cmra.66333562-3234-3564-6539-333333653862" : {
+      "DeviceDescriptions" : {
+        "en_US" : "Douglas's iPhone"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          },
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc"
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.00005344-2043-6172-6420-526561646572" : {
+      "DeviceDescriptions" : {
+        "en_US" : "NIKON D60"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.00000000-466C-6173-6820-526561646572" : {
+      "DeviceDescriptions" : {
+        "en_US" : "NIKON D60"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.38323063-6166-6531-3866-616136663332" : {
+      "DeviceDescriptions" : {
+        "en_US" : "iPad"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.00000000-0000-0000-0000-000004A93218" : {
+      "DeviceDescriptions" : {
+        "en_US" : "Canon EOS REBEL T3i"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.00000000-0000-0000-0033-313932373434" : {
+      "DeviceDescriptions" : {
+        "en_US" : "D60"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.63323033-3834-3234-6533-666530646134" : {
+      "DeviceDescriptions" : {
+        "en_US" : "iPad"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    },
+    "Device.cmra.64613638-3835-3965-6331-353766303263" : {
+      "DeviceDescriptions" : {
+        "en_US" : "iPad"
+      },
+      "FactoryProfiles" : {
+        "555810816" : {
+          "DeviceProfileURL" : "\/System\/Library\/Frameworks\/ICADevices.framework\/Versions\/A\/Resources\/Camera RGB Profile.icc",
+          "DeviceModeDescriptions" : {
+            "en_US" : "Default"
+          }
+        },
+        "DeviceDefaultProfileID" : "555810816"
+      }
+    }
+  },
+  "com.apple.trackpad.fiveFingerPinchSwipeGesture" : 2,
+  "com.apple.trackpad.twoFingerFromRightEdgeSwipeGesture" : 3,
+  "com.apple.trackpad.momentumScroll" : true,
+  "com.apple.trackpad.twoFingerDoubleTapGesture" : 1,
+  "com.apple.trackpad.threeFingerVertSwipeGesture" : 2,
+  "com.apple.CommonPanels.CalibrateDisplay.identifier-765300C2" : "com.apple.ColorSyncCalibrator",
+  "com.apple.trackpad.enableSecondaryClick" : true,
+  "com.apple.trackpad.version" : 5,
+  "com.apple.trackpad.threeFingerDragginGesture" : false,
+  "Google_O3D_User" : "4D326A5F-05DA-427F-B9A8-D54ACB2A658B",
+  "com.apple.trackpad.fourFingerHorizSwipeGesture" : 2,
+  "com.apple.CommonPanels.CalibrateDisplay.seed" : -1120508567,
+  "com.apple.trackpad.threeFingerHorizSwipeGesture" : 2,
+  "com.apple.trackpad.threeFingerDragGesture" : false,
+  "com.apple.trackpad.pinchGesture" : true,
+  "com.apple.trackpad.fourFingerVertSwipeGesture" : 2,
+  "com.apple.trackpad.rotateGesture" : true
+}

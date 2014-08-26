@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MRToolbarManager ActivePanels</key>
+	<array>
+		<string>Main</string>
+	</array>
+	<key>NSWindow Frame CommandOptions</key>
+	<string>902 759 241 217 0 0 1680 1028 </string>
+	<key>NSWindow Frame FourPaneRhinoDocument</key>
+	<string>80 299 957 718 0 0 1680 1028 </string>
+	<key>NSWindow Frame MainToolPanel</key>
+	<string>0 442 76 586 0 0 1680 1028 </string>
+	<key>NSWindow Frame SUUpdateAlertFrame</key>
+	<string>557 489 566 395 0 0 1680 1028 </string>
+	<key>SULastCheckTime</key>
+	<date>2011-11-10T17:21:52Z</date>
+	<key>User.Command Defaults.Layout f4ef749f-6fe7-4391-9fc5-cc6260965764.page_height_mm</key>
+	<real>279.39999389648438</real>
+	<key>User.Command Defaults.Layout f4ef749f-6fe7-4391-9fc5-cc6260965764.page_width_mm</key>
+	<real>215.89999389648438</real>
+	<key>User.Command Defaults.Shade 996be0a9-b888-49be-980d-3cd72b146803.Background</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAQEBAIY=
+	</data>
+	<key>User.Command Defaults.Shade 996be0a9-b888-49be-980d-3cd72b146803.LastModeId</key>
+	<string>8bc8debe-c83b-4c47-b13c-9db074510cac</string>
+	<key>User.Command Defaults.ptPanelGridQuads f70ebd30-16d9-4923-bd5e-d36d226e0e78.Tri</key>
+	<true/>
+	<key>User.Options.AliasList.C</key>
+	<string>'_SelCrossing</string>
+	<key>User.Options.AliasList.COff</key>
+	<string>'_CurvatureGraphOff</string>
+	<key>User.Options.AliasList.COn</key>
+	<string>'_CurvatureGraph</string>
+	<key>User.Options.AliasList.M</key>
+	<string>! _Move</string>
+	<key>User.Options.AliasList.O</key>
+	<string>'_Ortho</string>
+	<key>User.Options.AliasList.P</key>
+	<string>'_Planar</string>
+	<key>User.Options.AliasList.POff</key>
+	<string>! _PointsOff</string>
+	<key>User.Options.AliasList.POn</key>
+	<string>! _PointsOn</string>
+	<key>User.Options.AliasList.S</key>
+	<string>'_Snap</string>
+	<key>User.Options.AliasList.U</key>
+	<string>_Undo</string>
+	<key>User.Options.AliasList.W</key>
+	<string>'_SelWindow</string>
+	<key>User.Options.AliasList.Z</key>
+	<string>'_Zoom</string>
+	<key>User.Options.AliasList.ZE</key>
+	<string>'_Zoom _Extents</string>
+	<key>User.Options.AliasList.ZEA</key>
+	<string>'_Zoom _All _Extents</string>
+	<key>User.Options.AliasList.ZS</key>
+	<string>'_Zoom _Selected</string>
+	<key>User.Options.AliasList.ZSA</key>
+	<string>'_Zoom _All _Selected</string>
+</dict>
+</plist>

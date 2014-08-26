@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APMetaData</key>
+	<true/>
+	<key>DL</key>
+	<string></string>
+	<key>DLHistory</key>
+	<array/>
+	<key>IPA</key>
+	<string>10.6.0.9</string>
+	<key>LaunchCount</key>
+	<integer>1</integer>
+	<key>MAK</key>
+	<string></string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>~/TV Shows</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{537, 400}</string>
+	<key>NSSplitView Subview Frames BottomSplit</key>
+	<array>
+		<string>0.000000, 0.000000, 679.000000, 323.000000, NO</string>
+		<string>688.000000, 0.000000, 320.000000, 323.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames MainSplit</key>
+	<array>
+		<string>0.000000, 0.000000, 1008.000000, 496.000000, NO</string>
+		<string>0.000000, 505.000000, 1008.000000, 323.000000, NO</string>
+	</array>
+	<key>NSTableView Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<string>219</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<string>88</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+		<string>60</string>
+	</array>
+	<key>NSTableView Columns STable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBlNUU2hvd4Y=
+		</data>
+		<string>235</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBlNUTGFzdIY=
+		</data>
+		<string>77</string>
+	</array>
+	<key>NSTableView Hidden Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+	</array>
+	<key>NSTableView Hidden Columns STable</key>
+	<array/>
+	<key>NSTableView Sort Ordering NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<true/>
+	</array>
+	<key>NSTableView Sort Ordering STable</key>
+	<array/>
+	<key>NSWindow Frame iTiVoWindow</key>
+	<string>208 66 1048 962 0 0 1680 1028 </string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>http://itivo.googlecode.com/svn/trunk/www/iTiVo.xml</string>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2014-07-30T05:35:07Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>TiVo</key>
+	<string>My TiVos</string>
+	<key>comSkip</key>
+	<integer>0</integer>
+	<key>downloadFirst</key>
+	<false/>
+	<key>downloadRetries</key>
+	<integer>3</integer>
+	<key>encoderAudioOptions</key>
+	<string></string>
+	<key>encoderOtherOptions</key>
+	<string></string>
+	<key>encoderUsed</key>
+	<string></string>
+	<key>encoderVideoOptions</key>
+	<string></string>
+	<key>filenameExtension</key>
+	<string>.mp4</string>
+	<key>format</key>
+	<string></string>
+	<key>iTunes</key>
+	<string></string>
+	<key>iTunesIcon</key>
+	<string></string>
+	<key>iTunesSync</key>
+	<string></string>
+	<key>makeSubdirs</key>
+	<false/>
+	<key>openDetail</key>
+	<integer>1</integer>
+	<key>postDownloadCmd</key>
+	<string></string>
+	<key>schedulingSleep</key>
+	<false/>
+	<key>shouldAutoConnect</key>
+	<true/>
+	<key>subtitles</key>
+	<integer>0</integer>
+	<key>targetDataSList</key>
+	<array/>
+	<key>tivoMetaData</key>
+	<false/>
+	<key>tivoSize</key>
+	<integer>1</integer>
+	<key>txtMetaData</key>
+	<false/>
+	<key>useTime</key>
+	<false/>
+	<key>useTimeEndTime</key>
+	<date>2009-02-10T11:00:00Z</date>
+	<key>useTimeStartTime</key>
+	<date>2009-02-10T09:00:00Z</date>
+</dict>
+</plist>

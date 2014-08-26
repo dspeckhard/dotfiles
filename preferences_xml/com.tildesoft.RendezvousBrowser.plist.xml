@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Browse for known Jaguar services</key>
+	<true/>
+	<key>Expanded Domains</key>
+	<array>
+		<string>local.</string>
+	</array>
+	<key>Expanded Services</key>
+	<array>
+		<string>_ipp._tcp.</string>
+	</array>
+	<key>NSWindow Frame browser window</key>
+	<string>336 247 626 634 0 0 1680 1028 </string>
+	<key>Show Link-Local Names</key>
+	<true/>
+	<key>Version</key>
+	<string>1.5.6</string>
+</dict>
+</plist>

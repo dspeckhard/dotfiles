@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FMInspectorManagerDefaultsDictionariesKey</key>
+	<array>
+		<dict>
+			<key>FMInspectorWindowFrameKey</key>
+			<string>1398 261 235 730 0 0 1680 1028 </string>
+			<key>FMInspectorWindowLastModeKey</key>
+			<integer>0</integer>
+			<key>FMInspectorWindowUserCustomizedHeightKey</key>
+			<false/>
+			<key>FMInspectorWindowUserHeightKey</key>
+			<real>0.0</real>
+		</dict>
+	</array>
+	<key>FMInspectorManagerEnabledKey</key>
+	<true/>
+	<key>FMInspectorManagerLastPreferenceDictionaryKey</key>
+	<dict/>
+	<key>FavHostInfo:Entry0:Address</key>
+	<string>10.5.0.120</string>
+	<key>FavHostInfo:Entry0:DisplayName</key>
+	<string>pc120</string>
+	<key>FavHostInfo:Entry0:FileNames</key>
+	<string></string>
+	<key>FavHostInfo:Entry0:FileOption</key>
+	<integer>1</integer>
+	<key>FavHostInfo:Summary:Entries</key>
+	<integer>1</integer>
+	<key>FavHostInfo:Summary:LastViewType</key>
+	<integer>1</integer>
+	<key>Favorites:0</key>
+	<string>fmnet:/10.5.0.120/PC120/09205_Disney_CA Log</string>
+	<key>ImpFltrOptions:FileRef</key>
+	<integer>0</integer>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Documents</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{1563, 812}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{1428, 562}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSWindow Frame QuickStartScreen</key>
+	<string>410 524 875 435 0 0 1680 1028 </string>
+	<key>New Version Notification:CheckDate</key>
+	<integer>-875093096</integer>
+	<key>PMPrintingExpandedStateForPrint</key>
+	<false/>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
+	<key>Preferences:CacheSize</key>
+	<integer>65536</integer>
+	<key>Preferences:GenOptions</key>
+	<integer>2470</integer>
+	<key>Preferences:MemOption</key>
+	<integer>0</integer>
+	<key>Preferences:NetworkName</key>
+	<string></string>
+	<key>Preferences:RecentFile</key>
+	<integer>10</integer>
+	<key>Preferences:UserName</key>
+	<string></string>
+	<key>QuickFindConversion</key>
+	<true/>
+	<key>Recent File List:File00</key>
+	<string>fmnet:/10.5.0.120/PC120/09205_Disney_CA Log</string>
+	<key>Recent File List:File01</key>
+	<string>fmnet:/10.5.0.120/PC120/SF_IT_Inventory</string>
+	<key>Recent File List:File02</key>
+	<string></string>
+	<key>Recent File List:File03</key>
+	<string></string>
+	<key>Recent File List:File04</key>
+	<string></string>
+	<key>Recent File List:File05</key>
+	<string></string>
+	<key>Recent File List:File06</key>
+	<string></string>
+	<key>Recent File List:File07</key>
+	<string></string>
+	<key>Recent File List:File08</key>
+	<string></string>
+	<key>Recent File List:File09</key>
+	<string></string>
+	<key>Recent File List:File10</key>
+	<string></string>
+	<key>Recent File List:File11</key>
+	<string></string>
+	<key>Recent File List:File12</key>
+	<string></string>
+	<key>Recent File List:File13</key>
+	<string></string>
+	<key>Recent File List:File14</key>
+	<string></string>
+	<key>Recent File List:File15</key>
+	<string></string>
+	<key>Recent File List:File16</key>
+	<string></string>
+	<key>Recent File List:File17</key>
+	<string></string>
+	<key>Recent File List:File18</key>
+	<string></string>
+	<key>Recent File List:File19</key>
+	<string></string>
+	<key>Recent File List:File20</key>
+	<string></string>
+	<key>Recent File List:File21</key>
+	<string></string>
+	<key>Recent File List:File22</key>
+	<string></string>
+	<key>Recent File List:File23</key>
+	<string></string>
+	<key>Recent File List:File24</key>
+	<string></string>
+	<key>Recent File List:File25</key>
+	<string></string>
+	<key>Recent File List:File26</key>
+	<string></string>
+	<key>Recent File List:File27</key>
+	<string></string>
+	<key>Recent File List:File28</key>
+	<string></string>
+	<key>Recent File List:File29</key>
+	<string></string>
+	<key>Update Notification:CheckDate</key>
+	<integer>-830954237</integer>
+</dict>
+</plist>

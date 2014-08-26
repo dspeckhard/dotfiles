@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DRBurnOptionsBurnSpeed</key>
+	<integer>65535</integer>
+	<key>DRBurnOptionsCompletionAction</key>
+	<string>DRBurnCompletionActionEject</string>
+	<key>DRBurnOptionsVerifyBurn</key>
+	<true/>
+	<key>DRBurnSetupPanelDefaultDeviceIdentifier</key>
+	<dict>
+		<key>Product</key>
+		<string>DVDRW  GS23N</string>
+		<key>SerialNumber</key>
+		<string>HL-DT-STDVDRW  GS23N    KZ1A8302125 </string>
+		<key>Vendor</key>
+		<string>HL-DT-ST</string>
+	</dict>
+	<key>DRBurnSetupPanelExpanded</key>
+	<false/>
+	<key>DUSavedDiskImageList</key>
+	<array>
+		<string>/Users/dspeckhard/Documents/Personal/Image.dmg</string>
+		<string>/Users/dspeckhard/Library/Caches/com.apple.dt.Xcode/Downloads/com.apple.adc.documentation.AppleOSX10.9.CoreReference-420.21.dmg</string>
+		<string>/Users/dspeckhard/Library/Caches/com.apple.dt.Xcode/Downloads/com.apple.adc.documentation.AppleiOS7.1.iOSLibrary-46.26.dmg</string>
+	</array>
+	<key>DUShowDetailsInFirstAid</key>
+	<true/>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{585, 465}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSWindow Frame Custom Volume Size</key>
+	<string>693 680 293 139 0 0 1680 1028 </string>
+	<key>NSWindow Frame DRBurnSetup</key>
+	<string>151 743 500 161 0 0 1680 1028 </string>
+	<key>NSWindow Frame Disk Utility</key>
+	<string>535 446 923 578 0 0 1680 1028 </string>
+	<key>NSWindow Frame Progress Panel</key>
+	<string>657 762 366 27 0 0 1680 1028 </string>
+	<key>NSWindow Frame Progress Panel Frame</key>
+	<string>1183 599 368 24 0 0 1680 1028 </string>
+	<key>NSWindow Frame Single Function</key>
+	<string>581 420 518 484 0 0 1680 1028 </string>
+	<key>NSWindow Frame custom-size-window-frame</key>
+	<string>693 762 293 139 0 0 1680 1028 </string>
+</dict>
+</plist>

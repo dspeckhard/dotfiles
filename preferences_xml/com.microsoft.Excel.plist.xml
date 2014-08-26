@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2008\File Aliases\Alias ID: 258</key>
+	<data>
+	AAAAAAIAAAIAAQlNQUMyMjEgSEQAAAAAAAAAAAAAAAAAAAAAAADIBlOrSCsAAAIqWgEZ
+	MjAxNCAwNiAyMyBDbGllbnQgTWVldGluZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAA5y9T8/KRiQAAAAAAAAAAAAEAAYAAAkgAAAAAAAAAAAAAAAAAAAA
+	FjEyNTIwIEdsZW4gRWxsZW4gQ2FiaW4AEAAIAADIBrYbAAAAEQAIAADPyqiUAAAAAQAU
+	AipaAQATNNsAEzPjABMiNgAAkj8AAgBjTUFDMjIxIEhEOlVzZXJzOgBkc3BlY2toYXJk
+	OgBEb2N1bWVudHM6AFByb2plY3RzOgAxMjUyMCBHbGVuIEVsbGVuIENhYmluOgAyMDE0
+	IDA2IDIzIENsaWVudCBNZWV0aW5nAAAOADQAGQAyADAAMQA0ACAAMAA2ACAAMgAzACAA
+	QwBsAGkAZQBuAHQAIABNAGUAZQB0AGkAbgBnAA8AFAAJAE0AQQBDADIAMgAxACAASABE
+	ABIAVFVzZXJzL2RzcGVja2hhcmQvRG9jdW1lbnRzL1Byb2plY3RzLzEyNTIwIEdsZW4g
+	RWxsZW4gQ2FiaW4vMjAxNCAwNiAyMyBDbGllbnQgTWVldGluZwATAAEvAAAVAAIAEf//
+	AAA=
+	</data>
+	<key>2008\Microsoft Excel\ACBalloonShow</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\AppendDOSExtension</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\AutoFormat</key>
+	<integer>11</integer>
+	<key>2008\Microsoft Excel\AutoFormat Options</key>
+	<integer>16</integer>
+	<key>2008\Microsoft Excel\AutoFormatHyperlinks</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\AutoRecoverEnabled</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\AutoRecoverTime</key>
+	<integer>10</integer>
+	<key>2008\Microsoft Excel\Automation</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\CRAutoCheck</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\CRNeverShow</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\CharWaitTypeAhead </key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\DefFileMRU</key>
+	<integer>10</integer>
+	<key>2008\Microsoft Excel\Default Chart</key>
+	<string>Standard:1,1</string>
+	<key>2008\Microsoft Excel\ErrChkBackground</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\ErrChkIndiColor</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\ErrChkMask</key>
+	<integer>255</integer>
+	<key>2008\Microsoft Excel\ExtendList</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\FmlaBarDockedFullScreen</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\FormulaBuilderSize</key>
+	<integer>140</integer>
+	<key>2008\Microsoft Excel\FunctionAutoComplete </key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\FunctionTypeAhead </key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\MRUFuncs</key>
+	<string>4,482,1,36,480,82,124,481,64,255</string>
+	<key>2008\Microsoft Excel\Maximized</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\MeasurementUnit</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\MoveEnterDir</key>
+	<integer>0</integer>
+	<key>2008\Microsoft Excel\MsoTbCust</key>
+	<integer>8</integer>
+	<key>2008\Microsoft Excel\Options</key>
+	<integer>215</integer>
+	<key>2008\Microsoft Excel\Options3</key>
+	<integer>64</integer>
+	<key>2008\Microsoft Excel\Options5</key>
+	<integer>1153</integer>
+	<key>2008\Microsoft Excel\PLVRuler</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\PivotSelection</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUCount</key>
+	<integer>10</integer>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem1</key>
+	<string>FIND</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem10</key>
+	<string>date</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem2</key>
+	<string>TRUE</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem3</key>
+	<string>TEXT</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem4</key>
+	<string>match</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem5</key>
+	<string>maa</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem6</key>
+	<string>OR</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem7</key>
+	<string>GE</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem8</key>
+	<string>greater</string>
+	<key>2008\Microsoft Excel\SearchFunctionsMRUItem9</key>
+	<string>pmt</string>
+	<key>2008\Microsoft Excel\SheetView</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\Show preview</key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\StickyPtX</key>
+	<integer>-565</integer>
+	<key>2008\Microsoft Excel\StickyPtY</key>
+	<integer>509</integer>
+	<key>2008\Microsoft Excel\WaitTypeAhead </key>
+	<integer>1</integer>
+	<key>2008\Microsoft Excel\count</key>
+	<integer>0</integer>
+	<key>2008\Spell Checker\Ignore Caps</key>
+	<integer>0</integer>
+	<key>2008\Spell Checker\Suggest Always</key>
+	<integer>1</integer>
+	<key>2008\Spell Checker\User Dictionary</key>
+	<string>MAC221 HD:Users:dspeckhard:Library:Preferences:Microsoft:Office 2008:Custom Dictionary</string>
+	<key>2008\Toolbars\Embed_TBID_10</key>
+	<true/>
+	<key>2008\Toolbars\HeightHint</key>
+	<integer>83</integer>
+	<key>2008\Toolbars\Show_HIToolbar</key>
+	<false/>
+	<key>2008\Toolbox:Effects\AutoTrigger</key>
+	<false/>
+	<key>2008\Toolbox:Effects\FadeTransparency</key>
+	<integer>67</integer>
+	<key>2008\Toolbox:Effects\TransitionEffect</key>
+	<integer>1</integer>
+	<key>2008\Toolbox:Effects\TriggerAction</key>
+	<integer>2</integer>
+	<key>2008\Toolbox:Effects\TriggerDelay</key>
+	<integer>5</integer>
+	<key>2008\Toolbox\CSAnimationEffect</key>
+	<integer>1</integer>
+	<key>2008\Toolbox\LastClientID</key>
+	<integer>1181700193</integer>
+	<key>2008\Toolbox\WindowLeft</key>
+	<integer>1486</integer>
+	<key>2008\Toolbox\WindowTop</key>
+	<integer>38</integer>
+	<key>2008\Toolbox\WindowVis</key>
+	<true/>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>~/Documents/Projects/12520 Glen Ellen Cabin/2014 06 23 Client Meeting</string>
+	<key>NSNavLastCurrentDirectory:GetFile:2001</key>
+	<string>~/Dropbox/M145XX GC3 2B 2014/Fee Research</string>
+	<key>NSNavLastCurrentDirectory:GetFile:2004</key>
+	<string>~/Documents/Projects/12520 Glen Ellen Cabin/2014 06 23 Client Meeting</string>
+	<key>NSNavLastCurrentDirectory:GetFile:2005</key>
+	<string>/Applications/Microsoft Office 2008/Office/Add-Ins</string>
+	<key>NSNavLastCurrentDirectory:GetFile:2012</key>
+	<string>~/nmap-run</string>
+	<key>NSNavLastCurrentDirectory:PutFile:2100</key>
+	<string>~/Documents/Projects/12520 Glen Ellen Cabin/2014 06 23 Client Meeting</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavLastRootDirectory:GetFile:2001</key>
+	<string>~/Dropbox/M145XX GC3 2B 2014/Fee Research</string>
+	<key>NSNavLastRootDirectory:GetFile:2004</key>
+	<string>~/Documents/Projects</string>
+	<key>NSNavLastRootDirectory:GetFile:2012</key>
+	<string>~</string>
+	<key>NSNavLastRootDirectory:PutFile:2100</key>
+	<string>~/Documents/Projects</string>
+	<key>NSNavLastUserSetHideExtensionButtonState</key>
+	<false/>
+	<key>NSNavPanelExpandedSizeForOpenMode:GetFile:2004</key>
+	<string>{1007, 473}</string>
+	<key>NSNavPanelExpandedSizeForOpenMode:GetFile:2005</key>
+	<string>{676, 400}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{1400, 562}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode:PutFile:2100</key>
+	<string>{712, 580}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSTableView Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<string>333</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErB21vZERhdGWG
+		</data>
+		<string>88</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<string>95</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<string>62</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+		<string>60</string>
+	</array>
+	<key>NSTableView Hidden Columns NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDGNyZWF0aW9uRGF0ZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDmxhc3RPcGVuZWREYXRlhg==
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErE2tpbmRXaXRob3V0UGxhdGZvcm2G
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHNob3J0VmVyc2lvboY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWxhYmVsTmFtZYY=
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErDHBoeXNpY2FsU2l6ZYY=
+		</data>
+	</array>
+	<key>NSTableView Sort Ordering NSNavOutlineColumnSettings.v1</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErC2Rpc3BsYXlOYW1lhg==
+		</data>
+		<true/>
+	</array>
+	<key>PMPrintingExpandedStateForPrint</key>
+	<true/>
+</dict>
+</plist>

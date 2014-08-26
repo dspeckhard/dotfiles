@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisabledFonts</key>
+	<array>
+		<string>file:///Library/Fonts/Microsoft/Trebuchet%20MS#postscript-name=TrebuchetMS-Italic</string>
+		<string>file:///Library/Fonts/Microsoft/Arial#postscript-name=ArialMT</string>
+		<string>file:///Library/Fonts/Microsoft/Georgia#postscript-name=Georgia-Italic</string>
+		<string>file:///Library/Fonts/Microsoft/Trebuchet%20MS#postscript-name=Trebuchet-BoldItalic</string>
+		<string>file:///Library/Fonts/Palatino#postscript-name=Palatino-BoldItalic</string>
+		<string>file:///Library/Fonts/Microsoft/Wingdings%202#postscript-name=Wingdings2</string>
+		<string>file:///Library/Fonts/Palatino#postscript-name=Palatino-Bold</string>
+		<string>file:///Library/Fonts/SnellRoundhand.ttc#postscript-name=SnellRoundhand-Black</string>
+		<string>file:///Library/Fonts/Microsoft/Comic%20Sans%20MS#postscript-name=ComicSansMS-Bold</string>
+		<string>file:///Library/Fonts/Microsoft/Georgia#postscript-name=Georgia-Bold</string>
+		<string>file:///Library/Fonts/Microsoft/Brush%20Script.ttf#postscript-name=BrushScriptMT</string>
+		<string>file:///Library/Fonts/Microsoft/Times%20New%20Roman#postscript-name=TimesNewRomanPSMT</string>
+		<string>file:///Library/Fonts/Microsoft/Arial%20Black#postscript-name=Arial-Black</string>
+		<string>file:///Library/Fonts/Microsoft/Andale%20Mono#postscript-name=AndaleMono</string>
+		<string>file:///Library/Fonts/Microsoft/Tahoma#postscript-name=Tahoma</string>
+		<string>file:///Library/Fonts/Microsoft/Wingdings%203#postscript-name=Wingdings3</string>
+		<string>file:///Library/Fonts/Microsoft/Arial%20Narrow#postscript-name=ArialNarrow</string>
+		<string>file:///Library/Fonts/Microsoft/Impact#postscript-name=Impact</string>
+		<string>file:///Library/Fonts/Microsoft/Trebuchet%20MS#postscript-name=TrebuchetMS</string>
+		<string>file:///Library/Fonts/Microsoft/Verdana#postscript-name=Verdana-Italic</string>
+		<string>file:///Library/Fonts/Microsoft/Arial#postscript-name=Arial-ItalicMT</string>
+		<string>file:///Library/Fonts/Microsoft/Gill%20Sans%20Ultra%20Bold#postscript-name=GillSans-UltraBold</string>
+		<string>file:///Library/Fonts/Microsoft/Trebuchet%20MS#postscript-name=TrebuchetMS-Bold</string>
+		<string>file:///Library/Fonts/Microsoft/Times%20New%20Roman#postscript-name=TimesNewRomanPS-ItalicMT</string>
+		<string>file:///Library/Fonts/Microsoft/Times%20New%20Roman#postscript-name=TimesNewRomanPS-BoldMT</string>
+		<string>file:///Library/Fonts/Microsoft/Arial%20Narrow#postscript-name=ArialNarrow-Bold</string>
+		<string>file:///Library/Fonts/Palatino#postscript-name=Palatino-Italic</string>
+		<string>file:///Library/Fonts/Microsoft/Tahoma#postscript-name=Tahoma-Bold</string>
+		<string>file:///Library/Fonts/SnellRoundhand.ttc#postscript-name=SnellRoundhand-Bold</string>
+		<string>file:///Library/Fonts/Microsoft/Arial%20Narrow#postscript-name=ArialNarrow-Italic</string>
+		<string>file:///Library/Fonts/Microsoft/Arial%20Rounded%20Bold#postscript-name=ArialRoundedMTBold</string>
+		<string>file:///Library/Fonts/Microsoft/Comic%20Sans%20MS#postscript-name=ComicSansMS</string>
+		<string>file:///Library/Fonts/Microsoft/Arial%20Narrow#postscript-name=ArialNarrow-BoldItalic</string>
+		<string>file:///Library/Fonts/Savoye%20LET.ttc#postscript-name=SavoyeLetPlain</string>
+		<string>file:///Library/Fonts/Microsoft/Times%20New%20Roman#postscript-name=TimesNewRomanPS-BoldItalicMT</string>
+		<string>file:///Library/Fonts/Microsoft/Arial#postscript-name=Arial-BoldItalicMT</string>
+		<string>file:///Library/Fonts/Microsoft/Arial#postscript-name=Arial-BoldMT</string>
+		<string>file:///Library/Fonts/Palatino#postscript-name=Palatino-Roman</string>
+		<string>file:///Library/Fonts/Microsoft/Verdana#postscript-name=Verdana</string>
+		<string>file:///Library/Fonts/Microsoft/Verdana#postscript-name=Verdana-Bold</string>
+		<string>file:///Library/Fonts/Microsoft/Georgia#postscript-name=Georgia-BoldItalic</string>
+		<string>file:///Library/Fonts/Microsoft/Verdana#postscript-name=Verdana-BoldItalic</string>
+		<string>file:///Library/Fonts/SnellRoundhand.ttc#postscript-name=SnellRoundhand</string>
+		<string>file:///Library/Fonts/Microsoft/Georgia#postscript-name=Georgia</string>
+	</array>
+</dict>
+</plist>

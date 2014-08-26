@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>afp_cleartext_allow</key>
+	<false/>
+	<key>afp_cleartext_warn</key>
+	<false/>
+	<key>afp_default_name</key>
+	<string></string>
+	<key>afp_keychain_add</key>
+	<false/>
+	<key>afp_keychain_search</key>
+	<true/>
+	<key>afp_login_displayGreeting</key>
+	<true/>
+	<key>afp_prefs_version</key>
+	<integer>15</integer>
+	<key>afp_use_default_name</key>
+	<false/>
+	<key>afp_use_short_name</key>
+	<false/>
+	<key>afp_voldlog_skipIfOnly</key>
+	<false/>
+</dict>
+</plist>

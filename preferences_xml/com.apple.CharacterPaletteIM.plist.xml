@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CVCategoryListSplitPos</key>
+	<real>132</real>
+	<key>CVFavorites</key>
+	<array>
+		<dict>
+			<key>String</key>
+			<string>✓</string>
+		</dict>
+	</array>
+	<key>CVFontSize</key>
+	<real>20</real>
+	<key>CVInfoViewSplitPos</key>
+	<real>405</real>
+	<key>CVRecentItems</key>
+	<array>
+		<dict>
+			<key>String</key>
+			<string>✓</string>
+		</dict>
+	</array>
+	<key>CVSelectedCategory</key>
+	<string>Category-Bullets</string>
+	<key>CVSelectedCategoryState</key>
+	<dict>
+		<key>scrollPos</key>
+		<real>150</real>
+	</dict>
+	<key>CVSelectedCharacterData</key>
+	<dict>
+		<key>Category-Bullets</key>
+		<dict>
+			<key>section</key>
+			<integer>0</integer>
+			<key>string</key>
+			<string>✓</string>
+		</dict>
+		<key>string</key>
+		<string>✓</string>
+	</dict>
+	<key>CharPaletteSelectedChar</key>
+	<string>À</string>
+	<key>CharPaletteSelectedFont</key>
+	<string>LucidaGrande</string>
+	<key>CharPaletteSelectedTab</key>
+	<integer>0</integer>
+	<key>CharPaletteSelectedViewScript</key>
+	<integer>0</integer>
+	<key>CharPaletteSmallWindowOriginX</key>
+	<real>688</real>
+	<key>CharPaletteSmallWindowOriginY</key>
+	<real>877</real>
+	<key>CharPaletteViewExpanded</key>
+	<false/>
+	<key>CharPaletteViewFontInfoExpanded</key>
+	<false/>
+	<key>CharPaletteVisibleToolbar</key>
+	<integer>1</integer>
+	<key>NSSplitView Subview Frames CVEmojiSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 100.000000, 368.000000, NO</string>
+		<string>101.000000, 0.000000, 171.000000, 368.000000, NO</string>
+	</array>
+	<key>NSWindow Frame CVMainWindow</key>
+	<string>557 448 566 384 0 0 1680 1028 </string>
+	<key>NSWindow Frame CharPaletteWindowFrame</key>
+	<string>655 396 763 464 0 0 1680 1028 </string>
+</dict>
+</plist>

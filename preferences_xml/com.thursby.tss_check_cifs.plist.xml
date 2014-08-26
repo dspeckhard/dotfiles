@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSWindow Frame com.thursby.mountShares</key>
+	<string>618 583 443 269 0 0 1680 1028 </string>
+	<key>TurnOffACLS</key>
+	<false/>
+	<key>TurnOffSymbolicLinks</key>
+	<false/>
+</dict>
+</plist>

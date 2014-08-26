@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DRBurnOptionsBurnSpeed</key>
+	<integer>2822</integer>
+	<key>KWAdvancedFileSystems</key>
+	<array>
+		<string>UDF</string>
+	</array>
+	<key>KWBurnOptionsCompletionAction</key>
+	<string>DRBurnCompletionActionEject</string>
+	<key>KWBurnOptionsVerifyBurn</key>
+	<true/>
+	<key>KWCleanTemporaryFolderAction</key>
+	<integer>1</integer>
+	<key>KWDefaultAudioType</key>
+	<integer>0</integer>
+	<key>KWDefaultDataType</key>
+	<integer>0</integer>
+	<key>KWDefaultDeviceIdentifier</key>
+	<dict>
+		<key>Product</key>
+		<string>DVDRW  GS23N</string>
+		<key>SerialNumber</key>
+		<string></string>
+		<key>Vendor</key>
+		<string>HL-DT-ST</string>
+	</dict>
+	<key>KWDefaultVideoType</key>
+	<integer>2</integer>
+	<key>KWFirstRun</key>
+	<false/>
+	<key>KWLastTab</key>
+	<string>Copy</string>
+	<key>KWSavedPrefView</key>
+	<string>General</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{585, 400}</string>
+	<key>NSTableView Columns Audio TableView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBEljb26G
+		</data>
+		<string>16</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBE5hbWWG
+		</data>
+		<string>326</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBFRpbWWG
+		</data>
+		<string>170</string>
+	</array>
+	<key>NSTableView Columns Data</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBG5hbWWG
+		</data>
+		<string>345</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBGtpbmSG
+		</data>
+		<string>170</string>
+	</array>
+	<key>NSTableView Columns Video TableView</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBEljb26G
+		</data>
+		<string>16</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBE5hbWWG
+		</data>
+		<string>326</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBFNpemWG
+		</data>
+		<string>170</string>
+	</array>
+	<key>NSTableView Hidden Columns Audio TableView</key>
+	<array/>
+	<key>NSTableView Hidden Columns Data</key>
+	<array/>
+	<key>NSTableView Hidden Columns Video TableView</key>
+	<array/>
+	<key>NSTableView Sort Ordering Audio TableView</key>
+	<array/>
+	<key>NSTableView Sort Ordering Data</key>
+	<array/>
+	<key>NSTableView Sort Ordering Video TableView</key>
+	<array/>
+	<key>NSWindow Frame Burn</key>
+	<string>132 379 520 524 0 0 1680 1028 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>58 806 360 184 0 0 1680 1028 </string>
+</dict>
+</plist>

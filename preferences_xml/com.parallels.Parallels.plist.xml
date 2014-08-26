@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Parallels.MainApp.Default 'feed' App</key>
+	<string>com.apple.mail</string>
+	<key>Parallels.MainApp.Default 'feeds' App</key>
+	<string>com.apple.safari</string>
+	<key>Parallels.MainApp.Default 'ftp' App</key>
+	<string>com.apple.finder</string>
+	<key>Parallels.MainApp.Default 'http' App</key>
+	<string>com.apple.Safari</string>
+	<key>Parallels.MainApp.Default 'https' App</key>
+	<string>com.apple.Safari</string>
+	<key>Parallels.MainApp.Default 'mailto' App</key>
+	<string>com.apple.mail</string>
+	<key>Parallels.MainApp.Default 'news' App</key>
+	<string>com.apple.safari</string>
+	<key>Parallels.MainApp.Default 'ssh' App</key>
+	<string>com.apple.Terminal</string>
+	<key>Parallels.MainApp.Default 'telnet' App</key>
+	<string>com.apple.Terminal</string>
+</dict>
+</plist>

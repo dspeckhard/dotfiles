@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adobe Application Manager</key>
+	<dict>
+		<key>Adobe Application ManagerSerialState</key>
+		<integer>2</integer>
+		<key>Date</key>
+		<string>2012-03-14T11:28:53Z</string>
+		<key>OptIn</key>
+		<integer>1</integer>
+	</dict>
+	<key>Adobe Illustrator</key>
+	<dict>
+		<key>LaunchCounter</key>
+		<integer>4</integer>
+	</dict>
+	<key>CS4</key>
+	<dict>
+		<key>Date</key>
+		<string>2010-10-11T17:12:42Z</string>
+		<key>OptIn</key>
+		<integer>0</integer>
+	</dict>
+	<key>CS5</key>
+	<dict>
+		<key>Date</key>
+		<string>2012-03-21T01:17:02Z</string>
+	</dict>
+	<key>CS5Headlights</key>
+	<dict>
+		<key>Adobe Photoshop CS5</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>2</integer>
+		</dict>
+		<key>InDesign CS5</key>
+		<dict>
+			<key>LaunchCounter</key>
+			<integer>5</integer>
+		</dict>
+		<key>RemindMeLaterDate</key>
+		<integer>1336523468</integer>
+	</dict>
+	<key>Exchange-Pro 9</key>
+	<dict>
+		<key>Date</key>
+		<string>2010-10-11T17:12:42Z</string>
+	</dict>
+	<key>GUID</key>
+	<string>CBBF2936-E89F-4228-AD19-302B3989A566</string>
+	<key>InDesign CS4</key>
+	<dict>
+		<key>LaunchCounter</key>
+		<integer>5</integer>
+	</dict>
+</dict>
+</plist>

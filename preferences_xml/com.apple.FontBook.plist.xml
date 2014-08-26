@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FBComparisonMatrixTextSize</key>
+	<real>13</real>
+	<key>FBCustomSampleString</key>
+	<string>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+	<key>FBEmergencyDeactivationOfThirdPartyActivatedFonts</key>
+	<false/>
+	<key>FBLastSelectedFamily</key>
+	<string>Helvetica Neue</string>
+	<key>FBMainSplitViewSizes</key>
+	<string>527 160 180 501</string>
+	<key>FBOpenFileDirectoryURL</key>
+	<string>~/Downloads/Fonts/mouser-fonts_gourdie-uncial</string>
+	<key>FBPrefsSelectionKey</key>
+	<dict>
+		<key>FBCollectionsKey</key>
+		<array/>
+		<key>FBDomainsKey</key>
+		<array/>
+		<key>FBExpandedFamiliesKey</key>
+		<array>
+			<string>Adobe Garamond LT</string>
+		</array>
+		<key>FBFacesKey</key>
+		<array/>
+		<key>FBFamiliesKey</key>
+		<array>
+			<string>Candara</string>
+		</array>
+		<key>FBLibrariesKey</key>
+		<array/>
+	</dict>
+	<key>FBPreviewHidden</key>
+	<false/>
+	<key>FBSelectedGroupsKey</key>
+	<array>
+		<string>AllFonts</string>
+	</array>
+	<key>FBSelectionMap</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGLS5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKoHCBUWFxgcIyYpVSRudWxs0wkKCwwNEVYkY2xhc3NXTlMua2V5c1pOUy5vYmpl
+	Y3RzgAmjDg8QgAKAA4AEoxITFIAFgAeACFlBbGwgRm9udHNYQ29tcHV0ZXJUVXNlctIJ
+	GRobV05TLmRhdGGABk8RA4JicGxpc3QwMNQBAgMEBQZQUVgkdmVyc2lvblgkb2JqZWN0
+	c1kkYXJjaGl2ZXJUJHRvcBIAAYagrxAUBwgOFBUaJCorMjM0OD5CQ0RFSExVJG51bGzS
+	CQoLDFYkY2xhc3NaTlMub2JqZWN0c4AToQ2AAtMPCRAREhNaRmFjZXNBcnJheVpGYW1p
+	bHlOYW1lgASAEoADXUx1Y2lkYSBHcmFuZGXSCQoWF4ARohgZgAWADNUbHB0JHh8gISIT
+	XlBvc3RTY3JpcHROYW1lXxATRkJGYWNlU3ViRmFtaWx5TmFtZVNVUkxfEBBGQkZhY2VG
+	YW1pbHlOYW1lgAmACoAGgAuAA9MJJSYnKClbTlMucmVsYXRpdmVXTlMuYmFzZYAIgAeA
+	AF8QSmZpbGU6Ly8vU3lzdGVtL0xpYnJhcnkvRm9udHMvTHVjaWRhR3JhbmRlLnR0YyNw
+	b3N0c2NyaXB0LW5hbWU9THVjaWRhR3JhbmRl0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nl
+	c1VOU1VSTKIwMVVOU1VSTFhOU09iamVjdFxMdWNpZGFHcmFuZGVXUmVndWxhctIsLTU2
+	VkZCRmFjZaI3MVZGQkZhY2XVGxwdCR45OjsiE4APgBCADYALgAPTCSUmJ0ApgAiADoAA
+	XxBPZmlsZTovLy9TeXN0ZW0vTGlicmFyeS9Gb250cy9MdWNpZGFHcmFuZGUudHRjI3Bv
+	c3RzY3JpcHQtbmFtZT1MdWNpZGFHcmFuZGUtQm9sZF8QEUx1Y2lkYUdyYW5kZS1Cb2xk
+	VEJvbGTSLC1GR1dOU0FycmF5okYx0iwtSUpYRkJGYW1pbHmiSzFYRkJGYW1pbHnSLC1N
+	TlxOU011dGFibGVTZXSjTU8xVU5TU2V0XxAPTlNLZXllZEFyY2hpdmVy0VJTVHJvb3SA
+	AQAIABEAGgAjAC0AMgA3AE4AVABZAGAAawBtAG8AcQB4AIMAjgCQAJIAlACiAKcAqQCs
+	AK4AsAC7AMoA4ADkAPcA+QD7AP0A/wEBAQgBFAEcAR4BIAEiAW8BdAF/AYgBjgGRAZcB
+	oAGtAbUBugHBAcQBywHWAdgB2gHcAd4B4AHnAekB6wHtAj8CUwJYAl0CZQJoAm0CdgJ5
+	AoIChwKUApgCngKwArMCuAAAAAAAAAIBAAAAAAAAAFQAAAAAAAAAAAAAAAAAAAK60h0e
+	HyBaJGNsYXNzbmFtZVgkY2xhc3Nlc11OU011dGFibGVEYXRhox8hIlZOU0RhdGFYTlNP
+	YmplY3TSCRkaJYAGTxECS2JwbGlzdDAw1AECAwQFBjEyWCR2ZXJzaW9uWCRvYmplY3Rz
+	WSRhcmNoaXZlclQkdG9wEgABhqCrBwgOGB4fJicoKS1VJG51bGzSCQoLDFYkY2xhc3Na
+	TlMub2JqZWN0c4AKoQ2AAtUPEBEJEhMUFRYXXlBvc3RTY3JpcHROYW1lXxATRkJGYWNl
+	U3ViRmFtaWx5TmFtZVNVUkxfEBBGQkZhY2VGYW1pbHlOYW1lgAaACIADgAmAB9MJGRob
+	HB1bTlMucmVsYXRpdmVXTlMuYmFzZYAFgASAAF8QSGZpbGU6Ly8vTGlicmFyeS9Gb250
+	cy9NaWNyb3NvZnQvQW5kYWxlJTIwTW9ubyNwb3N0c2NyaXB0LW5hbWU9QW5kYWxlTW9u
+	b9IgISIjWiRjbGFzc25hbWVYJGNsYXNzZXNVTlNVUkyiJCVVTlNVUkxYTlNPYmplY3Ra
+	QW5kYWxlTW9ub1tBbmRhbGUgTW9ub1dSZWd1bGFy0iAhKitWRkJGYWNloiwlVkZCRmFj
+	ZdIgIS4vXE5TTXV0YWJsZVNldKMuMCVVTlNTZXRfEA9OU0tleWVkQXJjaGl2ZXLRMzRU
+	cm9vdIABAAgAEQAaACMALQAyADcAQwBJAE4AVQBgAGIAZABmAHEAgACWAJoArQCvALEA
+	swC1ALcAvgDKANIA1ADWANgBIwEoATMBPAFCAUUBSwFUAV8BawFzAXgBfwGCAYkBjgGb
+	AZ8BpQG3AboBvwAAAAAAAAIBAAAAAAAAADUAAAAAAAAAAAAAAAAAAAHB0gkZGiiABk8R
+	CABicGxpc3QwMNQBAgMEBQaIiVgkdmVyc2lvblgkb2JqZWN0c1kkYXJjaGl2ZXJUJHRv
+	cBIAAYagrxAoBwgOFBUeKC4vNjc4PEJGR0hJT1NUVVZcYGFiY2ltbm9wdnp7fH2AhFUk
+	bnVsbNIJCgsMViRjbGFzc1pOUy5vYmplY3RzgCehDYAC0w8JEBESE1pGYWNlc0FycmF5
+	WkZhbWlseU5hbWWABIAmgANeSGVsdmV0aWNhIE5ldWXSCQoWF4AlphgZGhscHYAFgAyA
+	EYAWgBuAINUfICEJIiMkJSYTXlBvc3RTY3JpcHROYW1lXxATRkJGYWNlU3ViRmFtaWx5
+	TmFtZVNVUkxfEBBGQkZhY2VGYW1pbHlOYW1lgAmACoAGgAuAA9MJKSorLC1bTlMucmVs
+	YXRpdmVXTlMuYmFzZYAIgAeAAF8QcmZpbGU6Ly8vVXNlcnMvZHNwZWNraGFyZC9MaWJy
+	YXJ5L0ZvbnRzL0hlbHZldGljYSUyME5ldWUlMjBDb25kZW5zZWQlMjAzI3Bvc3RzY3Jp
+	cHQtbmFtZT1IZWx2ZXRpY2FOZXVlLUxpZ2h0Q29uZE9ibNIwMTIzWiRjbGFzc25hbWVY
+	JGNsYXNzZXNVTlNVUkyiNDVVTlNVUkxYTlNPYmplY3RfEBpIZWx2ZXRpY2FOZXVlLUxp
+	Z2h0Q29uZE9ibF8QJEhlbHZldGljYSA0NyBMaWdodCBDb25kZW5zZWQgT2JsaXF1ZdIw
+	MTk6VkZCRmFjZaI7NVZGQkZhY2XVHyAhCSI9Pj8mE4APgBCADYALgAPTCSkqK0QtgAiA
+	DoAAXxBzZmlsZTovLy9Vc2Vycy9kc3BlY2toYXJkL0xpYnJhcnkvRm9udHMvSGVsdmV0
+	aWNhJTIwTmV1ZSUyMENvbmRlbnNlZCUyMDMjcG9zdHNjcmlwdC1uYW1lPUhlbHZldGlj
+	YU5ldWUtTWVkaXVtQ29uZE9ibF8QG0hlbHZldGljYU5ldWUtTWVkaXVtQ29uZE9ibF8Q
+	JUhlbHZldGljYSA2NyBNZWRpdW0gQ29uZGVuc2VkIE9ibGlxdWXVHyAhCSJKS0wmE4AU
+	gBWAEoALgAPTCSkqK1EtgAiAE4AAXxBwZmlsZTovLy9Vc2Vycy9kc3BlY2toYXJkL0xp
+	YnJhcnkvRm9udHMvSGVsdmV0aWNhJTIwTmV1ZSUyMENvbmRlbnNlZCUyMDMjcG9zdHNj
+	cmlwdC1uYW1lPUhlbHZldGljYU5ldWUtTWVkaXVtQ29uZF8QGEhlbHZldGljYU5ldWUt
+	TWVkaXVtQ29uZF8QHUhlbHZldGljYSA2NyBNZWRpdW0gQ29uZGVuc2Vk1R8gIQkiV1hZ
+	JhOAGYAagBeAC4AD0wkpKiteLYAIgBiAAF8Qb2ZpbGU6Ly8vVXNlcnMvZHNwZWNraGFy
+	ZC9MaWJyYXJ5L0ZvbnRzL0hlbHZldGljYSUyME5ldWUlMjBDb25kZW5zZWQlMjAzI3Bv
+	c3RzY3JpcHQtbmFtZT1IZWx2ZXRpY2FOZXVlLUhlYXZ5Q29uZF8QF0hlbHZldGljYU5l
+	dWUtSGVhdnlDb25kXxAcSGVsdmV0aWNhIDg3IEhlYXZ5IENvbmRlbnNlZNUfICEJImRl
+	ZiYTgB6AH4AcgAuAA9MJKSoray2ACIAdgABfEHJmaWxlOi8vL1VzZXJzL2RzcGVja2hh
+	cmQvTGlicmFyeS9Gb250cy9IZWx2ZXRpY2ElMjBOZXVlJTIwQ29uZGVuc2VkJTIwMyNw
+	b3N0c2NyaXB0LW5hbWU9SGVsdmV0aWNhTmV1ZS1IZWF2eUNvbmRPYmxfEBpIZWx2ZXRp
+	Y2FOZXVlLUhlYXZ5Q29uZE9ibF8QJEhlbHZldGljYSA4NyBIZWF2eSBDb25kZW5zZWQg
+	T2JsaXF1ZdUfICEJInFycyYTgCOAJIAhgAuAA9MJKSoreC2ACIAigABfEG9maWxlOi8v
+	L1VzZXJzL2RzcGVja2hhcmQvTGlicmFyeS9Gb250cy9IZWx2ZXRpY2ElMjBOZXVlJTIw
+	Q29uZGVuc2VkJTIwMyNwb3N0c2NyaXB0LW5hbWU9SGVsdmV0aWNhTmV1ZS1MaWdodENv
+	bmRfEBdIZWx2ZXRpY2FOZXVlLUxpZ2h0Q29uZF8QHEhlbHZldGljYSA0NyBMaWdodCBD
+	b25kZW5zZWTSMDF+f1dOU0FycmF5on410jAxgYJYRkJGYW1pbHmigzVYRkJGYW1pbHnS
+	MDGFhlxOU011dGFibGVTZXSjhYc1VU5TU2V0XxAPTlNLZXllZEFyY2hpdmVy0YqLVHJv
+	b3SAAQAIABEAGgAjAC0AMgA3AGIAaABtAHQAfwCBAIMAhQCMAJcAogCkAKYAqAC3ALwA
+	vgDFAMcAyQDLAM0AzwDRANwA6wEBAQUBGAEaARwBHgEgASIBKQE1AT0BPwFBAUMBuAG9
+	AcgB0QHXAdoB4AHpAgYCLQIyAjkCPAJDAk4CUAJSAlQCVgJYAl8CYQJjAmUC2wL5AyED
+	LAMuAzADMgM0AzYDPQM/A0EDQwO2A9ED8QP8A/4EAAQCBAQEBgQNBA8EEQQTBIUEnwS+
+	BMkEywTNBM8E0QTTBNoE3ATeBOAFVQVyBZkFpAWmBagFqgWsBa4FtQW3BbkFuwYtBkcG
+	ZgZrBnMGdgZ7BoQGhwaQBpUGogamBqwGvgbBBsYAAAAAAAACAQAAAAAAAACMAAAAAAAA
+	AAAAAAAAAAAGyNIdHiorXxATTlNNdXRhYmxlRGljdGlvbmFyeaMqLCJcTlNEaWN0aW9u
+	YXJ5XxAPTlNLZXllZEFyY2hpdmVy0S8wVHJvb3SAAQAIABEAGgAjAC0AMgA3AEIASABP
+	AFYAXgBpAGsAbwBxAHMAdQB5AHsAfQB/AIkAkgCXAJwApACmBCwEMQQ8BEUEUwRXBF4E
+	ZwRsBG4GvQbCBsQOyA7NDuMO5w70DwYPCQ8OAAAAAAAAAgEAAAAAAAAAMQAAAAAAAAAA
+	AAAAAAAADxA=
+	</data>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Downloads/Fonts/mouser-fonts_gourdie-uncial</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSSplitView Subview Frames FBMainSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 208.000000, 720.000000, NO</string>
+		<string>209.000000, 0.000000, 230.000000, 720.000000, NO</string>
+		<string>440.000000, 0.000000, 440.000000, 720.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames FBMultiPreviewSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 440.000000, 720.000000, NO</string>
+		<string>0.000000, 720.000000, 440.000000, 0.000000, YES</string>
+	</array>
+	<key>NSWindow Frame FBFontValidationWindow</key>
+	<string>147 468 620 560 0 0 1680 1028 </string>
+	<key>NSWindow Frame FBMainWindowFrame</key>
+	<string>128 304 843 573 0 0 1680 1028 </string>
+	<key>NSWindow Frame FBPreviewWindow</key>
+	<string>163 358 400 356 0 0 1680 1028 </string>
+	<key>NSWindow Frame FBProgressWindow</key>
+	<string>208 907 462 121 0 0 1680 1028 </string>
+	<key>NSWindow Frame FBWindow</key>
+	<string>55 211 880 766 0 0 1680 1028 </string>
+</dict>
+</plist>

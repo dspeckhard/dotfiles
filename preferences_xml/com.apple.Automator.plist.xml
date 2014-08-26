@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMLogTabViewSelectedIndex</key>
+	<integer>1</integer>
+	<key>AMSuppressWarningOnRunForAMServiceWorkflowPersonality</key>
+	<false/>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{712, 448}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{585, 422}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSSplitView AMDocumentMajor Expanded Position</key>
+	<real>391</real>
+	<key>NSSplitView AMDocumentMinor Expanded Position</key>
+	<real>162</real>
+	<key>NSSplitView AMLibraryActionsMajor Expanded Position</key>
+	<real>174</real>
+	<key>NSSplitView AMLibraryActionsMinor Expanded Position</key>
+	<real>390</real>
+	<key>NSSplitView AMLibraryVariablesMajor Expanded Position</key>
+	<real>0.0</real>
+	<key>NSSplitView AMLibraryVariablesMinor Expanded Position</key>
+	<real>0.0</real>
+	<key>NSSplitView Subview Frames AMDocumentMajor</key>
+	<array>
+		<string>0.000000, 0.000000, 381.000000, 772.000000, NO</string>
+		<string>382.000000, 0.000000, 865.000000, 772.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames AMDocumentMinor</key>
+	<array>
+		<string>0.000000, 0.000000, 865.000000, 581.000000, NO</string>
+		<string>0.000000, 591.000000, 865.000000, 162.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames AMLibraryActionsMajor</key>
+	<array>
+		<string>0.000000, 0.000000, 381.000000, 553.000000, NO</string>
+		<string>0.000000, 554.000000, 381.000000, 173.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames AMLibraryActionsMinor</key>
+	<array>
+		<string>0.000000, 0.000000, 163.000000, 553.000000, NO</string>
+		<string>164.000000, 0.000000, 217.000000, 553.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames AMLibraryVariablesMajor</key>
+	<array>
+		<string>0.000000, 0.000000, 381.000000, 578.000000, NO</string>
+		<string>0.000000, 579.000000, 381.000000, 148.000000, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames AMLibraryVariablesMinor</key>
+	<array>
+		<string>0.000000, 0.000000, 163.000000, 578.000000, NO</string>
+		<string>164.000000, 0.000000, 217.000000, 578.000000, NO</string>
+	</array>
+	<key>NSWindow Frame AMDocument</key>
+	<string>312 174 1246 794 0 0 1680 1028 </string>
+	<key>didDeleteLeopardCaches</key>
+	<true/>
+	<key>isShowingLibrary</key>
+	<true/>
+</dict>
+</plist>

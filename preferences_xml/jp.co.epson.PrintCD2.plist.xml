@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ColorSettingsController</key>
+	<dict>
+		<key>left</key>
+		<real>530</real>
+		<key>top</key>
+		<real>-496</real>
+		<key>visible</key>
+		<true/>
+	</dict>
+	<key>DataFileFolder</key>
+	<string>/Users/dspeckhard/Documents/Personal/GD 90</string>
+	<key>DefaultInnerDiameter</key>
+	<real>18</real>
+	<key>DefaultOuterDiameter</key>
+	<real>120</real>
+	<key>IllustFolder</key>
+	<string>/Users/dspeckhard/Documents/Personal/GD 90</string>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastCurrentDirectory</key>
+	<string>~/Documents/Personal/GD 90</string>
+	<key>NSNavLastCurrentDirectory:GetFile:0</key>
+	<string>~/Documents/Personal/GD 90</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{537, 422}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSWindow Frame ColorPalettePosition</key>
+	<string>530 216 301 316 0 0 1680 1028 </string>
+	<key>NSWindow Frame ObjectPalettePosition</key>
+	<string>840 666 301 362 0 0 1680 1028 </string>
+	<key>NSWindow Frame TextPalettePosition</key>
+	<string>530 542 300 486 0 0 1680 1028 </string>
+	<key>NSWindow Frame ToolPalettePosition</key>
+	<string>6 916 59 112 0 0 1680 1028 </string>
+	<key>ObjectSettingsController</key>
+	<dict>
+		<key>left</key>
+		<real>840</real>
+		<key>top</key>
+		<real>0.0</real>
+		<key>visible</key>
+		<true/>
+	</dict>
+	<key>PrintDensity</key>
+	<integer>0</integer>
+	<key>PrinterModel</key>
+	<array>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP 2100</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>1</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP 900</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>1</integer>
+			<key>tray</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP 960</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>1</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP 950</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>1</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R300 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R300</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R310 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R310</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R200 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R210 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R210</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R800 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>23</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R800</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>23</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R320 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R320</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R1800</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>23</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R1800 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>23</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP RX700</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>23</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP RX700 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>23</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R220</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R220 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R230</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R230 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R340</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R340 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R350</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP R350 Series</string>
+			<key>offsetMax</key>
+			<real>5</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP RX640</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP RX640 Series</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP RX650</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>EPSON SP RX650 Series</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>2</integer>
+			<key>tray</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>Canon iR C3220-C1 PS Ver2.1</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>0</integer>
+			<key>tray</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>Adobe PDF 3018.101</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>0</integer>
+			<key>tray</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>Oce TDS400 PS</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>0</integer>
+			<key>tray</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>Oce TCS500 PS</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>0</integer>
+			<key>tray</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>E-7100 PS US</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>0</integer>
+			<key>tray</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>modelName</key>
+			<string>HP Color LaserJet 5550 v3010.107</string>
+			<key>offsetMax</key>
+			<real>2</real>
+			<key>offsetX</key>
+			<real>0.0</real>
+			<key>offsetY</key>
+			<real>0.0</real>
+			<key>source</key>
+			<integer>0</integer>
+			<key>tray</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>PrinterQueue</key>
+	<array>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>12thFloorCanon3220 @ bcj-crashplan02</string>
+			<key>modelName</key>
+			<string>Canon iR C3220-C1 PS Ver2.1</string>
+			<key>queueName</key>
+			<string>_12thFloorCanon3220___bcj_crashplan02</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>Adobe PDF 9.0</string>
+			<key>modelName</key>
+			<string>Adobe PDF 3018.101</string>
+			<key>queueName</key>
+			<string>AdobePDF9</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>BW Oce Plotter @ PrintServer-SF</string>
+			<key>modelName</key>
+			<string>Oce TDS400 PS</string>
+			<key>queueName</key>
+			<string>BW_Oce_Plotter___PrintServer_SF</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>Color Oce Plotter @ PrintServer-SF</string>
+			<key>modelName</key>
+			<string>Oce TCS500 PS</string>
+			<key>queueName</key>
+			<string>Color_Oce_Plotter___PrintServer_SF</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>Copier 1 Regular</string>
+			<key>modelName</key>
+			<string>E-7100 PS US</string>
+			<key>queueName</key>
+			<string>Copier_1_Regular</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>Copier 2 Pro</string>
+			<key>modelName</key>
+			<string>E-7100 PS US</string>
+			<key>queueName</key>
+			<string>Copier_2_Pro</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<true/>
+			<key>directPrinter</key>
+			<true/>
+			<key>displayName</key>
+			<string>EPSON Stylus Photo R200</string>
+			<key>modelName</key>
+			<string>EPSON SP R200 Series</string>
+			<key>queueName</key>
+			<string>EPSON_Stylus_Photo_R200</string>
+		</dict>
+		<dict>
+			<key>PICPrinter</key>
+			<false/>
+			<key>directPrinter</key>
+			<false/>
+			<key>displayName</key>
+			<string>hp color LaserJet 5550 [E61527]</string>
+			<key>modelName</key>
+			<string>HP Color LaserJet 5550 v3010.107</string>
+			<key>queueName</key>
+			<string>hp_color_LaserJet_5550__E61527_</string>
+		</dict>
+	</array>
+	<key>TextSettingsController</key>
+	<dict>
+		<key>left</key>
+		<real>530</real>
+		<key>top</key>
+		<real>0.0</real>
+		<key>visible</key>
+		<true/>
+	</dict>
+	<key>ToolPaletteController</key>
+	<dict>
+		<key>left</key>
+		<real>6</real>
+		<key>top</key>
+		<real>0.0</real>
+		<key>visible</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

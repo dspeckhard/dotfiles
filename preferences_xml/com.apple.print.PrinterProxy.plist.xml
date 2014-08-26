@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSTableView Columns (null)</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBXN0YXRlhg==
+		</data>
+		<string>96</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBG5hbWWG
+		</data>
+		<string>155</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBHVzZXKG
+		</data>
+		<string>127</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErA2ZheIY=
+		</data>
+		<string>100</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBHNlbnSG
+		</data>
+		<string>130</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWNvbXBsZXRlZIY=
+		</data>
+		<string>140</string>
+	</array>
+	<key>NSTableView Hidden Columns (null)</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErA2ZheIY=
+		</data>
+	</array>
+	<key>NSTableView Sort Ordering (null)</key>
+	<array/>
+	<key>NSWindow Frame Printer Proxy Frame EPSON_Stylus_Photo_R200</key>
+	<string>32 363 500 456 0 0 1680 1028 </string>
+	<key>NSWindow Frame Printer Proxy Frame SF_LFCOL01</key>
+	<string>32 627 500 192 0 0 1680 1028 </string>
+	<key>NSWindow Frame Printer Proxy Frame SF_MF01</key>
+	<string>32 627 500 192 0 0 1680 1028 </string>
+	<key>NSWindow Frame Printer Proxy Frame SF_MFProd01</key>
+	<string>32 627 500 192 0 0 1680 1028 </string>
+</dict>
+</plist>

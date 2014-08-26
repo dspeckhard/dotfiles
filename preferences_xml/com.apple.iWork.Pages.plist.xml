@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DataEditorVisibility</key>
+	<false/>
+	<key>ImageAdjustVisibility</key>
+	<false/>
+	<key>InspFrames</key>
+	<array/>
+	<key>InspPanes</key>
+	<array/>
+	<key>InspTabViewIdentifiers</key>
+	<array/>
+	<key>InspVisibility</key>
+	<array/>
+	<key>MediaBrowserMediaType</key>
+	<integer>1</integer>
+	<key>MediaBrowserVisibility</key>
+	<false/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSWindow Frame SLPublicationWindow</key>
+	<string>485 274 765 754 0 0 1680 1028 </string>
+	<key>SFDefaultsLastLaunchedBundleVersion</key>
+	<integer>1048</integer>
+	<key>SFLDefaultsNextUpdateCheck</key>
+	<date>2013-04-26T00:58:37Z</date>
+	<key>SLDefaultsChangeTrackingAuthor</key>
+	<string>Douglas Speckhard</string>
+	<key>SLDefaultsChangeTrackingDeletedTextStyleIndex</key>
+	<integer>1</integer>
+	<key>SLDefaultsChangeTrackingDeletedTextStyleProperties</key>
+	<dict>
+		<key>strikethru</key>
+		<integer>1</integer>
+	</dict>
+	<key>SLDefaultsChangeTrackingInsertedTextStyleIndex</key>
+	<integer>2</integer>
+	<key>SLDefaultsChangeTrackingInsertedTextStyleProperties</key>
+	<dict/>
+	<key>SLDocumentDefaultExportDirectory</key>
+	<string>~/Desktop</string>
+	<key>SLDocumentDefaultExportType</key>
+	<string>Microsoft Word 97 - 2004 document</string>
+	<key>dontShowWhatsNew</key>
+	<true/>
+</dict>
+</plist>

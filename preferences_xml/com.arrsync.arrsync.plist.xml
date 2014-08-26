@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSNavBrowserPreferedColumnContentWidth</key>
+	<real>186</real>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{653, 400}</string>
+	<key>NSToolbar Configuration mainToolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>lastAppVersion</key>
+	<string>0.4</string>
+	<key>presets</key>
+	<array>
+		<dict>
+			<key>arguments</key>
+			<dict>
+				<key>attributes</key>
+				<integer>0</integer>
+				<key>checks</key>
+				<integer>2</integer>
+				<key>mode</key>
+				<integer>0</integer>
+				<key>permissions</key>
+				<integer>0</integer>
+				<key>symlinks</key>
+				<integer>0</integer>
+				<key>wholeFile</key>
+				<integer>1</integer>
+			</dict>
+			<key>files</key>
+			<array>
+				<array>
+					<string>1</string>
+					<string>A Administration</string>
+					<string>/Volumes/Server/09205 Glendale Project/file</string>
+					<string>/Users/dspeckhard/Documents/Project/09205 GC3 Disney/file</string>
+				</array>
+			</array>
+			<key>name</key>
+			<string>A Administration</string>
+		</dict>
+		<dict>
+			<key>arguments</key>
+			<dict>
+				<key>attributes</key>
+				<integer>1</integer>
+				<key>checks</key>
+				<integer>2</integer>
+				<key>mode</key>
+				<integer>2</integer>
+				<key>permissions</key>
+				<integer>0</integer>
+				<key>symlinks</key>
+				<integer>0</integer>
+				<key>wholeFile</key>
+				<integer>1</integer>
+			</dict>
+			<key>files</key>
+			<array>
+				<array>
+					<string>1</string>
+					<string>E 99 Photography</string>
+					<string>/Volumes/Server/09205X1 GC3 Interiors/file/E Consultant Correspondence</string>
+					<string>/Volumes/BB1/E 99 Photography</string>
+				</array>
+			</array>
+			<key>name</key>
+			<string>E99 From Server to BB</string>
+		</dict>
+	</array>
+</dict>
+</plist>

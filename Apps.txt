@@ -1,0 +1,413 @@
+/Applications/Adobe/Adobe Help.app
+/Applications/Adobe Acrobat X Pro/Acrobat Distiller.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/Built-in/Preflight.acroplugin/Versions/A/Resources/Droplet.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/MacOS/Updater/Adobe Acrobat Updater Helper.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/MacOS/Updater/Adobe Acrobat Updater.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/Support/Acrobat Uninstaller.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/Support/Acrobat Uninstaller.app/Contents/Frameworks/adobe_oobelib/adobe_asm.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/Support/AdobeResourceSynchronizer.app
+/Applications/Adobe Acrobat X Pro/Adobe Acrobat Pro.app/Contents/Support/Assert.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/Adobe Crash Reporter.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/AdobeCrashDaemon.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/MacOS/adobe3dandvideoserver.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/MacOS/Photo Downloader.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/Required/LogTransportLaunch.app
+/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app/Contents/Required/LogTransportLaunch.app/Contents/Frameworks/LogTransport.framework/Versions/A/Support/LogTransport.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/Adobe Crash Reporter.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/AdobeCrashDaemon.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app/Contents/Resources/LogTransportLaunch.app
+/Applications/Adobe Extension Manager CS6/Adobe Extension Manager CS6.app/Contents/Resources/LogTransportLaunch.app/Contents/Frameworks/LogTransport.framework/Versions/A/Support/LogTransport.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/Adobe Crash Reporter.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/AdobeCrashDaemon.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/LogTransport.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Frameworks/AdobePSL.framework/Versions/A/Required/AdobeQTServer.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Required/LogTransportLaunch.app
+/Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Required/LogTransportLaunch.app/Contents/Frameworks/LogTransport.framework/Versions/A/Support/LogTransport.app
+/Applications/Adobe Illustrator CS6/Scripting.localized/Sample Scripts.localized/AppleScript.localized/Analyze Documents.localized/Analyze Documents.app
+/Applications/Adobe Illustrator CS6/Scripting.localized/Sample Scripts.localized/AppleScript.localized/Calendar.localized/Make Calendar.app
+/Applications/Adobe Illustrator CS6/Scripting.localized/Sample Scripts.localized/AppleScript.localized/Contact Sheet Demo.localized/Contact Sheets.app
+/Applications/Adobe Illustrator CS6/Scripting.localized/Sample Scripts.localized/AppleScript.localized/Export Flash Animation.localized/Export Flash Animation.app
+/Applications/Adobe Illustrator CS6/Scripting.localized/Sample Scripts.localized/AppleScript.localized/Web Gallery.localized/Web Gallery.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/Adobe Crash Reporter.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/Required/AdobeCrashDaemon.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/Required/LogTransportLaunch.app
+/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app/Contents/Required/LogTransportLaunch.app/Contents/Frameworks/LogTransport.framework/Versions/A/Support/LogTransport.app
+/Applications/Adobe Media Player.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/required/Adobe Crash Reporter.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/required/AdobeCrashDaemon.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Frameworks/AdobeCrashReporter.framework/required/AdobeCrashRealTimeNotification.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/hlcrashprocessor.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Required/Droplet Template.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Required/logtransportlaunch.app
+/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Required/logtransportlaunch.app/Contents/frameworks/LogTransport.framework/Versions/A/support/LogTransport.app
+/Applications/Alfred 2.app
+/Applications/Alfred 2.app/Contents/Preferences/Alfred Preferences.app
+/Applications/AlphaBaby.app
+/Applications/App Store.app
+/Applications/Apple Configurator.app
+/Applications/Aquamacs Emacs.app
+/Applications/Audacity/Audacity.app
+/Applications/Automator.app
+/Applications/Automator.app/Contents/Resources/Application Stub.app
+/Applications/Backup Utility.app
+/Applications/Blender/blender.app
+/Applications/Blender/blenderplayer.app
+/Applications/Blender/set_simulation_threads.app
+/Applications/Booknote Importer.app
+/Applications/Burn.localized/Burn.app
+/Applications/Calaboration.app
+/Applications/Calculator.app
+/Applications/Calendar.app
+/Applications/calibre.app
+/Applications/calibre.app/Contents/console.app
+/Applications/Capo.app
+/Applications/Celestia 1.6.0/Celestia.app
+/Applications/Chess.app
+/Applications/Chicken of the VNC.app
+/Applications/Climate Consultant 5.4.app
+/Applications/CMake 2.8-0.app
+/Applications/Contacts.app
+/Applications/CoRD.app
+/Applications/CrashPlan.app
+/Applications/CrashPlan.app/Contents/Resources/CrashPlan menu bar.app
+/Applications/CrashPlan.app/Contents/Uninstall.app
+/Applications/cTiVo.app
+/Applications/Cyberduck.app
+/Applications/Dashboard.app
+/Applications/Deep Notes.app
+/Applications/Dictionary.app
+/Applications/DiskMaker X.app
+/Applications/DiskMaker X.app/Contents/Resources/ASObjC Runner.app
+/Applications/DiskMaker X.app/Contents/Resources/ASObjC Runner.app/Contents/Frameworks/Sparkle.framework/Resources/finish_installation.app
+/Applications/DiskMaker X.app/Contents/Resources/ASObjC Runner.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/finish_installation.app
+/Applications/DiskMaker X.app/Contents/Resources/ASObjC Runner.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/finish_installation.app
+/Applications/DPS App Builder.app
+/Applications/DraftSight.app
+/Applications/DraftSight.app/Contents/PlugIns/FxCrashRptApp.app
+/Applications/Dropbox.app
+/Applications/DVD Player.app
+/Applications/Epson Software/Print CD/Print CD.app
+/Applications/Epson Software/Print CD/Readme.app
+/Applications/FaceTime.app
+/Applications/Fiery/ColorWise Pro Tools/ColorWise Pro Tools.app
+/Applications/Fiery/ColorWise Pro Tools/SpotOnProcess.app
+/Applications/Fiery/CWS Macintosh Edition/CWS Macintosh Edition.app
+/Applications/Fiery/CWS Macintosh Edition/jpexe.app
+/Applications/Fiery/EFI ImageViewer/EFI ImageViewer.app
+/Applications/FileMaker Pro 11/Extensions/Registration/Registration.app
+/Applications/FileMaker Pro 11/Extensions/Web Support/FM Web Publishing.app
+/Applications/FileMaker Pro 11/FileMaker Pro.app
+/Applications/FileMaker Pro 12/Extensions/Registration/Registration.app
+/Applications/FileMaker Pro 12/Extensions/Web Support/FM Web Publishing.app
+/Applications/FileMaker Pro 12/FileMaker Pro.app
+/Applications/Firefox.app
+/Applications/Firefox.app/Contents/MacOS/crashreporter.app
+/Applications/Firefox.app/Contents/MacOS/plugin-container.app
+/Applications/Firefox.app/Contents/MacOS/updater.app
+/Applications/Fluid.app
+/Applications/Fluid.app/Contents/Resources/FluidApp.app
+/Applications/Font Book.app
+/Applications/forticlientsslvpn.app
+/Applications/Game Center.app
+/Applications/GarageBand.app
+/Applications/GitHub.app
+/Applications/Google Chrome.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.125/Google Chrome Framework.framework/Resources/app_mode_loader.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.125/Google Chrome Framework.framework/Resources/crash_report_sender.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.125/Google Chrome Helper EH.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.125/Google Chrome Helper NP.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.125/Google Chrome Helper.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.143/Google Chrome Framework.framework/Resources/app_mode_loader.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.143/Google Chrome Framework.framework/Resources/crash_report_sender.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.143/Google Chrome Helper EH.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.143/Google Chrome Helper NP.app
+/Applications/Google Chrome.app/Contents/Versions/36.0.1985.143/Google Chrome Helper.app
+/Applications/Google Earth.app
+/Applications/Google Earth.app/Contents/Frameworks/GoogleBreakpad.framework/Resources/Reporter.app
+/Applications/Google SketchUp 8/SketchUp.app
+/Applications/Google SketchUp 8/SketchUp.app/Contents/Frameworks/Breakpad.framework/Versions/A/Resources/crash_report_sender.app
+/Applications/HandBrake.app
+/Applications/Hewlett-Packard/HP Utility.app
+/Applications/HipChat.app
+/Applications/iBooks.app
+/Applications/iDVD.app
+/Applications/Image Capture.app
+/Applications/iMovie.app
+/Applications/Install OS X Mavericks.app
+/Applications/Install OS X Mavericks.app/Contents/Resources/FindReaperFiles.app
+/Applications/iPhoto.app
+/Applications/iStumbler.app
+/Applications/iStumbler.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
+/Applications/iTunes.app
+/Applications/iTunes.app/Contents/MacOS/iTunesHelper.app
+/Applications/iWeb.app
+/Applications/iWork '09/Keynote.app
+/Applications/iWork '09/Keynote.app/Contents/XPCServices/com.apple.iwork.KeynoteConverterXPC.xpc/Contents/Resources/KeynoteConverterBridge.app
+/Applications/iWork '09/Numbers.app
+/Applications/iWork '09/Numbers.app/Contents/XPCServices/com.apple.iwork.NumbersConverterXPC.xpc/Contents/Resources/NumbersConverterBridge.app
+/Applications/iWork '09/Pages.app
+/Applications/iWork '09/Pages.app/Contents/XPCServices/com.apple.iwork.PagesConverterXPC.xpc/Contents/Resources/PagesConverterBridge.app
+/Applications/Keynote.app
+/Applications/Kindle.app
+/Applications/Kindle.app/Contents/Resources/Kindle Crash Reporter.app
+/Applications/KisMAC.app
+/Applications/Launchpad.app
+/Applications/Launchy.app
+/Applications/LuxRender/LuxRender.app
+/Applications/MacPorts/Python 2.6/Build Applet.app
+/Applications/MacPorts/Python 2.6/IDLE.app
+/Applications/MacPorts/Python 2.6/Python Launcher.app
+/Applications/MacPorts/Python 2.7/IDLE.app
+/Applications/MacPorts/Python 2.7/Python Launcher.app
+/Applications/MacScanner.app
+/Applications/Mactracker.app
+/Applications/Mail.app
+/Applications/Maps.app
+/Applications/MediaCloudMac.app
+/Applications/Messages.app
+/Applications/Microsoft Office 2008/Additional Tools/Microsoft Language Register/Microsoft Language Register.app
+/Applications/Microsoft Office 2008/Additional Tools/Remove Office/Remove Office.app
+/Applications/Microsoft Office 2008/Microsoft Document Connection.app
+/Applications/Microsoft Office 2008/Microsoft Entourage.app
+/Applications/Microsoft Office 2008/Microsoft Excel.app
+/Applications/Microsoft Office 2008/Microsoft Messenger.app
+/Applications/Microsoft Office 2008/Microsoft Messenger.app/Contents/SharedSupport/Alerts Daemon.app
+/Applications/Microsoft Office 2008/Microsoft Messenger.app/Contents/SharedSupport/Microsoft Error Reporting.app
+/Applications/Microsoft Office 2008/Microsoft Messenger.app/Contents/SharedSupport/Microsoft Messenger Daemon.app
+/Applications/Microsoft Office 2008/Microsoft PowerPoint.app
+/Applications/Microsoft Office 2008/Microsoft Word.app
+/Applications/Microsoft Office 2008/Office/Alerts Daemon.app
+/Applications/Microsoft Office 2008/Office/Equation Editor.app
+/Applications/Microsoft Office 2008/Office/Microsoft Cert Manager.app
+/Applications/Microsoft Office 2008/Office/Microsoft Chart Converter.app
+/Applications/Microsoft Office 2008/Office/Microsoft Clip Gallery.app
+/Applications/Microsoft Office 2008/Office/Microsoft Database Daemon.app
+/Applications/Microsoft Office 2008/Office/Microsoft Database Utility.app
+/Applications/Microsoft Office 2008/Office/Microsoft Graph.app
+/Applications/Microsoft Office 2008/Office/Microsoft Office Reminders.app
+/Applications/Microsoft Office 2008/Office/Microsoft Office Setup Assistant.app
+/Applications/Microsoft Office 2008/Office/Microsoft Project Gallery.app
+/Applications/Microsoft Office 2008/Office/Microsoft Sync Services.app
+/Applications/Microsoft Office 2008/Office/My Day.app
+/Applications/Microsoft Office 2008/Office/Organization Chart.app
+/Applications/Microsoft Remote Desktop.app
+/Applications/Miro.app
+/Applications/Mission Control.app
+/Applications/NodeBox/NodeBox.app
+/Applications/NookForMac.app
+/Applications/NookForMac.app/Contents/Resources/AppUpdateHelper.app
+/Applications/NookForMac.app/Contents/Resources/BnIndexer_MacApp.app
+/Applications/NookForMac.app/Contents/Resources/BNProtocolRouter.app
+/Applications/Notes.app
+/Applications/Nottingham.app
+/Applications/Numbers.app
+/Applications/nvALT.app
+/Applications/OpenProj.app
+/Applications/Pages.app
+/Applications/PandoraBoy.app
+/Applications/PandoraBoy.app/Contents/Frameworks/Sparkle.framework/relaunch.app
+/Applications/PandoraBoy.app/Contents/Frameworks/Sparkle.framework/Versions/A/relaunch.app
+/Applications/Pastor.app
+/Applications/PCClient.app
+/Applications/Photo Booth.app
+/Applications/Plex Media Server.app
+/Applications/Preview.app
+/Applications/Processing-1.5.1.app
+/Applications/Processing-1.5.1.app/Contents/Resources/Java/modes/java/application/template.app
+/Applications/ProjectLibre.app
+/Applications/QuickTime Player.app
+/Applications/Reminders.app
+/Applications/Remote Desktop.app
+/Applications/RemoteGateway.app
+/Applications/RescueTime.app
+/Applications/Safari.app
+/Applications/Server.app
+/Applications/Server.app/Contents/Applications/Xsan Admin.app
+/Applications/Simplenote.app
+/Applications/SketchBookExpress.app
+/Applications/Skype.app
+/Applications/SnmpB.app
+/Applications/Sofortbild.app
+/Applications/Spotify.app
+/Applications/Spotify.app/Contents/Frameworks/Spotify Helper EH.app
+/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app
+/Applications/Spotify.app/Contents/Resources/Relauncher.app
+/Applications/Stanza.app
+/Applications/Stellarium.app
+/Applications/Stickies.app
+/Applications/StudioTether.app
+/Applications/Sublime Text 2.app
+/Applications/Symantec Solutions/LiveUpdate.app
+/Applications/Symantec Solutions/Symantec Endpoint Protection.app
+/Applications/Synergy.app
+/Applications/System Preferences.app
+/Applications/Tagalicious.app
+/Applications/Tagalicious.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/finish_installation.app
+/Applications/TechTool Deluxe.app
+/Applications/TextEdit.app
+/Applications/Time Machine.app
+/Applications/Tofu.app
+/Applications/Tomahawk.app
+/Applications/TorBrowser.app
+/Applications/TorBrowser.app/Contents/MacOS/TorBrowser.app
+/Applications/TorBrowser.app/Contents/MacOS/TorBrowser.app/Contents/MacOS/plugin-container.app
+/Applications/Transmission.app
+/Applications/Trello.app
+/Applications/Tuxguitar.app
+/Applications/Unison.app
+/Applications/Unison.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/finish_installation.app
+/Applications/Utilities/Activity Monitor.app
+/Applications/Utilities/Adobe AIR Application Installer.app
+/Applications/Utilities/Adobe AIR Uninstaller.app
+/Applications/Utilities/Adobe AIR Uninstaller.app/Contents/Frameworks/Adobe AIR.framework/Versions/1.0/Resources/Template.app
+/Applications/Utilities/Adobe Application Manager/core/Adobe Application Manager.app
+/Applications/Utilities/Adobe Application Manager/core/PDApp.app
+/Applications/Utilities/Adobe Application Manager/D6/Setup.app
+/Applications/Utilities/Adobe Application Manager/DECore/DE5/resources/uninstall/Uninstall Product.app
+/Applications/Utilities/Adobe Application Manager/DECore/DE6/resources/uninstall/Uninstall Product.app
+/Applications/Utilities/Adobe Application Manager/DECore/Setup.app
+/Applications/Utilities/Adobe Application Manager/DWA/Setup.app
+/Applications/Utilities/Adobe Application Manager/LWA/AAM Registration Notifier.app
+/Applications/Utilities/Adobe Application Manager/LWA/adobe_licutil.app
+/Applications/Utilities/Adobe Application Manager/P6/AAM Registration Notifier.app
+/Applications/Utilities/Adobe Application Manager/P6/adobe_licutil.app
+/Applications/Utilities/Adobe Application Manager/UWA/AAM Updates Notifier.app
+/Applications/Utilities/Adobe Application Manager/UWA/LogTransport2.app
+/Applications/Utilities/Adobe Application Manager/UWA/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Utilities/Adobe Flash Player Install Manager.app
+/Applications/Utilities/Adobe Utilities-CS5.localized/ExtendScript Toolkit CS5/ExtendScript Toolkit.app
+/Applications/Utilities/Adobe Utilities-CS6.localized/ExtendScript Toolkit CS6/ExtendScript Toolkit.app
+/Applications/Utilities/Adobe Utilities.localized/Adobe Updater6/Adobe Updater.app
+/Applications/Utilities/Adobe Utilities.localized/ExtendScript Toolkit CS4/ExtendScript Toolkit.app
+/Applications/Utilities/AirPort Utility.app
+/Applications/Utilities/AppleScript Editor.app
+/Applications/Utilities/arRsync.app
+/Applications/Utilities/Audio MIDI Setup.app
+/Applications/Utilities/Bluetooth File Exchange.app
+/Applications/Utilities/Boot Camp Assistant.app
+/Applications/Utilities/Built-In Keyboard Firmware Update.app
+/Applications/Utilities/Carbon Copy Cloner.app
+/Applications/Utilities/Carbon Copy Cloner.app/Contents/MacOS/CCC User Agent.app
+/Applications/Utilities/Carbon Copy Cloner.app/Contents/MacOS/ccchelper.app
+/Applications/Utilities/ColorSync Utility.app
+/Applications/Utilities/Console.app
+/Applications/Utilities/DigitalColor Meter.app
+/Applications/Utilities/Disk Utility.app
+/Applications/Utilities/Grab.app
+/Applications/Utilities/Grapher.app
+/Applications/Utilities/IntelliPoint UnInstaller.app
+/Applications/Utilities/Keychain Access.app
+/Applications/Utilities/MacBook EFI Firmware Update.app
+/Applications/Utilities/Migration Assistant.app
+/Applications/Utilities/OnyX.app
+/Applications/Utilities/OnyX.app/Contents/Resources/Network Link Conditioner.prefPane/Contents/PlugIns/NLCBackgroundApp.app
+/Applications/Utilities/System Information.app
+/Applications/Utilities/Terminal.app
+/Applications/Utilities/Uninstall USB Overdrive.app
+/Applications/Utilities/VoiceOver Utility.app
+/Applications/Utilities/VoiceOver Utility.app/Contents/OtherBinaries/VoiceOverUtilityCacheBuilder.app
+/Applications/Utilities/X11.app
+/Applications/uTorrent.app
+/Applications/VirtualBox.app
+/Applications/VirtualBox.app/Contents/Resources/VirtualBoxVM.app
+/Applications/VirtualBox.app/Contents/Resources/vmstarter.app
+/Applications/VLC.app
+/Applications/VLC.app/Contents/Frameworks/Sparkle.framework/Resources/finish_installation.app
+/Applications/VLC.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/finish_installation.app
+/Applications/VLC.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/finish_installation.app
+/Applications/Vox.app
+/Applications/Vox.app/Contents/Frameworks/DevMateProblemReporter.framework/Versions/A/Problem Reporter.app
+/Applications/Vox.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/finish_installation.app
+/Applications/VueScan.app
+/Applications/Wireshark.app
+/Applications/XBMC-12.2-w-patch.app
+/Applications/XBMC-12.3.app
+/Applications/XBMC.app
+/Applications/Xcode.app
+/Applications/Xcode.app/Contents/Applications/Accessibility Inspector.app
+/Applications/Xcode.app/Contents/Applications/Application Loader.app
+/Applications/Xcode.app/Contents/Applications/FileMerge.app
+/Applications/Xcode.app/Contents/Applications/Instruments.app
+/Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/Helpers/backgroundinstruments.app
+/Applications/Xcode.app/Contents/Applications/iPhone Simulator.app
+/Applications/Xcode.app/Contents/Applications/Printer Simulator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Developer/Applications/MobileReplayer.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/CloudServices.framework/Support/EscrowSecurityAlert.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/IDSCore.framework/identityservicesd.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/IMAVCore.framework/imavagent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/IMCore.framework/imagent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications/iPhone Simulator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/AACredentialRecoveryDialog.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/AccountAuthenticationDialog.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/AdSheet.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Camera.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Contacts.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/DataActivation.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/DDActionsService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/FacebookAccountMigrationDialog.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Game Center~ipad.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Game Center~iphone.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/GameCenterUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/iAdOptOut.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/iOS Diagnostics.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/iPodOut.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/MailCompositionService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Maps.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/MessagesViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/MobileCal.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/MobileSafari.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/MobileSlideShow.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/MusicUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Passbook.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/PassbookUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Photo Booth.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Preferences.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/PrintStatus.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/quicklookd.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/SiriViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/SocialUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/StoreKitUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/TencentWeiboAccountMigrationDialog.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/TrustMe.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/Web.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/WebContentAnalysisUI.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/WebSheet.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Applications/WebViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/AssistiveTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/MobileStorageMounter.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SpringBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/VoiceOverTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/CloudServices.framework/Support/EscrowSecurityAlert.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/IDSCore.framework/identityservicesd.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/IMAVCore.framework/imavagent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Interface Builder/Plug-ins/CarbonPlugin.ibplugin/Contents/Resources/IBCarbonSimulator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Interface Builder/Plug-ins/CocoaPlugin.ibplugin/Contents/Resources/IBCocoaSimulator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/WebKit.framework/WebKitPluginHost.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/PrivateFrameworks/WebKit2.framework/PluginProcess.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/PrivateFrameworks/WebKit2.framework/WebProcess.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/WebKitPluginHost.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/WebKit2.framework/NetworkProcess.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/WebKit2.framework/PluginProcess.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/WebKit2.framework/WebProcess.app
+/Applications/Xcode.app/Contents/Frameworks/IDEFoundation.framework/Versions/A/Resources/Xcode SSH Authentication Agent.app
+/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderCocoaIntegration.ideplugin/Contents/Resources/Cocoa Simulator.app
+/Applications/Xnntp.app
+/Applications/XStreamRipper.app
+/Applications/YouSendIt.app

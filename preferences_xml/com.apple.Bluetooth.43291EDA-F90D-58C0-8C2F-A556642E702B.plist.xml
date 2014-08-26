@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVRCPEnabled</key>
+	<integer>1</integer>
+	<key>AuthenticationEnable</key>
+	<integer>0</integer>
+	<key>BluetoothVersionNumber</key>
+	<integer>3</integer>
+	<key>DeviceExpiration</key>
+	<integer>30</integer>
+	<key>DiscoverableState</key>
+	<true/>
+	<key>EncryptionEnable</key>
+	<integer>0</integer>
+	<key>FavoriteDevices</key>
+	<array>
+		<string>00-21-d2-a1-e1-d1</string>
+	</array>
+	<key>LastSystemInput</key>
+	<string>AppleHDAEngineInput:1B,0,1,0:1</string>
+	<key>LastSystemOutput</key>
+	<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+	<key>OBEXBrowseConnectionHandling</key>
+	<integer>1</integer>
+	<key>OBEXFTPRootFolderLocation</key>
+	<string>~/Public</string>
+	<key>OBEXFileHandling</key>
+	<integer>1</integer>
+	<key>OBEXOtherDataDisposition</key>
+	<integer>2</integer>
+	<key>OBEXPIMDataDisposition</key>
+	<integer>2</integer>
+	<key>OBEXPIMDataSaveToLocation</key>
+	<string>~/Downloads</string>
+	<key>PrefKeyServicesEnabled</key>
+	<integer>0</integer>
+	<key>PrefPanelTabIndex</key>
+	<integer>0</integer>
+	<key>RFCOMM10BEnable</key>
+	<false/>
+	<key>RecentDevices</key>
+	<dict>
+		<key>00-21-d2-a1-e1-d1</key>
+		<date>2011-11-22T06:44:46Z</date>
+		<key>60-fb-42-0a-7b-f9</key>
+		<date>2012-01-25T17:08:06Z</date>
+	</dict>
+</dict>
+</plist>

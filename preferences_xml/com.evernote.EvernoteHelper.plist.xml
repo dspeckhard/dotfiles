@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENPlaySoundAfterClip</key>
+	<true/>
+	<key>ShortcutRecorder newnote</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>45</integer>
+		<key>modifierFlags</key>
+		<integer>1310720</integer>
+	</dict>
+	<key>ShortcutRecorder newnotewindow</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>45</integer>
+		<key>modifierFlags</key>
+		<integer>1835008</integer>
+	</dict>
+	<key>ShortcutRecorder pasteboard</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>9</integer>
+		<key>modifierFlags</key>
+		<integer>1310720</integer>
+	</dict>
+	<key>ShortcutRecorder screenshot</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>8</integer>
+		<key>modifierFlags</key>
+		<integer>1310720</integer>
+	</dict>
+	<key>ShortcutRecorder search</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>14</integer>
+		<key>modifierFlags</key>
+		<integer>1310720</integer>
+	</dict>
+	<key>currentLoginID</key>
+	<string>dspeckhard@bcj.com___Evernote</string>
+	<key>noteFont</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaRiEBVsy
+	NGNdBgAAABAAAAD//kEAcgBpAGEAbABNAFQAhAFmDYQBYwCYAZgAmACG
+	</data>
+	<key>showsStatusBarItem</key>
+	<true/>
+</dict>
+</plist>

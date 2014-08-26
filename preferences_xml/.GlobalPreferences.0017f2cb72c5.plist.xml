@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ColorSync.Devices</key>
+	<dict>
+		<key>Device.mntr.04271800-0000-0000-0000-000000000000</key>
+		<dict>
+			<key>CustomProfiles</key>
+			<dict>
+				<key>1</key>
+				<string>/Library/ColorSync/Profiles/Displays/Color LCD-4271800.icc</string>
+			</dict>
+		</dict>
+		<key>Device.mntr.28E84281-0000-0000-0000-000000000000</key>
+		<dict>
+			<key>CustomProfiles</key>
+			<dict>
+				<key>1</key>
+				<string>/Library/ColorSync/Profiles/Displays/EPSON PJ    -28E84281.icc</string>
+			</dict>
+		</dict>
+		<key>Device.mntr.2B183F79-0000-0000-0000-000000000000</key>
+		<dict>
+			<key>CustomProfiles</key>
+			<dict>
+				<key>1</key>
+				<string>/Library/ColorSync/Profiles/Profiles/Recommended/AdobeRGB1998.icc</string>
+			</dict>
+		</dict>
+		<key>Device.mntr.2B38560D-0000-0000-0000-000000000000</key>
+		<dict>
+			<key>CustomProfiles</key>
+			<dict>
+				<key>1</key>
+				<string>/Library/ColorSync/Profiles/Displays/DELL 2005FPW-2B38560D.icc</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>com.apple.CommonPanels.CalibrateDisplay.identifier-2B183F79</key>
+	<string>com.apple.ColorSyncCalibrator</string>
+	<key>com.apple.CommonPanels.CalibrateDisplay.seed</key>
+	<integer>-1120508567</integer>
+	<key>com.apple.mouse.swapLeftRightButton</key>
+	<false/>
+	<key>com.apple.trackpad.enableSecondaryClick</key>
+	<true/>
+	<key>com.apple.trackpad.fourFingerHorizSwipeGesture</key>
+	<true/>
+	<key>com.apple.trackpad.fourFingerVertSwipeGesture</key>
+	<true/>
+	<key>com.apple.trackpad.pinchGesture</key>
+	<true/>
+	<key>com.apple.trackpad.rotateGesture</key>
+	<true/>
+	<key>com.apple.trackpad.scrollBehavior</key>
+	<integer>2</integer>
+	<key>com.apple.trackpad.threeFingerSwipeGesture</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>648 688 384 129 0 0 1680 1028 </string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>http://media.alfredapp.com/update/appcast.xml</string>
+	<key>SULastCheckTime</key>
+	<date>2013-06-12T04:17:32Z</date>
+	<key>SUScheduledCheckInterval</key>
+	<real>604800</real>
+	<key>WebKitDefaultFontSize</key>
+	<integer>11</integer>
+	<key>WebKitStandardFont</key>
+	<string>Lucida Grande</string>
+	<key>appbundle</key>
+	<string>268</string>
+	<key>appearance.hideHat</key>
+	<true/>
+	<key>appearance.themeuid</key>
+	<string>alfred.theme.lion</string>
+	<key>applications.fuzzy</key>
+	<true/>
+	<key>appsetup</key>
+	<string>1.4</string>
+	<key>calculator.advanced</key>
+	<true/>
+	<key>itunes.libraryxml</key>
+	<string>~/Music/iTunes/iTunes Music Library.xml</string>
+	<key>stats.count</key>
+	<integer>649</integer>
+	<key>stats.from</key>
+	<date>2012-08-09T07:00:00Z</date>
+	<key>weblocale</key>
+	<string>United States</string>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+{
+  "com.apple.CommonPanels.CalibrateDisplay.identifier-2B183F79" : "com.apple.ColorSyncCalibrator",
+  "com.apple.trackpad.fourFingerVertSwipeGesture" : true,
+  "com.apple.trackpad.pinchGesture" : true,
+  "com.apple.CommonPanels.CalibrateDisplay.seed" : -1120508567,
+  "com.apple.trackpad.scrollBehavior" : 2,
+  "com.apple.ColorSync.Devices" : {
+    "Device.mntr.2B38560D-0000-0000-0000-000000000000" : {
+      "CustomProfiles" : {
+        "1" : "\/Library\/ColorSync\/Profiles\/Displays\/DELL 2005FPW-2B38560D.icc"
+      }
+    },
+    "Device.mntr.28E84281-0000-0000-0000-000000000000" : {
+      "CustomProfiles" : {
+        "1" : "\/Library\/ColorSync\/Profiles\/Displays\/EPSON PJ    -28E84281.icc"
+      }
+    },
+    "Device.mntr.04271800-0000-0000-0000-000000000000" : {
+      "CustomProfiles" : {
+        "1" : "\/Library\/ColorSync\/Profiles\/Displays\/Color LCD-4271800.icc"
+      }
+    },
+    "Device.mntr.2B183F79-0000-0000-0000-000000000000" : {
+      "CustomProfiles" : {
+        "1" : "\/Library\/ColorSync\/Profiles\/Profiles\/Recommended\/AdobeRGB1998.icc"
+      }
+    }
+  },
+  "com.apple.trackpad.fourFingerHorizSwipeGesture" : true,
+  "com.apple.trackpad.enableSecondaryClick" : true,
+  "com.apple.trackpad.threeFingerSwipeGesture" : true,
+  "com.apple.trackpad.rotateGesture" : true,
+  "com.apple.mouse.swapLeftRightButton" : false
+}

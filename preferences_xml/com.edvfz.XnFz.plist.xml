@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSSplitView Subview Frames splitter</key>
+	<array>
+		<string>0.000000, 0.000000, 292.000000, 342.000000, NO</string>
+		<string>0.000000, 351.000000, 292.000000, 157.000000, NO</string>
+	</array>
+	<key>NSTableView Columns browser</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCWFyU3ViamVjdIY=
+		</data>
+		<string>304</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCGFyU2VuZGVyhg==
+		</data>
+		<string>228</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBmFyRGF0ZYY=
+		</data>
+		<string>143</string>
+	</array>
+	<key>NSTableView Columns subTable2</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBXN0YXRlhg==
+		</data>
+		<string>25</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBWdyb3Vwhg==
+		</data>
+		<string>259</string>
+	</array>
+	<key>NSTableView Hidden Columns browser</key>
+	<array/>
+	<key>NSTableView Hidden Columns subTable2</key>
+	<array/>
+	<key>NSTableView Sort Ordering browser</key>
+	<array/>
+	<key>NSTableView Sort Ordering subTable2</key>
+	<array/>
+	<key>NSWindow Frame articleAction</key>
+	<string>1041 159 687 535 0 0 1680 1028 </string>
+	<key>WebKitDefaultFixedFontSize</key>
+	<integer>14</integer>
+	<key>WebKitFixedFont</key>
+	<string>CourierNewPSMT</string>
+</dict>
+</plist>

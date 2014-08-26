@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedStorefrontID</key>
+	<string>143441-1,13 ab:XYZ1</string>
+	<key>CachedStorefrontRedirectID</key>
+	<string>143441-1,13 ab:XYZ1</string>
+	<key>CachedStorefrontRedirectURL</key>
+	<string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=29520&amp;mt=12</string>
+	<key>CachedStorefrontURL</key>
+	<string>https://itunes.apple.com/us/store</string>
+	<key>NSWindow Frame Preferences</key>
+	<string>0 109 1676 919 0 0 1680 1028 </string>
+	<key>WebKitSuppressesIncrementalRendering</key>
+	<true/>
+	<key>appStoreBadgeCount</key>
+	<integer>0</integer>
+	<key>availableUpdates</key>
+	<array>
+		<dict>
+			<key>artist-name</key>
+			<string>Autodesk Inc.</string>
+			<key>artwork-urls</key>
+			<array>
+				<dict>
+					<key>box-height</key>
+					<integer>58</integer>
+					<key>box-width</key>
+					<integer>58</integer>
+					<key>url</key>
+					<string>http://a505.phobos.apple.com/us/r30/Purple/v4/66/59/86/6659868a-159c-56aa-5f9f-ef3b88d093fb/SketchBookExpress.58x58-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>100</integer>
+					<key>box-width</key>
+					<integer>100</integer>
+					<key>url</key>
+					<string>http://a183.phobos.apple.com/us/r30/Purple/v4/66/59/86/6659868a-159c-56aa-5f9f-ef3b88d093fb/SketchBookExpress.100x100-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>200</integer>
+					<key>box-width</key>
+					<integer>200</integer>
+					<key>scale</key>
+					<real>2</real>
+					<key>url</key>
+					<string>http://a53.phobos.apple.com/us/r30/Purple/v4/66/59/86/6659868a-159c-56aa-5f9f-ef3b88d093fb/SketchBookExpress.200x200-75.png</string>
+				</dict>
+			</array>
+			<key>bundle-id</key>
+			<string>com.autodesk.sketchbookexpressmac</string>
+			<key>current-version</key>
+			<string>6.2.2</string>
+			<key>description</key>
+			<string>Autodesk SketchBook® Express for Mac is a fun and intuitive drawing application. Get a taste of the SketchBook Pro experience with SketchBook Express. Use professional-grade tools and brushes to create and save flattened images to your Mac. 
+
+Features: 
+- Streamlined UI 
+• Gesture-based marking menus for ultra-fast access to tools and commands with a flick of the wrist 
+• Optimized for pen and tablet-based interaction for a natural drawing experience 
+• Space Bar invokes a 'Puck' to quickly navigate the canvas 
+
+- High Quality Preset Brushes 
+• Familiar preset tools, including pencils markers, airbrushes, erasers, flood fill tools, blur, and sharpen brushes 
+• Draw modes to quickly create circles, lines, rectangles 
+
+- Basic layers 
+• Use 6 layers to build up drawings 
+
+- Import Your Own Images 
+• Drag and drop or import images into a layer 
+
+- Quick cropping tool</string>
+			<key>item-id</key>
+			<integer>404243625</integer>
+			<key>link-type</key>
+			<string>software-update</string>
+			<key>preflight</key>
+			<string>http://a1752.phobos.apple.com/us/r1000/056/Purple6/v4/eb/6d/e7/eb6de7cd-3967-9d56-2c9d-66139d6d87c8/signed.dcr.1676550688770449896.pfpkg</string>
+			<key>rating</key>
+			<dict>
+				<key>advisory-array</key>
+				<array/>
+				<key>description</key>
+				<string></string>
+				<key>label</key>
+				<string>4+</string>
+				<key>rank</key>
+				<integer>100</integer>
+				<key>system</key>
+				<string>itunes-games</string>
+			</dict>
+			<key>release-date</key>
+			<date>2013-09-21T16:29:44Z</date>
+			<key>release-notes</key>
+			<string>• 2 Copic Colorless Blenders - We added this property to 2 markers. When you turn on this option in the Properties of a Copic marker, it turns that brush into a Copic Colorless Blender marker.
+• Copic Colors - 36 Copic colors have been added.</string>
+			<key>store-offers</key>
+			<dict>
+				<key>SWUPD</key>
+				<dict>
+					<key>action-display-name</key>
+					<string>Install</string>
+					<key>action-params</key>
+					<string>productType=C&amp;salableAdamId=404243625&amp;pricingParameters=SWUPD&amp;price=0&amp;appExtVrsId=16173469&amp;ct-id=14</string>
+					<key>asset-flavors</key>
+					<dict>
+						<key>flor</key>
+						<dict>
+							<key>size</key>
+							<integer>80284053</integer>
+						</dict>
+					</dict>
+					<key>price</key>
+					<real>0.0</real>
+					<key>price-display</key>
+					<string>Free</string>
+					<key>size</key>
+					<integer>80284053</integer>
+				</dict>
+			</dict>
+			<key>title</key>
+			<string>SketchBook Express</string>
+			<key>type</key>
+			<string>link</string>
+			<key>url</key>
+			<string>https://itunes.apple.com/us/app/sketchbook-express/id404243625?mt=12</string>
+			<key>url-page-type</key>
+			<string>software-update</string>
+			<key>version</key>
+			<string>6.2.2</string>
+			<key>version-external-identifier</key>
+			<integer>16173469</integer>
+			<key>version-external-identifiers</key>
+			<array>
+				<integer>3160623</integer>
+				<integer>3334597</integer>
+				<integer>3914093</integer>
+				<integer>3989845</integer>
+				<integer>4129052</integer>
+				<integer>5252599</integer>
+				<integer>8538715</integer>
+				<integer>11919238</integer>
+				<integer>15464831</integer>
+				<integer>15780348</integer>
+				<integer>16173469</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>artist-name</key>
+			<string>Apple</string>
+			<key>artwork-urls</key>
+			<array>
+				<dict>
+					<key>box-height</key>
+					<integer>58</integer>
+					<key>box-width</key>
+					<integer>58</integer>
+					<key>url</key>
+					<string>http://a97.phobos.apple.com/us/r30/Purple/v4/e2/08/39/e20839f3-642a-992c-7668-20538b62b8e3/Xcode.58x58-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>100</integer>
+					<key>box-width</key>
+					<integer>100</integer>
+					<key>url</key>
+					<string>http://a1039.phobos.apple.com/us/r30/Purple/v4/e2/08/39/e20839f3-642a-992c-7668-20538b62b8e3/Xcode.100x100-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>200</integer>
+					<key>box-width</key>
+					<integer>200</integer>
+					<key>scale</key>
+					<real>2</real>
+					<key>url</key>
+					<string>http://a557.phobos.apple.com/us/r30/Purple/v4/e2/08/39/e20839f3-642a-992c-7668-20538b62b8e3/Xcode.200x200-75.png</string>
+				</dict>
+			</array>
+			<key>bundle-id</key>
+			<string>com.apple.dt.Xcode</string>
+			<key>current-version</key>
+			<string>5.0.1</string>
+			<key>description</key>
+			<string>Xcode provides everything developers need to create great applications for Mac, iPhone, and iPad. Xcode has unified user interface design, coding, testing, and debugging all within a single window. The Xcode IDE analyzes the details of your project to identify mistakes in both syntax and logic, it can even help fix your code for you. 
+
+Xcode includes the Xcode IDE, LLVM compiler, Instruments, iOS Simulator, the latest OS X and iOS SDKs, and hundreds of powerful features:
+
+Innovative tools to help you create great apps
+• Interface Builder is fully integrated as a design canvas within the Xcode IDE
+• The Assistant shows files related to what you're editing, such as the header, superclass, or a UI preview
+• The Version editor shows a live source code comparison through Git or Subversion history
+• Live Issues display errors as you type, and Fix-it can correct the mistakes for you
+
+Streamlined interface that is faster and easier to use
+• Design your interface side by side with the backing source code
+• Create connections from your GUI design directly to the related source code
+• Schemes let you customize exactly how your app will build, run, profile, and deploy
+• Quick Look variables while debugging to visualize colors, bezier paths, and images
+
+Professional editor keeps you focused on your code
+• Click the Jump Bar at the top of the editor to instantly go to another file
+• Hit a few keys and Open Quickly will open any file within your project
+• View message bubbles to see errors, warnings, and other issues right beside the code
+
+Embedded Apple LLVM technology finds and fixes bugs for you
+• Analyzer travels countless code paths looking for logical errors before they become bugs
+• Live Issues underlines coding mistakes as you type with no need to build first
+• Fix-it can confidently correct mistakes for you with just a keystroke
+
+Test driven development made simple
+• Use the Test Navigator to add, edit, or run tests with just a click
+• Test Assistant makes it easy to edit your code and related tests, side-by-side
+• Create continuous integration bots for OS X Server 3.0 to automatically build and test your apps.
+
+Instruments for visual performance analysis
+• Compare CPU, disk, memory, and OpenGL performance as graphical tracks over time
+• Identify performance bottlenecks, then dive deep into the code to uncover the cause
+• Monitor your app directly, or sample the entire system, with very little overhead
+
+To test or deploy applications on an iOS device you must be a member of Apple's iOS Developer Program. To submit your Mac or iOS apps to the App Store you must be a member of the Mac or iOS Developer Program. Continuous integration features require OS X Server 3.0 on Mavericks. Some features may require Internet access.</string>
+			<key>item-id</key>
+			<integer>497799835</integer>
+			<key>link-type</key>
+			<string>software-update</string>
+			<key>preflight</key>
+			<string>http://a1967.phobos.apple.com/us/r1000/021/Purple4/v4/33/8d/9a/338d9acd-e976-fa2a-cd41-d12123058b71/signed.dcr.4890243113364818627.pfpkg</string>
+			<key>rating</key>
+			<dict>
+				<key>advisory-array</key>
+				<array/>
+				<key>description</key>
+				<string></string>
+				<key>label</key>
+				<string>4+</string>
+				<key>rank</key>
+				<integer>100</integer>
+				<key>system</key>
+				<string>itunes-games</string>
+			</dict>
+			<key>release-date</key>
+			<date>2013-10-22T22:51:17Z</date>
+			<key>release-notes</key>
+			<string>Includes SDKs for OS X 10.9 Mavericks, OS X 10.8 Mountain Lion, and iOS 7.
+
+New features for OS X Mavericks:
+
+• Continuous integration bots build and test your iOS and OS X apps on OS X Server.
+• Source Control menu creates new remote Git repositories on Mac servers.
+• Debug Gauge for energy use displays a live graph of your app’s power consumption.</string>
+			<key>store-offers</key>
+			<dict>
+				<key>SWUPD</key>
+				<dict>
+					<key>action-display-name</key>
+					<string>Install</string>
+					<key>action-params</key>
+					<string>productType=C&amp;salableAdamId=497799835&amp;pricingParameters=SWUPD&amp;price=0&amp;appExtVrsId=84192765&amp;ct-id=14</string>
+					<key>asset-flavors</key>
+					<dict>
+						<key>flor</key>
+						<dict>
+							<key>size</key>
+							<integer>2089084413</integer>
+						</dict>
+					</dict>
+					<key>price</key>
+					<real>0.0</real>
+					<key>price-display</key>
+					<string>Free</string>
+					<key>size</key>
+					<integer>2089084413</integer>
+				</dict>
+			</dict>
+			<key>title</key>
+			<string>Xcode</string>
+			<key>type</key>
+			<string>link</string>
+			<key>url</key>
+			<string>https://itunes.apple.com/us/app/xcode/id497799835?mt=12</string>
+			<key>url-page-type</key>
+			<string>software-update</string>
+			<key>version</key>
+			<string>5.0.1</string>
+			<key>version-external-identifier</key>
+			<integer>84192765</integer>
+			<key>version-external-identifiers</key>
+			<array>
+				<integer>6076348</integer>
+				<integer>6879419</integer>
+				<integer>7171108</integer>
+				<integer>8553856</integer>
+				<integer>9584584</integer>
+				<integer>9950605</integer>
+				<integer>10747437</integer>
+				<integer>11278374</integer>
+				<integer>11823664</integer>
+				<integer>13668903</integer>
+				<integer>14581035</integer>
+				<integer>15055625</integer>
+				<integer>15588541</integer>
+				<integer>38302662</integer>
+				<integer>84192765</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>artist-name</key>
+			<string>Geoffrey Clements</string>
+			<key>artwork-urls</key>
+			<array>
+				<dict>
+					<key>box-height</key>
+					<integer>58</integer>
+					<key>box-width</key>
+					<integer>58</integer>
+					<key>url</key>
+					<string>http://a897.phobos.apple.com/us/r30/Purple6/v4/9b/57/94/9b579472-ca42-efeb-0fcc-b5a4a2d14040/Alice.58x58-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>100</integer>
+					<key>box-width</key>
+					<integer>100</integer>
+					<key>url</key>
+					<string>http://a607.phobos.apple.com/us/r30/Purple6/v4/9b/57/94/9b579472-ca42-efeb-0fcc-b5a4a2d14040/Alice.100x100-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>200</integer>
+					<key>box-width</key>
+					<integer>200</integer>
+					<key>scale</key>
+					<real>2</real>
+					<key>url</key>
+					<string>http://a477.phobos.apple.com/us/r30/Purple6/v4/9b/57/94/9b579472-ca42-efeb-0fcc-b5a4a2d14040/Alice.200x200-75.png</string>
+				</dict>
+			</array>
+			<key>bundle-id</key>
+			<string>com.baldmountain.AliceReader</string>
+			<key>current-version</key>
+			<string>2.1.2</string>
+			<key>description</key>
+			<string>Alice is a pleasant to use eBook reader that supports both PDF and ePub books. (Non Digital Right Managed DRM.) Alice uses Spotlight to locate files in your home directory that it can open so there is no need import eBooks into Alice. Alice was developed to make reading eBooks enjoyable.</string>
+			<key>item-id</key>
+			<integer>455584158</integer>
+			<key>link-type</key>
+			<string>software-update</string>
+			<key>preflight</key>
+			<string>http://a457.phobos.apple.com/us/r1000/042/Purple/v4/63/b3/06/63b3060b-4c9a-882a-b558-880e5365412a/signed.dcr.9151017174178994441.pfpkg</string>
+			<key>rating</key>
+			<dict>
+				<key>advisory-array</key>
+				<array/>
+				<key>description</key>
+				<string></string>
+				<key>label</key>
+				<string>4+</string>
+				<key>rank</key>
+				<integer>100</integer>
+				<key>system</key>
+				<string>itunes-games</string>
+			</dict>
+			<key>release-date</key>
+			<date>2013-10-09T17:38:48Z</date>
+			<key>release-notes</key>
+			<string>Minor fix to handle the case of a zero length file in an ePub with a non-zero compressed length.</string>
+			<key>store-offers</key>
+			<dict>
+				<key>SWUPD</key>
+				<dict>
+					<key>action-display-name</key>
+					<string>Install</string>
+					<key>action-params</key>
+					<string>productType=C&amp;salableAdamId=455584158&amp;pricingParameters=SWUPD&amp;price=0&amp;appExtVrsId=81112636&amp;ct-id=14</string>
+					<key>asset-flavors</key>
+					<dict>
+						<key>flor</key>
+						<dict>
+							<key>size</key>
+							<integer>4392566</integer>
+						</dict>
+					</dict>
+					<key>price</key>
+					<real>0.0</real>
+					<key>price-display</key>
+					<string>Free</string>
+					<key>size</key>
+					<integer>4392566</integer>
+				</dict>
+			</dict>
+			<key>title</key>
+			<string>Alice</string>
+			<key>type</key>
+			<string>link</string>
+			<key>url</key>
+			<string>https://itunes.apple.com/us/app/alice/id455584158?mt=12</string>
+			<key>url-page-type</key>
+			<string>software-update</string>
+			<key>version</key>
+			<string>2.1.2</string>
+			<key>version-external-identifier</key>
+			<integer>81112636</integer>
+			<key>version-external-identifiers</key>
+			<array>
+				<integer>4020599</integer>
+				<integer>4098466</integer>
+				<integer>4166209</integer>
+				<integer>4945567</integer>
+				<integer>5055199</integer>
+				<integer>5673764</integer>
+				<integer>5725619</integer>
+				<integer>5932772</integer>
+				<integer>6080762</integer>
+				<integer>6762036</integer>
+				<integer>7662041</integer>
+				<integer>8409101</integer>
+				<integer>13291242</integer>
+				<integer>13888956</integer>
+				<integer>15788857</integer>
+				<integer>81112636</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>artist-name</key>
+			<string>Apple</string>
+			<key>artwork-urls</key>
+			<array>
+				<dict>
+					<key>box-height</key>
+					<integer>58</integer>
+					<key>box-width</key>
+					<integer>58</integer>
+					<key>url</key>
+					<string>http://a1243.phobos.apple.com/us/r30/Purple6/v4/c2/96/5a/c2965a55-213e-0398-0b9e-719051fdfb7a/AppleConfigurator.58x58-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>100</integer>
+					<key>box-width</key>
+					<integer>100</integer>
+					<key>url</key>
+					<string>http://a1625.phobos.apple.com/us/r30/Purple6/v4/c2/96/5a/c2965a55-213e-0398-0b9e-719051fdfb7a/AppleConfigurator.100x100-75.png</string>
+				</dict>
+				<dict>
+					<key>box-height</key>
+					<integer>200</integer>
+					<key>box-width</key>
+					<integer>200</integer>
+					<key>scale</key>
+					<real>2</real>
+					<key>url</key>
+					<string>http://a1495.phobos.apple.com/us/r30/Purple6/v4/c2/96/5a/c2965a55-213e-0398-0b9e-719051fdfb7a/AppleConfigurator.200x200-75.png</string>
+				</dict>
+			</array>
+			<key>bundle-id</key>
+			<string>com.apple.configurator</string>
+			<key>current-version</key>
+			<string>1.4.1</string>
+			<key>description</key>
+			<string>Apple Configurator makes it easy for anyone to mass configure and deploy iPhone, iPad, and iPod touch in a school, business, or institution.
+
+Three simple workflows let you prepare new iOS devices for immediate distribution, supervise devices that need to maintain a standard configuration, and assign devices to users. Quickly update your devices simultaneously to the latest version of iOS, configure settings, and install apps and data for your students, employees, or patrons.
+
+Apple Configurator can be used by larger organizations and businesses to set up new devices, install enterprise apps, and enroll each device with a Mobile Device Management solution for remote management by an IT administrator.  It is perfect for the classroom or student lab where devices need to be quickly refreshed and kept up to date with the correct settings, approved policies, apps and data. Apple Configurator can also be used to personalize devices with data and documents for specific users.
+
+Prepare devices
+• Configure multiple devices simultaneously
+• Update devices to the latest version of iOS
+• Create and restore a backup of settings and app data from one device to other devices
+• Import apps into Apple Configurator and sync them to new devices*
+• Use the built-in editor to create and install iOS configuration profiles
+• Enroll devices with your Mobile Device Management solution for remote management
+
+Supervise devices
+• Organize supervised devices into custom groups
+• Automatically apply common configurations to supervised devices
+• Quickly reapply a configuration to a supervised device and remove the previous user’s data
+• Import apps into Apple Configurator and sync them to supervised devices*
+• Define and apply common or sequential names to all devices
+• Restrict supervised devices from syncing with other computers
+
+Assign devices
+• Add users and groups manually or autopopulate via Open Directory or Active Directory
+• Check out a device to a user and restore the user’s settings and data on that device
+• Check in a device from a user and and back up the data for later use, possibly on a different device
+• Apply custom text, wallpaper, or the user’s picture to a device’s Lock screen
+• Import and export documents between your Mac and Apple Configurator
+• Sync documents between assigned devices and Apple Configurator
+
+*Installing paid apps from the App Store requires redemption codes from the Volume Purchase Program for Education or Business. The Volume Purchase Program is not available in all regions.</string>
+			<key>item-id</key>
+			<integer>434433123</integer>
+			<key>link-type</key>
+			<string>software-update</string>
+			<key>preflight</key>
+			<string>http://a1779.phobos.apple.com/us/r1000/051/Purple4/v4/3f/a1/69/3fa1695b-4ca8-a345-ead9-dc36387573be/signed.dcr.1469014466057641994.pfpkg</string>
+			<key>rating</key>
+			<dict>
+				<key>advisory-array</key>
+				<array/>
+				<key>description</key>
+				<string></string>
+				<key>label</key>
+				<string>4+</string>
+				<key>rank</key>
+				<integer>100</integer>
+				<key>system</key>
+				<string>itunes-games</string>
+			</dict>
+			<key>release-date</key>
+			<date>2013-10-22T22:50:18Z</date>
+			<key>release-notes</key>
+			<string>Apple Configurator 1.4.1 contains improvements and bug fixes including:
+
+• Configure which Setup Assistant steps will display during device setup
+
+It also includes the following changes from Apple Configurator 1.4:
+
+• Enroll multiple unsupervised devices in MDM without tapping each device using a new Setup tab in Prepare
+• Complete Setup Assistant and enroll Apple TV in MDM without using the remote
+• Improved UI for installing a single profile on unsupervised devices
+• Support for new iOS 7 features and restrictions, including:
+• Allow modifying account settings
+• Allow AirDrop
+• Allow connecting supervised devices to any Mac
+• Configure Web Content Filter
+• Configure AirPlay mirroring destinations and passwords
+• Configure AirPrint printers
+• Configure Managed Open In
+• Allow Control Center or Notification Center on lock screen
+• Configure Limit Ad Tracking setting
+• Install fonts</string>
+			<key>store-offers</key>
+			<dict>
+				<key>SWUPD</key>
+				<dict>
+					<key>action-display-name</key>
+					<string>Install</string>
+					<key>action-params</key>
+					<string>productType=C&amp;salableAdamId=434433123&amp;pricingParameters=SWUPD&amp;price=0&amp;appExtVrsId=84432651&amp;ct-id=14</string>
+					<key>asset-flavors</key>
+					<dict>
+						<key>flor</key>
+						<dict>
+							<key>size</key>
+							<integer>24067565</integer>
+						</dict>
+					</dict>
+					<key>price</key>
+					<real>0.0</real>
+					<key>price-display</key>
+					<string>Free</string>
+					<key>size</key>
+					<integer>24067565</integer>
+				</dict>
+			</dict>
+			<key>title</key>
+			<string>Apple Configurator</string>
+			<key>type</key>
+			<string>link</string>
+			<key>url</key>
+			<string>https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12</string>
+			<key>url-page-type</key>
+			<string>software-update</string>
+			<key>version</key>
+			<string>1.4.1</string>
+			<key>version-external-identifier</key>
+			<integer>84432651</integer>
+			<key>version-external-identifiers</key>
+			<array>
+				<integer>3670623</integer>
+				<integer>7563884</integer>
+				<integer>9029976</integer>
+				<integer>9885454</integer>
+				<integer>10310503</integer>
+				<integer>11251277</integer>
+				<integer>11722061</integer>
+				<integer>15579538</integer>
+				<integer>15931036</integer>
+				<integer>44012648</integer>
+				<integer>84432651</integer>
+			</array>
+		</dict>
+	</array>
+	<key>genres.WebKit2AcceleratedDrawingEnabled</key>
+	<true/>
+	<key>genres.WebKit2DeveloperExtrasEnabled</key>
+	<true/>
+	<key>genres.WebKit2SuppressesIncrementalRendering</key>
+	<true/>
+	<key>primary.WebKit2AcceleratedDrawingEnabled</key>
+	<true/>
+	<key>primary.WebKit2DeveloperExtrasEnabled</key>
+	<true/>
+	<key>primary.WebKit2SuppressesIncrementalRendering</key>
+	<true/>
+	<key>purchased.WebKit2AcceleratedDrawingEnabled</key>
+	<true/>
+	<key>purchased.WebKit2DeveloperExtrasEnabled</key>
+	<true/>
+	<key>purchased.WebKit2SuppressesIncrementalRendering</key>
+	<true/>
+	<key>top-charts.WebKit2AcceleratedDrawingEnabled</key>
+	<true/>
+	<key>top-charts.WebKit2DeveloperExtrasEnabled</key>
+	<true/>
+	<key>top-charts.WebKit2SuppressesIncrementalRendering</key>
+	<true/>
+	<key>updates.WebKit2AcceleratedDrawingEnabled</key>
+	<true/>
+	<key>updates.WebKit2DeveloperExtrasEnabled</key>
+	<true/>
+	<key>updates.WebKit2SuppressesIncrementalRendering</key>
+	<true/>
+</dict>
+</plist>

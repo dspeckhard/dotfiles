@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accounts</key>
+	<dict>
+		<key>04DD30A1-1D11-4CE3-B7D7-26149CC00361</key>
+		<dict>
+			<key>Validation Expiration</key>
+			<date>2014-04-21T06:15:41Z</date>
+		</dict>
+	</dict>
+	<key>Country Code</key>
+	<string>US</string>
+</dict>
+</plist>

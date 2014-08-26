@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSToolbar Configuration 9D61FCED-A6DE-4A1D-AE2F-B2E9C186B47A</key>
+	<dict>
+		<key>TB Default Item Identifiers</key>
+		<array>
+			<string>36EED6E1-E1D5-4B68-8502-3334D4D4D8DB</string>
+			<string>3E384F08-E4C2-485C-B635-878B7C3CE6F3</string>
+		</array>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>36EED6E1-E1D5-4B68-8502-3334D4D4D8DB</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame Epson Printer Utility 4</key>
+	<string>1135 446 502 378 0 0 1680 1028 </string>
+	<key>hidePrinterSelectDrawer</key>
+	<false/>
+</dict>
+</plist>

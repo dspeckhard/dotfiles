@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/stanza/container/swt/</key>
+	<dict>
+		<key>bookmarks/</key>
+		<dict/>
+		<key>layout</key>
+		<string>2 Columns</string>
+		<key>positions/</key>
+		<dict>
+			<key>293297ba295aac6c09a531feb68c2d8a19afdf59</key>
+			<string>1.0</string>
+			<key>a1b2645a5421ea94152f4f8193b5533e93a3b39e</key>
+			<string>0.0490802</string>
+			<key>a6447bb5c157fefdad2eb90ba027a6f4613cf3c1</key>
+			<string>0.010929051</string>
+			<key>f9613eda025a62d5ee296fa7c4ae60a5812c00ac</key>
+			<string>0.7059318</string>
+		</dict>
+		<key>recent/</key>
+		<dict>
+			<key>1287813319732</key>
+			<string>file:/Users/dspeckhard/Downloads/piperh2072820728-8epub.epub</string>
+			<key>1315076219169</key>
+			<string>file:/Users/dspeckhard/Calibre Library/H. Beam Piper/Space Viking (2)/Space Viking - H. Beam Piper.epub</string>
+			<key>1322122197632</key>
+			<string>file:/Users/dspeckhard/Downloads/Lyman Frank Baum - The Wonderful Wizard of Oz - The Oz Books n1.epub</string>
+			<key>1322123092321</key>
+			<string>file:/Users/dspeckhard/Downloads/Nikki Palmer - Kerri Gets Caught.epub</string>
+			<key>1322123403982</key>
+			<string>file:/Users/dspeckhard/Downloads/5.epub</string>
+			<key>1322123425764</key>
+			<string>file:/Users/dspeckhard/Downloads/6.epub</string>
+			<key>1323326859748</key>
+			<string>file:/Users/dspeckhard/Downloads/pg29559-images.epub</string>
+			<key>1343775040599</key>
+			<string>file:/Users/dspeckhard/Music/iTunes/iTunes Media/Books/Julian Clayton/PunchList User Manual.ibooks</string>
+		</dict>
+		<key>theme</key>
+		<string>Default</string>
+	</dict>
+</dict>
+</plist>
